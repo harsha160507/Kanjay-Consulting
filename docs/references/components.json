@@ -1,0 +1,165 @@
+[
+  {
+    "folder": "animated content",
+    "files": [
+      "code.ts"
+    ],
+    "imports": [
+      "react",
+      "gsap",
+      "gsap/ScrollTrigger"
+    ],
+    "reuseStatus": "pending source/licence/accessibility review"
+  },
+  {
+    "folder": "blur text",
+    "files": [
+      "code.ts"
+    ],
+    "imports": [
+      "motion/react",
+      "react"
+    ],
+    "reuseStatus": "pending source/licence/accessibility review"
+  },
+  {
+    "folder": "count up",
+    "files": [
+      "code.ts"
+    ],
+    "imports": [
+      "motion/react",
+      "react"
+    ],
+    "reuseStatus": "pending source/licence/accessibility review"
+  },
+  {
+    "folder": "fade content",
+    "files": [
+      "code.ts"
+    ],
+    "imports": [
+      "react",
+      "gsap",
+      "gsap/ScrollTrigger"
+    ],
+    "reuseStatus": "pending source/licence/accessibility review"
+  },
+  {
+    "folder": "gradient text",
+    "files": [
+      ".gradient-text {.css",
+      "code.txt"
+    ],
+    "imports": [
+      "react",
+      "react"
+    ],
+    "reuseStatus": "pending source/licence/accessibility review"
+  },
+  {
+    "folder": "know more about us button",
+    "files": [
+      "button.css"
+    ],
+    "imports": [],
+    "reuseStatus": "pending source/licence/accessibility review"
+  },
+  {
+    "folder": "light-dark toggle",
+    "files": [
+      "light-dark.css"
+    ],
+    "imports": [],
+    "reuseStatus": "pending source/licence/accessibility review"
+  },
+  {
+    "folder": "logo loop",
+    "files": [
+      ".logoloop {.css",
+      "code.ts"
+    ],
+    "imports": [
+      "react"
+    ],
+    "reuseStatus": "pending source/licence/accessibility review"
+  },
+  {
+    "folder": "magnet",
+    "files": [
+      "code.ts"
+    ],
+    "imports": [
+      "react"
+    ],
+    "reuseStatus": "pending source/licence/accessibility review"
+  },
+  {
+    "folder": "Pill-Nav",
+    "files": [
+      ".pill-nav {.css",
+      "code.ts"
+    ],
+    "imports": [
+      "react"
+    ],
+    "reuseStatus": "pending source/licence/accessibility review"
+  },
+  {
+    "folder": "scroll reveal",
+    "files": [
+      ".scroll-reveal {.css",
+      "code.txt"
+    ],
+    "imports": [
+      "react",
+      "gsap",
+      "gsap/ScrollTrigger"
+    ],
+    "reuseStatus": "pending source/licence/accessibility review"
+  },
+  {
+    "folder": "shiny text",
+    "files": [
+      ".shiny-text {.css",
+      "code.ts"
+    ],
+    "imports": [
+      "react",
+      "react"
+    ],
+    "reuseStatus": "pending source/licence/accessibility review"
+  },
+  {
+    "folder": "social button",
+    "files": [
+      "social button.css"
+    ],
+    "imports": [],
+    "reuseStatus": "pending source/licence/accessibility review"
+  },
+  {
+    "folder": "spotlight card",
+    "files": [
+      ".spotlight-card {.css",
+      "code.ts"
+    ],
+    "imports": [
+      "react"
+    ],
+    "reuseStatus": "pending source/licence/accessibility review"
+  },
+  {
+    "folder": "stepper",
+    "files": [
+      ".stepper {.css",
+      "code.ts"
+    ],
+    "imports": [
+      "react",
+      "@hugeicons/react",
+      "@hugeicons/core-free-icons"
+    ],
+    "reuseStatus": "pending source/licence/accessibility review"
+  }
+]

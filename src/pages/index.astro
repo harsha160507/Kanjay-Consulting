@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { pages } from '../data/site';
+---
+<BaseLayout title="Project foundation">
+  <h1>Kanjay website redesign</h1>
+  <p>The Astro foundation is ready for the next design phase. These are development routes, awaiting approved content.</p>
+  <nav aria-label="Development page index">
+    <ul>{pages.map(page => <li><a href={`/${page.slug}/`}>{page.title}</a></li>)}</ul>
+  </nav>
+</BaseLayout>

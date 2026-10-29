@@ -1,0 +1,567 @@
+[
+  {
+    "name": "AAVIZA",
+    "original": "AAVIZA.png",
+    "original_size": [
+      800,
+      199
+    ],
+    "artwork_size": [
+      773,
+      163
+    ],
+    "web_size": [
+      576,
+      134
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 26156,
+    "webp_bytes": 17388
+  },
+  {
+    "name": "BALMER",
+    "original": "BALMER.png",
+    "original_size": [
+      250,
+      250
+    ],
+    "artwork_size": [
+      231,
+      30
+    ],
+    "web_size": [
+      247,
+      46
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 10576,
+    "webp_bytes": 8180
+  },
+  {
+    "name": "BENCO",
+    "original": "BENCO.png",
+    "original_size": [
+      360,
+      360
+    ],
+    "artwork_size": [
+      360,
+      114
+    ],
+    "web_size": [
+      376,
+      130
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 37888,
+    "webp_bytes": 27468
+  },
+  {
+    "name": "CASOL",
+    "original": "CASOL.png",
+    "original_size": [
+      282,
+      225
+    ],
+    "artwork_size": [
+      174,
+      210
+    ],
+    "web_size": [
+      182,
+      216
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 32875,
+    "webp_bytes": 28088
+  },
+  {
+    "name": "DEFORAY",
+    "original": "DEFORAY.png",
+    "original_size": [
+      316,
+      220
+    ],
+    "artwork_size": [
+      247,
+      198
+    ],
+    "web_size": [
+      263,
+      214
+    ],
+    "background": "cream",
+    "notes": [
+      "Removed white residue inside letter counters",
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 25656,
+    "webp_bytes": 19464
+  },
+  {
+    "name": "EATON",
+    "original": "EATON.png",
+    "original_size": [
+      466,
+      168
+    ],
+    "artwork_size": [
+      408,
+      111
+    ],
+    "web_size": [
+      424,
+      127
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 25311,
+    "webp_bytes": 18762
+  },
+  {
+    "name": "GOLDEN WORKS",
+    "original": "GOLDEN WORKS.png",
+    "original_size": [
+      166,
+      143
+    ],
+    "artwork_size": [
+      109,
+      112
+    ],
+    "web_size": [
+      125,
+      128
+    ],
+    "background": "cream",
+    "notes": [],
+    "png_bytes": 19791,
+    "webp_bytes": 15172
+  },
+  {
+    "name": "HADRON",
+    "original": "HADRON.png",
+    "original_size": [
+      200,
+      200
+    ],
+    "artwork_size": [
+      153,
+      141
+    ],
+    "web_size": [
+      169,
+      157
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 22866,
+    "webp_bytes": 18416
+  },
+  {
+    "name": "KAAVIAN",
+    "original": "KAAVIAN.png",
+    "original_size": [
+      225,
+      225
+    ],
+    "artwork_size": [
+      225,
+      28
+    ],
+    "web_size": [
+      241,
+      44
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 12610,
+    "webp_bytes": 10954
+  },
+  {
+    "name": "L&T",
+    "original": "L&T.png",
+    "original_size": [
+      1280,
+      1280
+    ],
+    "artwork_size": [
+      1279,
+      1280
+    ],
+    "web_size": [
+      216,
+      216
+    ],
+    "background": "cream",
+    "notes": [],
+    "png_bytes": 17733,
+    "webp_bytes": 11948
+  },
+  {
+    "name": "LIMPAR",
+    "original": "LIMPAR.png",
+    "original_size": [
+      425,
+      162
+    ],
+    "artwork_size": [
+      343,
+      131
+    ],
+    "web_size": [
+      359,
+      147
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 32699,
+    "webp_bytes": 26020
+  },
+  {
+    "name": "MADHAVA",
+    "original": "MADHAVA.png",
+    "original_size": [
+      491,
+      232
+    ],
+    "artwork_size": [
+      435,
+      99
+    ],
+    "web_size": [
+      451,
+      115
+    ],
+    "background": "cream",
+    "notes": [
+      "Removed isolated top-right fragment",
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 54621,
+    "webp_bytes": 44126
+  },
+  {
+    "name": "SABARI MUSIC",
+    "original": "SABARI MUSIC.png",
+    "original_size": [
+      411,
+      280
+    ],
+    "artwork_size": [
+      319,
+      217
+    ],
+    "web_size": [
+      310,
+      216
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 51583,
+    "webp_bytes": 35542
+  },
+  {
+    "name": "SAFE TECH WORKS",
+    "original": "SAFE TECH WORKS.png",
+    "original_size": [
+      377,
+      402
+    ],
+    "artwork_size": [
+      338,
+      362
+    ],
+    "web_size": [
+      203,
+      216
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 34828,
+    "webp_bytes": 28358
+  },
+  {
+    "name": "UNIDENTIFIED-BLACK-GOLD-MARK",
+    "original": "Screenshot 2026-10-19 131635.png",
+    "original_size": [
+      325,
+      262
+    ],
+    "artwork_size": [
+      231,
+      239
+    ],
+    "web_size": [
+      209,
+      216
+    ],
+    "background": "cream",
+    "notes": [],
+    "png_bytes": 24525,
+    "webp_bytes": 16188
+  },
+  {
+    "name": "SHOPUP",
+    "original": "SHOPUP.png",
+    "original_size": [
+      512,
+      256
+    ],
+    "artwork_size": [
+      473,
+      141
+    ],
+    "web_size": [
+      489,
+      157
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 45200,
+    "webp_bytes": 34668
+  },
+  {
+    "name": "SHREE RAGHAVENDRA",
+    "original": "SHREE RAGHAVENDRA.png",
+    "original_size": [
+      360,
+      360
+    ],
+    "artwork_size": [
+      338,
+      360
+    ],
+    "web_size": [
+      204,
+      216
+    ],
+    "background": "cream",
+    "notes": [],
+    "png_bytes": 53298,
+    "webp_bytes": 38280
+  },
+  {
+    "name": "SILQ",
+    "original": "SILQ.png",
+    "original_size": [
+      1050,
+      698
+    ],
+    "artwork_size": [
+      396,
+      132
+    ],
+    "web_size": [
+      412,
+      148
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 20858,
+    "webp_bytes": 12122
+  },
+  {
+    "name": "SRM",
+    "original": "SRM.png",
+    "original_size": [
+      470,
+      653
+    ],
+    "artwork_size": [
+      346,
+      352
+    ],
+    "web_size": [
+      213,
+      216
+    ],
+    "background": "cream",
+    "notes": [],
+    "png_bytes": 84124,
+    "webp_bytes": 61404
+  },
+  {
+    "name": "TECHNO PRODUCTS",
+    "original": "TECHNO PRODUCTS.png",
+    "original_size": [
+      297,
+      213
+    ],
+    "artwork_size": [
+      199,
+      197
+    ],
+    "web_size": [
+      215,
+      213
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 14120,
+    "webp_bytes": 11374
+  },
+  {
+    "name": "THINAI",
+    "original": "THINAI.png",
+    "original_size": [
+      703,
+      280
+    ],
+    "artwork_size": [
+      630,
+      235
+    ],
+    "web_size": [
+      552,
+      216
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 114234,
+    "webp_bytes": 87366
+  },
+  {
+    "name": "TTJ",
+    "original": "TTJ.png",
+    "original_size": [
+      297,
+      166
+    ],
+    "artwork_size": [
+      220,
+      110
+    ],
+    "web_size": [
+      236,
+      126
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 25723,
+    "webp_bytes": 19344
+  },
+  {
+    "name": "VITAMED",
+    "original": "VITAMED.png",
+    "original_size": [
+      766,
+      400
+    ],
+    "artwork_size": [
+      510,
+      109
+    ],
+    "web_size": [
+      526,
+      125
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 45630,
+    "webp_bytes": 35050
+  },
+  {
+    "name": "WELONA",
+    "original": "WELONA.png",
+    "original_size": [
+      598,
+      132
+    ],
+    "artwork_size": [
+      523,
+      124
+    ],
+    "web_size": [
+      539,
+      140
+    ],
+    "background": "cream",
+    "notes": [
+      "Removed checkerboard in letter counters and stray left fragment",
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 29746,
+    "webp_bytes": 19228
+  },
+  {
+    "name": "WOYC",
+    "original": "WOYC.png",
+    "original_size": [
+      391,
+      129
+    ],
+    "artwork_size": [
+      360,
+      110
+    ],
+    "web_size": [
+      376,
+      126
+    ],
+    "background": "dark",
+    "notes": [
+      "Removed black matte around white lettering; preserved OD in diamond"
+    ],
+    "png_bytes": 13854,
+    "webp_bytes": 7274
+  },
+  {
+    "name": "ZUPPA",
+    "original": "ZUPPA.png",
+    "original_size": [
+      350,
+      307
+    ],
+    "artwork_size": [
+      317,
+      154
+    ],
+    "web_size": [
+      333,
+      170
+    ],
+    "background": "cream",
+    "notes": [
+      "Reduced pale fringe at transparent edges"
+    ],
+    "png_bytes": 50355,
+    "webp_bytes": 40148
+  }
+]
