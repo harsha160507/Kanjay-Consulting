@@ -1,0 +1,14 @@
+/* Foundation only. Final typography, themes and components belong to Phase 2. */
+:root { color-scheme: light; font-family: system-ui, sans-serif; color: #25364a; background: #faf8f3; }
+* { box-sizing: border-box; }
+body { margin: 0; line-height: 1.6; overflow-wrap: anywhere; }
+header, main, footer { width: min(100% - 2rem, 68rem); margin-inline: auto; }
+header, footer { padding-block: 1.5rem; }
+main { padding-block: 2rem 4rem; }
+h1 { font-size: clamp(1.8rem, 5vw, 3rem); line-height: 1.2; }
+a { color: #126b7d; text-underline-offset: .2em; }
+nav ul { padding-left: 1.3rem; }
+nav a { display: inline-block; padding-block: .6rem; }
+:focus-visible { outline: 3px solid #126b7d; outline-offset: 4px; }
+.skip-link { position: absolute; top: .5rem; left: 1rem; transform: translateY(-200%); background: #faf8f3; padding: .7rem; }
+.skip-link:focus { transform: translateY(0); }

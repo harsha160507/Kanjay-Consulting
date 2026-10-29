@@ -1,31 +1,26 @@
 # Kanjay Consulting
 
-Project structure only. Website implementation has not started.
+Phase 1 Astro foundation. Development only; no site has been published.
 
-| Folder | Purpose |
-| --- | --- |
-| `src/pages/` | Future pages |
-| `src/layouts/` | Shared page layouts |
-| `src/components/layout/` | Header, footer, and navigation |
-| `src/components/sections/` | Page sections |
-| `src/components/ui/` | Shared interface elements |
-| `src/components/react-bits/` | Animation component placeholders |
-| `src/components/uiverse/` | UI component placeholders |
-| `src/styles/` | Styles |
-| `src/lib/` | Utilities |
-| `src/data/` | Structured data |
-| `src/types/` | Shared types |
-| `content/services/` | Service content |
-| `content/policies/` | Policy content |
-| `public/images/brand/` | Brand images |
-| `public/images/clients/` | Client images |
-| `public/images/general/` | General images |
-| `public/icons/` | Icons |
-| `public/fonts/` | Fonts |
-| `docs/blueprint/` | Planning documents |
-| `docs/references/` | Reference material |
-| `tests/` | Future tests |
+Start with [Phase 1 review and owner decisions](docs/PHASE-1.md), [validation](docs/VALIDATION.md) and the preserved [blueprint](docs/blueprint/kanjay-redesign-blueprint-2.md).
 
-Empty folders use `.gitkeep` placeholders so Git can track them.
+## Local use
 
-No application code, dependencies, build configuration, or deployment has been added. There are no run or build commands at this stage.
+Requires Node >=22.23.4 and npm >=9.6.5.
+
+```sh
+npm ci
+npm run dev
+npm run check
+npm run build
+npm run verify
+npm run preview
+```
+
+The dev and preview servers bind to the local computer. Build output is `dist/`. Astro generates static HTML; React is available for later progressive-enhancement islands. No server adapter is needed for the planned static release.
+
+The nine page routes plus 404 are explicitly development shells. `src/data/site.ts` deliberately contains no approved contact details, client list or service copy. The intended existing folder structure is retained for later components/content/assets. References and approval registers live under `docs/`; nothing there is automatically shipped in the site.
+
+The supplied Next.js archive is a reference, not the application framework. Raw source screenshots, component snippets and unapproved client assets remain in the sibling local `phase1-reference/` working copy. Never edit synced `sources/`.
+
+No deployment automation or hosting connection is configured. Keep indexing protection until launch is approved; `noindex` is not privacy protection. The planned Netlify build command is `npm run build`, publish directory `dist`; configure it only during the authorised hosting phase. Do not enable Netlify Forms.

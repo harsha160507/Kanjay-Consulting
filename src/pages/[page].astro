@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { pages } from '../data/site';
+export function getStaticPaths() {
+  return pages.map(page => ({ params: { page: page.slug }, props: { title: page.title } }));
+}
+const { title } = Astro.props;
+---
+<BaseLayout title={title}>
+  <h1>{title}</h1>
+  <p>Development route reserved. Content requires business approval before publication.</p>
+  <a href="/">Return to the development index</a>
+</BaseLayout>

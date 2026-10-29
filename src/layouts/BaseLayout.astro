@@ -1,0 +1,22 @@
+---
+import '../styles/global.css';
+import { business } from '../data/site';
+interface Props { title: string }
+const { title } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>{title} | {business.projectName} development</title>
+    <meta name="description" content="Unpublished development foundation for the Kanjay Consulting redesign." />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header><a href="/">{business.projectName}</a><p>Phase 1 · Development only</p></header>
+    <main id="main" tabindex="-1"><slot /></main>
+    <footer><p>Unpublished foundation. Business copy, assets and policies await approval.</p></footer>
+  </body>
+</html>
