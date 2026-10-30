@@ -1,0 +1,514 @@
+{
+  "appCommit": "7abfa4b4dcc91f68589e455b44a66a693e269925",
+  "date": "2026-10-31",
+  "runs": [
+    {
+      "run": "enhanced-mobile",
+      "sha256": "7a057f9d41f4d995320fec659ebb97c99f008150fb2b5a4c4ddf39eff3d97e09",
+      "lighthouseVersion": "13.6.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1137,
+        "credits": {
+          "axe-core": "4.14.0"
+        }
+      },
+      "fetchTime": "2026-10-30T19:00:59.785Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 94.0,
+      "automatedAccessibility": 100,
+      "lcpMs": 986.503,
+      "fcpMs": 986.503,
+      "tbtMs": 284.5000000000001,
+      "cls": 0.04794671995956935,
+      "externalJsTransferBytes": 125825,
+      "externalJsDecodedBytes": 386092,
+      "scripts": [
+        {
+          "url": "http://127.0.0.1:4337/_astro/PrototypeNav.BV2LTG-m.js",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1233.6200000047684,
+          "networkRequestTime": 1235.416000008583,
+          "networkEndTime": 1266.8830000162125,
+          "finished": true,
+          "transferSize": 5974,
+          "resourceSize": 16359,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "High",
+          "experimentalFromMainFrame": true,
+          "entity": "127.0.0.1"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/client.OzTcoKK0.js",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1234.3600000143051,
+          "networkRequestTime": 1242.4670000076294,
+          "networkEndTime": 1315.1299999952316,
+          "finished": true,
+          "transferSize": 66046,
+          "resourceSize": 212853,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "High",
+          "experimentalFromMainFrame": true,
+          "entity": "127.0.0.1"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/PrototypeHero.BChWDfSx.js",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1237.1790000200272,
+          "networkRequestTime": 1247.093000024557,
+          "networkEndTime": 1295.0550000369549,
+          "finished": true,
+          "transferSize": 49613,
+          "resourceSize": 147567,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "High",
+          "experimentalFromMainFrame": true,
+          "entity": "127.0.0.1"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/react.DvXU6kJ2.js",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1279.9370000064373,
+          "networkRequestTime": 1280.9040000140667,
+          "networkEndTime": 1325.0290000140667,
+          "finished": true,
+          "transferSize": 3456,
+          "resourceSize": 8412,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "High",
+          "experimentalFromMainFrame": true,
+          "entity": "127.0.0.1"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/useReduced.4PgSNyNv.js",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1280.285000026226,
+          "networkRequestTime": 1282.4970000088215,
+          "networkEndTime": 1331.8840000033379,
+          "finished": true,
+          "transferSize": 736,
+          "resourceSize": 901,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "High",
+          "experimentalFromMainFrame": true,
+          "entity": "127.0.0.1"
+        }
+      ],
+      "runtimeError": null
+    },
+    {
+      "run": "static-mobile",
+      "sha256": "06f17c0038523f60b44f5ab4c414781f33141389c9a9e012eaeac1a5f411446a",
+      "lighthouseVersion": "13.6.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Mobile Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "benchmarkIndex": 870.5,
+        "credits": {
+          "axe-core": "4.14.0"
+        }
+      },
+      "fetchTime": "2026-10-30T19:01:20.077Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 97.0,
+      "automatedAccessibility": 100,
+      "lcpMs": 1160.1849499999998,
+      "fcpMs": 1160.1849499999998,
+      "tbtMs": 175.5,
+      "cls": 0.03817123917222141,
+      "externalJsTransferBytes": 0,
+      "externalJsDecodedBytes": 0,
+      "scripts": [],
+      "runtimeError": null
+    },
+    {
+      "run": "enhanced-desktop",
+      "sha256": "72f52b4d00130dcddb648aedd364a35d1de7ac9153a8f08e6a50c5f5861480bc",
+      "lighthouseVersion": "13.6.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "benchmarkIndex": 1175.5,
+        "credits": {
+          "axe-core": "4.14.0"
+        }
+      },
+      "fetchTime": "2026-10-30T19:01:38.827Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 402.78409999999997,
+      "fcpMs": 255.18939999999998,
+      "tbtMs": 0,
+      "cls": 0.05154632512834334,
+      "externalJsTransferBytes": 125825,
+      "externalJsDecodedBytes": 386092,
+      "scripts": [
+        {
+          "url": "http://127.0.0.1:4337/_astro/PrototypeNav.BV2LTG-m.js",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 270.41400000452995,
+          "networkRequestTime": 271.2529999911785,
+          "networkEndTime": 280.1739999949932,
+          "finished": true,
+          "transferSize": 5974,
+          "resourceSize": 16359,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "High",
+          "experimentalFromMainFrame": true,
+          "entity": "127.0.0.1"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/client.OzTcoKK0.js",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 270.98099997639656,
+          "networkRequestTime": 273.3349999785423,
+          "networkEndTime": 294.20899999141693,
+          "finished": true,
+          "transferSize": 66046,
+          "resourceSize": 212853,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "High",
+          "experimentalFromMainFrame": true,
+          "entity": "127.0.0.1"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/PrototypeHero.BChWDfSx.js",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 272.1319999694824,
+          "networkRequestTime": 273.7209999859333,
+          "networkEndTime": 304.7809999883175,
+          "finished": true,
+          "transferSize": 49613,
+          "resourceSize": 147567,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "High",
+          "experimentalFromMainFrame": true,
+          "entity": "127.0.0.1"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/react.DvXU6kJ2.js",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 283.9569999873638,
+          "networkRequestTime": 284.57099997997284,
+          "networkEndTime": 307.53799998760223,
+          "finished": true,
+          "transferSize": 3456,
+          "resourceSize": 8412,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "High",
+          "experimentalFromMainFrame": true,
+          "entity": "127.0.0.1"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/useReduced.4PgSNyNv.js",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 284.16699996590614,
+          "networkRequestTime": 284.9439999759197,
+          "networkEndTime": 311.0689999759197,
+          "finished": true,
+          "transferSize": 736,
+          "resourceSize": 901,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "High",
+          "experimentalFromMainFrame": true,
+          "entity": "127.0.0.1"
+        }
+      ],
+      "runtimeError": null
+    },
+    {
+      "run": "static-desktop",
+      "sha256": "42069c4c481754c871e3397e150e62bb783584d917f5d2075e57cb4bec06b15c",
+      "lighthouseVersion": "13.6.0",
+      "environment": {
+        "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+        "hostUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "benchmarkIndex": 769.5,
+        "credits": {
+          "axe-core": "4.14.0"
+        }
+      },
+      "fetchTime": "2026-10-30T19:02:00.865Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 265.4814,
+      "fcpMs": 265.4814,
+      "tbtMs": 0,
+      "cls": 0.02028384836310576,
+      "externalJsTransferBytes": 0,
+      "externalJsDecodedBytes": 0,
+      "scripts": [],
+      "runtimeError": null
+    }
+  ],
+  "inlineRawBytes": {
+    "prototype": 7107,
+    "prototype/static": 1513
+  },
+  "actualScreenReader": "NOT TESTED; none used",
+  "physicalTouch": "NOT TESTED"
+}
