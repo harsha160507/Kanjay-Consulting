@@ -1,5 +1,7 @@
 # Phase 2 browser audit
 
+**Latest result:** [fresh test 2 rerun](PHASE-2-TEST2-RERUN.md) passes the requested checks after the fixes.
+
 **Follow-up:** the two reported issues are now fixed. See [fix validation](PHASE-2-FIXES.md). The table below records the original pre-fix audit, not the current result.
 
 Tested 30 October 2026 against commit `4ce83b94c2dde7309b2775ba2359645d42a7eaeb`. Phone 375 x 900, tablet 768 x 900, desktop 1440 x 900; additional tablet screenshot at 768 x 1024. These are browser viewport tests, not physical-device or multi-engine certification. No application fixes, merge or deployment performed.
