@@ -1,0 +1,13 @@
+---
+import { pages } from '../../../data/site';
+import Home from '../../index.astro';
+import Draft from '../../[page].astro';
+export function getStaticPaths() {
+  return ['light', 'dark'].flatMap(theme => [
+    { params: { theme, page: undefined }, props: { title: 'Shared layout review', home: true } },
+    ...pages.map(p => ({ params: { theme, page: p.slug }, props: { title: p.title, home: false } })),
+  ]);
+}
+const { title, home } = Astro.props;
+---
+{home ? <Home /> : <Draft title={title} />}

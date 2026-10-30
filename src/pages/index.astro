@@ -1,6 +1,8 @@
 ---
+import { routeContext } from '../lib/routes';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { pages } from '../data/site';
+const route = routeContext(Astro.url.pathname);
 ---
 <BaseLayout title="Shared layout review">
   <p class="eyebrow">Visual system / Phase 02</p>
@@ -8,7 +10,7 @@ import { pages } from '../data/site';
   <p class="lede">An internal review of Kanjay’s typography, colours and shared navigation. Page content follows in the next phase.</p>
   <div class="draft-note"><strong>Internal design draft.</strong> This is a layout specimen, not approved marketing copy.</div>
   <nav aria-label="Development page index">
-    <ul class="page-index">{pages.map(page => <li><a href={`/${page.slug}/`}>{page.title}</a></li>)}</ul>
+    <ul class="page-index">{pages.map(page => <li><a href={route.to(`/${page.slug}/`)}>{page.title}</a></li>)}</ul>
   </nav>
   <section class="system-section"><p class="eyebrow">01 / Colour & contrast</p><h2>Calm surfaces. Clear emphasis.</h2><p>Slate and cream establish the base. Teal carries interactive emphasis. The supplied logo retains its colours on a white backing in both themes.</p><div class="swatches"><div>Page background</div><div class="surface">Raised surface</div><div class="accent">Action / emphasis</div><div class="inverse">Strong contrast</div></div></section>
   <section class="system-section"><p class="eyebrow">02 / Typography</p><h2>Manrope for clarity.<br />Inter for everyday reading.</h2><p>Manrope 600/700 headings. Inter 400/500 body text and navigation. Fonts are served locally.</p></section>

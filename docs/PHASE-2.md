@@ -1,5 +1,7 @@
 # Phase 2 visual system and shared layout
 
+**Follow-up:** [current-page and no-JS theme fixes](PHASE-2-FIXES.md) supersede the original toggle and nonpersistent no-JS behaviour described below. There are now 28 generated routes, including static light/dark variants.
+
 30 October 2026. Scope complete: shared visual system only. No homepage marketing content, service detail pages, client strip or animation rollout was built. Nothing merged or published.
 
 ## What changed

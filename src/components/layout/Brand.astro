@@ -1,5 +1,7 @@
 ---
+import { routeContext } from '../../lib/routes';
 interface Props { footer?: boolean }
 const { footer = false } = Astro.props;
+const route = routeContext(Astro.url.pathname);
 ---
-<a class:list={['brand', { 'brand--footer': footer }]} href="/" aria-label="Kanjay Consulting home"><img src="/images/brand/kanjay-logo-light-transparent.svg" alt="Kanjay Consulting" width="80" height="80" /><span aria-hidden="true">KANJAY<small>CONSULTING</small></span></a>
+<a class:list={['brand', { 'brand--footer': footer }]} href={route.to('/')} aria-label="Kanjay Consulting home" aria-current={route.page === '/' ? 'page' : undefined}><img src="/images/brand/kanjay-logo-light-transparent.svg" alt="Kanjay Consulting" width="80" height="80" /><span aria-hidden="true">KANJAY<small>CONSULTING</small></span></a>

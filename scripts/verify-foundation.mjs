@@ -1,9 +1,19 @@
 import { readFileSync, existsSync, readdirSync } from 'node:fs';
 import assert from 'node:assert/strict';
 
-const routes = ['index.html', '404.html', ...['about', 'services', 'clients', 'contact', 'terms-of-use', 'privacy-policy', 'cookie-policy', 'disclaimer'].map(p => `${p}/index.html`)];
+const baseRoutes = ['index.html', '404.html', ...['about', 'services', 'clients', 'contact', 'terms-of-use', 'privacy-policy', 'cookie-policy', 'disclaimer'].map(p => `${p}/index.html`)];
+const routes = [...baseRoutes, ...['light','dark'].flatMap(t => baseRoutes.filter(r => r !== '404.html').map(r => `theme/${t}/${r}`))];
 for (const route of routes) {
   const html = readFileSync(`dist/${route}`, 'utf8');
+  if (!route.endsWith('404.html')) { const expected = '/' + route.replace(/index\.html$/, ''); assert.ok(html.includes(`href="${expected}" aria-current="page"`), `${route}: matching footer link current`); }
+  else assert.doesNotMatch(html, /aria-current="page"/, '404 must not mark Home current');
+  const themeMatch = route.match(/^theme\/(light|dark)\//);
+  if (themeMatch) {
+    assert.ok(html.includes(`data-theme="${themeMatch[1]}"`), `${route}: static theme set before JS`);
+    for (const [, href] of html.matchAll(/href="(\/[^"]*\/)"/g)) {
+      assert.ok(href.startsWith(`/theme/${themeMatch[1]}/`) || href.startsWith('/theme/light/') || href.startsWith('/theme/dark/'), `${route}: theme-aware ${href}`);
+    }
+  }
   assert.match(html, /noindex, nofollow/, `${route}: indexing protection`);
   assert.match(html, /<h1[ >]/, `${route}: static readable heading`);
   assert.match(html, /href="#main"/, `${route}: skip link`);

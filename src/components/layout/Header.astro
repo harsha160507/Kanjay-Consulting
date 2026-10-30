@@ -1,14 +1,16 @@
 ---
+import { routeContext } from '../../lib/routes';
 import Brand from './Brand.astro';
 import ThemeSwitch from '../uiverse/ThemeSwitch.astro';
 import { pages } from '../../data/site';
 const links = pages.slice(0, 4);
-const current = Astro.url.pathname.replace(/\/$/, '');
+const current = routeContext(Astro.url.pathname).page.replace(/\/$/, '');
+const route = routeContext(Astro.url.pathname);
 ---
 <header class="site-header"><div class="container header-row"><Brand />
   <!-- Native redesign of supplied Pill Nav: static anchors, pill track, current-page state. -->
-  <nav class="pill-nav desktop-nav" aria-label="Main navigation"><ul>{links.map(p => <li><a href={`/${p.slug}/`} aria-current={current === `/${p.slug}` ? 'page' : undefined}>{p.title}</a></li>)}</ul></nav>
-  <div class="header-controls"><ThemeSwitch /><details class="mobile-nav"><summary>Menu <span aria-hidden="true">☰</span></summary><nav aria-label="Mobile navigation"><ul>{links.map(p => <li><a href={`/${p.slug}/`} aria-current={current === `/${p.slug}` ? 'page' : undefined}>{p.title}</a></li>)}</ul></nav></details></div>
+  <nav class="pill-nav desktop-nav" aria-label="Main navigation"><ul>{links.map(p => <li><a href={route.to(`/${p.slug}/`)} aria-current={current === `/${p.slug}` ? 'page' : undefined}>{p.title}</a></li>)}</ul></nav>
+  <div class="header-controls"><ThemeSwitch /><details class="mobile-nav"><summary>Menu <span aria-hidden="true">☰</span></summary><nav aria-label="Mobile navigation"><ul>{links.map(p => <li><a href={route.to(`/${p.slug}/`)} aria-current={current === `/${p.slug}` ? 'page' : undefined}>{p.title}</a></li>)}</ul></nav></details></div>
 </div></header>
 <script>
   const menu = document.querySelector<HTMLDetailsElement>('.mobile-nav');
