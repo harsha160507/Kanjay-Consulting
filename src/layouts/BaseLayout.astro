@@ -4,8 +4,8 @@ import { business } from '../data/site';
 import Header from '../components/layout/Header.astro';
 import Footer from '../components/layout/Footer.astro';
 import { routeContext } from '../lib/routes';
-interface Props { title: string; phaseLabel?: string }
-const { title, phaseLabel = 'Phase 2 · Shared layout' } = Astro.props;
+interface Props { title: string; phaseLabel?: string; description?: string }
+const { title, phaseLabel = 'Phase 2 · Shared layout', description = 'Unpublished development foundation for the Kanjay Consulting redesign.' } = Astro.props;
 const { theme } = routeContext(Astro.url.pathname);
 ---
 <!doctype html>
@@ -16,7 +16,7 @@ const { theme } = routeContext(Astro.url.pathname);
     <meta name="robots" content="noindex, nofollow" />
     <script is:inline>try { const t = localStorage.getItem('kanjay-theme'); if (!document.documentElement.dataset.theme && (t === 'light' || t === 'dark') && location.pathname !== '/404.html') location.replace('/theme/' + t + location.pathname + location.search + location.hash); } catch {}</script>
     <title>{title} | {business.projectName} development</title>
-    <meta name="description" content="Unpublished development foundation for the Kanjay Consulting redesign." />
+    <meta name="description" content={description} />
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
