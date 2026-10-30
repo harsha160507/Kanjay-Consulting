@@ -8,6 +8,7 @@ import './SpotlightCard.css';
 export type SpotlightShape = 'circle' | 'beam';
 
 export type SpotlightCardProps = React.HTMLAttributes<HTMLDivElement> & {
+  disabled?: boolean;
   spotlightColor?: string;
   intensity?: number;
   spotlightSize?: number;
@@ -84,6 +85,7 @@ const SpotlightCard = ({
   children,
   className = '',
   style,
+  disabled = false,
   spotlightColor,
   intensity = 0.15,
   spotlightSize = 240,
@@ -127,6 +129,7 @@ const SpotlightCard = ({
   });
 
   useEffect(() => {
+    if (disabled) return;
     const root = rootRef.current;
     const light = lightRef.current;
     const noise = grainRef.current;
@@ -137,7 +140,8 @@ const SpotlightCard = ({
     const state = { x: 0, y: 0, presence: 0, flare: 0, time: Math.random() * 60, pressed: false, visible: true };
     const pointer = { x: 0, y: 0, active: false };
     const drawn = { light: '', edge: '', noise: '' };
-    let focus: Element | null = null;
+    // Focus may already be on the server-rendered link before listeners attach.
+    let focus: Element | null = root.contains(document.activeElement) && document.activeElement?.matches(':focus-visible') ? document.activeElement : null;
     let raf = 0;
     let last = 0;
     let alive = true;
@@ -296,11 +300,12 @@ const SpotlightCard = ({
       root.removeEventListener('focusout', onFocusOut);
       wakeRef.current = null;
     };
-  }, []);
+  }, [disabled]);
 
   return (
     <div
       ref={rootRef}
+      data-spotlight-disabled={disabled ? '' : undefined}
       className={`spotlight-card${className ? ` ${className}` : ''}`}
       style={
         {

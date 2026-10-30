@@ -1,0 +1,159 @@
+{
+  "method": "ChatGPT in-app browser; ordinary no-store navigations and separate service-module 15s delay fixture; initial link identity captured by fixture; Tab from hero secondary link; no focus() calls or repair",
+  "delayed": [
+    {
+      "width": 375,
+      "before": {
+        "focus": true,
+        "href": "/theme/light/services/",
+        "outline": "rgb(18, 103, 120) solid 2.66667px",
+        "probe": {
+          "probeFirstFocus": "before-hydration",
+          "probeFocusLosses": "0",
+          "probeHydrated": "false",
+          "probeSameLink": "true",
+          "spotlightDisabled": ""
+        },
+        "tag": "A"
+      },
+      "after": {
+        "focus": true,
+        "href": "/theme/light/services/",
+        "outline": "rgb(18, 103, 120) solid 2.66667px",
+        "probe": {
+          "probeFirstFocus": "before-hydration",
+          "probeFocusLosses": "0",
+          "probeHydrated": "true",
+          "probeSameLink": "true"
+        },
+        "tag": "A"
+      },
+      "destination": "http://127.0.0.1:4339/theme/light/services/"
+    },
+    {
+      "width": 768,
+      "before": {
+        "focus": true,
+        "href": "/theme/light/services/",
+        "outline": "rgb(18, 103, 120) solid 2.66667px",
+        "probe": {
+          "probeFirstFocus": "before-hydration",
+          "probeFocusLosses": "0",
+          "probeHydrated": "false",
+          "probeSameLink": "true",
+          "spotlightDisabled": ""
+        },
+        "tag": "A"
+      },
+      "after": {
+        "focus": true,
+        "href": "/theme/light/services/",
+        "outline": "rgb(18, 103, 120) solid 2.66667px",
+        "probe": {
+          "probeFirstFocus": "before-hydration",
+          "probeFocusLosses": "0",
+          "probeHydrated": "true",
+          "probeSameLink": "true"
+        },
+        "tag": "A"
+      },
+      "destination": "http://127.0.0.1:4339/theme/light/services/"
+    },
+    {
+      "width": 1440,
+      "before": {
+        "focus": true,
+        "href": "/theme/light/services/",
+        "outline": "rgb(18, 103, 120) solid 2.66667px",
+        "probe": {
+          "probeFirstFocus": "before-hydration",
+          "probeFocusLosses": "0",
+          "probeHydrated": "false",
+          "probeSameLink": "true",
+          "spotlightDisabled": ""
+        },
+        "tag": "A"
+      },
+      "after": {
+        "focus": true,
+        "href": "/theme/light/services/",
+        "outline": "rgb(18, 103, 120) solid 2.66667px",
+        "probe": {
+          "probeFirstFocus": "before-hydration",
+          "probeFocusLosses": "0",
+          "probeHydrated": "true",
+          "probeSameLink": "true"
+        },
+        "tag": "A"
+      },
+      "destination": "http://127.0.0.1:4339/theme/light/services/"
+    }
+  ],
+  "ordinary": [
+    {
+      "width": 375,
+      "state": {
+        "active": "A",
+        "href": "/theme/light/services/",
+        "hydrated": true,
+        "visibleFocus": true
+      }
+    },
+    {
+      "width": 768,
+      "state": {
+        "active": "A",
+        "href": "/theme/light/services/",
+        "hydrated": true,
+        "visibleFocus": true
+      }
+    },
+    {
+      "width": 1440,
+      "state": {
+        "active": "A",
+        "href": "/theme/light/services/",
+        "hydrated": true,
+        "visibleFocus": true
+      }
+    }
+  ],
+  "noJavaScript": [
+    {
+      "width": 375,
+      "state": {
+        "active": "A",
+        "copy": "HR SUPPORT / 01\n\nRecruitment & Talent Acquisition\n\nWe support job descriptions, candidate sourcing, screening, interview coordination and selection follow-ups.\n\nExplore services ↗",
+        "disabled": true,
+        "href": "/theme/light/services/",
+        "lightDisplay": "none",
+        "visibleFocus": true
+      },
+      "destination": "http://127.0.0.1:4338/theme/light/services/"
+    },
+    {
+      "width": 768,
+      "state": {
+        "active": "A",
+        "copy": "HR SUPPORT / 01\n\nRecruitment & Talent Acquisition\n\nWe support job descriptions, candidate sourcing, screening, interview coordination and selection follow-ups.\n\nExplore services ↗",
+        "disabled": true,
+        "href": "/theme/light/services/",
+        "lightDisplay": "none",
+        "visibleFocus": true
+      },
+      "destination": "http://127.0.0.1:4338/theme/light/services/"
+    },
+    {
+      "width": 1440,
+      "state": {
+        "active": "A",
+        "copy": "HR SUPPORT / 01\n\nRecruitment & Talent Acquisition\n\nWe support job descriptions, candidate sourcing, screening, interview coordination and selection follow-ups.\n\nExplore services ↗",
+        "disabled": true,
+        "href": "/theme/light/services/",
+        "lightDisplay": "none",
+        "visibleFocus": true
+      },
+      "destination": "http://127.0.0.1:4338/theme/light/services/"
+    }
+  ]
+}

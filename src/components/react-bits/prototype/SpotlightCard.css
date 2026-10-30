@@ -49,3 +49,7 @@
 .spotlight-card__edge {
   opacity: 0;
 }
+
+/* Static SSR/no-script and reduced-motion states keep the same content nodes. */
+.spotlight-card[data-spotlight-disabled] { box-shadow: none; }
+.spotlight-card[data-spotlight-disabled] > span[aria-hidden="true"] { display: none; }
