@@ -1,13 +1,16 @@
 ---
+import { routeContext } from '../lib/routes';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { pages } from '../data/site';
+interface Props { title: string }
 export function getStaticPaths() {
   return pages.map(page => ({ params: { page: page.slug }, props: { title: page.title } }));
 }
 const { title } = Astro.props;
+const route = routeContext(Astro.url.pathname);
 ---
 <BaseLayout title={title}>
   <h1>{title}</h1>
-  <p>Development route reserved. Content requires business approval before publication.</p>
-  <a href="/">Return to the development index</a>
+  <div class="draft-note"><strong>Internal draft · Page content pending.</strong> This route previews the shared layout. {['Terms of Use', 'Privacy Policy', 'Cookie Policy', 'Disclaimer'].includes(title) ? 'Policy content and review are deferred.' : 'Final page content is outside this phase. Unsupported business claims are omitted.'}</div>
+  <a href={route.to('/')}>Return to the visual system review</a>
 </BaseLayout>

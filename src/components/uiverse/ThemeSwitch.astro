@@ -1,0 +1,15 @@
+---
+import { routeContext } from '../../lib/routes';
+const { theme, page } = routeContext(Astro.url.pathname);
+const target = page === '/404.html/' || page === '/404/' ? '/' : page;
+---
+<!-- Supplied Uiverse toggle redesigned as a native two-position link control. -->
+<div class="theme-links" role="group" aria-label="Colour theme">
+  {(['light', 'dark'] as const).map(t => <a href={`/theme/${t}${target}`} data-selected={theme === t ? 'true' : undefined} aria-label={`${t === 'light' ? 'Light' : 'Dark'} theme${theme === t ? ' (selected)' : ''}`}>{t === 'light' ? 'Light' : 'Dark'}</a>)}
+</div>
+<script>
+  const theme = document.documentElement.dataset.theme;
+  if (theme === 'light' || theme === 'dark') {
+    try { localStorage.setItem('kanjay-theme', theme); } catch {}
+  }
+</script>

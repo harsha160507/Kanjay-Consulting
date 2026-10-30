@@ -1,0 +1,19 @@
+---
+import { routeContext } from '../../lib/routes';
+import Brand from './Brand.astro';
+import ThemeSwitch from '../uiverse/ThemeSwitch.astro';
+import { pages } from '../../data/site';
+const links = pages.slice(0, 4);
+const current = routeContext(Astro.url.pathname).page.replace(/\/$/, '');
+const route = routeContext(Astro.url.pathname);
+---
+<header class="site-header"><div class="container header-row"><Brand />
+  <!-- Native redesign of supplied Pill Nav: static anchors, pill track, current-page state. -->
+  <nav class="pill-nav desktop-nav" aria-label="Main navigation"><ul>{links.map(p => <li><a href={route.to(`/${p.slug}/`)} aria-current={current === `/${p.slug}` ? 'page' : undefined}>{p.title}</a></li>)}</ul></nav>
+  <div class="header-controls"><ThemeSwitch /><details class="mobile-nav"><summary>Menu <span aria-hidden="true">☰</span></summary><nav aria-label="Mobile navigation"><ul>{links.map(p => <li><a href={route.to(`/${p.slug}/`)} aria-current={current === `/${p.slug}` ? 'page' : undefined}>{p.title}</a></li>)}</ul></nav></details></div>
+</div></header>
+<script>
+  const menu = document.querySelector<HTMLDetailsElement>('.mobile-nav');
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && menu?.open) { menu.open = false; menu.querySelector('summary')?.focus(); } });
+  document.addEventListener('click', e => { if (menu?.open && e.target instanceof Node && !menu.contains(e.target)) menu.open = false; });
+</script>

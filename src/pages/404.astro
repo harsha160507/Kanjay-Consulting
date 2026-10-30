@@ -1,8 +1,10 @@
 ---
+import { routeContext } from '../lib/routes';
 import BaseLayout from '../layouts/BaseLayout.astro';
+const route = routeContext(Astro.url.pathname);
 ---
 <BaseLayout title="Page not found">
   <h1>Page not found</h1>
   <p>This address does not match a development page.</p>
-  <a href="/">Return to the development index</a>
+  <a href={route.to('/')}>Return to the development index</a>
 </BaseLayout>

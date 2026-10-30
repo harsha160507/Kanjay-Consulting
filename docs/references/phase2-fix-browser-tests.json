@@ -1,0 +1,82 @@
+[
+  {
+    "width": 320,
+    "policy": {
+      "current": [
+        "Privacy Policy"
+      ],
+      "overflow": false,
+      "path": "/theme/dark/privacy-policy/",
+      "theme": "dark"
+    },
+    "darkAfterReload": "dark",
+    "home": {
+      "current": "Home",
+      "logoCurrent": "page",
+      "logoOutline": "rgb(18, 103, 120) solid 2px",
+      "overflow": false,
+      "path": "/theme/light/",
+      "theme": "light"
+    }
+  },
+  {
+    "width": 375,
+    "policy": {
+      "current": [
+        "Privacy Policy"
+      ],
+      "overflow": false,
+      "path": "/theme/dark/privacy-policy/",
+      "theme": "dark"
+    },
+    "darkAfterReload": "dark",
+    "home": {
+      "current": "Home",
+      "logoCurrent": "page",
+      "logoOutline": "rgb(18, 103, 120) solid 2px",
+      "overflow": false,
+      "path": "/theme/light/",
+      "theme": "light"
+    }
+  },
+  {
+    "width": 768,
+    "policy": {
+      "current": [
+        "Privacy Policy"
+      ],
+      "overflow": false,
+      "path": "/theme/dark/privacy-policy/",
+      "theme": "dark"
+    },
+    "darkAfterReload": "dark",
+    "home": {
+      "current": "Home",
+      "logoCurrent": "page",
+      "logoOutline": "rgb(18, 103, 120) solid 2px",
+      "overflow": false,
+      "path": "/theme/light/",
+      "theme": "light"
+    }
+  },
+  {
+    "width": 1440,
+    "policy": {
+      "current": [
+        "Privacy Policy"
+      ],
+      "overflow": false,
+      "path": "/theme/dark/privacy-policy/",
+      "theme": "dark"
+    },
+    "darkAfterReload": "dark",
+    "home": {
+      "current": "Home",
+      "logoCurrent": "page",
+      "logoOutline": "rgb(18, 103, 120) solid 2px",
+      "overflow": false,
+      "path": "/theme/light/",
+      "theme": "light"
+    }
+  }
+]
