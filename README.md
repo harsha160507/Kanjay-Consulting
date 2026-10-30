@@ -1,8 +1,10 @@
 # Kanjay Consulting
 
-Phase 2 visual system and shared layout. Internal review only; no site has been published.
+Phase 3 isolated component prototype alongside the Phase 2 shared layout. Internal review only; no site has been published.
 
 Start with [Phase 2 changes and checks](docs/PHASE-2.md), the [current facts register](docs/PHASE-1.md) and the preserved [blueprint](docs/blueprint/kanjay-redesign-blueprint-2.md). `docs/VALIDATION.md` records the original Phase 1 checks; Phase 2 checks supersede its script-free-foundation assertions.
+
+For the latest prototype, read [Phase 3 measurements and recommendations](docs/PHASE-3.md). Build, run `npm run audit:prototype`, then open `/prototype/` and `/prototype/static/` on port 4337; port 4338 blocks page scripts. `npm run verify:prototype` checks all prototype variants. This does not expand the unfinished business pages.
 
 ## Local use
 

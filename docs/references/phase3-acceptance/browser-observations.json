@@ -1,0 +1,623 @@
+{
+  "date": "2026-10-31",
+  "commit": "7abfa4b4dcc91f68589e455b44a66a693e269925",
+  "keyboard": [
+    {
+      "width": 375,
+      "component": "pill",
+      "focus": {
+        "clientWidth": 375,
+        "focusVisible": true,
+        "href": "/theme/light/about/",
+        "name": "About UsAbout Us",
+        "outline": "rgb(18, 103, 120) solid 2px",
+        "overflow": false
+      },
+      "destination": "/theme/light/about/"
+    },
+    {
+      "width": 375,
+      "component": "hero-primary",
+      "focus": {
+        "clientWidth": 375,
+        "focusVisible": true,
+        "href": "/theme/light/contact/",
+        "name": "Talk to our team ↗",
+        "outline": "rgb(18, 103, 120) solid 2.66667px",
+        "overflow": false
+      },
+      "destination": "/theme/light/contact/"
+    },
+    {
+      "width": 375,
+      "component": "hero-secondary",
+      "focus": {
+        "clientWidth": 375,
+        "focusVisible": true,
+        "href": "/theme/light/about/",
+        "name": "Know more about us ",
+        "outline": "rgb(18, 103, 120) solid 2.66667px",
+        "overflow": false
+      },
+      "destination": "/theme/light/about/"
+    },
+    {
+      "width": 375,
+      "component": "spotlight",
+      "focus": {
+        "clientWidth": 375,
+        "focusVisible": false,
+        "href": null,
+        "name": "BODY: focus fell out of link; text omitted from evidence for brevity",
+        "outline": "rgb(37, 54, 74) none 2.66667px",
+        "overflow": false
+      },
+      "destination": "/theme/light/services/"
+    },
+    {
+      "width": 768,
+      "component": "pill",
+      "focus": {
+        "clientWidth": 768,
+        "focusVisible": true,
+        "href": "/theme/light/about/",
+        "name": "About UsAbout Us",
+        "outline": "rgb(18, 103, 120) solid 2px",
+        "overflow": false
+      },
+      "destination": "/theme/light/about/"
+    },
+    {
+      "width": 768,
+      "component": "hero-primary",
+      "focus": {
+        "clientWidth": 768,
+        "focusVisible": true,
+        "href": "/theme/light/contact/",
+        "name": "Talk to our team ↗",
+        "outline": "rgb(18, 103, 120) solid 2.66667px",
+        "overflow": false
+      },
+      "destination": "/theme/light/contact/"
+    },
+    {
+      "width": 768,
+      "component": "hero-secondary",
+      "focus": {
+        "clientWidth": 768,
+        "focusVisible": true,
+        "href": "/theme/light/about/",
+        "name": "Know more about us ",
+        "outline": "rgb(18, 103, 120) solid 2.66667px",
+        "overflow": false
+      },
+      "destination": "/theme/light/about/"
+    },
+    {
+      "width": 768,
+      "component": "spotlight",
+      "focus": {
+        "clientWidth": 768,
+        "focusVisible": false,
+        "href": null,
+        "name": "BODY: focus fell out of link; text omitted from evidence for brevity",
+        "outline": "rgb(37, 54, 74) none 2.66667px",
+        "overflow": false
+      },
+      "destination": "/theme/light/services/"
+    },
+    {
+      "width": 1440,
+      "component": "pill",
+      "focus": {
+        "clientWidth": 1440,
+        "focusVisible": true,
+        "href": "/theme/light/about/",
+        "name": "About UsAbout Us",
+        "outline": "rgb(18, 103, 120) solid 2px",
+        "overflow": false
+      },
+      "destination": "/theme/light/about/"
+    },
+    {
+      "width": 1440,
+      "component": "hero-primary",
+      "focus": {
+        "clientWidth": 1440,
+        "focusVisible": true,
+        "href": "/theme/light/contact/",
+        "name": "Talk to our team ↗",
+        "outline": "rgb(18, 103, 120) solid 2.66667px",
+        "overflow": false
+      },
+      "destination": "/theme/light/contact/"
+    },
+    {
+      "width": 1440,
+      "component": "hero-secondary",
+      "focus": {
+        "clientWidth": 1440,
+        "focusVisible": true,
+        "href": "/theme/light/about/",
+        "name": "Know more about us ",
+        "outline": "rgb(18, 103, 120) solid 2.66667px",
+        "overflow": false
+      },
+      "destination": "/theme/light/about/"
+    },
+    {
+      "width": 1440,
+      "component": "spotlight",
+      "focus": {
+        "clientWidth": 1440,
+        "focusVisible": false,
+        "href": null,
+        "name": "BODY: focus fell out of link; text omitted from evidence for brevity",
+        "outline": "rgb(37, 54, 74) none 2.66667px",
+        "overflow": false
+      },
+      "destination": "/theme/light/services/"
+    }
+  ],
+  "spotlightFocusEvidence": [
+    {
+      "activeHref": "/theme/light/services/",
+      "activeTag": "A",
+      "activeText": "Explore services ↗",
+      "cardHydrated": false,
+      "focusVisible": true,
+      "mode": "Internal Phase 3 prototype · Static comparison. This is a component test, not a finished homepage. View enhanced prototype."
+    },
+    {
+      "activeHref": null,
+      "activeTag": "BODY",
+      "activeText": "BODY",
+      "cardHydrated": true,
+      "focusVisible": false,
+      "mode": "Internal Phase 3 prototype · React enhancements. This is a component test, not a finished homepage. View static baseline."
+    }
+  ],
+  "settledSpotlight": {
+    "activeTag": "A",
+    "cardOutline": "rgb(18, 103, 120) solid 2px",
+    "focus": true,
+    "href": "/theme/light/services/",
+    "lightOpacity": "background: radial-gradient(circle 240.0px at 103.3px 231.9px, color-mix(in srgb, var(--accent) 100.00%, transparent) 0.00%, color-mix(in srgb, var(--accent) 100.00%, transparent) 13.97%, color-mix(in srgb, var(--accent) 97.94%, transparent) 20.11%, color-mix(in srgb, var(--accent) 92.07%, transparent) 26.26%, color-mix(in srgb, var(--accent) 83.12%, transparent) 32.40%, color-mix(in srgb, var(--accent) 72.11%, transparent) 38.55%, color-mix(in srgb, var(--accent) 60.10%, transparent) 44.69%, color-mix(in srgb, var(--accent) 48.08%, transparent) 50.84%, color-mix(in srgb, var(--accent) 36.82%, transparent) 56.98%, color-mix(in srgb, var(--accent) 26.85%, transparent) 63.13%, color-mix(in srgb, var(--accent) 18.47%, transparent) 69.27%, color-mix(in srgb, var(--accent) 11.75%, transparent) 75.42%, color-mix(in srgb, var(--accent) 6.67%, transparent) 81.56%, color-mix(in srgb, var(--accent) 3.10%, transparent) 87.71%, color-mix(in srgb, var(--accent) 0.91%, transparent) 93.85%, color-mix(in srgb, var(--accent) 0.00%, transparent) 100.00%); opacity: 0.0667098;",
+    "outline": "rgb(18, 103, 120) solid 2.66667px"
+  },
+  "loop": {
+    "loopFocus": {
+      "outline": "rgb(18, 103, 120) solid 2.66667px",
+      "pressed": "false",
+      "tag": "BUTTON",
+      "text": "Play logo motion",
+      "visible": true
+    },
+    "initialTrack": "transform: translate3d(-1190px, 0px, 0px);",
+    "playState": "true",
+    "playA": "transform: translate3d(-1191.87px, 0px, 0px);",
+    "playB": "transform: translate3d(-1195.08px, 0px, 0px);",
+    "pauseState": "false",
+    "pause12": "transform: translate3d(-1201.67px, 0px, 0px);",
+    "pause22": "transform: translate3d(-1201.69px, 0px, 0px);",
+    "pause28": "transform: translate3d(-1201.69px, 0px, 0px);"
+  },
+  "grid": {
+    "duplicateHidden": "true",
+    "hiddenFocusable": 0,
+    "names": [
+      "Eaton",
+      "Aaviza Technologies",
+      "Deforay",
+      "Zuppa",
+      "Woyc::OD"
+    ],
+    "visible": "grid"
+  },
+  "reducedPreview": {
+    "card": {
+      "spotlight": false,
+      "tag": "ARTICLE"
+    },
+    "grid": {
+      "count": 5,
+      "display": "grid"
+    },
+    "hero": {
+      "gradient": false,
+      "headline": "HR support.\nGeM seller guidance.",
+      "opacity": "1"
+    },
+    "loop": {
+      "playControl": false,
+      "present": false
+    },
+    "metrics": "{\n  \"scripts\": 7,\n  \"transferredBytes\": 137951,\n  \"compressedBodyBytes\": 135851,\n  \"decodedBodyBytes\": 413323,\n  \"prefersReducedMotion\": false,\n  \"reducedPreview\": true\n}",
+    "override": true,
+    "pill": "Prototype Pill Nav static fallback"
+  },
+  "reducedCardFocus": {
+    "href": "/theme/light/services/",
+    "tag": "A",
+    "visible": true
+  },
+  "layout": [
+    {
+      "components": [
+        {
+          "left": 16,
+          "right": 288.66668701171875,
+          "selector": ".prototype-nav",
+          "visible": true,
+          "width": 272.66668701171875
+        },
+        {
+          "left": 16,
+          "right": 288.66668701171875,
+          "selector": ".prototype-hero",
+          "visible": true,
+          "width": 272.66668701171875
+        },
+        {
+          "left": 16,
+          "right": 288.66668701171875,
+          "selector": ".prototype-service",
+          "visible": true,
+          "width": 272.66668701171875
+        },
+        {
+          "left": 32,
+          "right": 272.6666717529297,
+          "selector": ".prototype-loop",
+          "visible": true,
+          "width": 240.6666717529297
+        },
+        {
+          "left": 32,
+          "right": 272.6666717529297,
+          "selector": ".prototype-client-grid",
+          "visible": true,
+          "width": 240.6666717529297
+        }
+      ],
+      "gridSurface": "rgb(250, 248, 243)",
+      "overflow": false,
+      "targets": [
+        {
+          "height": 44,
+          "selector": ".prototype-nav a",
+          "width": 86.88542175292969
+        },
+        {
+          "height": 58.39583587646485,
+          "selector": ".prototype-actions a.primary",
+          "width": 200.5104217529297
+        },
+        {
+          "height": 19.33333396911621,
+          "selector": ".prototype-service a",
+          "width": 141.25
+        },
+        {
+          "height": 59.72916793823242,
+          "selector": ".prototype-clients button",
+          "width": 184.39584350585935
+        }
+      ],
+      "width": 320
+    },
+    {
+      "components": [
+        {
+          "left": 16,
+          "right": 344,
+          "selector": ".prototype-nav",
+          "visible": true,
+          "width": 328
+        },
+        {
+          "left": 16,
+          "right": 344,
+          "selector": ".prototype-hero",
+          "visible": true,
+          "width": 328
+        },
+        {
+          "left": 16,
+          "right": 344,
+          "selector": ".prototype-service",
+          "visible": true,
+          "width": 328
+        },
+        {
+          "left": 32,
+          "right": 328,
+          "selector": ".prototype-loop",
+          "visible": true,
+          "width": 296
+        },
+        {
+          "left": 32,
+          "right": 328,
+          "selector": ".prototype-client-grid",
+          "visible": true,
+          "width": 296
+        }
+      ],
+      "gridSurface": "rgb(250, 248, 243)",
+      "overflow": false,
+      "targets": [
+        {
+          "height": 44,
+          "selector": ".prototype-nav a",
+          "width": 86.88542175292969
+        },
+        {
+          "height": 58.39583587646485,
+          "selector": ".prototype-actions a.primary",
+          "width": 200.5104217529297
+        },
+        {
+          "height": 19.33333396911621,
+          "selector": ".prototype-service a",
+          "width": 141.25
+        },
+        {
+          "height": 59.72916793823242,
+          "selector": ".prototype-clients button",
+          "width": 184.39584350585935
+        }
+      ],
+      "width": 375
+    },
+    {
+      "components": [
+        {
+          "left": 24,
+          "right": 728.6666870117188,
+          "selector": ".prototype-nav",
+          "visible": true,
+          "width": 704.6666870117188
+        },
+        {
+          "left": 24,
+          "right": 728.6666870117188,
+          "selector": ".prototype-hero",
+          "visible": true,
+          "width": 704.6666870117188
+        },
+        {
+          "left": 24,
+          "right": 728.6666870117188,
+          "selector": ".prototype-service",
+          "visible": true,
+          "width": 704.6666870117188
+        },
+        {
+          "left": 56,
+          "right": 696.6666870117188,
+          "selector": ".prototype-loop",
+          "visible": true,
+          "width": 640.6666870117188
+        },
+        {
+          "left": 56,
+          "right": 696.6666870117188,
+          "selector": ".prototype-client-grid",
+          "visible": true,
+          "width": 640.6666870117188
+        }
+      ],
+      "gridSurface": "rgb(250, 248, 243)",
+      "overflow": false,
+      "targets": [
+        {
+          "height": 44,
+          "selector": ".prototype-nav a",
+          "width": 86.88542175292969
+        },
+        {
+          "height": 58.39583587646485,
+          "selector": ".prototype-actions a.primary",
+          "width": 200.5104217529297
+        },
+        {
+          "height": 19.33333396911621,
+          "selector": ".prototype-service a",
+          "width": 141.25
+        },
+        {
+          "height": 59.72916793823242,
+          "selector": ".prototype-clients button",
+          "width": 184.39584350585935
+        }
+      ],
+      "width": 768
+    },
+    {
+      "components": [
+        {
+          "left": 104.33333587646484,
+          "right": 1320.3333358764648,
+          "selector": ".prototype-nav",
+          "visible": true,
+          "width": 1216
+        },
+        {
+          "left": 104.33333587646484,
+          "right": 1320.3333358764648,
+          "selector": ".prototype-hero",
+          "visible": true,
+          "width": 1216
+        },
+        {
+          "left": 744.3333740234375,
+          "right": 1320.3333740234375,
+          "selector": ".prototype-service",
+          "visible": true,
+          "width": 576
+        },
+        {
+          "left": 136.33334350585938,
+          "right": 1288.3333435058594,
+          "selector": ".prototype-loop",
+          "visible": true,
+          "width": 1152
+        },
+        {
+          "left": 136.33334350585938,
+          "right": 1288.3333435058594,
+          "selector": ".prototype-client-grid",
+          "visible": true,
+          "width": 1152
+        }
+      ],
+      "gridSurface": "rgb(250, 248, 243)",
+      "overflow": false,
+      "targets": [
+        {
+          "height": 44,
+          "selector": ".prototype-nav a",
+          "width": 96.48958587646484
+        },
+        {
+          "height": 58.39583587646485,
+          "selector": ".prototype-actions a.primary",
+          "width": 200.5104217529297
+        },
+        {
+          "height": 19.33333396911621,
+          "selector": ".prototype-service a",
+          "width": 141.25
+        },
+        {
+          "height": 59.72916793823242,
+          "selector": ".prototype-clients button",
+          "width": 184.39584350585935
+        }
+      ],
+      "width": 1440
+    }
+  ],
+  "noJavaScript": [
+    {
+      "card": "HR SUPPORT / 01\n\nRecruitment & Talent Acquisition\n\nWe support job descriptions, candidate sourcing, screening, interview coordination and selection follow-ups.\n\nExplore services ↗",
+      "cardTag": "ARTICLE",
+      "clients": [
+        "Eaton",
+        "Aaviza Technologies",
+        "Deforay",
+        "Zuppa",
+        "Woyc::OD"
+      ],
+      "hero": "HR support.\nGeM seller guidance.",
+      "heroOpacity": "1",
+      "loop": false,
+      "loopControl": false,
+      "nav": "Prototype Pill Nav static fallback",
+      "overflow": false,
+      "width": 375,
+      "links": [
+        {
+          "selector": ".prototype-nav a",
+          "destination": "/theme/light/about/"
+        },
+        {
+          "selector": ".prototype-actions a.primary",
+          "destination": "/theme/light/contact/"
+        },
+        {
+          "selector": ".prototype-actions a.outline",
+          "destination": "/theme/light/about/"
+        },
+        {
+          "selector": ".prototype-service a",
+          "destination": "/theme/light/services/"
+        }
+      ]
+    },
+    {
+      "card": "HR SUPPORT / 01\n\nRecruitment & Talent Acquisition\n\nWe support job descriptions, candidate sourcing, screening, interview coordination and selection follow-ups.\n\nExplore services ↗",
+      "cardTag": "ARTICLE",
+      "clients": [
+        "Eaton",
+        "Aaviza Technologies",
+        "Deforay",
+        "Zuppa",
+        "Woyc::OD"
+      ],
+      "hero": "HR support.\nGeM seller guidance.",
+      "heroOpacity": "1",
+      "loop": false,
+      "loopControl": false,
+      "nav": "Prototype Pill Nav static fallback",
+      "overflow": false,
+      "width": 768,
+      "links": [
+        {
+          "selector": ".prototype-nav a",
+          "destination": "/theme/light/about/"
+        },
+        {
+          "selector": ".prototype-actions a.primary",
+          "destination": "/theme/light/contact/"
+        },
+        {
+          "selector": ".prototype-actions a.outline",
+          "destination": "/theme/light/about/"
+        },
+        {
+          "selector": ".prototype-service a",
+          "destination": "/theme/light/services/"
+        }
+      ]
+    },
+    {
+      "card": "HR SUPPORT / 01\n\nRecruitment & Talent Acquisition\n\nWe support job descriptions, candidate sourcing, screening, interview coordination and selection follow-ups.\n\nExplore services ↗",
+      "cardTag": "ARTICLE",
+      "clients": [
+        "Eaton",
+        "Aaviza Technologies",
+        "Deforay",
+        "Zuppa",
+        "Woyc::OD"
+      ],
+      "hero": "HR support.\nGeM seller guidance.",
+      "heroOpacity": "1",
+      "loop": false,
+      "loopControl": false,
+      "nav": "Prototype Pill Nav static fallback",
+      "overflow": false,
+      "width": 1440,
+      "links": [
+        {
+          "selector": ".prototype-nav a",
+          "destination": "/theme/light/about/"
+        },
+        {
+          "selector": ".prototype-actions a.primary",
+          "destination": "/theme/light/contact/"
+        },
+        {
+          "selector": ".prototype-actions a.outline",
+          "destination": "/theme/light/about/"
+        },
+        {
+          "selector": ".prototype-service a",
+          "destination": "/theme/light/services/"
+        }
+      ]
+    }
+  ],
+  "screenReader": {
+    "status": "NOT TESTED",
+    "used": "none",
+    "NarratorExecutablePresent": true,
+    "speechOutputUnavailable": true,
+    "browserForOtherTests": "ChatGPT in-app browser"
+  },
+  "touch": {
+    "status": "NOT TESTED",
+    "reason": "No physical touch input or touch-event API used; viewport and mouse/keyboard only"
+  }
+}

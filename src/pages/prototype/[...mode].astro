@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PrototypeNav from '../../components/react-bits/prototype/PrototypeNav';
+import PrototypeHero from '../../components/react-bits/prototype/PrototypeHero';
+import PrototypeService from '../../components/react-bits/prototype/PrototypeService';
+import PrototypeClients from '../../components/react-bits/prototype/PrototypeClients';
+import '../../styles/prototype.css';
+import { routeContext } from '../../lib/routes';
+interface Props { enhanced: boolean }
+export function getStaticPaths() { return [{ params: { mode: undefined }, props: { enhanced: true } }, { params: { mode: 'static' }, props: { enhanced: false } }]; }
+const { enhanced } = Astro.props;
+const route = routeContext(Astro.url.pathname);
+const prefix = route.to('/');
+---
+<BaseLayout title="Phase 3 component prototype" phaseLabel="Phase 3 · Component prototype">
+  <div class="draft-note"><strong>Internal Phase 3 prototype · {enhanced ? 'React enhancements' : 'Static comparison'}.</strong> This is a component test, not a finished homepage. <a href={route.to(enhanced ? '/prototype/static/' : '/prototype/')}>View {enhanced ? 'static baseline' : 'enhanced prototype'}</a>.</div>
+  <section aria-labelledby="prototype-nav-title"><h2 id="prototype-nav-title">Pill Nav experiment</h2>{enhanced ? <PrototypeNav prefix={prefix} client:idle /> : <PrototypeNav prefix={prefix} />}</section>
+  {enhanced ? <PrototypeHero prefix={prefix} client:idle /> : <PrototypeHero prefix={prefix} />}
+  <section class="prototype-services" aria-labelledby="prototype-services-title"><div><p class="eyebrow">Service-card experiment</p><h2 id="prototype-services-title">Clear scope.<br />A quiet spotlight.</h2><p>The effect is optional. The service text and destination remain available before hydration and without scripts.</p></div>{enhanced ? <PrototypeService prefix={prefix} client:visible /> : <PrototypeService prefix={prefix} />}</section>
+  {enhanced ? <PrototypeClients client:visible /> : <PrototypeClients />}
+  <details class="prototype-diagnostics"><summary>Internal prototype measurements</summary><p>Local test readings only. No data is sent or retained.</p><label><input type="checkbox" id="prototype-reduce" /> Use reduced-motion preview</label><pre id="prototype-metrics">JavaScript is required for runtime measurements; the component text and links do not require it.</pre></details>
+  <p class="small">Component notices: <a href="/licenses/react-bits.txt">React Bits licence</a> · <a href="/licenses/uiverse.txt">Uiverse licence</a></p>
+</BaseLayout>
+<script>
+  const output = document.querySelector('#prototype-metrics');
+  const toggle = document.querySelector<HTMLInputElement>('#prototype-reduce');
+  const update = () => {
+    const scripts = performance.getEntriesByType('resource').filter((e): e is PerformanceResourceTiming => e instanceof PerformanceResourceTiming && /\.js(?:\?|$)/.test(e.name));
+    if (output) output.textContent = JSON.stringify({ scripts: scripts.length, transferredBytes: scripts.reduce((n,e) => n + e.transferSize,0), compressedBodyBytes: scripts.reduce((n,e) => n + e.encodedBodySize,0), decodedBodyBytes: scripts.reduce((n,e) => n + e.decodedBodySize,0), prefersReducedMotion: matchMedia('(prefers-reduced-motion: reduce)').matches, reducedPreview: document.documentElement.hasAttribute('data-motion-reduced') }, null, 2);
+  };
+  const observer = new PerformanceObserver(update); observer.observe({ type: 'resource', buffered: true });
+  toggle?.addEventListener('change', () => { document.documentElement.toggleAttribute('data-motion-reduced', toggle.checked); window.dispatchEvent(new Event('kanjay-motion-change')); update(); });
+  update();
+</script>

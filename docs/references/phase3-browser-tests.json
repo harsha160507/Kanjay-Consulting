@@ -1,0 +1,77 @@
+{
+  "enhanced": [
+    {
+      "focusVisible": true,
+      "navBackground": "rgb(30, 48, 66) none repeat scroll 0% 0% / auto padding-box border-box",
+      "navColour": "rgb(245, 244, 239)",
+      "outline": "rgb(131, 214, 221) solid 2px",
+      "overflow": false,
+      "width": 375
+    },
+    {
+      "focusVisible": true,
+      "navBackground": "rgb(30, 48, 66) none repeat scroll 0% 0% / auto padding-box border-box",
+      "navColour": "rgb(245, 244, 239)",
+      "outline": "rgb(131, 214, 221) solid 2px",
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "focusVisible": true,
+      "navBackground": "rgb(30, 48, 66) none repeat scroll 0% 0% / auto padding-box border-box",
+      "navColour": "rgb(245, 244, 239)",
+      "outline": "rgb(131, 214, 221) solid 2px",
+      "overflow": false,
+      "width": 1440
+    }
+  ],
+  "noJS": [
+    {
+      "animatedLoop": false,
+      "card": "HR SUPPORT / 01\n\nRecruitment & Talent Acquisition\n\nWe support job descriptions, candidate sourcing, screening, interview coordination and selection follow-ups.\n\nExplore services ↗",
+      "clients": 5,
+      "h1": "HR support.\nGeM seller guidance.",
+      "headlineOpacity": "1",
+      "nav": "Prototype Pill Nav static fallback",
+      "overflow": false,
+      "width": 375,
+      "destination": "/theme/light/about/"
+    },
+    {
+      "animatedLoop": false,
+      "card": "HR SUPPORT / 01\n\nRecruitment & Talent Acquisition\n\nWe support job descriptions, candidate sourcing, screening, interview coordination and selection follow-ups.\n\nExplore services ↗",
+      "clients": 5,
+      "h1": "HR support.\nGeM seller guidance.",
+      "headlineOpacity": "1",
+      "nav": "Prototype Pill Nav static fallback",
+      "overflow": false,
+      "width": 768,
+      "destination": "/theme/light/about/"
+    },
+    {
+      "animatedLoop": false,
+      "card": "HR SUPPORT / 01\n\nRecruitment & Talent Acquisition\n\nWe support job descriptions, candidate sourcing, screening, interview coordination and selection follow-ups.\n\nExplore services ↗",
+      "clients": 5,
+      "h1": "HR support.\nGeM seller guidance.",
+      "headlineOpacity": "1",
+      "nav": "Prototype Pill Nav static fallback",
+      "overflow": false,
+      "width": 1440,
+      "destination": "/theme/light/about/"
+    }
+  ],
+  "deferredJavaScriptObservation": "{\n  \"scripts\": 7,\n  \"transferredBytes\": 137951,\n  \"compressedBodyBytes\": 135851,\n  \"decodedBodyBytes\": 413323,\n  \"prefersReducedMotion\": false,\n  \"reducedPreview\": false\n}",
+  "reducedPreview": {
+    "h1": "HR support.GeM seller guidance.",
+    "loop": false,
+    "nav": "Prototype Pill Nav static fallback",
+    "spotlight": false
+  },
+  "logoPlayPause": {
+    "playing": "true",
+    "paused": "false",
+    "movingBefore": "transform: translate3d(-1194.36px, 0px, 0px);",
+    "movingAfter": "transform: translate3d(-1196.96px, 0px, 0px);"
+  },
+  "method": "No-JS uses CSP script-src none. Reduced preview exercises same fallback hook as the OS preference; OS setting was not changed."
+}

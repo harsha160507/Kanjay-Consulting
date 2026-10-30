@@ -1,0 +1,51 @@
+[
+  {
+    "name": "PillNav",
+    "suppliedPath": "components\\react-bits\\Pill-Nav\\code.ts",
+    "sha256": "8032394c46400f82e8064f3db48e349bec8f0f0416268c91e51c357861514c95",
+    "actualImports": 2,
+    "dependency": "React only"
+  },
+  {
+    "name": "SpotlightCard",
+    "suppliedPath": "components\\react-bits\\spotlight card\\code.ts",
+    "sha256": "9404b387a095c0711ebcdb1e686c1e213078b6ceb1815d7a2e05df6f7bf2d04d",
+    "actualImports": 2,
+    "dependency": "React only"
+  },
+  {
+    "name": "LogoLoop",
+    "suppliedPath": "components\\react-bits\\logo loop\\code.ts",
+    "sha256": "31342bb0c01ee0a9b05cda019591445f3ac418c45fab41905776f4c5c205f4ec",
+    "actualImports": 2,
+    "dependency": "React only"
+  },
+  {
+    "name": "BlurText",
+    "suppliedPath": "components\\react-bits\\blur text\\code.ts",
+    "sha256": "7a8103b982a01088acf28758f5a421fd4dbe75a3d74135a0051009c5112e2b16",
+    "actualImports": 2,
+    "dependency": "motion + React"
+  },
+  {
+    "name": "Magnet",
+    "suppliedPath": "components\\react-bits\\magnet\\code.ts",
+    "sha256": "3f063734d776b2cebcb34c019fc7a2bca064f4ce6a6f19b698acd57289eabefe",
+    "actualImports": 1,
+    "dependency": "React only"
+  },
+  {
+    "name": "GradientText",
+    "suppliedPath": "components\\react-bits\\gradient text\\code.txt",
+    "sha256": "237014ae7f10e6f1f7918641c76b304f642f73a428b1b48156890632abcae8d6",
+    "actualImports": 3,
+    "dependency": "React only"
+  },
+  {
+    "name": "ShinyText",
+    "suppliedPath": "components\\react-bits\\shiny text\\code.ts",
+    "sha256": "94bac46ea9411205f8eb013de39f5409b92f64818e88609f2439c5618ae2d6c3",
+    "actualImports": 3,
+    "dependency": "React only"
+  }
+]
