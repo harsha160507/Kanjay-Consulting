@@ -1,0 +1,10 @@
+---
+import Brand from './Brand.astro';
+import { business, pages } from '../../data/site';
+---
+<footer class="site-footer"><div class="container footer-grid">
+  <div><Brand footer /><p class="small">HR support worldwide.<br />GeM seller support across India.</p></div>
+  <nav aria-label="Footer navigation"><h2>Explore</h2><ul><li><a href="/">Home</a></li>{pages.slice(0,4).map(p => <li><a href={`/${p.slug}/`}>{p.title}</a></li>)}</ul></nav>
+  <div><h2>Talk to our team</h2><p><a href={`tel:${business.phone}`}>{business.phoneDisplay}</a><br /><a href={`mailto:${business.email}`}>{business.email}</a></p><p class="small">Candidate enquiries<br /><a href={`mailto:${business.candidateEmail}`}>{business.candidateEmail}</a></p><div class="social-links">{business.socialLinks.map(p => <a href={p.href}>{p.label}<span aria-hidden="true"> ↗</span></a>)}</div></div>
+  <nav aria-label="Policy drafts"><h2>Policy drafts</h2><ul>{pages.slice(4).map(p => <li><a href={`/${p.slug}/`}>{p.title}</a></li>)}</ul><p class="small">Internal drafts. Review deferred.</p></nav>
+</div><div class="container footer-bottom"><span>© {new Date().getFullYear()} Kanjay Consulting</span><span>Internal design review · Not a published site</span></div></footer>

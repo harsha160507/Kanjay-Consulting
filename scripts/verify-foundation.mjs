@@ -7,11 +7,19 @@ for (const route of routes) {
   assert.match(html, /noindex, nofollow/, `${route}: indexing protection`);
   assert.match(html, /<h1[ >]/, `${route}: static readable heading`);
   assert.match(html, /href="#main"/, `${route}: skip link`);
-  assert.doesNotMatch(html, /<form\b|<iframe\b|<astro-island\b|href="(?:tel:|mailto:)/i, `${route}: no unapproved contact or integrations`);
-  assert.doesNotMatch(html, /<script\b/i, `${route}: static foundation must ship no scripts`);
+  assert.doesNotMatch(html, /<form\b|<iframe\b|<astro-island\b/i, `${route}: no forms, embeds or hydrated islands`);
+  assert.match(html, /href="tel:\+918939715152"/, `${route}: approved phone link`);
+  assert.match(html, /href="mailto:info@kanjayconsulting.com"/, `${route}: approved business email`);
+  assert.match(html, /href="mailto:hr@kanjayconsulting.com"/, `${route}: candidate email`);
+  assert.match(html, /<details class="mobile-nav"/, `${route}: native no-JS navigation`);
+  assert.match(html, /aria-label="Policy drafts"/, `${route}: policy draft labels`);
+  for (const [, href] of html.matchAll(/href="(\/[^"]*)"/g)) {
+    const target = href.split('#')[0];
+    assert.ok(existsSync(`dist${target === '/' ? '/index.html' : target.endsWith('/') ? target + 'index.html' : target}`), `${route}: local link ${href} exists`);
+  }
 }
 assert.equal(existsSync('dist/robots.txt'), true);
 assert.equal(existsSync('dist/_headers'), true);
 assert.equal(existsSync('next.config.js'), false);
 assert.equal(readdirSync('public/images/clients').filter(p => p !== '.gitkeep').length, 0);
-console.log(`Foundation verified: ${routes.length} static routes, indexing controls, visible content and no scripts/forms/unapproved client assets.`);
+console.log(`Layout verified: ${routes.length} static routes, real navigation/contact links, native mobile disclosure, indexing controls and no forms/embeds/unapproved client assets.`);

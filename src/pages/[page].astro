@@ -8,6 +8,6 @@ const { title } = Astro.props;
 ---
 <BaseLayout title={title}>
   <h1>{title}</h1>
-  <p>Development route reserved. Content requires business approval before publication.</p>
-  <a href="/">Return to the development index</a>
+  <div class="draft-note"><strong>Internal draft · Page content pending.</strong> This route previews the shared layout. {['Terms of Use', 'Privacy Policy', 'Cookie Policy', 'Disclaimer'].includes(title) ? 'Policy content and review are deferred.' : 'Final page content is outside this phase. Unsupported business claims are omitted.'}</div>
+  <a href="/">Return to the visual system review</a>
 </BaseLayout>

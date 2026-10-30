@@ -1,6 +1,8 @@
 ---
 import '../styles/global.css';
 import { business } from '../data/site';
+import Header from '../components/layout/Header.astro';
+import Footer from '../components/layout/Footer.astro';
 interface Props { title: string }
 const { title } = Astro.props;
 ---
@@ -10,13 +12,15 @@ const { title } = Astro.props;
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="robots" content="noindex, nofollow" />
+    <script is:inline>try { const t = localStorage.getItem('kanjay-theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch {}</script>
     <title>{title} | {business.projectName} development</title>
     <meta name="description" content="Unpublished development foundation for the Kanjay Consulting redesign." />
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
-    <header><a href="/">{business.projectName}</a><p>Phase 1 · Development only</p></header>
+    <div class="review-banner">INTERNAL DESIGN REVIEW <span>Phase 2 · Shared layout</span></div>
+    <Header />
     <main id="main" tabindex="-1"><slot /></main>
-    <footer><p>Unpublished foundation. Business copy, assets and policies await approval.</p></footer>
+    <Footer />
   </body>
 </html>

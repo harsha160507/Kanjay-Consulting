@@ -1,0 +1,5 @@
+import assert from 'node:assert/strict';
+const themes={light:{bg:'#faf8f3',surface:'#ffffff',soft:'#eeece5',text:'#25364a',muted:'#526071',accent:'#126778',onAccent:'#ffffff',line:'#7a8590'},dark:{bg:'#152332',surface:'#1e3042',soft:'#283c50',text:'#f5f4ef',muted:'#bdc9d4',accent:'#83d6dd',onAccent:'#152332',line:'#8295a6'}};
+function lum(hex){const v=hex.slice(1).match(/../g).map(x=>parseInt(x,16)/255).map(x=>x<=.04045?x/12.92:((x+.055)/1.055)**2.4);return v[0]*.2126+v[1]*.7152+v[2]*.0722;}
+function ratio(a,b){const x=lum(a),y=lum(b);return(Math.max(x,y)+.05)/(Math.min(x,y)+.05);}
+for(const[name,t]of Object.entries(themes)){let min=21;for(const fg of ['text','muted','accent'])for(const bg of ['bg','surface','soft']){const r=ratio(t[fg],t[bg]);assert.ok(r>=4.5,`${name} ${fg}/${bg}: ${r}`);min=Math.min(min,r);}assert.ok(ratio(t.onAccent,t.accent)>=4.5);for(const bg of ['bg','surface','soft'])assert.ok(ratio(t.line,t[bg])>=3,`${name} boundary/${bg}`);console.log(`${name}: text minimum ${min.toFixed(2)}:1; control boundaries >=3:1; action labels >=4.5:1`);}

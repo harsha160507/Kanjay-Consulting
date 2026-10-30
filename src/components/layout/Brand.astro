@@ -1,0 +1,5 @@
+---
+interface Props { footer?: boolean }
+const { footer = false } = Astro.props;
+---
+<a class:list={['brand', { 'brand--footer': footer }]} href="/" aria-label="Kanjay Consulting home"><img src="/images/brand/kanjay-logo-light-transparent.svg" alt="Kanjay Consulting" width="80" height="80" /><span aria-hidden="true">KANJAY<small>CONSULTING</small></span></a>

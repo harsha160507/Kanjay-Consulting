@@ -306,6 +306,18 @@
     "dev": false
   },
   {
+    "path": "node_modules/@fontsource/inter",
+    "version": "5.3.0",
+    "license": "OFL-1.1",
+    "dev": false
+  },
+  {
+    "path": "node_modules/@fontsource/manrope",
+    "version": "5.3.0",
+    "license": "OFL-1.1",
+    "dev": false
+  },
+  {
     "path": "node_modules/@img/colour",
     "version": "1.1.0",
     "license": "MIT",
