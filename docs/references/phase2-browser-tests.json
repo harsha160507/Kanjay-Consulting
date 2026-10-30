@@ -1,0 +1,201 @@
+{
+  "javascript": [
+    {
+      "width": 375,
+      "mouseNavigation": {
+        "current": [
+          "Services",
+          "Services"
+        ],
+        "overflow": false,
+        "title": "Services",
+        "width": 375
+      },
+      "keyboardFocus": {
+        "outline": "rgb(131, 214, 221) solid 2.66667px",
+        "text": "About Us",
+        "visible": true
+      },
+      "skip": "main",
+      "light": {
+        "bg": "rgb(250, 248, 243)",
+        "theme": "light"
+      },
+      "darkAfterReload": {
+        "bg": "rgb(21, 35, 50)",
+        "checked": true,
+        "theme": "dark"
+      }
+    },
+    {
+      "width": 768,
+      "mouseNavigation": {
+        "current": [
+          "Services",
+          "Services"
+        ],
+        "overflow": false,
+        "title": "Services",
+        "width": 768
+      },
+      "keyboardFocus": {
+        "outline": "rgb(131, 214, 221) solid 2.66667px",
+        "text": "About Us",
+        "visible": true
+      },
+      "skip": "main",
+      "light": {
+        "bg": "rgb(250, 248, 243)",
+        "theme": "light"
+      },
+      "darkAfterReload": {
+        "bg": "rgb(21, 35, 50)",
+        "checked": true,
+        "theme": "dark"
+      }
+    },
+    {
+      "width": 1440,
+      "mouseNavigation": {
+        "current": [
+          "Services",
+          "Services"
+        ],
+        "overflow": false,
+        "title": "Services",
+        "width": 1440
+      },
+      "keyboardFocus": {
+        "outline": "rgb(131, 214, 221) solid 2.66667px",
+        "text": "Services",
+        "visible": true
+      },
+      "skip": "main",
+      "light": {
+        "bg": "rgb(250, 248, 243)",
+        "theme": "light"
+      },
+      "darkAfterReload": {
+        "bg": "rgb(21, 35, 50)",
+        "checked": true,
+        "theme": "dark"
+      }
+    }
+  ],
+  "noJavaScript": [
+    {
+      "width": 375,
+      "baseline": {
+        "bg": "rgb(21, 35, 50)",
+        "footer": true,
+        "heading": "A clear foundation.\nA considered presence.",
+        "homeCurrent": 0,
+        "overflow": false,
+        "themeAttribute": null
+      },
+      "themeChangesWithoutJS": true,
+      "destination": {
+        "current": [
+          "About Us",
+          "About Us"
+        ],
+        "h1": "About Us",
+        "path": "/about/",
+        "themeAttribute": null
+      },
+      "skip": "main"
+    },
+    {
+      "width": 768,
+      "baseline": {
+        "bg": "rgb(21, 35, 50)",
+        "footer": true,
+        "heading": "A clear foundation.\nA considered presence.",
+        "homeCurrent": 0,
+        "overflow": false,
+        "themeAttribute": null
+      },
+      "themeChangesWithoutJS": true,
+      "destination": {
+        "current": [
+          "About Us",
+          "About Us"
+        ],
+        "h1": "About Us",
+        "path": "/about/",
+        "themeAttribute": null
+      },
+      "skip": "main"
+    },
+    {
+      "width": 1440,
+      "baseline": {
+        "bg": "rgb(21, 35, 50)",
+        "footer": true,
+        "heading": "A clear foundation.\nA considered presence.",
+        "homeCurrent": 0,
+        "overflow": false,
+        "themeAttribute": null
+      },
+      "themeChangesWithoutJS": true,
+      "destination": {
+        "current": [
+          "About Us",
+          "About Us"
+        ],
+        "h1": "About Us",
+        "path": "/about/",
+        "themeAttribute": null
+      },
+      "skip": "main"
+    }
+  ],
+  "additional": [
+    {
+      "width": 375,
+      "lightAcrossNavigation": {
+        "theme": "light",
+        "width": 375
+      },
+      "focus": {
+        "outline": "rgb(131, 214, 221) solid 2.66667px",
+        "text": "Menu ☰",
+        "visible": true
+      },
+      "escape": {
+        "closed": true,
+        "focus": "SUMMARY"
+      }
+    },
+    {
+      "width": 768,
+      "lightAcrossNavigation": {
+        "theme": "light",
+        "width": 768
+      },
+      "focus": {
+        "outline": "rgb(131, 214, 221) solid 2.66667px",
+        "text": "Menu ☰",
+        "visible": true
+      },
+      "escape": {
+        "closed": true,
+        "focus": "SUMMARY"
+      }
+    },
+    {
+      "width": 1440,
+      "lightAcrossNavigation": {
+        "theme": "light",
+        "width": 1440
+      },
+      "focus": {
+        "outline": "rgb(131, 214, 221) solid 2.66667px",
+        "text": "Return to the visual system review",
+        "visible": true
+      },
+      "escape": null
+    }
+  ],
+  "method": "No-JS production audit uses CSP script-src none, not a global browser-engine setting."
+}
