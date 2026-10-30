@@ -2,12 +2,15 @@
 import { pages } from '../../../data/site';
 import Home from '../../index.astro';
 import Draft from '../../[page].astro';
+import Prototype from '../../prototype/[...mode].astro';
+interface Props { title: string; home?: boolean; prototype?: boolean; enhanced?: boolean }
 export function getStaticPaths() {
   return ['light', 'dark'].flatMap(theme => [
     { params: { theme, page: undefined }, props: { title: 'Shared layout review', home: true } },
     ...pages.map(p => ({ params: { theme, page: p.slug }, props: { title: p.title, home: false } })),
+    ...['prototype', 'prototype/static'].map(page => ({ params: { theme, page }, props: { title: 'Prototype', prototype: true, enhanced: page === 'prototype' } })),
   ]);
 }
-const { title, home } = Astro.props;
+const { title, home, prototype, enhanced = true } = Astro.props;
 ---
-{home ? <Home /> : <Draft title={title} />}
+{prototype ? <Prototype enhanced={enhanced} /> : home ? <Home /> : <Draft title={title} />}

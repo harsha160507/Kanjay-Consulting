@@ -1,0 +1,21 @@
+{
+  "checked": "2026-10-30",
+  "sources": {
+    "PillNav": "https://reactbits.dev/components/pill-nav",
+    "SpotlightCard": "https://reactbits.dev/components/spotlight-card",
+    "LogoLoop": "https://reactbits.dev/animations/logo-loop",
+    "BlurText": "https://reactbits.dev/text-animations/blur-text",
+    "GradientText": "https://reactbits.dev/text-animations/gradient-text",
+    "Magnet": "https://reactbits.dev/animations/magnet",
+    "DotGrid": "https://reactbits.dev/backgrounds/dot-grid"
+  },
+  "licences": {
+    "reactBits": "MIT plus Commons Clause, official licence file retained",
+    "uiverse": "MIT, official galaxy collection licence retained; supplied author thewizardofzen credited"
+  },
+  "limits": [
+    "Supplied ZIP snippets are modified/unversioned; exact upstream commit and per-element Uiverse permalink not supplied.",
+    "Official registry JSON endpoints returned HTTP errors; no unverified registry command was run.",
+    "DotGrid and GlassIcons source are absent from supplied ZIP; no new external component was substituted."
+  ]
+}
