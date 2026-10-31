@@ -1,0 +1,68 @@
+[
+  {
+    "url": "/contact/",
+    "result": "PASS",
+    "headings": [
+      1,
+      2,
+      3,
+      3,
+      2,
+      2,
+      2,
+      2
+    ],
+    "checks": [
+      "Approved contact values and candidate routing",
+      "Single h1, sequential headings, unique IDs",
+      "All internal link and fragment targets",
+      "Only approved social URLs",
+      "No form, iframe, island, confirmation or unapproved social",
+      "Initial-enquiry guidance present"
+    ]
+  },
+  {
+    "url": "/theme/light/contact/",
+    "result": "PASS",
+    "headings": [
+      1,
+      2,
+      3,
+      3,
+      2,
+      2,
+      2,
+      2
+    ],
+    "checks": [
+      "Approved contact values and candidate routing",
+      "Single h1, sequential headings, unique IDs",
+      "All internal link and fragment targets",
+      "Only approved social URLs",
+      "No form, iframe, island, confirmation or unapproved social",
+      "Initial-enquiry guidance present"
+    ]
+  },
+  {
+    "url": "/theme/dark/contact/",
+    "result": "PASS",
+    "headings": [
+      1,
+      2,
+      3,
+      3,
+      2,
+      2,
+      2,
+      2
+    ],
+    "checks": [
+      "Approved contact values and candidate routing",
+      "Single h1, sequential headings, unique IDs",
+      "All internal link and fragment targets",
+      "Only approved social URLs",
+      "No form, iframe, island, confirmation or unapproved social",
+      "Initial-enquiry guidance present"
+    ]
+  }
+]

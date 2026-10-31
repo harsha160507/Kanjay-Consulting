@@ -1,0 +1,40 @@
+---
+import { business } from '../data/site';
+import { routeContext } from '../lib/routes';
+import './react-bits/prototype/UiverseButton.css';
+import '../styles/contact.css';
+const route = routeContext(Astro.url.pathname);
+---
+<div class="contact-page">
+  <section class="contact-intro" aria-labelledby="contact-title">
+    <p class="eyebrow">Kanjay Consulting / Contact us</p>
+    <h1 id="contact-title">Let’s talk about<br /><span>your business.</span></h1>
+    <p class="lede">Contact our team about HR support or GeM seller consulting. Choose a call or an email to start the conversation.</p>
+  </section>
+
+  <section class="contact-methods" aria-labelledby="contact-methods-title">
+    <h2 id="contact-methods-title" class="sr-only">Contact our team</h2>
+    <article class="contact-panel" aria-labelledby="call-title">
+      <p class="eyebrow"><span aria-hidden="true">01 / </span>By phone</p>
+      <h3 id="call-title">Speak with our team.</h3>
+      <p class="contact-detail">{business.phoneDisplay}</p>
+      <a class="proto-button contact-action" href={`tel:${business.phone}`}>Call our team <span aria-hidden="true">↗</span></a>
+    </article>
+    <article class="contact-panel" aria-labelledby="email-title">
+      <p class="eyebrow"><span aria-hidden="true">02 / </span>By email</p>
+      <h3 id="email-title">Tell us what you need.</h3>
+      <p class="contact-detail">{business.email}</p>
+      <a class="proto-button contact-action" href={`mailto:${business.email}`}>Email our team <span aria-hidden="true">↗</span></a>
+    </article>
+  </section>
+  <p class="contact-app-note">Call and email links open your device’s calling or email app. You can also select and copy the details above.</p>
+
+  <section class="contact-enquiry" aria-labelledby="enquiry-title">
+    <div><p class="eyebrow">Your initial enquiry</p><h2 id="enquiry-title">Start with<br />a brief overview.</h2></div>
+    <div><p>Briefly describe the HR support or GeM seller service you are looking for.</p><p>Please do not send confidential employee, payroll, identity or tender documents in an ordinary initial enquiry. Ask our team about the appropriate document-transfer process first.</p><div class="contact-service-links"><a href={route.to('/services/#hr-support')}>Explore HR support <span aria-hidden="true">↗</span></a><a href={route.to('/services/#gem-seller-support')}>Explore GeM seller support <span aria-hidden="true">↗</span></a></div></div>
+  </section>
+
+  <section class="contact-candidate" aria-labelledby="candidate-title"><div><p class="eyebrow">Recruitment enquiries</p><h2 id="candidate-title">Looking for a role?</h2><p>Candidate recruitment enquiries go to our HR email. Employers can use the business email above.</p></div><div><p class="contact-detail">{business.candidateEmail}</p><a class="contact-text-link" href={`mailto:${business.candidateEmail}`}>Email about a candidate enquiry <span aria-hidden="true">↗</span></a></div></section>
+
+  <section class="contact-location" aria-labelledby="location-title"><div><p class="eyebrow">Our address</p><h2 id="location-title">Kanjay Consulting</h2><address>{business.address}</address></div><div><p class="eyebrow">Find us online</p><h2 id="social-title">Connect with Kanjay.</h2><nav class="social-links" aria-labelledby="social-title">{business.socialLinks.map(profile => <a href={profile.href}>{profile.label}<span aria-hidden="true"> ↗</span></a>)}</nav></div></section>
+</div>
