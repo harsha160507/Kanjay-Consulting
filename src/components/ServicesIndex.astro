@@ -1,0 +1,5 @@
+---
+import { homePaths } from '../data/home';
+---
+<div class="draft-note"><strong>Internal draft · Services section index.</strong> These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.</div>
+{homePaths.map(path => <section class="system-section" id={path.id} aria-labelledby={`${path.id}-title`}><p class="eyebrow">{path.market}</p><h2 id={`${path.id}-title`}>{path.title}</h2>{path.services.map(service => <article id={service.id} style="scroll-margin-top:2rem"><h3>{service.name}</h3><p>{service.summary}</p></article>)}</section>)}

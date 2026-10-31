@@ -1,0 +1,158 @@
+{
+  "layout": [
+    {
+      "cream": "rgb(250, 248, 243)",
+      "h1": "HR support.\nGeM seller guidance.",
+      "logos": 5,
+      "minServiceLinkHeight": 64,
+      "overflow": false,
+      "sections": 6,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "cream": "rgb(250, 248, 243)",
+      "h1": "HR support.\nGeM seller guidance.",
+      "logos": 5,
+      "minServiceLinkHeight": 64,
+      "overflow": false,
+      "sections": 6,
+      "theme": "light",
+      "width": 768
+    },
+    {
+      "cream": "rgb(250, 248, 243)",
+      "h1": "HR support.\nGeM seller guidance.",
+      "logos": 5,
+      "minServiceLinkHeight": 64,
+      "overflow": false,
+      "sections": 6,
+      "theme": "light",
+      "width": 1440
+    },
+    {
+      "cream": "rgb(250, 248, 243)",
+      "h1": "HR support.\nGeM seller guidance.",
+      "logos": 5,
+      "minServiceLinkHeight": 64,
+      "overflow": false,
+      "sections": 6,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "cream": "rgb(250, 248, 243)",
+      "h1": "HR support.\nGeM seller guidance.",
+      "logos": 5,
+      "minServiceLinkHeight": 64,
+      "overflow": false,
+      "sections": 6,
+      "theme": "dark",
+      "width": 768
+    },
+    {
+      "cream": "rgb(250, 248, 243)",
+      "h1": "HR support.\nGeM seller guidance.",
+      "logos": 5,
+      "minServiceLinkHeight": 64,
+      "overflow": false,
+      "sections": 6,
+      "theme": "dark",
+      "width": 1440
+    }
+  ],
+  "navigationWithScriptsBlocked": [
+    {
+      "width": 375,
+      "service": "Recruitment & Talent Acquisition",
+      "firstTab": {
+        "focus": true,
+        "href": "#hr-support-home",
+        "outline": "rgb(18, 103, 120) solid 2.66667px"
+      },
+      "result": {
+        "hash": "#recruitment-talent-acquisition",
+        "heading": "Recruitment & Talent Acquisition",
+        "indexDraft": true,
+        "top": 32.052085876464844
+      }
+    },
+    {
+      "width": 375,
+      "service": "Seller Registration & Profile Setup",
+      "firstTab": {
+        "focus": true,
+        "href": "#hr-support-home",
+        "outline": "rgb(18, 103, 120) solid 2.66667px"
+      },
+      "result": {
+        "hash": "#seller-registration-profile-setup",
+        "heading": "Seller Registration & Profile Setup",
+        "indexDraft": true,
+        "top": 35
+      }
+    },
+    {
+      "width": 768,
+      "service": "Recruitment & Talent Acquisition",
+      "firstTab": {
+        "focus": true,
+        "href": "#hr-support-home",
+        "outline": "rgb(18, 103, 120) solid 2.66667px"
+      },
+      "result": {
+        "hash": "#recruitment-talent-acquisition",
+        "heading": "Recruitment & Talent Acquisition",
+        "indexDraft": true,
+        "top": 32.10416793823242
+      }
+    },
+    {
+      "width": 768,
+      "service": "Seller Registration & Profile Setup",
+      "firstTab": {
+        "focus": true,
+        "href": "#hr-support-home",
+        "outline": "rgb(18, 103, 120) solid 2.66667px"
+      },
+      "result": {
+        "hash": "#seller-registration-profile-setup",
+        "heading": "Seller Registration & Profile Setup",
+        "indexDraft": true,
+        "top": 32.09375
+      }
+    },
+    {
+      "width": 1440,
+      "service": "Recruitment & Talent Acquisition",
+      "firstTab": {
+        "focus": true,
+        "href": "#hr-support-home",
+        "outline": "rgb(18, 103, 120) solid 2.66667px"
+      },
+      "result": {
+        "hash": "#recruitment-talent-acquisition",
+        "heading": "Recruitment & Talent Acquisition",
+        "indexDraft": true,
+        "top": 32.020835876464844
+      }
+    },
+    {
+      "width": 1440,
+      "service": "Seller Registration & Profile Setup",
+      "firstTab": {
+        "focus": true,
+        "href": "#hr-support-home",
+        "outline": "rgb(18, 103, 120) solid 2.66667px"
+      },
+      "result": {
+        "hash": "#seller-registration-profile-setup",
+        "heading": "Seller Registration & Profile Setup",
+        "indexDraft": true,
+        "top": 41.44791793823242
+      }
+    }
+  ],
+  "actualScreenReader": "NOT TESTED",
+  "physicalTouch": "NOT TESTED"
+}
