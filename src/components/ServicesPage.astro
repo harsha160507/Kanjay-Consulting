@@ -15,7 +15,7 @@ const emailFor = (name: string) => `mailto:${business.email}?subject=${encodeURI
     <div class="services-list">{group.services.map((service, index) => <article id={service.id} class="service-detail" aria-labelledby={`${service.id}-title`}><header><p class="eyebrow">{group.name} / {String(index + 1).padStart(2, '0')}</p><h3 id={`${service.id}-title`}>{service.name}</h3></header>
       <dl class="service-facts"><dt>Who it serves</dt><dd>{service.who}</dd><dt>Need addressed</dt><dd>{service.problem}</dd><dt>Scope described</dt><dd>{service.scope}</dd></dl>
       <details class="service-faq"><summary>{service.faq.question}</summary><p>{service.faq.answer}</p></details>
-      <a class="services-text-link service-email" href={emailFor(service.name)} aria-label={`Email Kanjay about ${service.name}`}>{service.id === 'recruitment-talent-acquisition' ? 'Employer enquiry by email' : 'Discuss this service by email'} <span aria-hidden="true">↗</span></a>
+      <a class="services-text-link service-email" href={emailFor(service.name)} aria-label={`${service.id === 'recruitment-talent-acquisition' ? 'Employer enquiry by email' : 'Discuss this service by email'}: ${service.name}`}>{service.id === 'recruitment-talent-acquisition' ? 'Employer enquiry by email' : 'Discuss this service by email'} <span aria-hidden="true">↗</span></a>
       {service.id === 'recruitment-talent-acquisition' && <a class="services-text-link service-email" href={`mailto:${business.candidateEmail}`}>Candidate enquiry by email <span aria-hidden="true">↗</span></a>}
       <a class="service-back" href="#service-index">Back to service index <span aria-hidden="true">↑</span></a>
     </article>)}</div>

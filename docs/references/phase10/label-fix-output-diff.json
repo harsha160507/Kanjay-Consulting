@@ -1,0 +1,8 @@
+{
+  "changed": [
+    "dist/services/index.html",
+    "dist/theme/dark/services/index.html",
+    "dist/theme/light/services/index.html"
+  ],
+  "explanation": "Only the three Services HTML outputs changed; other measured pages are byte-identical."
+}

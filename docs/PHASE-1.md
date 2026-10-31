@@ -29,12 +29,12 @@ The latest reviewed archive fingerprint is `eb37b9860f5a43b0fd86e1496775f12cf1a6
 
 ## Unresolved public facts and treatment
 
-- Detailed service exclusions, prerequisites, client responsibilities, statutory jurisdictions, deliverables beyond supplied copy, real process/FAQ answers and timelines: do not invent; keep later drafting within supplied scope.
+- Phase 6 scope update: detailed exclusions, client input/access/approval requirements and exact handover/responsibility terms are OUT OF SCOPE for public pages, not missing supplied facts. Keep them in private commercial discussions. Other unsupported figures, timelines or claims must still be omitted.
 - Onsite delivery/physical offices in each market: unconfirmed; do not imply these from global coverage.
 - SILQ/Golden Works current-versus-past status and engagement descriptions: not supplied; approval to show logos does not establish status or narrative. Other clients have approved current status, but no approved case-study narratives.
 - Exact directions destination/GPS behaviour: not settled; address is known. No embedded map added.
 - Awards, certifications, testimonials and result figures: absent and optional; omit. Team, hours, response promises, Instagram and unidentified logo are deliberate omissions, not repeated input requests.
-- Policy facts (enquiry handling, retention, jurisdictions, privacy contact) remain deferred. Theme preference uses localStorage key kanjay-theme only after an explicit choice; no cookies or tracking introduced by this layout.
+- Phase 9: policy drafts now exist, with enquiry handling, retention, jurisdictions and privacy procedures still pending owner/legal approval. Theme preference uses localStorage key kanjay-theme on themed-URL visits with JavaScript, including direct visits, not only explicit switch clicks. The Cookie Policy records local observations and production verification limits.
 
 ## Later technical work and decisions
 

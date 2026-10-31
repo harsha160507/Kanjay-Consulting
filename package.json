@@ -10,7 +10,7 @@
   "scripts": {
     "dev": "astro dev --host 127.0.0.1",
     "check": "astro check",
-    "build": "astro build",
+    "build": "astro build && node scripts/prepare-review-headers.mjs",
     "preview": "astro preview --host 127.0.0.1",
     "verify": "node scripts/verify-foundation.mjs",
     "verify:prototype": "node scripts/verify-phase3.mjs",
@@ -31,5 +31,10 @@
     "@types/react-dom": "19.3.0",
     "lighthouse": "13.6.0",
     "typescript": "6.0.3"
+  },
+  "overrides": {
+    "@sentry/bundler-plugins": {
+      "glob": "14.0.3"
+    }
   }
 }

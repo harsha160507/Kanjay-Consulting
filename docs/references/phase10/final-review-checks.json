@@ -1,0 +1,9 @@
+{
+  "privacyScan": "PASS",
+  "evidenceFilesScanned": 29,
+  "finalRuns": 14,
+  "performanceAbove90": "PASS",
+  "automatedAccessibility": "100 in measured runs; not screen-reader/WCAG certification",
+  "remainingLocalDiagnostic": "bf-cache from deliberate no-store",
+  "sourceReferenceChanges": "none"
+}

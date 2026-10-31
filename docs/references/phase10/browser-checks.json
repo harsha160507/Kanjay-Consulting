@@ -1,0 +1,6951 @@
+{
+  "layouts": [
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "HR support.GeM seller guidance."
+        },
+        {
+          "level": "H2",
+          "text": "Two paths.Support around your needs."
+        },
+        {
+          "level": "H3",
+          "text": "HR support"
+        },
+        {
+          "level": "H3",
+          "text": "GeM seller support"
+        },
+        {
+          "level": "H2",
+          "text": "Agreed aroundyour business."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Working with businesses.Since 2014."
+        },
+        {
+          "level": "H3",
+          "text": "A selection of our clients"
+        },
+        {
+          "level": "H2",
+          "text": "Tell us whatyour business needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/"
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "about/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "About KanjayConsulting."
+        },
+        {
+          "level": "H2",
+          "text": "Our beginnings"
+        },
+        {
+          "level": "H2",
+          "text": "People, processesand the GeM portal."
+        },
+        {
+          "level": "H3",
+          "text": "For your organisationand its people."
+        },
+        {
+          "level": "H3",
+          "text": "For businesses sellingthrough GeM."
+        },
+        {
+          "level": "H2",
+          "text": "A mutually agreedapproach to your needs."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Let’s discuss whatyour business needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/about/"
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "services/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "HR support.GeM seller services."
+        },
+        {
+          "level": "H2",
+          "text": "Find the right contact"
+        },
+        {
+          "level": "H2",
+          "text": "Find a service"
+        },
+        {
+          "level": "H2",
+          "text": "HR support"
+        },
+        {
+          "level": "H3",
+          "text": "HR Audit & HR Process Setup"
+        },
+        {
+          "level": "H3",
+          "text": "Recruitment & Talent Acquisition"
+        },
+        {
+          "level": "H3",
+          "text": "Payroll & Statutory Compliance"
+        },
+        {
+          "level": "H3",
+          "text": "HR Policies & Documentation"
+        },
+        {
+          "level": "H3",
+          "text": "PMS / KRA-KPI"
+        },
+        {
+          "level": "H3",
+          "text": "Employee Engagement & Retention"
+        },
+        {
+          "level": "H3",
+          "text": "Onboarding, Exit & Full & Final Settlement"
+        },
+        {
+          "level": "H2",
+          "text": "GeM seller support"
+        },
+        {
+          "level": "H3",
+          "text": "Seller Registration & Profile Setup"
+        },
+        {
+          "level": "H3",
+          "text": "Product / Service Catalogue Upload"
+        },
+        {
+          "level": "H3",
+          "text": "Bid Search & Analysis"
+        },
+        {
+          "level": "H3",
+          "text": "Tender Participation & Support"
+        },
+        {
+          "level": "H3",
+          "text": "OEM Authorization & Vendor Assessment"
+        },
+        {
+          "level": "H3",
+          "text": "Catalogue Approval / Rejection Support"
+        },
+        {
+          "level": "H3",
+          "text": "Order & Contract Support"
+        },
+        {
+          "level": "H2",
+          "text": "Tell us which supportyou are looking for."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/services/"
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "clients/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Our clientrelationships."
+        },
+        {
+          "level": "H2",
+          "text": "Explore our expertise"
+        },
+        {
+          "level": "H2",
+          "text": "Current clients"
+        },
+        {
+          "level": "H2",
+          "text": "Discuss yourbusiness needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/clients/"
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "contact/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Let’s talk aboutyour business."
+        },
+        {
+          "level": "H2",
+          "text": "Contact our team"
+        },
+        {
+          "level": "H3",
+          "text": "Speak with our team."
+        },
+        {
+          "level": "H3",
+          "text": "Tell us what you need."
+        },
+        {
+          "level": "H2",
+          "text": "Start witha brief overview."
+        },
+        {
+          "level": "H2",
+          "text": "Looking for a role?"
+        },
+        {
+          "level": "H2",
+          "text": "Kanjay Consulting"
+        },
+        {
+          "level": "H2",
+          "text": "Connect with Kanjay."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/contact/"
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "terms-of-use/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Terms of Use"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "Using this website"
+        },
+        {
+          "level": "H2",
+          "text": "Enquiries and service arrangements"
+        },
+        {
+          "level": "H2",
+          "text": "Responsible use and website material"
+        },
+        {
+          "level": "H2",
+          "text": "External destinations"
+        },
+        {
+          "level": "H2",
+          "text": "Terms awaiting formal approval"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/terms-of-use/"
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "privacy-policy/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Privacy Policy"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "Information on the website"
+        },
+        {
+          "level": "H2",
+          "text": "When you contact the team"
+        },
+        {
+          "level": "H2",
+          "text": "Hosting and technical request information"
+        },
+        {
+          "level": "H2",
+          "text": "Theme preference and external services"
+        },
+        {
+          "level": "H2",
+          "text": "Privacy questions and requests"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/privacy-policy/"
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "cookie-policy/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Cookie Policy"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "What the current build uses"
+        },
+        {
+          "level": "H2",
+          "text": "Light and dark preference"
+        },
+        {
+          "level": "H2",
+          "text": "Your browser controls"
+        },
+        {
+          "level": "H2",
+          "text": "Third parties and launch review"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/cookie-policy/"
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "disclaimer/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Disclaimer"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "General website information"
+        },
+        {
+          "level": "H2",
+          "text": "GeM process assistance"
+        },
+        {
+          "level": "H2",
+          "text": "Client and external material"
+        },
+        {
+          "level": "H2",
+          "text": "Review and corrections"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/disclaimer/"
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "path": "",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "HR support.GeM seller guidance."
+        },
+        {
+          "level": "H2",
+          "text": "Two paths.Support around your needs."
+        },
+        {
+          "level": "H3",
+          "text": "HR support"
+        },
+        {
+          "level": "H3",
+          "text": "GeM seller support"
+        },
+        {
+          "level": "H2",
+          "text": "Agreed aroundyour business."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Working with businesses.Since 2014."
+        },
+        {
+          "level": "H3",
+          "text": "A selection of our clients"
+        },
+        {
+          "level": "H2",
+          "text": "Tell us whatyour business needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/"
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "path": "about/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "About KanjayConsulting."
+        },
+        {
+          "level": "H2",
+          "text": "Our beginnings"
+        },
+        {
+          "level": "H2",
+          "text": "People, processesand the GeM portal."
+        },
+        {
+          "level": "H3",
+          "text": "For your organisationand its people."
+        },
+        {
+          "level": "H3",
+          "text": "For businesses sellingthrough GeM."
+        },
+        {
+          "level": "H2",
+          "text": "A mutually agreedapproach to your needs."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Let’s discuss whatyour business needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/about/"
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "path": "services/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "HR support.GeM seller services."
+        },
+        {
+          "level": "H2",
+          "text": "Find the right contact"
+        },
+        {
+          "level": "H2",
+          "text": "Find a service"
+        },
+        {
+          "level": "H2",
+          "text": "HR support"
+        },
+        {
+          "level": "H3",
+          "text": "HR Audit & HR Process Setup"
+        },
+        {
+          "level": "H3",
+          "text": "Recruitment & Talent Acquisition"
+        },
+        {
+          "level": "H3",
+          "text": "Payroll & Statutory Compliance"
+        },
+        {
+          "level": "H3",
+          "text": "HR Policies & Documentation"
+        },
+        {
+          "level": "H3",
+          "text": "PMS / KRA-KPI"
+        },
+        {
+          "level": "H3",
+          "text": "Employee Engagement & Retention"
+        },
+        {
+          "level": "H3",
+          "text": "Onboarding, Exit & Full & Final Settlement"
+        },
+        {
+          "level": "H2",
+          "text": "GeM seller support"
+        },
+        {
+          "level": "H3",
+          "text": "Seller Registration & Profile Setup"
+        },
+        {
+          "level": "H3",
+          "text": "Product / Service Catalogue Upload"
+        },
+        {
+          "level": "H3",
+          "text": "Bid Search & Analysis"
+        },
+        {
+          "level": "H3",
+          "text": "Tender Participation & Support"
+        },
+        {
+          "level": "H3",
+          "text": "OEM Authorization & Vendor Assessment"
+        },
+        {
+          "level": "H3",
+          "text": "Catalogue Approval / Rejection Support"
+        },
+        {
+          "level": "H3",
+          "text": "Order & Contract Support"
+        },
+        {
+          "level": "H2",
+          "text": "Tell us which supportyou are looking for."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/services/"
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "path": "clients/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Our clientrelationships."
+        },
+        {
+          "level": "H2",
+          "text": "Explore our expertise"
+        },
+        {
+          "level": "H2",
+          "text": "Current clients"
+        },
+        {
+          "level": "H2",
+          "text": "Discuss yourbusiness needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/clients/"
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "path": "contact/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Let’s talk aboutyour business."
+        },
+        {
+          "level": "H2",
+          "text": "Contact our team"
+        },
+        {
+          "level": "H3",
+          "text": "Speak with our team."
+        },
+        {
+          "level": "H3",
+          "text": "Tell us what you need."
+        },
+        {
+          "level": "H2",
+          "text": "Start witha brief overview."
+        },
+        {
+          "level": "H2",
+          "text": "Looking for a role?"
+        },
+        {
+          "level": "H2",
+          "text": "Kanjay Consulting"
+        },
+        {
+          "level": "H2",
+          "text": "Connect with Kanjay."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/contact/"
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "path": "terms-of-use/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Terms of Use"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "Using this website"
+        },
+        {
+          "level": "H2",
+          "text": "Enquiries and service arrangements"
+        },
+        {
+          "level": "H2",
+          "text": "Responsible use and website material"
+        },
+        {
+          "level": "H2",
+          "text": "External destinations"
+        },
+        {
+          "level": "H2",
+          "text": "Terms awaiting formal approval"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/terms-of-use/"
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "path": "privacy-policy/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Privacy Policy"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "Information on the website"
+        },
+        {
+          "level": "H2",
+          "text": "When you contact the team"
+        },
+        {
+          "level": "H2",
+          "text": "Hosting and technical request information"
+        },
+        {
+          "level": "H2",
+          "text": "Theme preference and external services"
+        },
+        {
+          "level": "H2",
+          "text": "Privacy questions and requests"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/privacy-policy/"
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "path": "cookie-policy/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Cookie Policy"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "What the current build uses"
+        },
+        {
+          "level": "H2",
+          "text": "Light and dark preference"
+        },
+        {
+          "level": "H2",
+          "text": "Your browser controls"
+        },
+        {
+          "level": "H2",
+          "text": "Third parties and launch review"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/cookie-policy/"
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "path": "disclaimer/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Disclaimer"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "General website information"
+        },
+        {
+          "level": "H2",
+          "text": "GeM process assistance"
+        },
+        {
+          "level": "H2",
+          "text": "Client and external material"
+        },
+        {
+          "level": "H2",
+          "text": "Review and corrections"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/disclaimer/"
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "path": "",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "HR support.GeM seller guidance."
+        },
+        {
+          "level": "H2",
+          "text": "Two paths.Support around your needs."
+        },
+        {
+          "level": "H3",
+          "text": "HR support"
+        },
+        {
+          "level": "H3",
+          "text": "GeM seller support"
+        },
+        {
+          "level": "H2",
+          "text": "Agreed aroundyour business."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Working with businesses.Since 2014."
+        },
+        {
+          "level": "H3",
+          "text": "A selection of our clients"
+        },
+        {
+          "level": "H2",
+          "text": "Tell us whatyour business needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/"
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "path": "about/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "About KanjayConsulting."
+        },
+        {
+          "level": "H2",
+          "text": "Our beginnings"
+        },
+        {
+          "level": "H2",
+          "text": "People, processesand the GeM portal."
+        },
+        {
+          "level": "H3",
+          "text": "For your organisationand its people."
+        },
+        {
+          "level": "H3",
+          "text": "For businesses sellingthrough GeM."
+        },
+        {
+          "level": "H2",
+          "text": "A mutually agreedapproach to your needs."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Let’s discuss whatyour business needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/about/"
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "path": "services/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "HR support.GeM seller services."
+        },
+        {
+          "level": "H2",
+          "text": "Find the right contact"
+        },
+        {
+          "level": "H2",
+          "text": "Find a service"
+        },
+        {
+          "level": "H2",
+          "text": "HR support"
+        },
+        {
+          "level": "H3",
+          "text": "HR Audit & HR Process Setup"
+        },
+        {
+          "level": "H3",
+          "text": "Recruitment & Talent Acquisition"
+        },
+        {
+          "level": "H3",
+          "text": "Payroll & Statutory Compliance"
+        },
+        {
+          "level": "H3",
+          "text": "HR Policies & Documentation"
+        },
+        {
+          "level": "H3",
+          "text": "PMS / KRA-KPI"
+        },
+        {
+          "level": "H3",
+          "text": "Employee Engagement & Retention"
+        },
+        {
+          "level": "H3",
+          "text": "Onboarding, Exit & Full & Final Settlement"
+        },
+        {
+          "level": "H2",
+          "text": "GeM seller support"
+        },
+        {
+          "level": "H3",
+          "text": "Seller Registration & Profile Setup"
+        },
+        {
+          "level": "H3",
+          "text": "Product / Service Catalogue Upload"
+        },
+        {
+          "level": "H3",
+          "text": "Bid Search & Analysis"
+        },
+        {
+          "level": "H3",
+          "text": "Tender Participation & Support"
+        },
+        {
+          "level": "H3",
+          "text": "OEM Authorization & Vendor Assessment"
+        },
+        {
+          "level": "H3",
+          "text": "Catalogue Approval / Rejection Support"
+        },
+        {
+          "level": "H3",
+          "text": "Order & Contract Support"
+        },
+        {
+          "level": "H2",
+          "text": "Tell us which supportyou are looking for."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/services/"
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "path": "clients/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Our clientrelationships."
+        },
+        {
+          "level": "H2",
+          "text": "Explore our expertise"
+        },
+        {
+          "level": "H2",
+          "text": "Current clients"
+        },
+        {
+          "level": "H2",
+          "text": "Discuss yourbusiness needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/clients/"
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "path": "contact/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Let’s talk aboutyour business."
+        },
+        {
+          "level": "H2",
+          "text": "Contact our team"
+        },
+        {
+          "level": "H3",
+          "text": "Speak with our team."
+        },
+        {
+          "level": "H3",
+          "text": "Tell us what you need."
+        },
+        {
+          "level": "H2",
+          "text": "Start witha brief overview."
+        },
+        {
+          "level": "H2",
+          "text": "Looking for a role?"
+        },
+        {
+          "level": "H2",
+          "text": "Kanjay Consulting"
+        },
+        {
+          "level": "H2",
+          "text": "Connect with Kanjay."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/contact/"
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "path": "terms-of-use/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Terms of Use"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "Using this website"
+        },
+        {
+          "level": "H2",
+          "text": "Enquiries and service arrangements"
+        },
+        {
+          "level": "H2",
+          "text": "Responsible use and website material"
+        },
+        {
+          "level": "H2",
+          "text": "External destinations"
+        },
+        {
+          "level": "H2",
+          "text": "Terms awaiting formal approval"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/terms-of-use/"
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "path": "privacy-policy/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Privacy Policy"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "Information on the website"
+        },
+        {
+          "level": "H2",
+          "text": "When you contact the team"
+        },
+        {
+          "level": "H2",
+          "text": "Hosting and technical request information"
+        },
+        {
+          "level": "H2",
+          "text": "Theme preference and external services"
+        },
+        {
+          "level": "H2",
+          "text": "Privacy questions and requests"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/privacy-policy/"
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "path": "cookie-policy/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Cookie Policy"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "What the current build uses"
+        },
+        {
+          "level": "H2",
+          "text": "Light and dark preference"
+        },
+        {
+          "level": "H2",
+          "text": "Your browser controls"
+        },
+        {
+          "level": "H2",
+          "text": "Third parties and launch review"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/cookie-policy/"
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "path": "disclaimer/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Disclaimer"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "General website information"
+        },
+        {
+          "level": "H2",
+          "text": "GeM process assistance"
+        },
+        {
+          "level": "H2",
+          "text": "Client and external material"
+        },
+        {
+          "level": "H2",
+          "text": "Review and corrections"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/disclaimer/"
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "path": "",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "HR support.GeM seller guidance."
+        },
+        {
+          "level": "H2",
+          "text": "Two paths.Support around your needs."
+        },
+        {
+          "level": "H3",
+          "text": "HR support"
+        },
+        {
+          "level": "H3",
+          "text": "GeM seller support"
+        },
+        {
+          "level": "H2",
+          "text": "Agreed aroundyour business."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Working with businesses.Since 2014."
+        },
+        {
+          "level": "H3",
+          "text": "A selection of our clients"
+        },
+        {
+          "level": "H2",
+          "text": "Tell us whatyour business needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/"
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "path": "about/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "About KanjayConsulting."
+        },
+        {
+          "level": "H2",
+          "text": "Our beginnings"
+        },
+        {
+          "level": "H2",
+          "text": "People, processesand the GeM portal."
+        },
+        {
+          "level": "H3",
+          "text": "For your organisationand its people."
+        },
+        {
+          "level": "H3",
+          "text": "For businesses sellingthrough GeM."
+        },
+        {
+          "level": "H2",
+          "text": "A mutually agreedapproach to your needs."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Let’s discuss whatyour business needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/about/"
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "path": "services/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "HR support.GeM seller services."
+        },
+        {
+          "level": "H2",
+          "text": "Find the right contact"
+        },
+        {
+          "level": "H2",
+          "text": "Find a service"
+        },
+        {
+          "level": "H2",
+          "text": "HR support"
+        },
+        {
+          "level": "H3",
+          "text": "HR Audit & HR Process Setup"
+        },
+        {
+          "level": "H3",
+          "text": "Recruitment & Talent Acquisition"
+        },
+        {
+          "level": "H3",
+          "text": "Payroll & Statutory Compliance"
+        },
+        {
+          "level": "H3",
+          "text": "HR Policies & Documentation"
+        },
+        {
+          "level": "H3",
+          "text": "PMS / KRA-KPI"
+        },
+        {
+          "level": "H3",
+          "text": "Employee Engagement & Retention"
+        },
+        {
+          "level": "H3",
+          "text": "Onboarding, Exit & Full & Final Settlement"
+        },
+        {
+          "level": "H2",
+          "text": "GeM seller support"
+        },
+        {
+          "level": "H3",
+          "text": "Seller Registration & Profile Setup"
+        },
+        {
+          "level": "H3",
+          "text": "Product / Service Catalogue Upload"
+        },
+        {
+          "level": "H3",
+          "text": "Bid Search & Analysis"
+        },
+        {
+          "level": "H3",
+          "text": "Tender Participation & Support"
+        },
+        {
+          "level": "H3",
+          "text": "OEM Authorization & Vendor Assessment"
+        },
+        {
+          "level": "H3",
+          "text": "Catalogue Approval / Rejection Support"
+        },
+        {
+          "level": "H3",
+          "text": "Order & Contract Support"
+        },
+        {
+          "level": "H2",
+          "text": "Tell us which supportyou are looking for."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/services/"
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "path": "clients/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Our clientrelationships."
+        },
+        {
+          "level": "H2",
+          "text": "Explore our expertise"
+        },
+        {
+          "level": "H2",
+          "text": "Current clients"
+        },
+        {
+          "level": "H2",
+          "text": "Discuss yourbusiness needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/clients/"
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "path": "contact/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Let’s talk aboutyour business."
+        },
+        {
+          "level": "H2",
+          "text": "Contact our team"
+        },
+        {
+          "level": "H3",
+          "text": "Speak with our team."
+        },
+        {
+          "level": "H3",
+          "text": "Tell us what you need."
+        },
+        {
+          "level": "H2",
+          "text": "Start witha brief overview."
+        },
+        {
+          "level": "H2",
+          "text": "Looking for a role?"
+        },
+        {
+          "level": "H2",
+          "text": "Kanjay Consulting"
+        },
+        {
+          "level": "H2",
+          "text": "Connect with Kanjay."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/contact/"
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "path": "terms-of-use/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Terms of Use"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "Using this website"
+        },
+        {
+          "level": "H2",
+          "text": "Enquiries and service arrangements"
+        },
+        {
+          "level": "H2",
+          "text": "Responsible use and website material"
+        },
+        {
+          "level": "H2",
+          "text": "External destinations"
+        },
+        {
+          "level": "H2",
+          "text": "Terms awaiting formal approval"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/terms-of-use/"
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "path": "privacy-policy/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Privacy Policy"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "Information on the website"
+        },
+        {
+          "level": "H2",
+          "text": "When you contact the team"
+        },
+        {
+          "level": "H2",
+          "text": "Hosting and technical request information"
+        },
+        {
+          "level": "H2",
+          "text": "Theme preference and external services"
+        },
+        {
+          "level": "H2",
+          "text": "Privacy questions and requests"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/privacy-policy/"
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "path": "cookie-policy/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Cookie Policy"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "What the current build uses"
+        },
+        {
+          "level": "H2",
+          "text": "Light and dark preference"
+        },
+        {
+          "level": "H2",
+          "text": "Your browser controls"
+        },
+        {
+          "level": "H2",
+          "text": "Third parties and launch review"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/cookie-policy/"
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "path": "disclaimer/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Disclaimer"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "General website information"
+        },
+        {
+          "level": "H2",
+          "text": "GeM process assistance"
+        },
+        {
+          "level": "H2",
+          "text": "Client and external material"
+        },
+        {
+          "level": "H2",
+          "text": "Review and corrections"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/disclaimer/"
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "path": "",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "HR support.GeM seller guidance."
+        },
+        {
+          "level": "H2",
+          "text": "Two paths.Support around your needs."
+        },
+        {
+          "level": "H3",
+          "text": "HR support"
+        },
+        {
+          "level": "H3",
+          "text": "GeM seller support"
+        },
+        {
+          "level": "H2",
+          "text": "Agreed aroundyour business."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Working with businesses.Since 2014."
+        },
+        {
+          "level": "H3",
+          "text": "A selection of our clients"
+        },
+        {
+          "level": "H2",
+          "text": "Tell us whatyour business needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/"
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "path": "about/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "About KanjayConsulting."
+        },
+        {
+          "level": "H2",
+          "text": "Our beginnings"
+        },
+        {
+          "level": "H2",
+          "text": "People, processesand the GeM portal."
+        },
+        {
+          "level": "H3",
+          "text": "For your organisationand its people."
+        },
+        {
+          "level": "H3",
+          "text": "For businesses sellingthrough GeM."
+        },
+        {
+          "level": "H2",
+          "text": "A mutually agreedapproach to your needs."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Let’s discuss whatyour business needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/about/"
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "path": "services/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "HR support.GeM seller services."
+        },
+        {
+          "level": "H2",
+          "text": "Find the right contact"
+        },
+        {
+          "level": "H2",
+          "text": "Find a service"
+        },
+        {
+          "level": "H2",
+          "text": "HR support"
+        },
+        {
+          "level": "H3",
+          "text": "HR Audit & HR Process Setup"
+        },
+        {
+          "level": "H3",
+          "text": "Recruitment & Talent Acquisition"
+        },
+        {
+          "level": "H3",
+          "text": "Payroll & Statutory Compliance"
+        },
+        {
+          "level": "H3",
+          "text": "HR Policies & Documentation"
+        },
+        {
+          "level": "H3",
+          "text": "PMS / KRA-KPI"
+        },
+        {
+          "level": "H3",
+          "text": "Employee Engagement & Retention"
+        },
+        {
+          "level": "H3",
+          "text": "Onboarding, Exit & Full & Final Settlement"
+        },
+        {
+          "level": "H2",
+          "text": "GeM seller support"
+        },
+        {
+          "level": "H3",
+          "text": "Seller Registration & Profile Setup"
+        },
+        {
+          "level": "H3",
+          "text": "Product / Service Catalogue Upload"
+        },
+        {
+          "level": "H3",
+          "text": "Bid Search & Analysis"
+        },
+        {
+          "level": "H3",
+          "text": "Tender Participation & Support"
+        },
+        {
+          "level": "H3",
+          "text": "OEM Authorization & Vendor Assessment"
+        },
+        {
+          "level": "H3",
+          "text": "Catalogue Approval / Rejection Support"
+        },
+        {
+          "level": "H3",
+          "text": "Order & Contract Support"
+        },
+        {
+          "level": "H2",
+          "text": "Tell us which supportyou are looking for."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/services/"
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "path": "clients/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Our clientrelationships."
+        },
+        {
+          "level": "H2",
+          "text": "Explore our expertise"
+        },
+        {
+          "level": "H2",
+          "text": "Current clients"
+        },
+        {
+          "level": "H2",
+          "text": "Discuss yourbusiness needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/clients/"
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "path": "contact/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Let’s talk aboutyour business."
+        },
+        {
+          "level": "H2",
+          "text": "Contact our team"
+        },
+        {
+          "level": "H3",
+          "text": "Speak with our team."
+        },
+        {
+          "level": "H3",
+          "text": "Tell us what you need."
+        },
+        {
+          "level": "H2",
+          "text": "Start witha brief overview."
+        },
+        {
+          "level": "H2",
+          "text": "Looking for a role?"
+        },
+        {
+          "level": "H2",
+          "text": "Kanjay Consulting"
+        },
+        {
+          "level": "H2",
+          "text": "Connect with Kanjay."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/contact/"
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "path": "terms-of-use/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Terms of Use"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "Using this website"
+        },
+        {
+          "level": "H2",
+          "text": "Enquiries and service arrangements"
+        },
+        {
+          "level": "H2",
+          "text": "Responsible use and website material"
+        },
+        {
+          "level": "H2",
+          "text": "External destinations"
+        },
+        {
+          "level": "H2",
+          "text": "Terms awaiting formal approval"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/terms-of-use/"
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "path": "privacy-policy/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Privacy Policy"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "Information on the website"
+        },
+        {
+          "level": "H2",
+          "text": "When you contact the team"
+        },
+        {
+          "level": "H2",
+          "text": "Hosting and technical request information"
+        },
+        {
+          "level": "H2",
+          "text": "Theme preference and external services"
+        },
+        {
+          "level": "H2",
+          "text": "Privacy questions and requests"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/privacy-policy/"
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "path": "cookie-policy/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Cookie Policy"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "What the current build uses"
+        },
+        {
+          "level": "H2",
+          "text": "Light and dark preference"
+        },
+        {
+          "level": "H2",
+          "text": "Your browser controls"
+        },
+        {
+          "level": "H2",
+          "text": "Third parties and launch review"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/cookie-policy/"
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "path": "disclaimer/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(250, 248, 243)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Disclaimer"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "General website information"
+        },
+        {
+          "level": "H2",
+          "text": "GeM process assistance"
+        },
+        {
+          "level": "H2",
+          "text": "Client and external material"
+        },
+        {
+          "level": "H2",
+          "text": "Review and corrections"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/disclaimer/"
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "HR support.GeM seller guidance."
+        },
+        {
+          "level": "H2",
+          "text": "Two paths.Support around your needs."
+        },
+        {
+          "level": "H3",
+          "text": "HR support"
+        },
+        {
+          "level": "H3",
+          "text": "GeM seller support"
+        },
+        {
+          "level": "H2",
+          "text": "Agreed aroundyour business."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Working with businesses.Since 2014."
+        },
+        {
+          "level": "H3",
+          "text": "A selection of our clients"
+        },
+        {
+          "level": "H2",
+          "text": "Tell us whatyour business needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/"
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "about/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "About KanjayConsulting."
+        },
+        {
+          "level": "H2",
+          "text": "Our beginnings"
+        },
+        {
+          "level": "H2",
+          "text": "People, processesand the GeM portal."
+        },
+        {
+          "level": "H3",
+          "text": "For your organisationand its people."
+        },
+        {
+          "level": "H3",
+          "text": "For businesses sellingthrough GeM."
+        },
+        {
+          "level": "H2",
+          "text": "A mutually agreedapproach to your needs."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Let’s discuss whatyour business needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/about/"
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "services/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "HR support.GeM seller services."
+        },
+        {
+          "level": "H2",
+          "text": "Find the right contact"
+        },
+        {
+          "level": "H2",
+          "text": "Find a service"
+        },
+        {
+          "level": "H2",
+          "text": "HR support"
+        },
+        {
+          "level": "H3",
+          "text": "HR Audit & HR Process Setup"
+        },
+        {
+          "level": "H3",
+          "text": "Recruitment & Talent Acquisition"
+        },
+        {
+          "level": "H3",
+          "text": "Payroll & Statutory Compliance"
+        },
+        {
+          "level": "H3",
+          "text": "HR Policies & Documentation"
+        },
+        {
+          "level": "H3",
+          "text": "PMS / KRA-KPI"
+        },
+        {
+          "level": "H3",
+          "text": "Employee Engagement & Retention"
+        },
+        {
+          "level": "H3",
+          "text": "Onboarding, Exit & Full & Final Settlement"
+        },
+        {
+          "level": "H2",
+          "text": "GeM seller support"
+        },
+        {
+          "level": "H3",
+          "text": "Seller Registration & Profile Setup"
+        },
+        {
+          "level": "H3",
+          "text": "Product / Service Catalogue Upload"
+        },
+        {
+          "level": "H3",
+          "text": "Bid Search & Analysis"
+        },
+        {
+          "level": "H3",
+          "text": "Tender Participation & Support"
+        },
+        {
+          "level": "H3",
+          "text": "OEM Authorization & Vendor Assessment"
+        },
+        {
+          "level": "H3",
+          "text": "Catalogue Approval / Rejection Support"
+        },
+        {
+          "level": "H3",
+          "text": "Order & Contract Support"
+        },
+        {
+          "level": "H2",
+          "text": "Tell us which supportyou are looking for."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/services/"
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "clients/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Our clientrelationships."
+        },
+        {
+          "level": "H2",
+          "text": "Explore our expertise"
+        },
+        {
+          "level": "H2",
+          "text": "Current clients"
+        },
+        {
+          "level": "H2",
+          "text": "Discuss yourbusiness needs."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/clients/"
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "contact/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Let’s talk aboutyour business."
+        },
+        {
+          "level": "H2",
+          "text": "Contact our team"
+        },
+        {
+          "level": "H3",
+          "text": "Speak with our team."
+        },
+        {
+          "level": "H3",
+          "text": "Tell us what you need."
+        },
+        {
+          "level": "H2",
+          "text": "Start witha brief overview."
+        },
+        {
+          "level": "H2",
+          "text": "Looking for a role?"
+        },
+        {
+          "level": "H2",
+          "text": "Kanjay Consulting"
+        },
+        {
+          "level": "H2",
+          "text": "Connect with Kanjay."
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/contact/"
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "terms-of-use/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Terms of Use"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "Using this website"
+        },
+        {
+          "level": "H2",
+          "text": "Enquiries and service arrangements"
+        },
+        {
+          "level": "H2",
+          "text": "Responsible use and website material"
+        },
+        {
+          "level": "H2",
+          "text": "External destinations"
+        },
+        {
+          "level": "H2",
+          "text": "Terms awaiting formal approval"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/terms-of-use/"
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "privacy-policy/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Privacy Policy"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "Information on the website"
+        },
+        {
+          "level": "H2",
+          "text": "When you contact the team"
+        },
+        {
+          "level": "H2",
+          "text": "Hosting and technical request information"
+        },
+        {
+          "level": "H2",
+          "text": "Theme preference and external services"
+        },
+        {
+          "level": "H2",
+          "text": "Privacy questions and requests"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/privacy-policy/"
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "cookie-policy/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Cookie Policy"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "What the current build uses"
+        },
+        {
+          "level": "H2",
+          "text": "Light and dark preference"
+        },
+        {
+          "level": "H2",
+          "text": "Your browser controls"
+        },
+        {
+          "level": "H2",
+          "text": "Third parties and launch review"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/cookie-policy/"
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "disclaimer/",
+      "overflow": false,
+      "noJsMatches": true,
+      "badImages": [],
+      "background": "rgb(21, 35, 50)",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Disclaimer"
+        },
+        {
+          "level": "H2",
+          "text": "On this page"
+        },
+        {
+          "level": "H2",
+          "text": "General website information"
+        },
+        {
+          "level": "H2",
+          "text": "GeM process assistance"
+        },
+        {
+          "level": "H2",
+          "text": "Client and external material"
+        },
+        {
+          "level": "H2",
+          "text": "Review and corrections"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Kanjay"
+        },
+        {
+          "level": "H2",
+          "text": "Related policies"
+        }
+      ],
+      "canonical": "https://www.kanjayconsulting.com/disclaimer/"
+    }
+  ],
+  "keyboard": [
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 31,
+      "missing": [],
+      "stops": [
+        {
+          "href": "tel:+918939715152",
+          "name": "Call our team ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#home-services",
+          "name": "Explore our services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#hr-support-home",
+          "name": "01 / For employers · Global supportHR support↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#gem-seller-support-home",
+          "name": "02 / For sellers · Across IndiaGeM seller support↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/#hr-audit-process-setup",
+          "name": "HR Audit & HR Process Setup↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/#recruitment-talent-acquisition",
+          "name": "Recruitment & Talent Acquisition↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/#payroll-statutory-compliance",
+          "name": "Payroll & Statutory Compliance↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/#hr-support",
+          "name": "View HR support summaries ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/#seller-registration-profile-setup",
+          "name": "Seller Registration & Profile Setup↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/#bid-search-analysis",
+          "name": "Bid Search & Analysis↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/#order-contract-support",
+          "name": "Order & Contract Support↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/#gem-seller-support",
+          "name": "View GeM seller support summaries ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Discuss your needs by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "Call us+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Email usinfo@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "about/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 21,
+      "missing": [],
+      "stops": [
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Email our team",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/#hr-support",
+          "name": "Explore HR support ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/#gem-seller-support",
+          "name": "Explore GeM seller support ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "Call us+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Email usinfo@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "services/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 81,
+      "missing": [],
+      "stops": [
+        {
+          "href": "tel:+918939715152",
+          "name": "Call +91 89397 15152 ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Email Kanjay ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#hr-support",
+          "name": "HR support ↓",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#hr-audit-process-setup",
+          "name": "HR Audit & HR Process Setup",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#recruitment-talent-acquisition",
+          "name": "Recruitment & Talent Acquisition",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#payroll-statutory-compliance",
+          "name": "Payroll & Statutory Compliance",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#hr-policies-documentation",
+          "name": "HR Policies & Documentation",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#pms-kra-kpi",
+          "name": "PMS / KRA-KPI",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#employee-engagement-retention",
+          "name": "Employee Engagement & Retention",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#onboarding-exit-settlement",
+          "name": "Onboarding, Exit & Full & Final Settlement",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#gem-seller-support",
+          "name": "GeM seller support ↓",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#seller-registration-profile-setup",
+          "name": "Seller Registration & Profile Setup",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#product-service-catalogue-upload",
+          "name": "Product / Service Catalogue Upload",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#bid-search-analysis",
+          "name": "Bid Search & Analysis",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#tender-participation-support",
+          "name": "Tender Participation & Support",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#oem-authorization-vendor-assessment",
+          "name": "OEM Authorization & Vendor Assessment",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#catalogue-approval-rejection-support",
+          "name": "Catalogue Approval / Rejection Support",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#order-contract-support",
+          "name": "Order & Contract Support",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Does the review cover existing HR records?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Do you support employers and candidates?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry",
+          "name": "Employer enquiry by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "Candidate enquiry by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Do you coordinate with our finance team?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compliance%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Which HR documents can this cover?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentation%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "What do KRA and KPI mean here?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "What engagement activities are described?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Retention%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Does the service include exit support?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Do you provide GeM consulting for government buyers?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Can this cover products and services?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Do you review eligibility and submission timelines?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Does support include clarification responses?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Support%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "What application support is described?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Can you help after a catalogue rejection?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Does this cover work after receiving an order?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "clients/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 19,
+      "missing": [],
+      "stops": [
+        {
+          "href": "/theme/light/services/#hr-support",
+          "name": "HR support ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/#gem-seller-support",
+          "name": "GeM seller support ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "Call +91 89397 15152 ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "contact/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 22,
+      "missing": [],
+      "stops": [
+        {
+          "href": "tel:+918939715152",
+          "name": "Call our team ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Email our team ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/#hr-support",
+          "name": "Explore HR support ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/#gem-seller-support",
+          "name": "Explore GeM seller support ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "Email about a candidate enquiry ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "terms-of-use/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 26,
+      "missing": [],
+      "stops": [
+        {
+          "href": "#purpose",
+          "name": "Using this website",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#enquiries",
+          "name": "Enquiries and service arrangements",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#responsible-use",
+          "name": "Responsible use and website material",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#third-parties",
+          "name": "External destinations",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#legal-review",
+          "name": "Terms awaiting formal approval",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "privacy-policy/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 26,
+      "missing": [],
+      "stops": [
+        {
+          "href": "#website",
+          "name": "Information on the website",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#contact",
+          "name": "When you contact the team",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#hosting",
+          "name": "Hosting and technical request information",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#storage",
+          "name": "Theme preference and external services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#questions",
+          "name": "Privacy questions and requests",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "cookie-policy/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 25,
+      "missing": [],
+      "stops": [
+        {
+          "href": "#observed",
+          "name": "What the current build uses",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#theme",
+          "name": "Light and dark preference",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#controls",
+          "name": "Your browser controls",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#third-parties",
+          "name": "Third parties and launch review",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "path": "disclaimer/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 25,
+      "missing": [],
+      "stops": [
+        {
+          "href": "#information",
+          "name": "General website information",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#outcomes",
+          "name": "GeM process assistance",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#relationships",
+          "name": "Client and external material",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#review",
+          "name": "Review and corrections",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 31,
+      "missing": [],
+      "stops": [
+        {
+          "href": "tel:+918939715152",
+          "name": "Call our team ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#home-services",
+          "name": "Explore our services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#hr-support-home",
+          "name": "01 / For employers · Global supportHR support↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#gem-seller-support-home",
+          "name": "02 / For sellers · Across IndiaGeM seller support↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/#hr-audit-process-setup",
+          "name": "HR Audit & HR Process Setup↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/#recruitment-talent-acquisition",
+          "name": "Recruitment & Talent Acquisition↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/#payroll-statutory-compliance",
+          "name": "Payroll & Statutory Compliance↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/#hr-support",
+          "name": "View HR support summaries ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/#seller-registration-profile-setup",
+          "name": "Seller Registration & Profile Setup↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/#bid-search-analysis",
+          "name": "Bid Search & Analysis↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/#order-contract-support",
+          "name": "Order & Contract Support↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/#gem-seller-support",
+          "name": "View GeM seller support summaries ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Discuss your needs by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "Call us+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Email usinfo@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "about/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 21,
+      "missing": [],
+      "stops": [
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Email our team",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/#hr-support",
+          "name": "Explore HR support ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/#gem-seller-support",
+          "name": "Explore GeM seller support ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "Call us+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Email usinfo@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "services/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 81,
+      "missing": [],
+      "stops": [
+        {
+          "href": "tel:+918939715152",
+          "name": "Call +91 89397 15152 ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Email Kanjay ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#hr-support",
+          "name": "HR support ↓",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#hr-audit-process-setup",
+          "name": "HR Audit & HR Process Setup",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#recruitment-talent-acquisition",
+          "name": "Recruitment & Talent Acquisition",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#payroll-statutory-compliance",
+          "name": "Payroll & Statutory Compliance",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#hr-policies-documentation",
+          "name": "HR Policies & Documentation",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#pms-kra-kpi",
+          "name": "PMS / KRA-KPI",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#employee-engagement-retention",
+          "name": "Employee Engagement & Retention",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#onboarding-exit-settlement",
+          "name": "Onboarding, Exit & Full & Final Settlement",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#gem-seller-support",
+          "name": "GeM seller support ↓",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#seller-registration-profile-setup",
+          "name": "Seller Registration & Profile Setup",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#product-service-catalogue-upload",
+          "name": "Product / Service Catalogue Upload",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#bid-search-analysis",
+          "name": "Bid Search & Analysis",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#tender-participation-support",
+          "name": "Tender Participation & Support",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#oem-authorization-vendor-assessment",
+          "name": "OEM Authorization & Vendor Assessment",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#catalogue-approval-rejection-support",
+          "name": "Catalogue Approval / Rejection Support",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#order-contract-support",
+          "name": "Order & Contract Support",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Does the review cover existing HR records?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Do you support employers and candidates?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry",
+          "name": "Employer enquiry by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "Candidate enquiry by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Do you coordinate with our finance team?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compliance%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Which HR documents can this cover?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentation%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "What do KRA and KPI mean here?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "What engagement activities are described?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Retention%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Does the service include exit support?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Do you provide GeM consulting for government buyers?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Can this cover products and services?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Do you review eligibility and submission timelines?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Does support include clarification responses?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Support%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "What application support is described?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Can you help after a catalogue rejection?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": null,
+          "name": "Does this cover work after receiving an order?",
+          "outline": "2.66667px",
+          "tag": "SUMMARY",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%20enquiry",
+          "name": "Discuss this service by email ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#service-index",
+          "name": "Back to service index ↑",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "clients/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 19,
+      "missing": [],
+      "stops": [
+        {
+          "href": "/theme/dark/services/#hr-support",
+          "name": "HR support ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/#gem-seller-support",
+          "name": "GeM seller support ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "Call +91 89397 15152 ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "contact/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 22,
+      "missing": [],
+      "stops": [
+        {
+          "href": "tel:+918939715152",
+          "name": "Call our team ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Email our team ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/#hr-support",
+          "name": "Explore HR support ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/#gem-seller-support",
+          "name": "Explore GeM seller support ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "Email about a candidate enquiry ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "terms-of-use/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 26,
+      "missing": [],
+      "stops": [
+        {
+          "href": "#purpose",
+          "name": "Using this website",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#enquiries",
+          "name": "Enquiries and service arrangements",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#responsible-use",
+          "name": "Responsible use and website material",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#third-parties",
+          "name": "External destinations",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#legal-review",
+          "name": "Terms awaiting formal approval",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "privacy-policy/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 26,
+      "missing": [],
+      "stops": [
+        {
+          "href": "#website",
+          "name": "Information on the website",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#contact",
+          "name": "When you contact the team",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#hosting",
+          "name": "Hosting and technical request information",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#storage",
+          "name": "Theme preference and external services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#questions",
+          "name": "Privacy questions and requests",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "cookie-policy/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 25,
+      "missing": [],
+      "stops": [
+        {
+          "href": "#observed",
+          "name": "What the current build uses",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#theme",
+          "name": "Light and dark preference",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#controls",
+          "name": "Your browser controls",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#third-parties",
+          "name": "Third parties and launch review",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "path": "disclaimer/",
+      "skip": "main",
+      "ended": true,
+      "expectedCount": 25,
+      "missing": [],
+      "stops": [
+        {
+          "href": "#information",
+          "name": "General website information",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#outcomes",
+          "name": "GeM process assistance",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#relationships",
+          "name": "Client and external material",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "#review",
+          "name": "Review and corrections",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "pass": true
+    }
+  ],
+  "faq": [
+    {
+      "question": "Does the review cover existing HR records?",
+      "opened": true,
+      "closed": true
+    },
+    {
+      "question": "Do you support employers and candidates?",
+      "opened": true,
+      "closed": true
+    },
+    {
+      "question": "Do you coordinate with our finance team?",
+      "opened": true,
+      "closed": true
+    },
+    {
+      "question": "Which HR documents can this cover?",
+      "opened": true,
+      "closed": true
+    },
+    {
+      "question": "What do KRA and KPI mean here?",
+      "opened": true,
+      "closed": true
+    },
+    {
+      "question": "What engagement activities are described?",
+      "opened": true,
+      "closed": true
+    },
+    {
+      "question": "Does the service include exit support?",
+      "opened": true,
+      "closed": true
+    },
+    {
+      "question": "Do you provide GeM consulting for government buyers?",
+      "opened": true,
+      "closed": true
+    },
+    {
+      "question": "Can this cover products and services?",
+      "opened": true,
+      "closed": true
+    },
+    {
+      "question": "Do you review eligibility and submission timelines?",
+      "opened": true,
+      "closed": true
+    },
+    {
+      "question": "Does support include clarification responses?",
+      "opened": true,
+      "closed": true
+    },
+    {
+      "question": "What application support is described?",
+      "opened": true,
+      "closed": true
+    },
+    {
+      "question": "Can you help after a catalogue rejection?",
+      "opened": true,
+      "closed": true
+    },
+    {
+      "question": "Does this cover work after receiving an order?",
+      "opened": true,
+      "closed": true
+    }
+  ],
+  "navigation": [
+    {
+      "menuOpened": true,
+      "menuClosed": true,
+      "darkUrl": "http://127.0.0.1:4340/theme/dark/services/",
+      "persistedUrl": "http://127.0.0.1:4340/theme/dark/about/"
+    }
+  ],
+  "enforcedHeaderLogs": []
+}
