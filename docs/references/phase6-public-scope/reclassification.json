@@ -1,0 +1,350 @@
+{
+  "scopeAuthority": "Owner feedback in chat, 31 October 2026",
+  "missingDetailedFactsWereSupplied": false,
+  "services": [
+    {
+      "id": "hr-audit-process-setup",
+      "name": "HR Audit & HR Process Setup",
+      "reason": "Owner changed public publication scope; missing commercial facts were not supplied.",
+      "detailedExclusions": {
+        "original": "FAIL: actual approved exclusions absent",
+        "current": "OUT OF SCOPE"
+      },
+      "clientDocumentsAccessApprovalsResponsibilities": {
+        "original": "FAIL: actual client obligations unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "exactHandoverDeliverableTerms": {
+        "original": "FAIL: exact handover scope unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "detailedCommercialFAQAnswers": {
+        "original": "Unanswered commercial-detail question",
+        "current": "OUT OF SCOPE"
+      },
+      "publicOverview": "IN SCOPE",
+      "generalFAQ": "IN SCOPE",
+      "wordingProposalsApplied": false
+    },
+    {
+      "id": "recruitment-talent-acquisition",
+      "name": "Recruitment & Talent Acquisition",
+      "reason": "Owner changed public publication scope; missing commercial facts were not supplied.",
+      "detailedExclusions": {
+        "original": "FAIL: actual approved exclusions absent",
+        "current": "OUT OF SCOPE"
+      },
+      "clientDocumentsAccessApprovalsResponsibilities": {
+        "original": "FAIL: actual client obligations unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "exactHandoverDeliverableTerms": {
+        "original": "FAIL: exact handover scope unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "detailedCommercialFAQAnswers": {
+        "original": "Unanswered commercial-detail question",
+        "current": "OUT OF SCOPE"
+      },
+      "publicOverview": "IN SCOPE",
+      "generalFAQ": "IN SCOPE",
+      "wordingProposalsApplied": false
+    },
+    {
+      "id": "payroll-statutory-compliance",
+      "name": "Payroll & Statutory Compliance",
+      "reason": "Owner changed public publication scope; missing commercial facts were not supplied.",
+      "detailedExclusions": {
+        "original": "FAIL: actual approved exclusions absent",
+        "current": "OUT OF SCOPE"
+      },
+      "clientDocumentsAccessApprovalsResponsibilities": {
+        "original": "FAIL: actual client obligations unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "exactHandoverDeliverableTerms": {
+        "original": "FAIL: exact handover scope unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "detailedCommercialFAQAnswers": {
+        "original": "Unanswered commercial-detail question",
+        "current": "OUT OF SCOPE"
+      },
+      "publicOverview": "IN SCOPE",
+      "generalFAQ": "IN SCOPE",
+      "wordingProposalsApplied": false
+    },
+    {
+      "id": "hr-policies-documentation",
+      "name": "HR Policies & Documentation",
+      "reason": "Owner changed public publication scope; missing commercial facts were not supplied.",
+      "detailedExclusions": {
+        "original": "FAIL: actual approved exclusions absent",
+        "current": "OUT OF SCOPE"
+      },
+      "clientDocumentsAccessApprovalsResponsibilities": {
+        "original": "FAIL: actual client obligations unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "exactHandoverDeliverableTerms": {
+        "original": "FAIL: exact handover scope unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "detailedCommercialFAQAnswers": {
+        "original": "Unanswered commercial-detail question",
+        "current": "OUT OF SCOPE"
+      },
+      "publicOverview": "IN SCOPE",
+      "generalFAQ": "IN SCOPE",
+      "wordingProposalsApplied": false
+    },
+    {
+      "id": "pms-kra-kpi",
+      "name": "PMS / KRA-KPI",
+      "reason": "Owner changed public publication scope; missing commercial facts were not supplied.",
+      "detailedExclusions": {
+        "original": "FAIL: actual approved exclusions absent",
+        "current": "OUT OF SCOPE"
+      },
+      "clientDocumentsAccessApprovalsResponsibilities": {
+        "original": "FAIL: actual client obligations unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "exactHandoverDeliverableTerms": {
+        "original": "FAIL: exact handover scope unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "detailedCommercialFAQAnswers": {
+        "original": "Unanswered commercial-detail question",
+        "current": "OUT OF SCOPE"
+      },
+      "publicOverview": "IN SCOPE",
+      "generalFAQ": "IN SCOPE",
+      "wordingProposalsApplied": false
+    },
+    {
+      "id": "employee-engagement-retention",
+      "name": "Employee Engagement & Retention",
+      "reason": "Owner changed public publication scope; missing commercial facts were not supplied.",
+      "detailedExclusions": {
+        "original": "FAIL: actual approved exclusions absent",
+        "current": "OUT OF SCOPE"
+      },
+      "clientDocumentsAccessApprovalsResponsibilities": {
+        "original": "FAIL: actual client obligations unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "exactHandoverDeliverableTerms": {
+        "original": "FAIL: exact handover scope unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "detailedCommercialFAQAnswers": {
+        "original": "Unanswered commercial-detail question",
+        "current": "OUT OF SCOPE"
+      },
+      "publicOverview": "IN SCOPE",
+      "generalFAQ": "IN SCOPE",
+      "wordingProposalsApplied": false
+    },
+    {
+      "id": "onboarding-exit-settlement",
+      "name": "Onboarding, Exit & Full & Final Settlement",
+      "reason": "Owner changed public publication scope; missing commercial facts were not supplied.",
+      "detailedExclusions": {
+        "original": "FAIL: actual approved exclusions absent",
+        "current": "OUT OF SCOPE"
+      },
+      "clientDocumentsAccessApprovalsResponsibilities": {
+        "original": "FAIL: actual client obligations unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "exactHandoverDeliverableTerms": {
+        "original": "FAIL: exact handover scope unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "detailedCommercialFAQAnswers": {
+        "original": "Unanswered commercial-detail question",
+        "current": "OUT OF SCOPE"
+      },
+      "publicOverview": "IN SCOPE",
+      "generalFAQ": "IN SCOPE",
+      "wordingProposalsApplied": false
+    },
+    {
+      "id": "seller-registration-profile-setup",
+      "name": "Seller Registration & Profile Setup",
+      "reason": "Owner changed public publication scope; missing commercial facts were not supplied.",
+      "detailedExclusions": {
+        "original": "FAIL: actual approved exclusions absent",
+        "current": "OUT OF SCOPE"
+      },
+      "clientDocumentsAccessApprovalsResponsibilities": {
+        "original": "FAIL: actual client obligations unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "exactHandoverDeliverableTerms": {
+        "original": "FAIL: exact handover scope unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "detailedCommercialFAQAnswers": {
+        "original": "Unanswered commercial-detail question",
+        "current": "OUT OF SCOPE"
+      },
+      "publicOverview": "IN SCOPE",
+      "generalFAQ": "IN SCOPE",
+      "wordingProposalsApplied": false
+    },
+    {
+      "id": "product-service-catalogue-upload",
+      "name": "Product / Service Catalogue Upload",
+      "reason": "Owner changed public publication scope; missing commercial facts were not supplied.",
+      "detailedExclusions": {
+        "original": "FAIL: actual approved exclusions absent",
+        "current": "OUT OF SCOPE"
+      },
+      "clientDocumentsAccessApprovalsResponsibilities": {
+        "original": "FAIL: actual client obligations unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "exactHandoverDeliverableTerms": {
+        "original": "FAIL: exact handover scope unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "detailedCommercialFAQAnswers": {
+        "original": "Unanswered commercial-detail question",
+        "current": "OUT OF SCOPE"
+      },
+      "publicOverview": "IN SCOPE",
+      "generalFAQ": "IN SCOPE",
+      "wordingProposalsApplied": false
+    },
+    {
+      "id": "bid-search-analysis",
+      "name": "Bid Search & Analysis",
+      "reason": "Owner changed public publication scope; missing commercial facts were not supplied.",
+      "detailedExclusions": {
+        "original": "FAIL: actual approved exclusions absent",
+        "current": "OUT OF SCOPE"
+      },
+      "clientDocumentsAccessApprovalsResponsibilities": {
+        "original": "FAIL: actual client obligations unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "exactHandoverDeliverableTerms": {
+        "original": "FAIL: exact handover scope unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "detailedCommercialFAQAnswers": {
+        "original": "Unanswered commercial-detail question",
+        "current": "OUT OF SCOPE"
+      },
+      "publicOverview": "IN SCOPE",
+      "generalFAQ": "IN SCOPE",
+      "wordingProposalsApplied": false
+    },
+    {
+      "id": "tender-participation-support",
+      "name": "Tender Participation & Support",
+      "reason": "Owner changed public publication scope; missing commercial facts were not supplied.",
+      "detailedExclusions": {
+        "original": "FAIL: actual approved exclusions absent",
+        "current": "OUT OF SCOPE"
+      },
+      "clientDocumentsAccessApprovalsResponsibilities": {
+        "original": "FAIL: actual client obligations unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "exactHandoverDeliverableTerms": {
+        "original": "FAIL: exact handover scope unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "detailedCommercialFAQAnswers": {
+        "original": "Unanswered commercial-detail question",
+        "current": "OUT OF SCOPE"
+      },
+      "publicOverview": "IN SCOPE",
+      "generalFAQ": "IN SCOPE",
+      "wordingProposalsApplied": false
+    },
+    {
+      "id": "oem-authorization-vendor-assessment",
+      "name": "OEM Authorization & Vendor Assessment",
+      "reason": "Owner changed public publication scope; missing commercial facts were not supplied.",
+      "detailedExclusions": {
+        "original": "FAIL: actual approved exclusions absent",
+        "current": "OUT OF SCOPE"
+      },
+      "clientDocumentsAccessApprovalsResponsibilities": {
+        "original": "FAIL: actual client obligations unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "exactHandoverDeliverableTerms": {
+        "original": "FAIL: exact handover scope unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "detailedCommercialFAQAnswers": {
+        "original": "Unanswered commercial-detail question",
+        "current": "OUT OF SCOPE"
+      },
+      "publicOverview": "IN SCOPE",
+      "generalFAQ": "IN SCOPE",
+      "wordingProposalsApplied": false
+    },
+    {
+      "id": "catalogue-approval-rejection-support",
+      "name": "Catalogue Approval / Rejection Support",
+      "reason": "Owner changed public publication scope; missing commercial facts were not supplied.",
+      "detailedExclusions": {
+        "original": "FAIL: actual approved exclusions absent",
+        "current": "OUT OF SCOPE"
+      },
+      "clientDocumentsAccessApprovalsResponsibilities": {
+        "original": "FAIL: actual client obligations unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "exactHandoverDeliverableTerms": {
+        "original": "FAIL: exact handover scope unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "detailedCommercialFAQAnswers": {
+        "original": "Unanswered commercial-detail question",
+        "current": "OUT OF SCOPE"
+      },
+      "publicOverview": "IN SCOPE",
+      "generalFAQ": "IN SCOPE",
+      "wordingProposalsApplied": false
+    },
+    {
+      "id": "order-contract-support",
+      "name": "Order & Contract Support",
+      "reason": "Owner changed public publication scope; missing commercial facts were not supplied.",
+      "detailedExclusions": {
+        "original": "FAIL: actual approved exclusions absent",
+        "current": "OUT OF SCOPE"
+      },
+      "clientDocumentsAccessApprovalsResponsibilities": {
+        "original": "FAIL: actual client obligations unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "exactHandoverDeliverableTerms": {
+        "original": "FAIL: exact handover scope unconfirmed",
+        "current": "OUT OF SCOPE"
+      },
+      "detailedCommercialFAQAnswers": {
+        "original": "Unanswered commercial-detail question",
+        "current": "OUT OF SCOPE"
+      },
+      "publicOverview": "IN SCOPE",
+      "generalFAQ": "IN SCOPE",
+      "wordingProposalsApplied": false
+    }
+  ],
+  "manualChecks": {
+    "screenReaderSpeech": "NOT TESTED",
+    "physicalTouch": "NOT TESTED",
+    "runtimeReducedMotion": "NOT TESTED",
+    "actualContactDelivery": "NOT TESTED",
+    "nativeContactHandler": "NOT TESTED",
+    "crossBrowser": "NOT TESTED"
+  }
+}

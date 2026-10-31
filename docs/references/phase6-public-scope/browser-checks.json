@@ -1,0 +1,367 @@
+{
+  "layouts": [
+    {
+      "width": 320,
+      "theme": "light",
+      "services": 14,
+      "privateRows": 0,
+      "overflow": false,
+      "sameText": true
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "services": 14,
+      "privateRows": 0,
+      "overflow": false,
+      "sameText": true
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "services": 14,
+      "privateRows": 0,
+      "overflow": false,
+      "sameText": true
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "services": 14,
+      "privateRows": 0,
+      "overflow": false,
+      "sameText": true
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "services": 14,
+      "privateRows": 0,
+      "overflow": false,
+      "sameText": true
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "services": 14,
+      "privateRows": 0,
+      "overflow": false,
+      "sameText": true
+    }
+  ],
+  "faqs": [
+    {
+      "width": 320,
+      "answer": "We review existing processes, records and documentation, identify gaps and establish practical HR systems that support your business as it grows.",
+      "focus": true,
+      "open": true,
+      "service": "hr-audit-process-setup"
+    },
+    {
+      "width": 320,
+      "answer": "Yes. Recruitment serves employers and candidates. Candidate enquiries go to hr@kanjayconsulting.com; employer enquiries go to info@kanjayconsulting.com.",
+      "focus": true,
+      "open": true,
+      "service": "recruitment-talent-acquisition"
+    },
+    {
+      "width": 320,
+      "answer": "We also support applicable statutory compliance activities and coordinate with your finance team or compliance specialists.",
+      "focus": true,
+      "open": true,
+      "service": "payroll-statutory-compliance"
+    },
+    {
+      "width": 320,
+      "answer": "We develop practical HR policies, employee handbooks, appointment letters and other essential documents tailored to your organisation’s needs.",
+      "focus": true,
+      "open": true,
+      "service": "hr-policies-documentation"
+    },
+    {
+      "width": 320,
+      "answer": "We help define Key Result Areas and Key Performance Indicators, establish appraisal processes and support performance reviews that bring clarity to expectations and accountability.",
+      "focus": true,
+      "open": true,
+      "service": "pms-kra-kpi"
+    },
+    {
+      "width": 320,
+      "answer": "We support feedback initiatives, recognition programmes and engagement activities, helping you identify employee concerns and strengthen retention efforts.",
+      "focus": true,
+      "open": true,
+      "service": "employee-engagement-retention"
+    },
+    {
+      "width": 320,
+      "answer": "We support joining formalities, induction coordination, exit procedures, clearance tracking and full and final settlement calculations for a smoother employee experience.",
+      "focus": true,
+      "open": true,
+      "service": "onboarding-exit-settlement"
+    },
+    {
+      "width": 320,
+      "answer": "No. GeM consulting is for sellers, not government buyers.",
+      "focus": true,
+      "open": true,
+      "service": "seller-registration-profile-setup"
+    },
+    {
+      "width": 320,
+      "answer": "We support category selection, specification entry, document uploads and catalogue creation to reflect your offerings accurately.",
+      "focus": true,
+      "open": true,
+      "service": "product-service-catalogue-upload"
+    },
+    {
+      "width": 320,
+      "answer": "We review relevant bids, eligibility criteria, technical requirements and submission timelines to help you make informed participation decisions.",
+      "focus": true,
+      "open": true,
+      "service": "bid-search-analysis"
+    },
+    {
+      "width": 320,
+      "answer": "We assist with bid preparation, document uploads, submission and clarification responses, helping reduce avoidable errors.",
+      "focus": true,
+      "open": true,
+      "service": "tender-participation-support"
+    },
+    {
+      "width": 320,
+      "answer": "We assist with document preparation, application coordination and follow-ups based on the requirements applicable to your business.",
+      "focus": true,
+      "open": true,
+      "service": "oem-authorization-vendor-assessment"
+    },
+    {
+      "width": 320,
+      "answer": "We review rejection remarks, identify gaps and assist with updates and resubmission to support the approval process.",
+      "focus": true,
+      "open": true,
+      "service": "catalogue-approval-rejection-support"
+    },
+    {
+      "width": 320,
+      "answer": "We assist with order acceptance, contract requirement tracking, delivery coordination and portal invoicing, helping you manage commitments and follow-ups.",
+      "focus": true,
+      "open": true,
+      "service": "order-contract-support"
+    },
+    {
+      "width": 768,
+      "answer": "We review existing processes, records and documentation, identify gaps and establish practical HR systems that support your business as it grows.",
+      "focus": true,
+      "open": true,
+      "service": "hr-audit-process-setup"
+    },
+    {
+      "width": 768,
+      "answer": "Yes. Recruitment serves employers and candidates. Candidate enquiries go to hr@kanjayconsulting.com; employer enquiries go to info@kanjayconsulting.com.",
+      "focus": true,
+      "open": true,
+      "service": "recruitment-talent-acquisition"
+    },
+    {
+      "width": 768,
+      "answer": "We also support applicable statutory compliance activities and coordinate with your finance team or compliance specialists.",
+      "focus": true,
+      "open": true,
+      "service": "payroll-statutory-compliance"
+    },
+    {
+      "width": 768,
+      "answer": "We develop practical HR policies, employee handbooks, appointment letters and other essential documents tailored to your organisation’s needs.",
+      "focus": true,
+      "open": true,
+      "service": "hr-policies-documentation"
+    },
+    {
+      "width": 768,
+      "answer": "We help define Key Result Areas and Key Performance Indicators, establish appraisal processes and support performance reviews that bring clarity to expectations and accountability.",
+      "focus": true,
+      "open": true,
+      "service": "pms-kra-kpi"
+    },
+    {
+      "width": 768,
+      "answer": "We support feedback initiatives, recognition programmes and engagement activities, helping you identify employee concerns and strengthen retention efforts.",
+      "focus": true,
+      "open": true,
+      "service": "employee-engagement-retention"
+    },
+    {
+      "width": 768,
+      "answer": "We support joining formalities, induction coordination, exit procedures, clearance tracking and full and final settlement calculations for a smoother employee experience.",
+      "focus": true,
+      "open": true,
+      "service": "onboarding-exit-settlement"
+    },
+    {
+      "width": 768,
+      "answer": "No. GeM consulting is for sellers, not government buyers.",
+      "focus": true,
+      "open": true,
+      "service": "seller-registration-profile-setup"
+    },
+    {
+      "width": 768,
+      "answer": "We support category selection, specification entry, document uploads and catalogue creation to reflect your offerings accurately.",
+      "focus": true,
+      "open": true,
+      "service": "product-service-catalogue-upload"
+    },
+    {
+      "width": 768,
+      "answer": "We review relevant bids, eligibility criteria, technical requirements and submission timelines to help you make informed participation decisions.",
+      "focus": true,
+      "open": true,
+      "service": "bid-search-analysis"
+    },
+    {
+      "width": 768,
+      "answer": "We assist with bid preparation, document uploads, submission and clarification responses, helping reduce avoidable errors.",
+      "focus": true,
+      "open": true,
+      "service": "tender-participation-support"
+    },
+    {
+      "width": 768,
+      "answer": "We assist with document preparation, application coordination and follow-ups based on the requirements applicable to your business.",
+      "focus": true,
+      "open": true,
+      "service": "oem-authorization-vendor-assessment"
+    },
+    {
+      "width": 768,
+      "answer": "We review rejection remarks, identify gaps and assist with updates and resubmission to support the approval process.",
+      "focus": true,
+      "open": true,
+      "service": "catalogue-approval-rejection-support"
+    },
+    {
+      "width": 768,
+      "answer": "We assist with order acceptance, contract requirement tracking, delivery coordination and portal invoicing, helping you manage commitments and follow-ups.",
+      "focus": true,
+      "open": true,
+      "service": "order-contract-support"
+    },
+    {
+      "width": 1440,
+      "answer": "We review existing processes, records and documentation, identify gaps and establish practical HR systems that support your business as it grows.",
+      "focus": true,
+      "open": true,
+      "service": "hr-audit-process-setup"
+    },
+    {
+      "width": 1440,
+      "answer": "Yes. Recruitment serves employers and candidates. Candidate enquiries go to hr@kanjayconsulting.com; employer enquiries go to info@kanjayconsulting.com.",
+      "focus": true,
+      "open": true,
+      "service": "recruitment-talent-acquisition"
+    },
+    {
+      "width": 1440,
+      "answer": "We also support applicable statutory compliance activities and coordinate with your finance team or compliance specialists.",
+      "focus": true,
+      "open": true,
+      "service": "payroll-statutory-compliance"
+    },
+    {
+      "width": 1440,
+      "answer": "We develop practical HR policies, employee handbooks, appointment letters and other essential documents tailored to your organisation’s needs.",
+      "focus": true,
+      "open": true,
+      "service": "hr-policies-documentation"
+    },
+    {
+      "width": 1440,
+      "answer": "We help define Key Result Areas and Key Performance Indicators, establish appraisal processes and support performance reviews that bring clarity to expectations and accountability.",
+      "focus": true,
+      "open": true,
+      "service": "pms-kra-kpi"
+    },
+    {
+      "width": 1440,
+      "answer": "We support feedback initiatives, recognition programmes and engagement activities, helping you identify employee concerns and strengthen retention efforts.",
+      "focus": true,
+      "open": true,
+      "service": "employee-engagement-retention"
+    },
+    {
+      "width": 1440,
+      "answer": "We support joining formalities, induction coordination, exit procedures, clearance tracking and full and final settlement calculations for a smoother employee experience.",
+      "focus": true,
+      "open": true,
+      "service": "onboarding-exit-settlement"
+    },
+    {
+      "width": 1440,
+      "answer": "No. GeM consulting is for sellers, not government buyers.",
+      "focus": true,
+      "open": true,
+      "service": "seller-registration-profile-setup"
+    },
+    {
+      "width": 1440,
+      "answer": "We support category selection, specification entry, document uploads and catalogue creation to reflect your offerings accurately.",
+      "focus": true,
+      "open": true,
+      "service": "product-service-catalogue-upload"
+    },
+    {
+      "width": 1440,
+      "answer": "We review relevant bids, eligibility criteria, technical requirements and submission timelines to help you make informed participation decisions.",
+      "focus": true,
+      "open": true,
+      "service": "bid-search-analysis"
+    },
+    {
+      "width": 1440,
+      "answer": "We assist with bid preparation, document uploads, submission and clarification responses, helping reduce avoidable errors.",
+      "focus": true,
+      "open": true,
+      "service": "tender-participation-support"
+    },
+    {
+      "width": 1440,
+      "answer": "We assist with document preparation, application coordination and follow-ups based on the requirements applicable to your business.",
+      "focus": true,
+      "open": true,
+      "service": "oem-authorization-vendor-assessment"
+    },
+    {
+      "width": 1440,
+      "answer": "We review rejection remarks, identify gaps and assist with updates and resubmission to support the approval process.",
+      "focus": true,
+      "open": true,
+      "service": "catalogue-approval-rejection-support"
+    },
+    {
+      "width": 1440,
+      "answer": "We assist with order acceptance, contract requirement tracking, delivery coordination and portal invoicing, helping you manage commitments and follow-ups.",
+      "focus": true,
+      "open": true,
+      "service": "order-contract-support"
+    }
+  ],
+  "proposalsApplied": false,
+  "catalogueContext": [
+    {
+      "actionTop": 492.9791870117187,
+      "focusedHref": "mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry",
+      "note": "Process assistance, not guaranteed outcomes.\n\nConsulting assistance does not guarantee registration, catalogue approval, compliance outcomes or tender awards.",
+      "noteBottom": -4388.27082824707,
+      "visibleFocus": true,
+      "width": 320
+    },
+    {
+      "actionTop": 479.9895935058594,
+      "focusedHref": "mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry",
+      "note": "Process assistance, not guaranteed outcomes.\n\nConsulting assistance does not guarantee registration, catalogue approval, compliance outcomes or tender awards.",
+      "noteBottom": -2664.3439025878906,
+      "visibleFocus": true,
+      "width": 1440
+    }
+  ]
+}

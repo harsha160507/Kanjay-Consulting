@@ -1,0 +1,23 @@
+{
+  "historicalRecords": {
+    "docs/PHASE-6-SERVICES-TEST.md": {
+      "originalFindingsPreserved": true,
+      "datedPointerAdded": true
+    },
+    "docs/PHASE-6.md": {
+      "originalFindingsPreserved": true,
+      "datedPointerAdded": true
+    },
+    "docs/references/phase6-audit/observations.json": {
+      "originalFindingsPreserved": true,
+      "datedPointerAdded": false
+    },
+    "docs/references/phase6-audit/service-results.json": {
+      "originalFindingsPreserved": true,
+      "datedPointerAdded": false
+    }
+  },
+  "all14PublicDescriptionsAudiencesAndFAQsUnchanged": true,
+  "threeFlaggedPhrasesUnchanged": true,
+  "wordingProposalsApplied": false
+}
