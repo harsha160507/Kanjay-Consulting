@@ -1,0 +1,453 @@
+{
+  "approvalSourceSha256": "e8714d0fe9f926cbf4831868f70377eb814542a9df87593647dcae7dd77ed6d5",
+  "assetSource": "Existing owner-approved cleaned lossless WebP package; no artwork edited for Phase 7",
+  "publicAssets": [
+    {
+      "name": "L&T",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "L&T.webp",
+      "publicFile": "l-and-t.webp",
+      "sha256": "1664b1a0737bdbd4e848a3c842ba93efa56e18074b9c884e7063a2b73931cfc0",
+      "sourceDimensions": [
+        1280,
+        1280
+      ],
+      "webDimensions": [
+        216,
+        216
+      ],
+      "notes": []
+    },
+    {
+      "name": "Eaton",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "EATON.webp",
+      "publicFile": "eaton.webp",
+      "sha256": "9f378d44a4b259fe1d854209d450ce256a6e8832bd2265c961a2e47cc4face5c",
+      "sourceDimensions": [
+        466,
+        168
+      ],
+      "webDimensions": [
+        424,
+        127
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Balmer Lawrie",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "BALMER.webp",
+      "publicFile": "balmer-lawrie.webp",
+      "sha256": "4f93734e28c2e072cb8d1245a4bc426db15398255cbe3a5a3edcc711401e5999",
+      "sourceDimensions": [
+        250,
+        250
+      ],
+      "webDimensions": [
+        247,
+        46
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Benco Group",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "BENCO.webp",
+      "publicFile": "benco-group.webp",
+      "sha256": "335e5af081d335e2715d7e8716d1b9265c6548f73e51ac06388aacab8ed30165",
+      "sourceDimensions": [
+        360,
+        360
+      ],
+      "webDimensions": [
+        376,
+        130
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "CASOL",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "CASOL.webp",
+      "publicFile": "casol.webp",
+      "sha256": "4df4fc8044ee35c0f92fd9a82fadd53467a91e856c646f0d32cbec60308382e9",
+      "sourceDimensions": [
+        282,
+        225
+      ],
+      "webDimensions": [
+        182,
+        216
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Techno Products",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "TECHNO PRODUCTS.webp",
+      "publicFile": "techno-products.webp",
+      "sha256": "368294d7fbf3748cdb8ff97f0f1cf5e6b2a68aa9e33eed402a77cf7168da0e84",
+      "sourceDimensions": [
+        297,
+        213
+      ],
+      "webDimensions": [
+        215,
+        213
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Hadron Infra",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "HADRON.webp",
+      "publicFile": "hadron-infra.webp",
+      "sha256": "fbbd8ae66e70749673546728e152ab99104821a9921bb0b4100f159f7d966510",
+      "sourceDimensions": [
+        200,
+        200
+      ],
+      "webDimensions": [
+        169,
+        157
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Safe Tech Fire Solutions",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "SAFE TECH WORKS.webp",
+      "publicFile": "safe-tech-fire-solutions.webp",
+      "sha256": "e1fdbcf9977e42d4b2db18972ce1100afc4a06686032ed44648bcc39b7d7bd5d",
+      "sourceDimensions": [
+        377,
+        402
+      ],
+      "webDimensions": [
+        203,
+        216
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Sree Raghavendra Electric Services Pvt Ltd",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "SHREE RAGHAVENDRA.webp",
+      "publicFile": "sree-raghavendra-electric-services-pvt-ltd.webp",
+      "sha256": "b577620a58b81364e1fbb4f2af08a39c8b6e54a4f9da205480085365895d3f52",
+      "sourceDimensions": [
+        360,
+        360
+      ],
+      "webDimensions": [
+        204,
+        216
+      ],
+      "notes": []
+    },
+    {
+      "name": "Madhavaa Crafts Pvt Ltd",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "MADHAVA.webp",
+      "publicFile": "madhavaa-crafts-pvt-ltd.webp",
+      "sha256": "df677c45a28ce500f5e864296cb0a76789b11c8c3cdc3815741e66ffa67f4e7f",
+      "sourceDimensions": [
+        491,
+        232
+      ],
+      "webDimensions": [
+        451,
+        115
+      ],
+      "notes": [
+        "Removed isolated top-right fragment",
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Aaviza Technologies",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "AAVIZA.webp",
+      "publicFile": "aaviza-technologies.webp",
+      "sha256": "12cd0e8e744fbc7129d61ad6133a81b04c58c45065158f208393a5653d3649f0",
+      "sourceDimensions": [
+        800,
+        199
+      ],
+      "webDimensions": [
+        576,
+        134
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Zuppa",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "ZUPPA.webp",
+      "publicFile": "zuppa.webp",
+      "sha256": "ce68ed24492c4347cfd91140f86a21e6f89e42a1e908cdb8ca5bc659b655df36",
+      "sourceDimensions": [
+        350,
+        307
+      ],
+      "webDimensions": [
+        333,
+        170
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Shopup",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "SHOPUP.webp",
+      "publicFile": "shopup.webp",
+      "sha256": "dff9196addd706beecfe9df6644f412bc58b1e05002cd5ebb62b264aeb63d073",
+      "sourceDimensions": [
+        512,
+        256
+      ],
+      "webDimensions": [
+        489,
+        157
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Vitamed",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "VITAMED.webp",
+      "publicFile": "vitamed.webp",
+      "sha256": "ff050e0a55c9d4ca4062b9d61adc79d1c1a42948f1071ddbf63ba1421f215d53",
+      "sourceDimensions": [
+        766,
+        400
+      ],
+      "webDimensions": [
+        526,
+        125
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Welona",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "WELONA.webp",
+      "publicFile": "welona.webp",
+      "sha256": "5444d898af416e3101412455e3be7501ad7191437635e9b4f80e9f26745c4996",
+      "sourceDimensions": [
+        598,
+        132
+      ],
+      "webDimensions": [
+        539,
+        140
+      ],
+      "notes": [
+        "Removed checkerboard in letter counters and stray left fragment",
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "TTJ",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "TTJ.webp",
+      "publicFile": "ttj.webp",
+      "sha256": "a15cbe5e5a480416c58ee1140a9e42169d07f44f884db625a53f6b3dada76e25",
+      "sourceDimensions": [
+        297,
+        166
+      ],
+      "webDimensions": [
+        236,
+        126
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Sana’s Thinai Organics",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "THINAI.webp",
+      "publicFile": "sana-s-thinai-organics.webp",
+      "sha256": "4a872a7a7e6f1718908ae52e3fb8f3505dde1d06be0b6066b7886f1e33dcd1a7",
+      "sourceDimensions": [
+        703,
+        280
+      ],
+      "webDimensions": [
+        552,
+        216
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Sabari Musicals",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "SABARI MUSIC.webp",
+      "publicFile": "sabari-musicals.webp",
+      "sha256": "dd2fc52f4932c826721768ff9064ae9ced790ca0d736459248619af0eabc148a",
+      "sourceDimensions": [
+        411,
+        280
+      ],
+      "webDimensions": [
+        310,
+        216
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "SRM Institute of Science and Technology",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "SRM.webp",
+      "publicFile": "srm-institute-of-science-and-technology.webp",
+      "sha256": "c25f4e010ca635faaea9cf959a955f10bdfa8d5bddb4eccd617d5703387027e6",
+      "sourceDimensions": [
+        470,
+        653
+      ],
+      "webDimensions": [
+        213,
+        216
+      ],
+      "notes": []
+    },
+    {
+      "name": "Deforay",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "DEFORAY.webp",
+      "publicFile": "deforay.webp",
+      "sha256": "c3375b4721be1ba32ca4f10070b257aa900090048bcb9fc334ff2a34ecf08c38",
+      "sourceDimensions": [
+        316,
+        220
+      ],
+      "webDimensions": [
+        263,
+        214
+      ],
+      "notes": [
+        "Removed white residue inside letter counters",
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Kaavian services",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "KAAVIAN.webp",
+      "publicFile": "kaavian-services.webp",
+      "sha256": "9ba72c91fc2190d1e7988c44e48621e6b76adc162f862a61f36286cfb2d958fd",
+      "sourceDimensions": [
+        225,
+        225
+      ],
+      "webDimensions": [
+        241,
+        44
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Limpar",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "LIMPAR.webp",
+      "publicFile": "limpar.webp",
+      "sha256": "8aa77b5123c6197fe363d7b35370d661dfd8c4c4fc6e8ccd0d50b33322b85fc6",
+      "sourceDimensions": [
+        425,
+        162
+      ],
+      "webDimensions": [
+        359,
+        147
+      ],
+      "notes": [
+        "Reduced pale fringe at transparent edges"
+      ]
+    },
+    {
+      "name": "Woyc::OD",
+      "approval": "Website: Yes; relationship: Current",
+      "approvalSource": "content/client-approvals.md",
+      "originalFile": "WOYC.webp",
+      "publicFile": "woyc-od.webp",
+      "sha256": "8e55785b0f3ebbaa9d74ff05fa3e66a5ae31e7ae1e1161e079f8eceb8eff94a3",
+      "sourceDimensions": [
+        391,
+        129
+      ],
+      "webDimensions": [
+        376,
+        126
+      ],
+      "notes": [
+        "Removed black matte around white lettering; preserved OD in diamond"
+      ]
+    }
+  ],
+  "heldOut": [
+    {
+      "name": "SILQ",
+      "websitePermission": "approved in owner chat",
+      "relationshipStatus": "unconfirmed; not shown"
+    },
+    {
+      "name": "Golden Works",
+      "websitePermission": "approved in owner chat",
+      "relationshipStatus": "unconfirmed; not shown"
+    }
+  ],
+  "unidentifiedMark": "excluded; identity not approved"
+}

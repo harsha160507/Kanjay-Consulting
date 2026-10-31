@@ -1,0 +1,17 @@
+---
+import { currentClients } from '../data/clients';
+import { business } from '../data/site';
+import { routeContext } from '../lib/routes';
+import './react-bits/prototype/UiverseButton.css';
+import '../styles/clients.css';
+const route = routeContext(Astro.url.pathname);
+---
+<div class="clients-page">
+  <section class="clients-intro" aria-labelledby="clients-title"><div><p class="eyebrow">Kanjay Consulting / Clients</p><h1 id="clients-title">Our client<br /><span>relationships.</span></h1><p class="lede">Some of the businesses and organisations we work with.</p></div><aside class="clients-services" aria-labelledby="clients-services-title"><h2 id="clients-services-title">Explore our expertise</h2><a href={route.to('/services/#hr-support')}>HR support <span aria-hidden="true">↗</span></a><a href={route.to('/services/#gem-seller-support')}>GeM seller support <span aria-hidden="true">↗</span></a></aside></section>
+
+  <section class="clients-gallery" aria-labelledby="current-clients-title"><p class="eyebrow">Our relationships</p><h2 id="current-clients-title">Current clients</h2>
+    <ul class="clients-grid" aria-label="Current client names and logos">{currentClients.map(client => <li data-client={client.id}><figure><div class:list={['client-art', { 'client-art--dark': client.darkBacking }]}><img src={client.image} alt="" width={client.width} height={client.height} loading="lazy" decoding="async" /></div><figcaption>{client.name}</figcaption></figure></li>)}</ul>
+  </section>
+
+  <section class="clients-contact" aria-labelledby="clients-contact-title"><div><p class="eyebrow">Start a conversation</p><h2 id="clients-contact-title">Discuss your<br />business needs.</h2><p>Contact Kanjay Consulting about HR support or GeM seller services.</p></div><div class="clients-actions"><a class="proto-button clients-action" href={`tel:${business.phone}`}>Call {business.phoneDisplay} <span aria-hidden="true">↗</span></a><a class="clients-email" href={`mailto:${business.email}`}>{business.email}</a></div></section>
+</div>
