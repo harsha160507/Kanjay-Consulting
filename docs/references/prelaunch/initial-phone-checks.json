@@ -1,0 +1,342 @@
+[
+  {
+    "path": "/404.html",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/about/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": false,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/clients/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": false,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/contact/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": false,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/cookie-policy/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": false,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/disclaimer/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": false,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": false,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/privacy-policy/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": false,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/prototype/",
+    "width": 375,
+    "prototype": true,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": false,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/prototype/static/",
+    "width": 375,
+    "prototype": true,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": false,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/services/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/terms-of-use/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": false,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/dark/about/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/dark/clients/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/dark/contact/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/dark/cookie-policy/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/dark/disclaimer/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/dark/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/dark/privacy-policy/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/dark/prototype/",
+    "width": 375,
+    "prototype": true,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/dark/prototype/static/",
+    "width": 375,
+    "prototype": true,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/dark/services/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/dark/terms-of-use/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/light/about/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/light/clients/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/light/contact/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/light/cookie-policy/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/light/disclaimer/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/light/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/light/privacy-policy/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/light/prototype/",
+    "width": 375,
+    "prototype": true,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/light/prototype/static/",
+    "width": 375,
+    "prototype": true,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/light/services/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  },
+  {
+    "path": "/theme/light/terms-of-use/",
+    "width": 375,
+    "prototype": false,
+    "overflow": false,
+    "noJsTextMatches": true,
+    "essentialHeadingsMatch": true,
+    "essentialHrefsMatch": true,
+    "brokenLoadedImages": []
+  }
+]

@@ -1,0 +1,3253 @@
+{
+  "testedCommit": "f700b740d14a6bf9d432051f056eaf4ea89bfaec",
+  "routes": [
+    {
+      "path": "/404.html",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/theme/light/",
+        "/theme/dark/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/",
+        "/services/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "/",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/terms-of-use/",
+        "/privacy-policy/",
+        "/cookie-policy/",
+        "/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "2359",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/about/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/theme/light/about/",
+        "/theme/dark/about/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "mailto:info@kanjayconsulting.com",
+        "/services/#hr-support",
+        "/services/#gem-seller-support",
+        "mailto:hr@kanjayconsulting.com",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "/",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/terms-of-use/",
+        "/privacy-policy/",
+        "/cookie-policy/",
+        "/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "3898",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/clients/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/theme/light/clients/",
+        "/theme/dark/clients/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/services/#hr-support",
+        "/services/#gem-seller-support",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "/",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/terms-of-use/",
+        "/privacy-policy/",
+        "/cookie-policy/",
+        "/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "3790",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/contact/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/theme/light/contact/",
+        "/theme/dark/contact/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "/services/#hr-support",
+        "/services/#gem-seller-support",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/terms-of-use/",
+        "/privacy-policy/",
+        "/cookie-policy/",
+        "/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "3518",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/cookie-policy/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/theme/light/cookie-policy/",
+        "/theme/dark/cookie-policy/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "#observed",
+        "#theme",
+        "#controls",
+        "#third-parties",
+        "mailto:info@kanjayconsulting.com",
+        "tel:+918939715152",
+        "/contact/",
+        "/terms-of-use/",
+        "/privacy-policy/",
+        "/disclaimer/",
+        "/",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/terms-of-use/",
+        "/privacy-policy/",
+        "/cookie-policy/",
+        "/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "4043",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/disclaimer/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/theme/light/disclaimer/",
+        "/theme/dark/disclaimer/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "#information",
+        "#outcomes",
+        "#relationships",
+        "#review",
+        "mailto:info@kanjayconsulting.com",
+        "tel:+918939715152",
+        "/contact/",
+        "/terms-of-use/",
+        "/privacy-policy/",
+        "/cookie-policy/",
+        "/",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/terms-of-use/",
+        "/privacy-policy/",
+        "/cookie-policy/",
+        "/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "3782",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/theme/light/",
+        "/theme/dark/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "tel:+918939715152",
+        "#home-services",
+        "#hr-support-home",
+        "#gem-seller-support-home",
+        "/services/#hr-audit-process-setup",
+        "/services/#recruitment-talent-acquisition",
+        "/services/#payroll-statutory-compliance",
+        "/services/#hr-support",
+        "/services/#seller-registration-profile-setup",
+        "/services/#bid-search-analysis",
+        "/services/#order-contract-support",
+        "/services/#gem-seller-support",
+        "mailto:hr@kanjayconsulting.com",
+        "mailto:info@kanjayconsulting.com",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "/",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/terms-of-use/",
+        "/privacy-policy/",
+        "/cookie-policy/",
+        "/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "4329",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/privacy-policy/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/theme/light/privacy-policy/",
+        "/theme/dark/privacy-policy/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "#website",
+        "#contact",
+        "#hosting",
+        "#storage",
+        "#questions",
+        "mailto:info@kanjayconsulting.com",
+        "tel:+918939715152",
+        "/contact/",
+        "/terms-of-use/",
+        "/cookie-policy/",
+        "/disclaimer/",
+        "/",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/terms-of-use/",
+        "/privacy-policy/",
+        "/cookie-policy/",
+        "/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "4267",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/prototype/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/theme/light/prototype/",
+        "/theme/dark/prototype/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/prototype/static/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/contact/",
+        "/about/",
+        "/services/",
+        "/licenses/react-bits.txt",
+        "/licenses/uiverse.txt",
+        "/",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/terms-of-use/",
+        "/privacy-policy/",
+        "/cookie-policy/",
+        "/disclaimer/"
+      ],
+      "prototype": true,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "6519",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/prototype/static/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/theme/light/prototype/static/",
+        "/theme/dark/prototype/static/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/prototype/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/contact/",
+        "/about/",
+        "/services/",
+        "/licenses/react-bits.txt",
+        "/licenses/uiverse.txt",
+        "/",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/terms-of-use/",
+        "/privacy-policy/",
+        "/cookie-policy/",
+        "/disclaimer/"
+      ],
+      "prototype": true,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "4153",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/services/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/theme/light/services/",
+        "/theme/dark/services/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "#hr-support",
+        "#hr-audit-process-setup",
+        "#recruitment-talent-acquisition",
+        "#payroll-statutory-compliance",
+        "#hr-policies-documentation",
+        "#pms-kra-kpi",
+        "#employee-engagement-retention",
+        "#onboarding-exit-settlement",
+        "#gem-seller-support",
+        "#seller-registration-profile-setup",
+        "#product-service-catalogue-upload",
+        "#bid-search-analysis",
+        "#tender-participation-support",
+        "#oem-authorization-vendor-assessment",
+        "#catalogue-approval-rejection-support",
+        "#order-contract-support",
+        "mailto:info@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry",
+        "mailto:hr@kanjayconsulting.com",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compliance%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentation%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Retention%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Support%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%20enquiry",
+        "#service-index",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "/",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/terms-of-use/",
+        "/privacy-policy/",
+        "/cookie-policy/",
+        "/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "6480",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/terms-of-use/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "/theme/light/terms-of-use/",
+        "/theme/dark/terms-of-use/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "#purpose",
+        "#enquiries",
+        "#responsible-use",
+        "#third-parties",
+        "#legal-review",
+        "mailto:info@kanjayconsulting.com",
+        "tel:+918939715152",
+        "/contact/",
+        "/privacy-policy/",
+        "/cookie-policy/",
+        "/disclaimer/",
+        "/",
+        "/",
+        "/about/",
+        "/services/",
+        "/clients/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/terms-of-use/",
+        "/privacy-policy/",
+        "/cookie-policy/",
+        "/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "3956",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/dark/about/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/light/about/",
+        "/theme/dark/about/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "mailto:info@kanjayconsulting.com",
+        "/theme/dark/services/#hr-support",
+        "/theme/dark/services/#gem-seller-support",
+        "mailto:hr@kanjayconsulting.com",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "/theme/dark/",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/dark/terms-of-use/",
+        "/theme/dark/privacy-policy/",
+        "/theme/dark/cookie-policy/",
+        "/theme/dark/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "3954",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/dark/clients/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/light/clients/",
+        "/theme/dark/clients/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/dark/services/#hr-support",
+        "/theme/dark/services/#gem-seller-support",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "/theme/dark/",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/dark/terms-of-use/",
+        "/theme/dark/privacy-policy/",
+        "/theme/dark/cookie-policy/",
+        "/theme/dark/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "3840",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/dark/contact/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/light/contact/",
+        "/theme/dark/contact/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "/theme/dark/services/#hr-support",
+        "/theme/dark/services/#gem-seller-support",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/dark/",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/dark/terms-of-use/",
+        "/theme/dark/privacy-policy/",
+        "/theme/dark/cookie-policy/",
+        "/theme/dark/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "3569",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/dark/cookie-policy/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/light/cookie-policy/",
+        "/theme/dark/cookie-policy/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "#observed",
+        "#theme",
+        "#controls",
+        "#third-parties",
+        "mailto:info@kanjayconsulting.com",
+        "tel:+918939715152",
+        "/theme/dark/contact/",
+        "/theme/dark/terms-of-use/",
+        "/theme/dark/privacy-policy/",
+        "/theme/dark/disclaimer/",
+        "/theme/dark/",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/dark/terms-of-use/",
+        "/theme/dark/privacy-policy/",
+        "/theme/dark/cookie-policy/",
+        "/theme/dark/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "4101",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/dark/disclaimer/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/light/disclaimer/",
+        "/theme/dark/disclaimer/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "#information",
+        "#outcomes",
+        "#relationships",
+        "#review",
+        "mailto:info@kanjayconsulting.com",
+        "tel:+918939715152",
+        "/theme/dark/contact/",
+        "/theme/dark/terms-of-use/",
+        "/theme/dark/privacy-policy/",
+        "/theme/dark/cookie-policy/",
+        "/theme/dark/",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/dark/terms-of-use/",
+        "/theme/dark/privacy-policy/",
+        "/theme/dark/cookie-policy/",
+        "/theme/dark/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "3839",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/dark/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/light/",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "tel:+918939715152",
+        "#home-services",
+        "#hr-support-home",
+        "#gem-seller-support-home",
+        "/theme/dark/services/#hr-audit-process-setup",
+        "/theme/dark/services/#recruitment-talent-acquisition",
+        "/theme/dark/services/#payroll-statutory-compliance",
+        "/theme/dark/services/#hr-support",
+        "/theme/dark/services/#seller-registration-profile-setup",
+        "/theme/dark/services/#bid-search-analysis",
+        "/theme/dark/services/#order-contract-support",
+        "/theme/dark/services/#gem-seller-support",
+        "mailto:hr@kanjayconsulting.com",
+        "mailto:info@kanjayconsulting.com",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "/theme/dark/",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/dark/terms-of-use/",
+        "/theme/dark/privacy-policy/",
+        "/theme/dark/cookie-policy/",
+        "/theme/dark/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "4691",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/dark/privacy-policy/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/light/privacy-policy/",
+        "/theme/dark/privacy-policy/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "#website",
+        "#contact",
+        "#hosting",
+        "#storage",
+        "#questions",
+        "mailto:info@kanjayconsulting.com",
+        "tel:+918939715152",
+        "/theme/dark/contact/",
+        "/theme/dark/terms-of-use/",
+        "/theme/dark/cookie-policy/",
+        "/theme/dark/disclaimer/",
+        "/theme/dark/",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/dark/terms-of-use/",
+        "/theme/dark/privacy-policy/",
+        "/theme/dark/cookie-policy/",
+        "/theme/dark/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "4325",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/dark/prototype/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/light/prototype/",
+        "/theme/dark/prototype/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/dark/prototype/static/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/dark/contact/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/licenses/react-bits.txt",
+        "/licenses/uiverse.txt",
+        "/theme/dark/",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/dark/terms-of-use/",
+        "/theme/dark/privacy-policy/",
+        "/theme/dark/cookie-policy/",
+        "/theme/dark/disclaimer/"
+      ],
+      "prototype": true,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "6883",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/dark/prototype/static/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/light/prototype/static/",
+        "/theme/dark/prototype/static/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/dark/prototype/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/dark/contact/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/licenses/react-bits.txt",
+        "/licenses/uiverse.txt",
+        "/theme/dark/",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/dark/terms-of-use/",
+        "/theme/dark/privacy-policy/",
+        "/theme/dark/cookie-policy/",
+        "/theme/dark/disclaimer/"
+      ],
+      "prototype": true,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "4514",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/dark/services/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/light/services/",
+        "/theme/dark/services/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "#hr-support",
+        "#hr-audit-process-setup",
+        "#recruitment-talent-acquisition",
+        "#payroll-statutory-compliance",
+        "#hr-policies-documentation",
+        "#pms-kra-kpi",
+        "#employee-engagement-retention",
+        "#onboarding-exit-settlement",
+        "#gem-seller-support",
+        "#seller-registration-profile-setup",
+        "#product-service-catalogue-upload",
+        "#bid-search-analysis",
+        "#tender-participation-support",
+        "#oem-authorization-vendor-assessment",
+        "#catalogue-approval-rejection-support",
+        "#order-contract-support",
+        "mailto:info@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry",
+        "mailto:hr@kanjayconsulting.com",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compliance%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentation%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Retention%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Support%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%20enquiry",
+        "#service-index",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "/theme/dark/",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/dark/terms-of-use/",
+        "/theme/dark/privacy-policy/",
+        "/theme/dark/cookie-policy/",
+        "/theme/dark/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "6532",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/dark/terms-of-use/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "/theme/light/terms-of-use/",
+        "/theme/dark/terms-of-use/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "#purpose",
+        "#enquiries",
+        "#responsible-use",
+        "#third-parties",
+        "#legal-review",
+        "mailto:info@kanjayconsulting.com",
+        "tel:+918939715152",
+        "/theme/dark/contact/",
+        "/theme/dark/privacy-policy/",
+        "/theme/dark/cookie-policy/",
+        "/theme/dark/disclaimer/",
+        "/theme/dark/",
+        "/theme/dark/",
+        "/theme/dark/about/",
+        "/theme/dark/services/",
+        "/theme/dark/clients/",
+        "/theme/dark/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/dark/terms-of-use/",
+        "/theme/dark/privacy-policy/",
+        "/theme/dark/cookie-policy/",
+        "/theme/dark/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "4015",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/light/about/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/about/",
+        "/theme/dark/about/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "mailto:info@kanjayconsulting.com",
+        "/theme/light/services/#hr-support",
+        "/theme/light/services/#gem-seller-support",
+        "mailto:hr@kanjayconsulting.com",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "/theme/light/",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/light/terms-of-use/",
+        "/theme/light/privacy-policy/",
+        "/theme/light/cookie-policy/",
+        "/theme/light/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "3957",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/light/clients/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/clients/",
+        "/theme/dark/clients/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/services/#hr-support",
+        "/theme/light/services/#gem-seller-support",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "/theme/light/",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/light/terms-of-use/",
+        "/theme/light/privacy-policy/",
+        "/theme/light/cookie-policy/",
+        "/theme/light/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "3842",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/light/contact/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/contact/",
+        "/theme/dark/contact/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "/theme/light/services/#hr-support",
+        "/theme/light/services/#gem-seller-support",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/light/",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/light/terms-of-use/",
+        "/theme/light/privacy-policy/",
+        "/theme/light/cookie-policy/",
+        "/theme/light/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "3572",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/light/cookie-policy/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/cookie-policy/",
+        "/theme/dark/cookie-policy/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "#observed",
+        "#theme",
+        "#controls",
+        "#third-parties",
+        "mailto:info@kanjayconsulting.com",
+        "tel:+918939715152",
+        "/theme/light/contact/",
+        "/theme/light/terms-of-use/",
+        "/theme/light/privacy-policy/",
+        "/theme/light/disclaimer/",
+        "/theme/light/",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/light/terms-of-use/",
+        "/theme/light/privacy-policy/",
+        "/theme/light/cookie-policy/",
+        "/theme/light/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "4104",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/light/disclaimer/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/disclaimer/",
+        "/theme/dark/disclaimer/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "#information",
+        "#outcomes",
+        "#relationships",
+        "#review",
+        "mailto:info@kanjayconsulting.com",
+        "tel:+918939715152",
+        "/theme/light/contact/",
+        "/theme/light/terms-of-use/",
+        "/theme/light/privacy-policy/",
+        "/theme/light/cookie-policy/",
+        "/theme/light/",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/light/terms-of-use/",
+        "/theme/light/privacy-policy/",
+        "/theme/light/cookie-policy/",
+        "/theme/light/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "3840",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/light/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/",
+        "/theme/dark/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "tel:+918939715152",
+        "#home-services",
+        "#hr-support-home",
+        "#gem-seller-support-home",
+        "/theme/light/services/#hr-audit-process-setup",
+        "/theme/light/services/#recruitment-talent-acquisition",
+        "/theme/light/services/#payroll-statutory-compliance",
+        "/theme/light/services/#hr-support",
+        "/theme/light/services/#seller-registration-profile-setup",
+        "/theme/light/services/#bid-search-analysis",
+        "/theme/light/services/#order-contract-support",
+        "/theme/light/services/#gem-seller-support",
+        "mailto:hr@kanjayconsulting.com",
+        "mailto:info@kanjayconsulting.com",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "/theme/light/",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/light/terms-of-use/",
+        "/theme/light/privacy-policy/",
+        "/theme/light/cookie-policy/",
+        "/theme/light/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "4691",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/light/privacy-policy/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/privacy-policy/",
+        "/theme/dark/privacy-policy/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "#website",
+        "#contact",
+        "#hosting",
+        "#storage",
+        "#questions",
+        "mailto:info@kanjayconsulting.com",
+        "tel:+918939715152",
+        "/theme/light/contact/",
+        "/theme/light/terms-of-use/",
+        "/theme/light/cookie-policy/",
+        "/theme/light/disclaimer/",
+        "/theme/light/",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/light/terms-of-use/",
+        "/theme/light/privacy-policy/",
+        "/theme/light/cookie-policy/",
+        "/theme/light/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "4325",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/light/prototype/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/prototype/",
+        "/theme/dark/prototype/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/prototype/static/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/contact/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/licenses/react-bits.txt",
+        "/licenses/uiverse.txt",
+        "/theme/light/",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/light/terms-of-use/",
+        "/theme/light/privacy-policy/",
+        "/theme/light/cookie-policy/",
+        "/theme/light/disclaimer/"
+      ],
+      "prototype": true,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "6882",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/light/prototype/static/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/prototype/static/",
+        "/theme/dark/prototype/static/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/prototype/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/contact/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/licenses/react-bits.txt",
+        "/licenses/uiverse.txt",
+        "/theme/light/",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/light/terms-of-use/",
+        "/theme/light/privacy-policy/",
+        "/theme/light/cookie-policy/",
+        "/theme/light/disclaimer/"
+      ],
+      "prototype": true,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "4513",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/light/services/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/services/",
+        "/theme/dark/services/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "#hr-support",
+        "#hr-audit-process-setup",
+        "#recruitment-talent-acquisition",
+        "#payroll-statutory-compliance",
+        "#hr-policies-documentation",
+        "#pms-kra-kpi",
+        "#employee-engagement-retention",
+        "#onboarding-exit-settlement",
+        "#gem-seller-support",
+        "#seller-registration-profile-setup",
+        "#product-service-catalogue-upload",
+        "#bid-search-analysis",
+        "#tender-participation-support",
+        "#oem-authorization-vendor-assessment",
+        "#catalogue-approval-rejection-support",
+        "#order-contract-support",
+        "mailto:info@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry",
+        "mailto:hr@kanjayconsulting.com",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compliance%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentation%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Retention%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Support%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry",
+        "#service-index",
+        "mailto:info@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%20enquiry",
+        "#service-index",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "/theme/light/",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/light/terms-of-use/",
+        "/theme/light/privacy-policy/",
+        "/theme/light/cookie-policy/",
+        "/theme/light/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "6534",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    },
+    {
+      "path": "/theme/light/terms-of-use/",
+      "status": 200,
+      "hrefs": [
+        "#main",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "/theme/light/terms-of-use/",
+        "/theme/dark/terms-of-use/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "#purpose",
+        "#enquiries",
+        "#responsible-use",
+        "#third-parties",
+        "#legal-review",
+        "mailto:info@kanjayconsulting.com",
+        "tel:+918939715152",
+        "/theme/light/contact/",
+        "/theme/light/privacy-policy/",
+        "/theme/light/cookie-policy/",
+        "/theme/light/disclaimer/",
+        "/theme/light/",
+        "/theme/light/",
+        "/theme/light/about/",
+        "/theme/light/services/",
+        "/theme/light/clients/",
+        "/theme/light/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com",
+        "https://www.linkedin.com/company/kanjay-consulting/",
+        "https://www.facebook.com/kanjayconsulting",
+        "/theme/light/terms-of-use/",
+        "/theme/light/privacy-policy/",
+        "/theme/light/cookie-policy/",
+        "/theme/light/disclaimer/"
+      ],
+      "prototype": false,
+      "headers": {
+        "cache-control": "no-store",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "4015",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 31 Oct 2026 16:36:07 GMT",
+        "keep-alive": "timeout=5",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-robots-tag": "noindex, nofollow"
+      }
+    }
+  ],
+  "totalAnchorInstances": 1364,
+  "contactInstances": 236,
+  "contacts": [
+    {
+      "path": "/404.html",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/404.html",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/404.html",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/404.html",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/404.html",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/about/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/about/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/about/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/about/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/about/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/about/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/about/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/clients/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/clients/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/clients/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/clients/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/clients/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/contact/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/contact/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/contact/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/contact/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/contact/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/contact/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/cookie-policy/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/cookie-policy/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/cookie-policy/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/cookie-policy/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/cookie-policy/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/disclaimer/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/disclaimer/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/disclaimer/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/disclaimer/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/disclaimer/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/privacy-policy/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/privacy-policy/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/privacy-policy/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/privacy-policy/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/privacy-policy/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/prototype/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/prototype/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/prototype/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/prototype/static/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/prototype/static/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/prototype/static/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/services/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compliance%20enquiry"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentation%20enquiry"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Retention%20enquiry"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20enquiry"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Support%20enquiry"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%20enquiry"
+    },
+    {
+      "path": "/services/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/services/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/services/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/terms-of-use/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/terms-of-use/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/terms-of-use/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/terms-of-use/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/terms-of-use/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/about/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/about/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/about/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/about/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/about/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/about/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/about/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/clients/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/clients/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/clients/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/clients/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/clients/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/contact/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/contact/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/contact/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/contact/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/contact/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/contact/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/cookie-policy/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/cookie-policy/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/cookie-policy/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/cookie-policy/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/cookie-policy/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/disclaimer/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/disclaimer/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/disclaimer/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/disclaimer/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/disclaimer/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/privacy-policy/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/privacy-policy/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/privacy-policy/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/privacy-policy/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/privacy-policy/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/prototype/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/prototype/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/prototype/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/prototype/static/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/prototype/static/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/prototype/static/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compliance%20enquiry"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentation%20enquiry"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Retention%20enquiry"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20enquiry"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Support%20enquiry"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%20enquiry"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/terms-of-use/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/terms-of-use/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/terms-of-use/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/dark/terms-of-use/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/dark/terms-of-use/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/about/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/about/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/about/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/about/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/about/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/about/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/about/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/clients/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/clients/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/clients/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/clients/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/clients/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/contact/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/contact/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/contact/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/contact/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/contact/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/contact/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/cookie-policy/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/cookie-policy/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/cookie-policy/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/cookie-policy/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/cookie-policy/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/disclaimer/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/disclaimer/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/disclaimer/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/disclaimer/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/disclaimer/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/privacy-policy/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/privacy-policy/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/privacy-policy/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/privacy-policy/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/privacy-policy/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/prototype/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/prototype/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/prototype/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/prototype/static/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/prototype/static/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/prototype/static/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compliance%20enquiry"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentation%20enquiry"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Retention%20enquiry"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20enquiry"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Support%20enquiry"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%20enquiry"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/services/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/terms-of-use/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/terms-of-use/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/terms-of-use/",
+      "href": "tel:+918939715152"
+    },
+    {
+      "path": "/theme/light/terms-of-use/",
+      "href": "mailto:info@kanjayconsulting.com"
+    },
+    {
+      "path": "/theme/light/terms-of-use/",
+      "href": "mailto:hr@kanjayconsulting.com"
+    }
+  ],
+  "externalDestinations": [
+    "https://www.linkedin.com/company/kanjay-consulting/",
+    "https://www.facebook.com/kanjayconsulting"
+  ],
+  "localTargets": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/about/",
+      "status": 200
+    },
+    {
+      "path": "/services/",
+      "status": 200
+    },
+    {
+      "path": "/clients/",
+      "status": 200
+    },
+    {
+      "path": "/contact/",
+      "status": 200
+    },
+    {
+      "path": "/theme/light/",
+      "status": 200
+    },
+    {
+      "path": "/theme/dark/",
+      "status": 200
+    },
+    {
+      "path": "/terms-of-use/",
+      "status": 200
+    },
+    {
+      "path": "/privacy-policy/",
+      "status": 200
+    },
+    {
+      "path": "/cookie-policy/",
+      "status": 200
+    },
+    {
+      "path": "/disclaimer/",
+      "status": 200
+    },
+    {
+      "path": "/theme/light/about/",
+      "status": 200
+    },
+    {
+      "path": "/theme/dark/about/",
+      "status": 200
+    },
+    {
+      "path": "/theme/light/clients/",
+      "status": 200
+    },
+    {
+      "path": "/theme/dark/clients/",
+      "status": 200
+    },
+    {
+      "path": "/theme/light/contact/",
+      "status": 200
+    },
+    {
+      "path": "/theme/dark/contact/",
+      "status": 200
+    },
+    {
+      "path": "/theme/light/cookie-policy/",
+      "status": 200
+    },
+    {
+      "path": "/theme/dark/cookie-policy/",
+      "status": 200
+    },
+    {
+      "path": "/theme/light/disclaimer/",
+      "status": 200
+    },
+    {
+      "path": "/theme/dark/disclaimer/",
+      "status": 200
+    },
+    {
+      "path": "/theme/light/privacy-policy/",
+      "status": 200
+    },
+    {
+      "path": "/theme/dark/privacy-policy/",
+      "status": 200
+    },
+    {
+      "path": "/theme/light/prototype/",
+      "status": 200
+    },
+    {
+      "path": "/theme/dark/prototype/",
+      "status": 200
+    },
+    {
+      "path": "/prototype/static/",
+      "status": 200
+    },
+    {
+      "path": "/licenses/react-bits.txt",
+      "status": 200
+    },
+    {
+      "path": "/licenses/uiverse.txt",
+      "status": 200
+    },
+    {
+      "path": "/theme/light/prototype/static/",
+      "status": 200
+    },
+    {
+      "path": "/theme/dark/prototype/static/",
+      "status": 200
+    },
+    {
+      "path": "/prototype/",
+      "status": 200
+    },
+    {
+      "path": "/theme/light/services/",
+      "status": 200
+    },
+    {
+      "path": "/theme/dark/services/",
+      "status": 200
+    },
+    {
+      "path": "/theme/light/terms-of-use/",
+      "status": 200
+    },
+    {
+      "path": "/theme/dark/terms-of-use/",
+      "status": 200
+    },
+    {
+      "path": "/prelaunch-missing/",
+      "status": 404
+    },
+    {
+      "path": "/theme/dark/prelaunch-missing/",
+      "status": 404
+    }
+  ]
+}

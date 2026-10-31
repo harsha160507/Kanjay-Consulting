@@ -1,0 +1,32 @@
+{
+  "approvedFactChecks": "Existing source-matching Home/About/Services/Clients verifiers rerun and pass; not an independent business investigation",
+  "editorialFlags": [
+    {
+      "text": "Find people who fit your roles and business needs.",
+      "present": true,
+      "status": "PENDING owner review; proposals remain unapplied"
+    },
+    {
+      "text": "Build a workplace where employees feel heard, valued and connected.",
+      "present": true,
+      "status": "PENDING owner review; proposals remain unapplied"
+    },
+    {
+      "text": "Resolve catalogue issues with a clear understanding of the required corrections.",
+      "present": true,
+      "status": "PENDING owner review; proposals remain unapplied"
+    }
+  ],
+  "policies": "Four explicit drafts; legal/business approval pending",
+  "prohibitedMaterial": "No new testimonials/results/team/hours/client stories added; approved client register checked by verifier",
+  "privateCommercialDetails": "OUT OF SCOPE, not missing supplied public facts",
+  "externalSocialTargets": "Only approved LinkedIn and Facebook URLs; web fetch could not retrieve either in this run, live reachability NOT TESTED",
+  "manualLimitations": [
+    "Actual screen-reader speech",
+    "Actual 200% zoom",
+    "OS reduced-motion switching",
+    "Physical touch",
+    "App launch/delivery"
+  ],
+  "hosting": "No production configuration tested; local observations are not production evidence"
+}

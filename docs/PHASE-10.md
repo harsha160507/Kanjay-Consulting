@@ -1,5 +1,7 @@
 # Phase 10 — SEO and site readiness review
 
+Latest test-only follow-up: [Full prelaunch report](PRELAUNCH-REPORT.md). Original implementation results below are preserved.
+
 31 October 2026. Draft branch `phase-10-readiness`, based on Phase 9 clarification commit `3484a04`. No merge, deployment, indexing authorisation, DNS or email configuration change. This is a completed local implementation/review with remaining launch blockers, not release approval.
 
 ## Implemented
