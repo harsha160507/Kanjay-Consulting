@@ -1,0 +1,2411 @@
+{
+  "limitations": "One local run per route/preset. Not a production or controlled regression guarantee. Raw inline bytes inside HTML are not separately transferred.",
+  "runs": [
+    {
+      "preset": "mobile",
+      "page": "home",
+      "url": "http://127.0.0.1:4340/theme/light/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T16:10:42.625Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 918.17985,
+      "tbtMs": 0,
+      "cls": 0.001634453459911717,
+      "externalJsTransferBytes": 0,
+      "inlineExecutableRawBytes": 661,
+      "inlineJsonLdRawBytes": 424,
+      "failures": [
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "mobile-home.json.gz",
+      "sha256": "88f8c8da065e3046b02eecefe8bd4ca3e4918d6d49c5bd217b3b1a99bd3f8a61",
+      "localPathRedactions": 0
+    },
+    {
+      "preset": "mobile",
+      "page": "about",
+      "url": "http://127.0.0.1:4340/theme/light/about/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T16:10:56.140Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 914.3731,
+      "tbtMs": 0,
+      "cls": 0.01859846947209633,
+      "externalJsTransferBytes": 0,
+      "inlineExecutableRawBytes": 661,
+      "inlineJsonLdRawBytes": 0,
+      "failures": [
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/about/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/about/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "mobile-about.json.gz",
+      "sha256": "393292282ca043cdaa59d727660efe10783bb4dc56f02c8a72fbd4075456c81a",
+      "localPathRedactions": 0
+    },
+    {
+      "preset": "mobile",
+      "page": "services",
+      "url": "http://127.0.0.1:4340/theme/light/services/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T16:11:09.804Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 992.10335,
+      "tbtMs": 20.5,
+      "cls": 0.001959560202451844,
+      "externalJsTransferBytes": 0,
+      "inlineExecutableRawBytes": 661,
+      "inlineJsonLdRawBytes": 0,
+      "failures": [
+        {
+          "id": "label-content-name-mismatch",
+          "title": "Elements with visible text labels do not have matching accessible names.",
+          "description": "Visible text labels that do not match the accessible name can result in a confusing experience for screen reader users. [Learn more about accessible names](https://dequeuniversity.com/rules/axe/4.14/label-content-name-mismatch).",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "node",
+                "valueType": "node",
+                "subItemsHeading": {
+                  "key": "relatedNode",
+                  "valueType": "node"
+                },
+                "label": "Failing Elements"
+              }
+            ],
+            "items": [
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-0-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,2,SECTION,1,DIV,0,ARTICLE,3,A",
+                  "selector": "section#hr-support > div.services-list > article#hr-audit-process-setup > a.services-text-link",
+                  "boundingRect": {
+                    "top": 2723,
+                    "bottom": 2771,
+                    "left": 36,
+                    "right": 376,
+                    "width": 340,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%2…\" aria-label=\"Email Kanjay about HR Audit &amp; HR Process Setup\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-1-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,2,SECTION,1,DIV,1,ARTICLE,3,A",
+                  "selector": "section#hr-support > div.services-list > article#recruitment-talent-acquisition > a.services-text-link",
+                  "boundingRect": {
+                    "top": 3506,
+                    "bottom": 3554,
+                    "left": 36,
+                    "right": 376,
+                    "width": 340,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acqu…\" aria-label=\"Email Kanjay about Recruitment &amp; Talent Acquisition\">",
+                  "nodeLabel": "Employer enquiry by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-2-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,2,SECTION,1,DIV,2,ARTICLE,3,A",
+                  "selector": "section#hr-support > div.services-list > article#payroll-statutory-compliance > a.services-text-link",
+                  "boundingRect": {
+                    "top": 4308,
+                    "bottom": 4356,
+                    "left": 36,
+                    "right": 376,
+                    "width": 340,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compl…\" aria-label=\"Email Kanjay about Payroll &amp; Statutory Compliance\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-3-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,2,SECTION,1,DIV,3,ARTICLE,3,A",
+                  "selector": "section#hr-support > div.services-list > article#hr-policies-documentation > a.services-text-link",
+                  "boundingRect": {
+                    "top": 5037,
+                    "bottom": 5085,
+                    "left": 36,
+                    "right": 376,
+                    "width": 340,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentati…\" aria-label=\"Email Kanjay about HR Policies &amp; Documentation\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-4-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,2,SECTION,1,DIV,4,ARTICLE,3,A",
+                  "selector": "section#hr-support > div.services-list > article#pms-kra-kpi > a.services-text-link",
+                  "boundingRect": {
+                    "top": 5789,
+                    "bottom": 5837,
+                    "left": 36,
+                    "right": 376,
+                    "width": 340,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry\" aria-label=\"Email Kanjay about PMS / KRA-KPI\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-5-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,2,SECTION,1,DIV,5,ARTICLE,3,A",
+                  "selector": "section#hr-support > div.services-list > article#employee-engagement-retention > a.services-text-link",
+                  "boundingRect": {
+                    "top": 6572,
+                    "bottom": 6620,
+                    "left": 36,
+                    "right": 376,
+                    "width": 340,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Ret…\" aria-label=\"Email Kanjay about Employee Engagement &amp; Retention\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-6-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,2,SECTION,1,DIV,6,ARTICLE,3,A",
+                  "selector": "section#hr-support > div.services-list > article#onboarding-exit-settlement > a.services-text-link",
+                  "boundingRect": {
+                    "top": 7353,
+                    "bottom": 7401,
+                    "left": 36,
+                    "right": 376,
+                    "width": 340,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full…\" aria-label=\"Email Kanjay about Onboarding, Exit &amp; Full &amp; Final Settlement\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-7-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,3,SECTION,2,DIV,0,ARTICLE,3,A",
+                  "selector": "section#gem-seller-support > div.services-list > article#seller-registration-profile-setup > a.services-text-link",
+                  "boundingRect": {
+                    "top": 8548,
+                    "bottom": 8596,
+                    "left": 36,
+                    "right": 376,
+                    "width": 340,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Pro…\" aria-label=\"Email Kanjay about Seller Registration &amp; Profile Setup\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-8-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,3,SECTION,2,DIV,1,ARTICLE,3,A",
+                  "selector": "section#gem-seller-support > div.services-list > article#product-service-catalogue-upload > a.services-text-link",
+                  "boundingRect": {
+                    "top": 9280,
+                    "bottom": 9328,
+                    "left": 36,
+                    "right": 376,
+                    "width": 340,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalog…\" aria-label=\"Email Kanjay about Product / Service Catalogue Upload\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-9-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,3,SECTION,2,DIV,2,ARTICLE,3,A",
+                  "selector": "section#gem-seller-support > div.services-list > article#bid-search-analysis > a.services-text-link",
+                  "boundingRect": {
+                    "top": 10035,
+                    "bottom": 10083,
+                    "left": 36,
+                    "right": 376,
+                    "width": 340,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20e…\" aria-label=\"Email Kanjay about Bid Search &amp; Analysis\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-10-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,3,SECTION,2,DIV,3,ARTICLE,3,A",
+                  "selector": "section#gem-seller-support > div.services-list > article#tender-participation-support > a.services-text-link",
+                  "boundingRect": {
+                    "top": 10765,
+                    "bottom": 10813,
+                    "left": 36,
+                    "right": 376,
+                    "width": 340,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Su…\" aria-label=\"Email Kanjay about Tender Participation &amp; Support\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-11-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,3,SECTION,2,DIV,4,ARTICLE,3,A",
+                  "selector": "section#gem-seller-support > div.services-list > article#oem-authorization-vendor-assessment > a.services-text-link",
+                  "boundingRect": {
+                    "top": 11498,
+                    "bottom": 11546,
+                    "left": 36,
+                    "right": 376,
+                    "width": 340,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendo…\" aria-label=\"Email Kanjay about OEM Authorization &amp; Vendor Assessment\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-12-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,3,SECTION,2,DIV,5,ARTICLE,3,A",
+                  "selector": "section#gem-seller-support > div.services-list > article#catalogue-approval-rejection-support > a.services-text-link",
+                  "boundingRect": {
+                    "top": 12256,
+                    "bottom": 12304,
+                    "left": 36,
+                    "right": 376,
+                    "width": 340,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Reje…\" aria-label=\"Email Kanjay about Catalogue Approval / Rejection Support\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-13-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,3,SECTION,2,DIV,6,ARTICLE,3,A",
+                  "selector": "section#gem-seller-support > div.services-list > article#order-contract-support > a.services-text-link",
+                  "boundingRect": {
+                    "top": 12986,
+                    "bottom": 13034,
+                    "left": 36,
+                    "right": 376,
+                    "width": 340,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%…\" aria-label=\"Email Kanjay about Order &amp; Contract Support\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              }
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "impact": "serious",
+              "tags": [
+                "cat.semantics",
+                "wcag21a",
+                "wcag253",
+                "EN-301-549",
+                "EN-9.2.5.3",
+                "RGAAv4",
+                "RGAA-6.1.5"
+              ]
+            }
+          }
+        },
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/services/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/services/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "mobile-services.json.gz",
+      "sha256": "68d996a0b53ce7a3b29a8af09a4a5146cafc54c2ed85b1dfccc15a76a254b953",
+      "localPathRedactions": 0
+    },
+    {
+      "preset": "mobile",
+      "page": "clients",
+      "url": "http://127.0.0.1:4340/theme/light/clients/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T16:11:23.564Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 942.1442999999999,
+      "tbtMs": 0,
+      "cls": 0.0015361188250760014,
+      "externalJsTransferBytes": 0,
+      "inlineExecutableRawBytes": 661,
+      "inlineJsonLdRawBytes": 0,
+      "failures": [
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/clients/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/clients/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "mobile-clients.json.gz",
+      "sha256": "a8b63fcbd83b71a3ab4222db4226963f1e7aad5cf77a2a584043529b8b380414",
+      "localPathRedactions": 0
+    },
+    {
+      "preset": "mobile",
+      "page": "contact",
+      "url": "http://127.0.0.1:4340/theme/light/contact/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T16:11:37.572Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 912.8068000000001,
+      "tbtMs": 12.5,
+      "cls": 0.001218648165552106,
+      "externalJsTransferBytes": 0,
+      "inlineExecutableRawBytes": 661,
+      "inlineJsonLdRawBytes": 0,
+      "failures": [
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/contact/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/contact/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "mobile-contact.json.gz",
+      "sha256": "0b9b5bb4a61fc14eece521f48d8170b7080bf4cf9f4d903280e59ef45674078f",
+      "localPathRedactions": 0
+    },
+    {
+      "preset": "mobile",
+      "page": "terms-of-use",
+      "url": "http://127.0.0.1:4340/theme/light/terms-of-use/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T16:11:51.095Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 910.7518,
+      "tbtMs": 0,
+      "cls": 0.012523621560065736,
+      "externalJsTransferBytes": 0,
+      "inlineExecutableRawBytes": 661,
+      "inlineJsonLdRawBytes": 0,
+      "failures": [
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/terms-of-use/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/terms-of-use/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "mobile-terms-of-use.json.gz",
+      "sha256": "908f27041c8aa4d8013f269052beced905284874aff255c8eeefe946540308b3",
+      "localPathRedactions": 0
+    },
+    {
+      "preset": "mobile",
+      "page": "privacy-policy",
+      "url": "http://127.0.0.1:4340/theme/light/privacy-policy/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T16:12:05.003Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 910.3633,
+      "tbtMs": 23.409175000000005,
+      "cls": 0.03653820386840876,
+      "externalJsTransferBytes": 0,
+      "inlineExecutableRawBytes": 661,
+      "inlineJsonLdRawBytes": 0,
+      "failures": [
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/privacy-policy/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/privacy-policy/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "mobile-privacy-policy.json.gz",
+      "sha256": "e2e0098419ca71b2238bd650aa222d41c1ee149142276816f21561f625d85bd2",
+      "localPathRedactions": 0
+    },
+    {
+      "preset": "mobile",
+      "page": "cookie-policy",
+      "url": "http://127.0.0.1:4340/theme/light/cookie-policy/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T16:12:20.698Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 915.1249,
+      "tbtMs": 89.93754999999987,
+      "cls": 0.01236911404658335,
+      "externalJsTransferBytes": 0,
+      "inlineExecutableRawBytes": 661,
+      "inlineJsonLdRawBytes": 0,
+      "failures": [
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/cookie-policy/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/cookie-policy/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "mobile-cookie-policy.json.gz",
+      "sha256": "f5c33d029398df06dca9fc494224ef61f6da0465af8edac9f1f644b05622a374",
+      "localPathRedactions": 0
+    },
+    {
+      "preset": "mobile",
+      "page": "disclaimer",
+      "url": "http://127.0.0.1:4340/theme/light/disclaimer/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T16:12:35.428Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 910.1983,
+      "tbtMs": 0,
+      "cls": 0.032738539822332116,
+      "externalJsTransferBytes": 0,
+      "inlineExecutableRawBytes": 661,
+      "inlineJsonLdRawBytes": 0,
+      "failures": [
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/disclaimer/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/disclaimer/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "mobile-disclaimer.json.gz",
+      "sha256": "7a7ecac25591b63c59532c0529ad99c48e0e2c8507ed138ad22ffa3981b3d729",
+      "localPathRedactions": 0
+    },
+    {
+      "preset": "desktop",
+      "page": "home",
+      "url": "http://127.0.0.1:4340/theme/dark/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T16:12:49.326Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 254.84820000000002,
+      "tbtMs": 0,
+      "cls": 0.002922771947449145,
+      "externalJsTransferBytes": 0,
+      "inlineExecutableRawBytes": 661,
+      "inlineJsonLdRawBytes": 424,
+      "failures": [
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/dark/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/dark/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "desktop-home.json.gz",
+      "sha256": "b69ca9b72f5397ee543f40093a7f55c5b89f36330bced797b08e1f81bc19b07f",
+      "localPathRedactions": 0
+    },
+    {
+      "preset": "desktop",
+      "page": "about",
+      "url": "http://127.0.0.1:4340/theme/dark/about/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T16:13:03.414Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 252.06799999999998,
+      "tbtMs": 0,
+      "cls": 0.01515539198700644,
+      "externalJsTransferBytes": 0,
+      "inlineExecutableRawBytes": 661,
+      "inlineJsonLdRawBytes": 0,
+      "failures": [
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/dark/about/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/dark/about/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "desktop-about.json.gz",
+      "sha256": "2c686682f67c1975601df8020b7af60457b5c9681d64b2aab051a9dc95ffaaa2",
+      "localPathRedactions": 0
+    },
+    {
+      "preset": "desktop",
+      "page": "services",
+      "url": "http://127.0.0.1:4340/theme/dark/services/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T16:13:17.542Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 256.58005,
+      "tbtMs": 0,
+      "cls": 0.001606410473938416,
+      "externalJsTransferBytes": 0,
+      "inlineExecutableRawBytes": 661,
+      "inlineJsonLdRawBytes": 0,
+      "failures": [
+        {
+          "id": "label-content-name-mismatch",
+          "title": "Elements with visible text labels do not have matching accessible names.",
+          "description": "Visible text labels that do not match the accessible name can result in a confusing experience for screen reader users. [Learn more about accessible names](https://dequeuniversity.com/rules/axe/4.14/label-content-name-mismatch).",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "node",
+                "valueType": "node",
+                "subItemsHeading": {
+                  "key": "relatedNode",
+                  "valueType": "node"
+                },
+                "label": "Failing Elements"
+              }
+            ],
+            "items": [
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-0-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,2,SECTION,1,DIV,0,ARTICLE,3,A",
+                  "selector": "section#hr-support > div.services-list > article#hr-audit-process-setup > a.services-text-link",
+                  "boundingRect": {
+                    "top": 1999,
+                    "bottom": 2047,
+                    "left": 101,
+                    "right": 317,
+                    "width": 217,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%2…\" aria-label=\"Email Kanjay about HR Audit &amp; HR Process Setup\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-1-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,2,SECTION,1,DIV,1,ARTICLE,3,A",
+                  "selector": "section#hr-support > div.services-list > article#recruitment-talent-acquisition > a.services-text-link",
+                  "boundingRect": {
+                    "top": 2557,
+                    "bottom": 2605,
+                    "left": 101,
+                    "right": 301,
+                    "width": 200,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acqu…\" aria-label=\"Email Kanjay about Recruitment &amp; Talent Acquisition\">",
+                  "nodeLabel": "Employer enquiry by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-2-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,2,SECTION,1,DIV,2,ARTICLE,3,A",
+                  "selector": "section#hr-support > div.services-list > article#payroll-statutory-compliance > a.services-text-link",
+                  "boundingRect": {
+                    "top": 3090,
+                    "bottom": 3138,
+                    "left": 101,
+                    "right": 317,
+                    "width": 217,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compl…\" aria-label=\"Email Kanjay about Payroll &amp; Statutory Compliance\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-3-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,2,SECTION,1,DIV,3,ARTICLE,3,A",
+                  "selector": "section#hr-support > div.services-list > article#hr-policies-documentation > a.services-text-link",
+                  "boundingRect": {
+                    "top": 3647,
+                    "bottom": 3695,
+                    "left": 101,
+                    "right": 317,
+                    "width": 217,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentati…\" aria-label=\"Email Kanjay about HR Policies &amp; Documentation\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-4-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,2,SECTION,1,DIV,4,ARTICLE,3,A",
+                  "selector": "section#hr-support > div.services-list > article#pms-kra-kpi > a.services-text-link",
+                  "boundingRect": {
+                    "top": 4205,
+                    "bottom": 4253,
+                    "left": 101,
+                    "right": 317,
+                    "width": 217,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry\" aria-label=\"Email Kanjay about PMS / KRA-KPI\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-5-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,2,SECTION,1,DIV,5,ARTICLE,3,A",
+                  "selector": "section#hr-support > div.services-list > article#employee-engagement-retention > a.services-text-link",
+                  "boundingRect": {
+                    "top": 4762,
+                    "bottom": 4810,
+                    "left": 101,
+                    "right": 317,
+                    "width": 217,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Ret…\" aria-label=\"Email Kanjay about Employee Engagement &amp; Retention\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-6-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,2,SECTION,1,DIV,6,ARTICLE,3,A",
+                  "selector": "section#hr-support > div.services-list > article#onboarding-exit-settlement > a.services-text-link",
+                  "boundingRect": {
+                    "top": 5320,
+                    "bottom": 5368,
+                    "left": 101,
+                    "right": 317,
+                    "width": 217,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full…\" aria-label=\"Email Kanjay about Onboarding, Exit &amp; Full &amp; Final Settlement\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-7-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,3,SECTION,2,DIV,0,ARTICLE,3,A",
+                  "selector": "section#gem-seller-support > div.services-list > article#seller-registration-profile-setup > a.services-text-link",
+                  "boundingRect": {
+                    "top": 6259,
+                    "bottom": 6307,
+                    "left": 101,
+                    "right": 317,
+                    "width": 217,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Pro…\" aria-label=\"Email Kanjay about Seller Registration &amp; Profile Setup\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-8-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,3,SECTION,2,DIV,1,ARTICLE,3,A",
+                  "selector": "section#gem-seller-support > div.services-list > article#product-service-catalogue-upload > a.services-text-link",
+                  "boundingRect": {
+                    "top": 6792,
+                    "bottom": 6840,
+                    "left": 101,
+                    "right": 317,
+                    "width": 217,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalog…\" aria-label=\"Email Kanjay about Product / Service Catalogue Upload\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-9-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,3,SECTION,2,DIV,2,ARTICLE,3,A",
+                  "selector": "section#gem-seller-support > div.services-list > article#bid-search-analysis > a.services-text-link",
+                  "boundingRect": {
+                    "top": 7350,
+                    "bottom": 7398,
+                    "left": 101,
+                    "right": 317,
+                    "width": 217,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20e…\" aria-label=\"Email Kanjay about Bid Search &amp; Analysis\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-10-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,3,SECTION,2,DIV,3,ARTICLE,3,A",
+                  "selector": "section#gem-seller-support > div.services-list > article#tender-participation-support > a.services-text-link",
+                  "boundingRect": {
+                    "top": 7883,
+                    "bottom": 7931,
+                    "left": 101,
+                    "right": 317,
+                    "width": 217,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Su…\" aria-label=\"Email Kanjay about Tender Participation &amp; Support\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-11-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,3,SECTION,2,DIV,4,ARTICLE,3,A",
+                  "selector": "section#gem-seller-support > div.services-list > article#oem-authorization-vendor-assessment > a.services-text-link",
+                  "boundingRect": {
+                    "top": 8440,
+                    "bottom": 8488,
+                    "left": 101,
+                    "right": 317,
+                    "width": 217,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendo…\" aria-label=\"Email Kanjay about OEM Authorization &amp; Vendor Assessment\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-12-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,3,SECTION,2,DIV,5,ARTICLE,3,A",
+                  "selector": "section#gem-seller-support > div.services-list > article#catalogue-approval-rejection-support > a.services-text-link",
+                  "boundingRect": {
+                    "top": 8974,
+                    "bottom": 9022,
+                    "left": 101,
+                    "right": 317,
+                    "width": 217,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Reje…\" aria-label=\"Email Kanjay about Catalogue Approval / Rejection Support\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              },
+              {
+                "node": {
+                  "type": "node",
+                  "lhId": "1-13-A",
+                  "path": "1,HTML,1,BODY,4,MAIN,0,DIV,3,SECTION,2,DIV,6,ARTICLE,3,A",
+                  "selector": "section#gem-seller-support > div.services-list > article#order-contract-support > a.services-text-link",
+                  "boundingRect": {
+                    "top": 9531,
+                    "bottom": 9579,
+                    "left": 101,
+                    "right": 317,
+                    "width": 217,
+                    "height": 48
+                  },
+                  "snippet": "<a class=\"services-text-link service-email\" href=\"mailto:info@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%…\" aria-label=\"Email Kanjay about Order &amp; Contract Support\">",
+                  "nodeLabel": "Discuss this service by email\n↗",
+                  "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+                }
+              }
+            ],
+            "debugData": {
+              "type": "debugdata",
+              "impact": "serious",
+              "tags": [
+                "cat.semantics",
+                "wcag21a",
+                "wcag253",
+                "EN-301-549",
+                "EN-9.2.5.3",
+                "RGAAv4",
+                "RGAA-6.1.5"
+              ]
+            }
+          }
+        },
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/dark/services/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/dark/services/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "desktop-services.json.gz",
+      "sha256": "a3e572cab7d521dae776766bedafacb6bbb3246ac4af0e6f62bdfcabb41ff73a",
+      "localPathRedactions": 0
+    },
+    {
+      "preset": "desktop",
+      "page": "clients",
+      "url": "http://127.0.0.1:4340/theme/dark/clients/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T16:13:31.742Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 274.3193,
+      "tbtMs": 0,
+      "cls": 0.0013989115756123632,
+      "externalJsTransferBytes": 0,
+      "inlineExecutableRawBytes": 661,
+      "inlineJsonLdRawBytes": 0,
+      "failures": [
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/dark/clients/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/dark/clients/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "desktop-clients.json.gz",
+      "sha256": "42706d721ef4401283c5ec1890c2bfd1e41214f3ec7564d4e504642320349751",
+      "localPathRedactions": 0
+    },
+    {
+      "preset": "desktop",
+      "page": "contact",
+      "url": "http://127.0.0.1:4340/theme/dark/contact/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T16:13:46.314Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 252.35430000000002,
+      "tbtMs": 0,
+      "cls": 0.001426886996233193,
+      "externalJsTransferBytes": 0,
+      "inlineExecutableRawBytes": 661,
+      "inlineJsonLdRawBytes": 0,
+      "failures": [
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/dark/contact/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/dark/contact/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "desktop-contact.json.gz",
+      "sha256": "a720609915c8d4c33bacc1927f9f4511f9c8ea7c2855b63e9172b2b696d2616a",
+      "localPathRedactions": 0
+    }
+  ]
+}

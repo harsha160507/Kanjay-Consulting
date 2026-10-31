@@ -1,0 +1,14 @@
+# Netlify-compatible proposal. Verify on the chosen host; not applied by local preview.
+http://kanjayconsulting.com/* https://www.kanjayconsulting.com/:splat 301!
+https://kanjayconsulting.com/* https://www.kanjayconsulting.com/:splat 301!
+http://www.kanjayconsulting.com/* https://www.kanjayconsulting.com/:splat 301!
+/index.html / 301!
+/about/index.html /about/ 301!
+/services/index.html /services/ 301!
+/clients/index.html /clients/ 301!
+/contact/index.html /contact/ 301!
+/terms-of-use/index.html /terms-of-use/ 301!
+/privacy-policy/index.html /privacy-policy/ 301!
+/cookie-policy/index.html /cookie-policy/ 301!
+/disclaimer/index.html /disclaimer/ 301!
+# No catch-all rewrite: unknown addresses must retain HTTP 404.

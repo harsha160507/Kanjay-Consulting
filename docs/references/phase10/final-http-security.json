@@ -1,0 +1,92 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "headers": {
+      "cache-control": "no-store",
+      "connection": "keep-alive",
+      "content-encoding": "gzip",
+      "content-length": "4329",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Sat, 31 Oct 2026 16:17:19 GMT",
+      "keep-alive": "timeout=5",
+      "permissions-policy": "camera=(), microphone=(), geolocation=()",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "vary": "Accept-Encoding",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "DENY",
+      "x-robots-tag": "noindex, nofollow"
+    }
+  },
+  {
+    "path": "/theme/dark/services/",
+    "status": 200,
+    "headers": {
+      "cache-control": "no-store",
+      "connection": "keep-alive",
+      "content-encoding": "gzip",
+      "content-length": "6532",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Sat, 31 Oct 2026 16:17:19 GMT",
+      "keep-alive": "timeout=5",
+      "permissions-policy": "camera=(), microphone=(), geolocation=()",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "vary": "Accept-Encoding",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "DENY",
+      "x-robots-tag": "noindex, nofollow"
+    }
+  },
+  {
+    "path": "/phase10-final-missing/",
+    "status": 404,
+    "headers": {
+      "cache-control": "no-store",
+      "connection": "keep-alive",
+      "content-encoding": "gzip",
+      "content-length": "2359",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Sat, 31 Oct 2026 16:17:19 GMT",
+      "keep-alive": "timeout=5",
+      "permissions-policy": "camera=(), microphone=(), geolocation=()",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "vary": "Accept-Encoding",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "DENY",
+      "x-robots-tag": "noindex, nofollow"
+    }
+  },
+  {
+    "path": "/sitemap.xml",
+    "status": 200,
+    "headers": {
+      "cache-control": "no-store",
+      "connection": "keep-alive",
+      "content-encoding": "gzip",
+      "content-length": "175",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'sha256-0O7iB6zr9x0r6X6eWYITC9V5q+yWCGAoFvcysBGbY9Q=' 'sha256-2atkjqL2nPOlC9LzETVPOq3yEGxo9tdJYlmiSXDimkk=' 'sha256-QqFfxiBiwuaTxFjUMJsYd1iFW+haIdKf8g1/mT7ktCg=' 'sha256-UIrFqcaitjA3OKa9mHKajg3N+0Y7tW9+y0o3QmMFeZQ=' 'sha256-hOeTecFFSM+FhBW+9W+WACCfUDIzZJ1+Q3Dw6DKmsPo=' 'sha256-lT9vjNVAmomVtCH6g0F6BZXoU61ODR0xBR0wefdYv6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'",
+      "content-type": "application/xml",
+      "date": "Sat, 31 Oct 2026 16:17:19 GMT",
+      "keep-alive": "timeout=5",
+      "permissions-policy": "camera=(), microphone=(), geolocation=()",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "vary": "Accept-Encoding",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "DENY",
+      "x-robots-tag": "noindex, nofollow"
+    }
+  },
+  {
+    "path": "/..%2f..%2fpackage.json",
+    "status": 403,
+    "headers": {
+      "connection": "keep-alive",
+      "date": "Sat, 31 Oct 2026 16:17:19 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked"
+    }
+  }
+]

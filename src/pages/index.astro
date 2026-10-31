@@ -13,7 +13,7 @@ const route = routeContext(Astro.url.pathname);
       <div><p class="eyebrow">Kanjay Consulting / Established {business.established}</p>
         <h1 id="home-title">HR support.<br /><span>GeM seller guidance.</span></h1>
         <p class="lede">For small and medium businesses: HR support globally and GeM portal consulting for sellers across India.</p>
-        <div class="home-actions"><a class="proto-button home-primary" href={`tel:${business.phone}`}>Let’s talk <span aria-hidden="true">↗</span></a><a class="proto-button home-secondary" href="#home-services">Explore our services <span class="arrow-wrapper" aria-hidden="true"><span class="arrow" /></span></a></div>
+        <div class="home-actions"><a class="proto-button home-primary" href={`tel:${business.phone}`}>Call our team <span aria-hidden="true">↗</span></a><a class="proto-button home-secondary" href="#home-services">Explore our services <span class="arrow-wrapper" aria-hidden="true"><span class="arrow" /></span></a></div>
       </div>
       <aside class="home-directions" aria-label="Find your area of support">
         {homePaths.map(path => <a href={`#${path.id}-home`}><span class="eyebrow">{path.number} / {path.market}</span><span class="direction-title">{path.title}<span aria-hidden="true">↗</span></span></a>)}
@@ -37,7 +37,7 @@ const route = routeContext(Astro.url.pathname);
       <div class="home-values"><article><h3>Trust</h3><p>Trust as the foundation of communication and client relationships.</p></article><article><h3>Quality</h3><p>A commitment to quality in the work we do.</p></article><article><h3>Support</h3><p>Back-office support and long-term client relationships.</p></article></div>
     </section>
     <section class="home-credibility home-section" aria-labelledby="clients-title">
-      <div class="home-section-heading"><p class="eyebrow">Experience & relationships</p><h2 id="clients-title">Working with businesses.<br />Since {business.established}.</h2><p>HR support globally. GeM seller consulting across India since {business.gemSince}.</p></div>
+      <div class="home-section-heading"><p class="eyebrow">Experience & relationships</p><h2 id="clients-title">Working with businesses.<br />Since {business.established}.</h2><p>HR support globally. GeM consulting since {business.gemSince}. Current GeM seller support across India.</p></div>
       <h3 class="home-client-label">A selection of our clients</h3>
       <ul class="home-client-grid">{homeClients.map(client => <li class:list={{ 'home-woyc': client.file === 'WOYC' }}><img src={`/images/prototype-clients/${client.file}.webp`} alt={client.name} width="160" height="64" loading="lazy" /></li>)}</ul>
     </section>

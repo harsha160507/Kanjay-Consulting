@@ -1,0 +1,346 @@
+[
+  {
+    "path": "/prototype/",
+    "width": 1440,
+    "skip": "main",
+    "ended": true,
+    "expectedCount": 27,
+    "missing": [
+      "prototype-reduce"
+    ],
+    "stops": [
+      {
+        "key": "/prototype/static/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/about/",
+        "outline": "2px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/services/",
+        "outline": "2px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/clients/",
+        "outline": "2px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/contact/",
+        "outline": "2px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/contact/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/about/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/services/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "Play logo motion",
+        "outline": "2.66667px",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      {
+        "key": "Internal prototype measurements",
+        "outline": "2.66667px",
+        "tag": "SUMMARY",
+        "visible": true
+      },
+      {
+        "key": "/licenses/react-bits.txt",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/licenses/uiverse.txt",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/about/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/services/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/clients/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/contact/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "tel:+918939715152",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "mailto:info@kanjayconsulting.com",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "mailto:hr@kanjayconsulting.com",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "https://www.linkedin.com/company/kanjay-consulting/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "https://www.facebook.com/kanjayconsulting",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/terms-of-use/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/privacy-policy/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/cookie-policy/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/disclaimer/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      }
+    ],
+    "pass": false
+  },
+  {
+    "path": "/prototype/static/",
+    "width": 1440,
+    "skip": "main",
+    "ended": true,
+    "expectedCount": 27,
+    "missing": [
+      "prototype-reduce"
+    ],
+    "stops": [
+      {
+        "key": "/prototype/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/about/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/services/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/clients/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/contact/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/contact/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/about/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/services/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "Internal prototype measurements",
+        "outline": "2.66667px",
+        "tag": "SUMMARY",
+        "visible": true
+      },
+      {
+        "key": "/licenses/react-bits.txt",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/licenses/uiverse.txt",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/about/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/services/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/clients/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/contact/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "tel:+918939715152",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "mailto:info@kanjayconsulting.com",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "mailto:hr@kanjayconsulting.com",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "https://www.linkedin.com/company/kanjay-consulting/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "https://www.facebook.com/kanjayconsulting",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/terms-of-use/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/privacy-policy/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/cookie-policy/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      },
+      {
+        "key": "/disclaimer/",
+        "outline": "2.66667px",
+        "tag": "A",
+        "visible": true
+      }
+    ],
+    "pass": false
+  }
+]

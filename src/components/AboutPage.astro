@@ -10,7 +10,7 @@ const route = routeContext(Astro.url.pathname);
     <div><p class="eyebrow">Our company</p><h1 id="about-title">About Kanjay<br /><span>Consulting.</span></h1>
       <p class="lede">HR and GeM portal consulting for small and medium organisations.</p>
       <p>Kanjay Consulting works with businesses on their people, HR processes and GeM seller requirements. Our HR support is available globally; our GeM consulting supports sellers across India.</p>
-      <a class="proto-button about-button" href={`mailto:${business.email}`}>Talk about your business <span class="arrow-wrapper" aria-hidden="true"><span class="arrow" /></span></a>
+      <a class="proto-button about-button" href={`mailto:${business.email}`}>Email our team <span class="arrow-wrapper" aria-hidden="true"><span class="arrow" /></span></a>
     </div>
     <aside class="about-history" aria-labelledby="history-title"><h2 id="history-title">Our beginnings</h2><dl><div><dt>{business.established}</dt><dd>Kanjay Consulting established</dd></div><div><dt>{business.gemSince}</dt><dd>GeM consulting began</dd></div></dl></aside>
   </section>

@@ -1,0 +1,361 @@
+{
+  "origin": "http://127.0.0.1:4337",
+  "samples": [
+    {
+      "path": "/theme/light/",
+      "localStorage": {
+        "keys": [
+          "kanjay-theme"
+        ],
+        "theme": "light"
+      },
+      "sessionStorageKeys": [],
+      "documentCookieNames": [],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:4337/_astro/BaseLayout.D9a47pA0.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/_...CyeIHibk.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/pages.Caju8-M1.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/_page_.CSNPfDdi.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/brand/kanjay-logo-light-transparent.svg",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/inter-latin-400-normal.C38fXH4l.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/inter-latin-500-normal.Cerq10X2.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/manrope-latin-600-normal.4f0koTD-.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/manrope-latin-700-normal.BZp_XxE4.woff2",
+          "type": "css"
+        }
+      ]
+    },
+    {
+      "path": "/theme/dark/contact/",
+      "localStorage": {
+        "keys": [
+          "kanjay-theme"
+        ],
+        "theme": "dark"
+      },
+      "sessionStorageKeys": [],
+      "documentCookieNames": [],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:4337/_astro/BaseLayout.D9a47pA0.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/_...CyeIHibk.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/pages.Caju8-M1.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/_page_.CSNPfDdi.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/brand/kanjay-logo-light-transparent.svg",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/inter-latin-500-normal.Cerq10X2.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/manrope-latin-600-normal.4f0koTD-.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/inter-latin-400-normal.C38fXH4l.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/manrope-latin-700-normal.BZp_XxE4.woff2",
+          "type": "css"
+        }
+      ]
+    },
+    {
+      "path": "/theme/light/services/",
+      "localStorage": {
+        "keys": [
+          "kanjay-theme"
+        ],
+        "theme": "light"
+      },
+      "sessionStorageKeys": [],
+      "documentCookieNames": [],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:4337/_astro/BaseLayout.D9a47pA0.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/_...CyeIHibk.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/pages.Caju8-M1.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/_page_.CSNPfDdi.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/brand/kanjay-logo-light-transparent.svg",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/inter-latin-500-normal.Cerq10X2.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/manrope-latin-600-normal.4f0koTD-.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/inter-latin-400-normal.C38fXH4l.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/manrope-latin-700-normal.BZp_XxE4.woff2",
+          "type": "css"
+        }
+      ]
+    },
+    {
+      "path": "/theme/light/clients/",
+      "localStorage": {
+        "keys": [
+          "kanjay-theme"
+        ],
+        "theme": "light"
+      },
+      "sessionStorageKeys": [],
+      "documentCookieNames": [],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:4337/_astro/BaseLayout.D9a47pA0.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/_...CyeIHibk.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/pages.Caju8-M1.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/_page_.CSNPfDdi.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/brand/kanjay-logo-light-transparent.svg",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/l-and-t.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/eaton.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/balmer-lawrie.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/benco-group.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/casol.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/techno-products.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/hadron-infra.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/inter-latin-400-normal.C38fXH4l.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/inter-latin-500-normal.Cerq10X2.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/manrope-latin-600-normal.4f0koTD-.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/manrope-latin-700-normal.BZp_XxE4.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/safe-tech-fire-solutions.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/sree-raghavendra-electric-services-pvt-ltd.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/madhavaa-crafts-pvt-ltd.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/aaviza-technologies.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/zuppa.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/shopup.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/vitamed.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/welona.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/ttj.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/sana-s-thinai-organics.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/sabari-musicals.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/srm-institute-of-science-and-technology.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/deforay.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/kaavian-services.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/clients/limpar.webp",
+          "type": "img"
+        }
+      ]
+    },
+    {
+      "path": "/theme/light/prototype/",
+      "localStorage": {
+        "keys": [
+          "kanjay-theme"
+        ],
+        "theme": "light"
+      },
+      "sessionStorageKeys": [],
+      "documentCookieNames": [],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:4337/_astro/BaseLayout.D9a47pA0.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/_...CyeIHibk.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/pages.Caju8-M1.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/_page_.CSNPfDdi.css",
+          "type": "link"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/brand/kanjay-logo-light-transparent.svg",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/inter-latin-400-normal.C38fXH4l.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/manrope-latin-700-normal.BZp_XxE4.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/inter-latin-500-normal.Cerq10X2.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/_astro/manrope-latin-600-normal.4f0koTD-.woff2",
+          "type": "css"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/prototype-clients/EATON.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/prototype-clients/AAVIZA.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/prototype-clients/DEFORAY.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/prototype-clients/ZUPPA.webp",
+          "type": "img"
+        },
+        {
+          "url": "http://127.0.0.1:4337/images/prototype-clients/WOYC.webp",
+          "type": "img"
+        }
+      ]
+    }
+  ],
+  "cacheNames": [],
+  "indexedDBNames": [],
+  "serviceWorkerScopes": []
+}

@@ -1,0 +1,10 @@
+{
+  "buildTypeCheck": "PASS: 57 files; zero errors/warnings/hints",
+  "build": "PASS: 34 HTML routes plus sitemap",
+  "rebuiltHtmlMatchesTested": "PASS: all 34 byte-identical",
+  "changed": [],
+  "temporaryHarnessAbsent": true,
+  "contactTargets": "PASS: 236 instances; mailto query parameters only subjects",
+  "evidencePrivacy": "PASS",
+  "filesScanned": 41
+}

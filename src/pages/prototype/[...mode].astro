@@ -12,7 +12,7 @@ const { enhanced } = Astro.props;
 const route = routeContext(Astro.url.pathname);
 const prefix = route.to('/');
 ---
-<BaseLayout title="Phase 3 component prototype" phaseLabel="Phase 3 · Component prototype">
+<BaseLayout title={enhanced ? "Enhanced component prototype" : "Static component prototype"} phaseLabel="Phase 3 · Component prototype" description={enhanced ? "Internal enhanced component experiment for Kanjay Consulting; excluded from launch indexing." : "Internal static component comparison for Kanjay Consulting; excluded from launch indexing."}>
   <div class="draft-note"><strong>Internal Phase 3 prototype · {enhanced ? 'React enhancements' : 'Static comparison'}.</strong> This is a component test, not a finished homepage. <a href={route.to(enhanced ? '/prototype/static/' : '/prototype/')}>View {enhanced ? 'static baseline' : 'enhanced prototype'}</a>.</div>
   <section aria-labelledby="prototype-nav-title"><h2 id="prototype-nav-title">Pill Nav experiment</h2>{enhanced ? <PrototypeNav prefix={prefix} client:idle /> : <PrototypeNav prefix={prefix} />}</section>
   {enhanced ? <PrototypeHero prefix={prefix} client:idle /> : <PrototypeHero prefix={prefix} />}

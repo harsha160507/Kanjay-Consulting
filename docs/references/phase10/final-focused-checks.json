@@ -1,0 +1,106 @@
+{
+  "missing": [
+    {
+      "width": 320,
+      "url": "http://127.0.0.1:4340/phase10-final-missing/",
+      "heading": "Let’s find\nyour next step.",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:4340/phase10-final-missing/",
+      "heading": "Let’s find\nyour next step.",
+      "overflow": false
+    }
+  ],
+  "recovery": [
+    {
+      "name": "Return to Home",
+      "url": "http://127.0.0.1:4340/theme/light/",
+      "h1": "HR support.\nGeM seller guidance."
+    },
+    {
+      "name": "Explore our services",
+      "url": "http://127.0.0.1:4340/theme/dark/services/",
+      "h1": "HR support.\nGeM seller services."
+    },
+    {
+      "name": "Contact our team",
+      "url": "http://127.0.0.1:4340/theme/dark/contact/",
+      "h1": "Let’s talk about\nyour business."
+    }
+  ],
+  "labels": [
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry",
+      "name": "Discuss this service by email: HR Audit & HR Process Setup",
+      "visible": "Discuss this service by email"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry",
+      "name": "Employer enquiry by email: Recruitment & Talent Acquisition",
+      "visible": "Employer enquiry by email"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compliance%20enquiry",
+      "name": "Discuss this service by email: Payroll & Statutory Compliance",
+      "visible": "Discuss this service by email"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentation%20enquiry",
+      "name": "Discuss this service by email: HR Policies & Documentation",
+      "visible": "Discuss this service by email"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry",
+      "name": "Discuss this service by email: PMS / KRA-KPI",
+      "visible": "Discuss this service by email"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Retention%20enquiry",
+      "name": "Discuss this service by email: Employee Engagement & Retention",
+      "visible": "Discuss this service by email"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry",
+      "name": "Discuss this service by email: Onboarding, Exit & Full & Final Settlement",
+      "visible": "Discuss this service by email"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry",
+      "name": "Discuss this service by email: Seller Registration & Profile Setup",
+      "visible": "Discuss this service by email"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry",
+      "name": "Discuss this service by email: Product / Service Catalogue Upload",
+      "visible": "Discuss this service by email"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20enquiry",
+      "name": "Discuss this service by email: Bid Search & Analysis",
+      "visible": "Discuss this service by email"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Support%20enquiry",
+      "name": "Discuss this service by email: Tender Participation & Support",
+      "visible": "Discuss this service by email"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry",
+      "name": "Discuss this service by email: OEM Authorization & Vendor Assessment",
+      "visible": "Discuss this service by email"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry",
+      "name": "Discuss this service by email: Catalogue Approval / Rejection Support",
+      "visible": "Discuss this service by email"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%20enquiry",
+      "name": "Discuss this service by email: Order & Contract Support",
+      "visible": "Discuss this service by email"
+    }
+  ],
+  "homeRecoveryInitialObservation": "Initial read sampled the old document during a two-step theme navigation. Repeated with navigation and destination-heading waits; no application change."
+}
