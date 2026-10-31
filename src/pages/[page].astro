@@ -3,6 +3,7 @@ import { routeContext } from '../lib/routes';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { pages } from '../data/site';
 import ServicesIndex from '../components/ServicesIndex.astro';
+import AboutPage from '../components/AboutPage.astro';
 interface Props { title: string }
 export function getStaticPaths() {
   return pages.map(page => ({ params: { page: page.slug }, props: { title: page.title } }));
@@ -10,8 +11,8 @@ export function getStaticPaths() {
 const { title } = Astro.props;
 const route = routeContext(Astro.url.pathname);
 ---
-<BaseLayout title={title}>
+{title === 'About Us' ? <BaseLayout title="About Kanjay Consulting" phaseLabel="Phase 5 · About draft" description="Learn about Kanjay Consulting, established in 2014: HR support globally and GeM seller consulting across India since 2018."><AboutPage /></BaseLayout> : <BaseLayout title={title}>
   <h1>{title}</h1>
   {title === 'Services' ? <ServicesIndex /> : <div class="draft-note"><strong>Internal draft · Page content pending.</strong> This route previews the shared layout. {['Terms of Use', 'Privacy Policy', 'Cookie Policy', 'Disclaimer'].includes(title) ? 'Policy content and review are deferred.' : 'Final page content is outside this phase. Unsupported business claims are omitted.'}</div>}
   <a href={route.to('/')}>Return to Home</a>
-</BaseLayout>
+</BaseLayout>}

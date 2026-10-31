@@ -1,0 +1,29 @@
+---
+import { business } from '../data/site';
+import { routeContext } from '../lib/routes';
+import './react-bits/prototype/UiverseButton.css';
+import '../styles/about.css';
+const route = routeContext(Astro.url.pathname);
+---
+<div class="about-page">
+  <section class="about-intro" aria-labelledby="about-title">
+    <div><p class="eyebrow">Our company</p><h1 id="about-title">About Kanjay<br /><span>Consulting.</span></h1>
+      <p class="lede">HR and GeM portal consulting for small and medium organisations.</p>
+      <p>Kanjay Consulting works with businesses on their people, HR processes and GeM seller requirements. Our HR support is available globally; our GeM consulting supports sellers across India.</p>
+      <a class="proto-button about-button" href={`mailto:${business.email}`}>Talk about your business <span class="arrow-wrapper" aria-hidden="true"><span class="arrow" /></span></a>
+    </div>
+    <aside class="about-history" aria-labelledby="history-title"><h2 id="history-title">Our beginnings</h2><dl><div><dt>{business.established}</dt><dd>Kanjay Consulting established</dd></div><div><dt>{business.gemSince}</dt><dd>GeM consulting began</dd></div></dl></aside>
+  </section>
+
+  <section class="about-section" aria-labelledby="expertise-title"><p class="eyebrow">Our areas of work</p><h2 id="expertise-title">People, processes<br />and the GeM portal.</h2>
+    <article class="about-discipline"><div><p class="eyebrow">HR / Global support</p><h3>For your organisation<br />and its people.</h3><p>HR support for employers, with recruitment support also available to candidates.</p></div><div><ul><li>HR audit, process setup, policies and documentation</li><li>Recruitment, payroll and applicable statutory compliance support</li><li>Performance management, engagement, onboarding and exit support</li></ul><a class="about-text-link" href={route.to('/services/#hr-support')}>Explore HR support <span aria-hidden="true">↗</span></a></div></article>
+    <article class="about-discipline"><div><p class="eyebrow">GeM / Sellers across India</p><h3>For businesses selling<br />through GeM.</h3><p>Guidance on seller activities within the Government e-Marketplace portal.</p></div><div><ul><li>Seller registration, profile setup and catalogue support</li><li>Bid reviews, tender participation and documentation support</li><li>OEM authorization, vendor assessment, order and contract support</li></ul><a class="about-text-link" href={route.to('/services/#gem-seller-support')}>Explore GeM seller support <span aria-hidden="true">↗</span></a></div></article>
+    <p class="about-candidate">Candidate enquiries: <a href={`mailto:${business.candidateEmail}`}>{business.candidateEmail}</a>.</p>
+  </section>
+
+  <section class="about-section about-approach" aria-labelledby="working-title"><div><p class="eyebrow">How we work</p><h2 id="working-title">A mutually agreed<br />approach to your needs.</h2></div><div><p class="lede">We work with clients through approaches agreed around their business needs.</p><p>For HR work, that can include reviewing records and processes, coordinating recruitment, and working with payroll inputs and documentation. For GeM sellers, our work includes document coordination, reviewing bid requirements, portal submissions and follow-ups.</p><p>These are the practical activities behind our consulting services.</p></div></section>
+
+  <section class="about-section" aria-labelledby="values-title"><p class="eyebrow">Our core values</p><h2 id="values-title">Trust. Quality. Support.</h2><div class="about-values"><article><h3>Trust</h3><p>We see trust as the foundation of effective communication and client relationships.</p></article><article><h3>Quality</h3><p>We believe in a commitment to quality in the work we do.</p></article><article><h3>Support</h3><p>Our focus is on back-office support and long-term relationships with our clients.</p></article></div></section>
+
+  <section class="about-section about-contact" aria-labelledby="contact-title"><div><p class="eyebrow">Work with Kanjay</p><h2 id="contact-title">Let’s discuss what<br />your business needs.</h2><p>Speak with us about HR support or GeM seller consulting.</p></div><div><a class="about-contact-link" href={`tel:${business.phone}`}><span>Call us</span>{business.phoneDisplay}</a><a class="about-contact-link" href={`mailto:${business.email}`}><span>Email us</span>{business.email}</a></div></section>
+</div>
