@@ -1,0 +1,10 @@
+{
+  "control": "Pause logo motion",
+  "controlHeight": 45.58333587646485,
+  "loopItems": 24,
+  "overflow": false,
+  "panel": "rgb(250, 248, 243)",
+  "ready": true,
+  "width": 375,
+  "keyboardPausedLabel": "Play logo motion"
+}

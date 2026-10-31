@@ -736,6 +736,8 @@ const createEngine = (
     const paused = st.focused || (st.hovered && cfg.hoverValue !== undefined);
     const pausedSpeed = st.focused ? 0 : (cfg.hoverValue ?? 0);
     let target = st.reduced ? 0 : paused ? pausedSpeed * travel * cfg.dirSign : cfg.speed * cfg.dirSign;
+    // A pause control or reduced-motion request must stop, without coasting.
+    if (target === 0 && (st.reduced || paused || cfg.speed === 0)) { st.velocity = 0; st.glide = false; }
     if (cfg.scrollBoost > 0 && !st.reduced) {
       st.scrollVel *= Math.exp(-dt / 0.18);
       if (Math.abs(st.scrollVel) > 1) busy = true;

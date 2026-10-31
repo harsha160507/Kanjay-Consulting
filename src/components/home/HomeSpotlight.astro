@@ -1,0 +1,13 @@
+---
+import type { CSSProperties } from 'react';
+import SpotlightCard from '../react-bits/prototype/SpotlightCard';
+interface Props { class?: string }
+const { class: className = '' } = Astro.props;
+const cardStyle = { '--spotlight-card-surface': 'var(--surface)', '--spotlight-card-shadow': 'none', '--spotlight-card-border': 'transparent' } as CSSProperties;
+// Supplied component's static surface mode: Phase 1 expressly excludes card glow.
+// No hydration means no focus replacement, and all slot content stays native HTML.
+---
+<SpotlightCard disabled intensity={0} borderGlow={0} ambient={false} flare={false} grain={0}
+  className={`home-spotlight ${className}`} style={cardStyle}>
+  <slot />
+</SpotlightCard>

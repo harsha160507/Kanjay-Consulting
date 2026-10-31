@@ -1,0 +1,62 @@
+[
+  {
+    "script": "verify-foundation.mjs",
+    "status": "PASS",
+    "output": "Layout verified: 28 static routes, real navigation/contact links, native mobile disclosure, indexing controls and no forms/embeds/unapproved client assets.",
+    "error": ""
+  },
+  {
+    "script": "verify-home.mjs",
+    "status": "PASS",
+    "output": "PASS /: Home facts, two isolated enhancements, no forms/embeds, full canonical client assets plus SILQ, all local targets and eight Services anchors\nPASS /theme/light: Home facts, two isolated enhancements, no forms/embeds, full canonical client assets plus SILQ, all local targets and eight Services anchors\nPASS /theme/dark: Home facts, two isolated enhancements, no forms/embeds, full canonical client assets plus SILQ, all local targets and eight Services anchors",
+    "error": ""
+  },
+  {
+    "script": "verify-about.mjs",
+    "status": "PASS",
+    "output": "PASS /about/: facts, semantic headings, link/fragment targets, current-page state and complete static content\nPASS /theme/light/about/: facts, semantic headings, link/fragment targets, current-page state and complete static content\nPASS /theme/dark/about/: facts, semantic headings, link/fragment targets, current-page state and complete static content",
+    "error": ""
+  },
+  {
+    "script": "verify-services.mjs",
+    "status": "PASS",
+    "output": "PASS /services/: 14 approved public scopes, 14 general FAQs, private-detail fields absent, preserved links/routing and no extra service routes\nPASS /theme/light/services/: 14 approved public scopes, 14 general FAQs, private-detail fields absent, preserved links/routing and no extra service routes\nPASS /theme/dark/services/: 14 approved public scopes, 14 general FAQs, private-detail fields absent, preserved links/routing and no extra service routes",
+    "error": ""
+  },
+  {
+    "script": "verify-clients.mjs",
+    "status": "PASS",
+    "output": "PASS /clients/: 23 approved current names/assets, exact provenance, captions, safe links/headings and no invented engagement material\nPASS /theme/light/clients/: 23 approved current names/assets, exact provenance, captions, safe links/headings and no invented engagement material\nPASS /theme/dark/clients/: 23 approved current names/assets, exact provenance, captions, safe links/headings and no invented engagement material",
+    "error": ""
+  },
+  {
+    "script": "verify-policies.mjs",
+    "status": "PASS",
+    "output": "PASS: 34 footers, 12 policy variants, draft/review status, headings/targets and 404 redirect regression guard.",
+    "error": ""
+  },
+  {
+    "script": "verify-phase3.mjs",
+    "status": "PASS",
+    "output": "PASS: 6 prototype variants retain text, approved asset alternatives and valid links in static HTML.",
+    "error": ""
+  },
+  {
+    "script": "verify-colours.mjs",
+    "status": "PASS",
+    "output": "light: text minimum 5.43:1; control boundaries >=3:1; action labels >=4.5:1\ndark: text minimum 6.73:1; control boundaries >=3:1; action labels >=4.5:1",
+    "error": ""
+  },
+  {
+    "script": "verify-revision1.mjs",
+    "status": "PASS",
+    "output": "{\n  \"status\": \"PASS\",\n  \"routesCompared\": 34,\n  \"content\": \"Exact normalized main text match excluding contextual labels, framework styles and the new View all clients link; baseline aac26c9\",\n  \"anchors\": \"All generated fragment destinations exist\",\n  \"fadeUnitChecks\": [\n    \"once\",\n    \"320ms/8px/whole section\",\n    \"no persistent fill\",\n    \"long-section entry\",\n    \"focus cancellation\",\n    \"initial focus skipped\",\n    \"reduced-motion initial skip\",\n    \"reduced-motion change cancellation/disconnect\",\n    \"missing API\",\n    \"animation failure\"\n  ],\n  \"limitations\": \"Controlled unit fixtures do not emulate OS settings or replace actual browser, screen-reader or physical-touch testing.\"\n}",
+    "error": ""
+  },
+  {
+    "script": "verify-revision2.mjs",
+    "status": "PASS",
+    "output": "{\n  \"status\": \"PASS\",\n  \"sourceClients\": 23,\n  \"uniqueSourceClients\": 23,\n  \"homeLogos\": 24,\n  \"ids\": [\n    \"l-and-t\",\n    \"eaton\",\n    \"balmer-lawrie\",\n    \"benco-group\",\n    \"casol\",\n    \"techno-products\",\n    \"hadron-infra\",\n    \"safe-tech-fire-solutions\",\n    \"sree-raghavendra-electric-services-pvt-ltd\",\n    \"madhavaa-crafts-pvt-ltd\",\n    \"aaviza-technologies\",\n    \"zuppa\",\n    \"shopup\",\n    \"vitamed\",\n    \"welona\",\n    \"ttj\",\n    \"sana-s-thinai-organics\",\n    \"sabari-musicals\",\n    \"srm-institute-of-science-and-technology\",\n    \"deforay\",\n    \"kaavian-services\",\n    \"limpar\",\n    \"woyc-od\",\n    \"silq\"\n  ],\n  \"normalisedDimensions\": [\n    {\n      \"id\": \"l-and-t\",\n      \"width\": 72,\n      \"height\": 72\n    },\n    {\n      \"id\": \"eaton\",\n      \"width\": 142,\n      \"height\": 42\n    },\n    {\n      \"id\": \"balmer-lawrie\",\n      \"width\": 150,\n      \"height\": 28\n    },\n    {\n      \"id\": \"benco-group\",\n      \"width\": 132,\n      \"height\": 46\n    },\n    {\n      \"id\": \"casol\",\n      \"width\": 61,\n      \"height\": 72\n    },\n    {\n      \"id\": \"techno-products\",\n      \"width\": 73,\n      \"height\": 72\n    },\n    {\n      \"id\": \"hadron-infra\",\n      \"width\": 78,\n      \"height\": 72\n    },\n    {\n      \"id\": \"safe-tech-fire-solutions\",\n      \"width\": 68,\n      \"height\": 72\n    },\n    {\n      \"id\": \"sree-raghavendra-electric-services-pvt-ltd\",\n      \"width\": 68,\n      \"height\": 72\n    },\n    {\n      \"id\": \"madhavaa-crafts-pvt-ltd\",\n      \"width\": 150,\n      \"height\": 38\n    },\n    {\n      \"id\": \"aaviza-technologies\",\n      \"width\": 150,\n      \"height\": 35\n    },\n    {\n      \"id\": \"zuppa\",\n      \"width\": 108,\n      \"height\": 55\n    },\n    {\n      \"id\": \"shopup\",\n      \"width\": 137,\n      \"height\": 44\n    },\n    {\n      \"id\": \"vitamed\",\n      \"width\": 150,\n      \"height\": 36\n    },\n    {\n      \"id\": \"welona\",\n      \"width\": 150,\n      \"height\": 39\n    },\n    {\n      \"id\": \"ttj\",\n      \"width\": 106,\n      \"height\": 57\n    },\n    {\n      \"id\": \"sana-s-thinai-organics\",\n      \"width\": 124,\n      \"height\": 48\n    },\n    {\n      \"id\": \"sabari-musicals\",\n      \"width\": 93,\n      \"height\": 65\n    },\n    {\n      \"id\": \"srm-institute-of-science-and-technology\",\n      \"width\": 71,\n      \"height\": 72\n    },\n    {\n      \"id\": \"deforay\",\n      \"width\": 86,\n      \"height\": 70\n    },\n    {\n      \"id\": \"kaavian-services\",\n      \"width\": 150,\n      \"height\": 27\n    },\n    {\n      \"id\": \"limpar\",\n      \"width\": 121,\n      \"height\": 50\n    },\n    {\n      \"id\": \"woyc-od\",\n      \"width\": 134,\n      \"height\": 45\n    },\n    {\n      \"id\": \"silq\",\n      \"width\": 129,\n      \"height\": 46\n    }\n  ],\n  \"silq\": \"Owner attachment converted losslessly; exact visible colours and alpha verified\",\n  \"variants\": 3,\n  \"checks\": [\n    \"complete deduped static list\",\n    \"all local images exist\",\n    \"duplicate assets absent\",\n    \"one static Gradient Text phrase\",\n    \"two decorative inline icons\",\n    \"three nonhydrated Spotlight surfaces\",\n    \"only Call/Loop islands\",\n    \"real Clients link\",\n    \"unchanged approved contact targets\",\n    \"safe loop configuration\"\n  ],\n  \"limitations\": \"Source/HTML/unit checks are separate from browser operation, actual OS preferences, physical touch and screen-reader speech.\"\n}",
+    "error": ""
+  }
+]

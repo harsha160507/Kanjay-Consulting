@@ -1,0 +1,18 @@
+{
+  "pointerInitial": {
+    "focus": "MAIN",
+    "inline": "translate3d(1.94px, 0px, 0px)",
+    "path": "/theme/light/",
+    "transform": "matrix(1, 0, 0, 1, 1.94, 0)"
+  },
+  "pointerSettled": {
+    "inline": "translate3d(2px, 0px, 0px)",
+    "transform": "matrix(1, 0, 0, 1, 2, 0)"
+  },
+  "keyboard": {
+    "href": "tel:+918939715152",
+    "transform": "none",
+    "visibleFocus": true
+  },
+  "contactAppLaunch": "NOT TESTED"
+}

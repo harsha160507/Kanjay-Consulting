@@ -17,4 +17,4 @@ for(const prefix of ['','/theme/light','/theme/dark']){
  const levels=[...main.matchAll(/<h([1-6])\b/g)].map(m=>+m[1]);assert.ok(levels.every((n,i)=>!i||n<=levels[i-1]+1));
  console.log(`PASS ${url}: 23 approved current names/assets, exact provenance, captions, safe links/headings and no invented engagement material`);
 }
-assert.deepEqual(readdirSync('public/images/clients').filter(x=>x!=='.gitkeep').sort(),clients.map(c=>c.image.split('/').at(-1)).sort());
+assert.deepEqual(readdirSync('public/images/clients').filter(x=>x!=='.gitkeep').sort(),[...clients.map(c=>c.image.split('/').at(-1)), 'silq.webp'].sort());

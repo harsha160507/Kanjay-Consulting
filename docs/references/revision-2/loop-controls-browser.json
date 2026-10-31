@@ -1,0 +1,55 @@
+{
+  "observations": [
+    {
+      "check": "playing first",
+      "control": "Pause logo motion",
+      "hover": false,
+      "logos": 24,
+      "track": "translate3d(-5018.28px, 0px, 0px)"
+    },
+    {
+      "check": "playing later",
+      "track": "translate3d(-5755.28px, 0px, 0px)"
+    },
+    {
+      "check": "hover pause first",
+      "hover": true,
+      "track": "translate3d(-5764.9px, 0px, 0px)"
+    },
+    {
+      "check": "hover pause later",
+      "hover": true,
+      "track": "translate3d(-5764.9px, 0px, 0px)"
+    },
+    {
+      "check": "keyboard pause first",
+      "control": "Play logo motion",
+      "hover": false,
+      "outline": "2.66667px",
+      "track": "translate3d(-5769.63px, 0px, 0px)",
+      "visibleFocus": true
+    },
+    {
+      "check": "keyboard pause later",
+      "control": "Play logo motion",
+      "track": "translate3d(-5769.63px, 0px, 0px)"
+    },
+    {
+      "check": "keyboard resume first",
+      "control": "Pause logo motion",
+      "hover": false,
+      "track": "translate3d(-5774.2px, 0px, 0px)"
+    },
+    {
+      "check": "keyboard resume later",
+      "control": "Pause logo motion",
+      "hover": false,
+      "track": "translate3d(-6186.77px, 0px, 0px)"
+    }
+  ],
+  "accessibilityTreeOnly": {
+    "silqPresent": true,
+    "staticListPresent": true
+  },
+  "securityHeaderConsole": []
+}

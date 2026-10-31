@@ -1,0 +1,152 @@
+[
+  {
+    "theme": "light",
+    "cardGrid": "328px",
+    "clientsLink": "/theme/light/clients/",
+    "gradient": "linear-gradient(90deg, rgb(18, 103, 120), rgb(37, 54, 74), rgb(18, 103, 120))",
+    "gradientText": "GeM seller guidance.",
+    "icons": [
+      {
+        "colour": "rgb(18, 103, 120)",
+        "hidden": "true",
+        "stroke": "1.5"
+      },
+      {
+        "colour": "rgb(18, 103, 120)",
+        "hidden": "true",
+        "stroke": "1.5"
+      }
+    ],
+    "logos": 24,
+    "missingImages": [],
+    "overflow": false,
+    "panelBackground": "rgb(250, 248, 243)",
+    "spotlights": 3,
+    "width": 375
+  },
+  {
+    "theme": "dark",
+    "cardGrid": "328px",
+    "clientsLink": "/theme/dark/clients/",
+    "gradient": "linear-gradient(90deg, rgb(131, 214, 221), rgb(245, 244, 239), rgb(131, 214, 221))",
+    "gradientText": "GeM seller guidance.",
+    "icons": [
+      {
+        "colour": "rgb(131, 214, 221)",
+        "hidden": "true",
+        "stroke": "1.5"
+      },
+      {
+        "colour": "rgb(131, 214, 221)",
+        "hidden": "true",
+        "stroke": "1.5"
+      }
+    ],
+    "logos": 24,
+    "missingImages": [],
+    "overflow": false,
+    "panelBackground": "rgb(250, 248, 243)",
+    "spotlights": 3,
+    "width": 375
+  },
+  {
+    "theme": "light",
+    "cardGrid": "340.333px 340.333px",
+    "clientsLink": "/theme/light/clients/",
+    "gradient": "linear-gradient(90deg, rgb(18, 103, 120), rgb(37, 54, 74), rgb(18, 103, 120))",
+    "gradientText": "GeM seller guidance.",
+    "icons": [
+      {
+        "colour": "rgb(18, 103, 120)",
+        "hidden": "true",
+        "stroke": "1.5"
+      },
+      {
+        "colour": "rgb(18, 103, 120)",
+        "hidden": "true",
+        "stroke": "1.5"
+      }
+    ],
+    "logos": 24,
+    "missingImages": [],
+    "overflow": false,
+    "panelBackground": "rgb(250, 248, 243)",
+    "spotlights": 3,
+    "width": 768
+  },
+  {
+    "theme": "dark",
+    "cardGrid": "340.333px 340.333px",
+    "clientsLink": "/theme/dark/clients/",
+    "gradient": "linear-gradient(90deg, rgb(131, 214, 221), rgb(245, 244, 239), rgb(131, 214, 221))",
+    "gradientText": "GeM seller guidance.",
+    "icons": [
+      {
+        "colour": "rgb(131, 214, 221)",
+        "hidden": "true",
+        "stroke": "1.5"
+      },
+      {
+        "colour": "rgb(131, 214, 221)",
+        "hidden": "true",
+        "stroke": "1.5"
+      }
+    ],
+    "logos": 24,
+    "missingImages": [],
+    "overflow": false,
+    "panelBackground": "rgb(250, 248, 243)",
+    "spotlights": 3,
+    "width": 768
+  },
+  {
+    "theme": "light",
+    "cardGrid": "596px 596px",
+    "clientsLink": "/theme/light/clients/",
+    "gradient": "linear-gradient(90deg, rgb(18, 103, 120), rgb(37, 54, 74), rgb(18, 103, 120))",
+    "gradientText": "GeM seller guidance.",
+    "icons": [
+      {
+        "colour": "rgb(18, 103, 120)",
+        "hidden": "true",
+        "stroke": "1.5"
+      },
+      {
+        "colour": "rgb(18, 103, 120)",
+        "hidden": "true",
+        "stroke": "1.5"
+      }
+    ],
+    "logos": 24,
+    "missingImages": [],
+    "overflow": false,
+    "panelBackground": "rgb(250, 248, 243)",
+    "spotlights": 3,
+    "width": 1440
+  },
+  {
+    "theme": "dark",
+    "cardGrid": "596px 596px",
+    "clientsLink": "/theme/dark/clients/",
+    "gradient": "linear-gradient(90deg, rgb(131, 214, 221), rgb(245, 244, 239), rgb(131, 214, 221))",
+    "gradientText": "GeM seller guidance.",
+    "icons": [
+      {
+        "colour": "rgb(131, 214, 221)",
+        "hidden": "true",
+        "stroke": "1.5"
+      },
+      {
+        "colour": "rgb(131, 214, 221)",
+        "hidden": "true",
+        "stroke": "1.5"
+      }
+    ],
+    "logos": 24,
+    "missingImages": [],
+    "overflow": false,
+    "panelBackground": "rgb(250, 248, 243)",
+    "spotlights": 3,
+    "width": 1440
+  }
+]

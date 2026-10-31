@@ -2,15 +2,16 @@ import assert from 'node:assert/strict';
 import { readFileSync, writeFileSync } from 'node:fs';
 import { transpileModule, ModuleKind, ScriptTarget } from 'typescript';
 
-const directory = 'docs/references/revision-1';
-const baseline = JSON.parse(readFileSync(`${directory}/content-baseline.json`, 'utf8'));
+const directory = 'docs/references/revision-2';
+const baseline = JSON.parse(readFileSync('docs/references/revision-1/content-baseline.json', 'utf8'));
 const clean = html => html.split('<main')[1].split('</main>')[0]
   .replace(/^[^>]*>/, '')
   .replace(/<(p|span) class="section-label"[^>]*>[\s\S]*?<\/\1>/g, '')
-  .replace(/<script\b[\s\S]*?<\/script>/g, '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+  .replace(/<a class="home-text-link" href="[^"]*\/clients\/">[\s\S]*?<\/a>/g, '')
+  .replace(/<(script|style)\b[\s\S]*?<\/\1>/g, '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
 for (const [route, text] of Object.entries(baseline)) {
   const html = readFileSync(`dist/${route}`, 'utf8');
-  assert.equal(clean(html), text, `${route}: preserve all non-eyebrow main text`);
+  assert.equal(clean(html), text.replace(/astro-island,astro-slot,astro-static-slot\{display:contents\}/g, '').replace(/\s+/g, ' ').trim(), `${route}: preserve all non-eyebrow main text`);
   assert.doesNotMatch(html, /class="eyebrow"|\d{2} \/|Kanjay Consulting \/ (?:Our services|Clients|Contact us|Website policies)/);
   assert.doesNotMatch(html.split('<main')[1].split('</main>')[0], /visibility:\s*hidden|opacity:\s*0(?:;|")/);
   for (const [,href] of html.matchAll(/href="([^"]+)"/g)) {
@@ -63,6 +64,6 @@ assert.equal(motion.state.cancelled,1,'motion preference change cancels in-fligh
 for(const options of [{reduced:true},{missing:true},{fail:true},{focused:true}]){
   const test=fixture(options);test.state.enter();assert.equal(test.state.animations.length,0,JSON.stringify(options));
 }
-const results={status:'PASS',routesCompared:Object.keys(baseline).length,content:'Exact normalized main text match excluding old/new contextual section labels; baseline aac26c9',anchors:'All generated fragment destinations exist',fadeUnitChecks:['once','320ms/8px/whole section','no persistent fill','long-section entry','focus cancellation','initial focus skipped','reduced-motion initial skip','reduced-motion change cancellation/disconnect','missing API','animation failure'],limitations:'Controlled unit fixtures do not emulate OS settings or replace actual browser, screen-reader or physical-touch testing.'};
-writeFileSync(`${directory}/revision-checks.json`,JSON.stringify(results,null,2)+'\n');
+const results={status:'PASS',routesCompared:Object.keys(baseline).length,content:'Exact normalized main text match excluding contextual labels, framework styles and the new View all clients link; baseline aac26c9',anchors:'All generated fragment destinations exist',fadeUnitChecks:['once','320ms/8px/whole section','no persistent fill','long-section entry','focus cancellation','initial focus skipped','reduced-motion initial skip','reduced-motion change cancellation/disconnect','missing API','animation failure'],limitations:'Controlled unit fixtures do not emulate OS settings or replace actual browser, screen-reader or physical-touch testing.'};
+writeFileSync(`${directory}/foundation-regression.json`,JSON.stringify(results,null,2)+'\n');
 console.log(JSON.stringify(results,null,2));
