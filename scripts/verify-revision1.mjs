@@ -8,6 +8,7 @@ const clean = html => html.split('<main')[1].split('</main>')[0]
   .replace(/^[^>]*>/, '')
   .replace(/<(p|span) class="section-label"[^>]*>[\s\S]*?<\/\1>/g, '')
   .replace(/<a class="home-text-link" href="[^"]*\/clients\/">[\s\S]*?<\/a>/g, '')
+  .replace(/<figcaption>SILQ<\/figcaption>/g, '')
   .replace(/<(script|style)\b[\s\S]*?<\/\1>/g, '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
 for (const [route, text] of Object.entries(baseline)) {
   const html = readFileSync(`dist/${route}`, 'utf8');

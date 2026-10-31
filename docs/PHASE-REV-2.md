@@ -56,3 +56,9 @@ These Lighthouse samples measure initial page load. The loop engine is deferred 
 SILQ is included, not blocked or silently omitted. Its asset is ready for reuse; no new relationship classification has been invented. Review the 24-logo treatment, static gradient, restrained Magnet and surface-only Spotlight presentation before the next revision phase. The measured mobile JavaScript/blocking cost remains a review consideration. Prior business/legal wording approvals, production hosting checks and all unperformed manual accessibility checks remain pending. No merge or deployment; stop after this phase.
 
 Evidence text and decompressed Lighthouse files were reviewed for common credential/private-key patterns and unnecessary local user paths; none found. Screenshots contain the website viewport only. Approved business contacts and localhost QA addresses are intentional. See `evidence-review.json`.
+
+## Follow-up — SILQ on Clients
+
+The owner requested SILQ on the Clients page as well. SILQ is now in the canonical client list and appears once on each Clients variant, with its approved logo and selectable name. Home consumes that same canonical list and still contains 24 unique logos. The original 23 assets and entries are unchanged. The earlier Phase 2 statement that the Clients page contained 23 entries describes the pre-follow-up state. No service description, testimonial or result was added.
+
+Follow-up verification: build and Astro type check pass; Clients/Home/foundation/revision guards pass. SILQ loads once with its caption at 375, 768 and 1440px in both themes, without overflow (`silq-clients-browser.json`). No merge or deployment.

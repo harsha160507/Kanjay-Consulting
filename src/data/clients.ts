@@ -1,4 +1,5 @@
 // Owner-approved current relationships and exact display names from content/client-approvals.md.
+// SILQ additionally approved for this Clients listing in the owner follow-up, 1 November 2026.
 // No service mapping, testimonial or result is inferred from logo permission.
 export const currentClients = [
   {
@@ -207,5 +208,14 @@ export const currentClients = [
     "width": 376,
     "height": 126,
     "darkBacking": true
+  },
+  {
+    "id": "silq",
+    "name": "SILQ",
+    "status": "current",
+    "image": "/images/clients/silq.webp",
+    "width": 412,
+    "height": 148,
+    "darkBacking": false
   }
 ] as const;

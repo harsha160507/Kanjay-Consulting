@@ -35,5 +35,5 @@ assert.equal(existsSync('dist/_headers'), true);
 assert.equal(existsSync('next.config.js'), false);
 // Phase 7 replaces the empty-folder guard with an exact approved-asset allowlist.
 const approvedClients=JSON.parse(readFileSync('src/data/clients.ts','utf8').split('export const currentClients = ')[1].split(' as const;')[0]);
-assert.deepEqual(readdirSync('public/images/clients').filter(p => p !== '.gitkeep').sort(),[...approvedClients.map(p=>p.image.split('/').at(-1)), 'silq.webp'].sort());
+assert.deepEqual(readdirSync('public/images/clients').filter(p => p !== '.gitkeep').sort(),approvedClients.map(p=>p.image.split('/').at(-1)).sort());
 console.log(`Layout verified: ${routes.length} static routes, real navigation/contact links, native mobile disclosure, indexing controls and no forms/embeds/unapproved client assets.`);
