@@ -1,5 +1,7 @@
 # Services and Home-link audit — per-service results
 
+> Scope update, 31 October 2026: this audit retains the original findings under the former criteria. [Public Services scope revision](PHASE-6-PUBLIC-SCOPE.md) reclassifies detailed commercial-content requirements as OUT OF SCOPE following Kanjay's feedback. The missing facts were not supplied and the original FAIL results have not been rewritten as PASS.
+
 31 October 2026. Tested application commit `11cc9028046b41ce3e7f1fc3f33e21d3010e98df`, draft PR #6. Documentation/evidence only; no application fixes, merge or deployment.
 
 ## Acceptance criteria and coverage

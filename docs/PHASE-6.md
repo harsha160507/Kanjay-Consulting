@@ -1,5 +1,7 @@
 # Phase 6 — single Services page
 
+> Scope update, 31 October 2026: this is the historical implementation record. [Public Services scope revision](PHASE-6-PUBLIC-SCOPE.md) supersedes the detailed-content publication requirements below. Those requirements are now OUT OF SCOPE, not completed or passed; the original record is retained.
+
 31 October 2026. Draft implementation on `phase-6-services`, based on Phase 5 commit `865be92`. No merge, deployment or change to synced references. This supersedes the interim Services index described in the earlier phase reports.
 
 ## What is implemented

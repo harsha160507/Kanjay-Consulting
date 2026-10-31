@@ -15,11 +15,15 @@ for(const prefix of ['','/theme/light','/theme/dark']){
  const ids=[...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);assert.equal(ids.length,new Set(ids).size);
  for(const service of services){assert.ok(ids.includes(service.id));assert.ok(text.includes(service.name));assert.ok(text.includes(service.scope));assert.ok(text.includes(service.problem));}
  assert.equal([...main.matchAll(/class="service-detail"/g)].length,14);assert.equal([...main.matchAll(/class="service-faq"/g)].length,14);
- assert.equal([...main.matchAll(/<dt>Exclusions<\/dt>/g)].length,14);assert.equal([...main.matchAll(/<dt>Client responsibilities<\/dt>/g)].length,14);
+ // These details are OUT OF SCOPE for the public website, not newly approved facts.
+ assert.doesNotMatch(main,/<dt>(?:Deliverables|Exclusions|Client responsibilities)<\/dt>|Awaiting approval|FAQ awaiting approval|class="services-review"/);
+ for(const service of services){assert.ok(!('outputs' in service));assert.ok(!('exclusionsToConfirm' in service));assert.ok(!('responsibilitiesToConfirm' in service));assert.ok(!('toConfirm' in service.faq));}
+ const historical=JSON.parse(readFileSync('docs/references/phase6-audit/service-results.json','utf8'));
+ for(const record of historical)assert.ok(!text.includes(record.missingFAQ),'private-detail FAQ question must not appear publicly');
  assert.ok(text.includes('Consulting assistance does not guarantee registration, catalogue approval, compliance outcomes or tender awards.'));
  assert.ok(main.includes('mailto:hr@kanjayconsulting.com'));assert.ok(main.includes('mailto:info@kanjayconsulting.com?subject='));
  assert.doesNotMatch(main,/<astro-island\b|<form\b|<iframe\b/);
  for(const [,href]of html.matchAll(/href="([/#][^"]*)"/g)){const [url,hash]=href.split('#');const target=url?`dist${url.endsWith('/')?url+'index.html':url}`:`dist${path}index.html`;assert.ok(existsSync(target),href);if(hash)assert.ok(readFileSync(target,'utf8').includes(`id="${hash}"`),href);}
  assert.equal(readdirSync(`dist${prefix}/services`).filter(p=>p!=='index.html').length,0,'no individual service pages');
- console.log(`PASS ${path}: 14 approved scopes, 7+7 grouping, 14 FAQs, unresolved fields labelled, links/fragments, routing and no extra service routes`);
+ console.log(`PASS ${path}: 14 approved public scopes, 14 general FAQs, private-detail fields absent, preserved links/routing and no extra service routes`);
 }
