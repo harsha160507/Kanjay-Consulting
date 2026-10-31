@@ -1,0 +1,475 @@
+{
+  "layout": [
+    {
+      "current": [
+        "/theme/light/about/",
+        "/theme/light/about/",
+        "/theme/light/about/"
+      ],
+      "dates": [
+        "2014",
+        "2018"
+      ],
+      "h1": "About Kanjay\nConsulting.",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "About Kanjay\nConsulting."
+        },
+        {
+          "level": "H2",
+          "text": "OUR BEGINNINGS"
+        },
+        {
+          "level": "H2",
+          "text": "People, processes\nand the GeM portal."
+        },
+        {
+          "level": "H3",
+          "text": "For your organisation\nand its people."
+        },
+        {
+          "level": "H3",
+          "text": "For businesses selling\nthrough GeM."
+        },
+        {
+          "level": "H2",
+          "text": "A mutually agreed\napproach to your needs."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Let’s discuss what\nyour business needs."
+        }
+      ],
+      "overflow": false,
+      "theme": "light",
+      "width": 320
+    },
+    {
+      "current": [
+        "/theme/light/about/",
+        "/theme/light/about/",
+        "/theme/light/about/"
+      ],
+      "dates": [
+        "2014",
+        "2018"
+      ],
+      "h1": "About Kanjay\nConsulting.",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "About Kanjay\nConsulting."
+        },
+        {
+          "level": "H2",
+          "text": "OUR BEGINNINGS"
+        },
+        {
+          "level": "H2",
+          "text": "People, processes\nand the GeM portal."
+        },
+        {
+          "level": "H3",
+          "text": "For your organisation\nand its people."
+        },
+        {
+          "level": "H3",
+          "text": "For businesses selling\nthrough GeM."
+        },
+        {
+          "level": "H2",
+          "text": "A mutually agreed\napproach to your needs."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Let’s discuss what\nyour business needs."
+        }
+      ],
+      "overflow": false,
+      "theme": "light",
+      "width": 768
+    },
+    {
+      "current": [
+        "/theme/light/about/",
+        "/theme/light/about/",
+        "/theme/light/about/"
+      ],
+      "dates": [
+        "2014",
+        "2018"
+      ],
+      "h1": "About Kanjay\nConsulting.",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "About Kanjay\nConsulting."
+        },
+        {
+          "level": "H2",
+          "text": "OUR BEGINNINGS"
+        },
+        {
+          "level": "H2",
+          "text": "People, processes\nand the GeM portal."
+        },
+        {
+          "level": "H3",
+          "text": "For your organisation\nand its people."
+        },
+        {
+          "level": "H3",
+          "text": "For businesses selling\nthrough GeM."
+        },
+        {
+          "level": "H2",
+          "text": "A mutually agreed\napproach to your needs."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Let’s discuss what\nyour business needs."
+        }
+      ],
+      "overflow": false,
+      "theme": "light",
+      "width": 1440
+    },
+    {
+      "current": [
+        "/theme/dark/about/",
+        "/theme/dark/about/",
+        "/theme/dark/about/"
+      ],
+      "dates": [
+        "2014",
+        "2018"
+      ],
+      "h1": "About Kanjay\nConsulting.",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "About Kanjay\nConsulting."
+        },
+        {
+          "level": "H2",
+          "text": "OUR BEGINNINGS"
+        },
+        {
+          "level": "H2",
+          "text": "People, processes\nand the GeM portal."
+        },
+        {
+          "level": "H3",
+          "text": "For your organisation\nand its people."
+        },
+        {
+          "level": "H3",
+          "text": "For businesses selling\nthrough GeM."
+        },
+        {
+          "level": "H2",
+          "text": "A mutually agreed\napproach to your needs."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Let’s discuss what\nyour business needs."
+        }
+      ],
+      "overflow": false,
+      "theme": "dark",
+      "width": 320
+    },
+    {
+      "current": [
+        "/theme/dark/about/",
+        "/theme/dark/about/",
+        "/theme/dark/about/"
+      ],
+      "dates": [
+        "2014",
+        "2018"
+      ],
+      "h1": "About Kanjay\nConsulting.",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "About Kanjay\nConsulting."
+        },
+        {
+          "level": "H2",
+          "text": "OUR BEGINNINGS"
+        },
+        {
+          "level": "H2",
+          "text": "People, processes\nand the GeM portal."
+        },
+        {
+          "level": "H3",
+          "text": "For your organisation\nand its people."
+        },
+        {
+          "level": "H3",
+          "text": "For businesses selling\nthrough GeM."
+        },
+        {
+          "level": "H2",
+          "text": "A mutually agreed\napproach to your needs."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Let’s discuss what\nyour business needs."
+        }
+      ],
+      "overflow": false,
+      "theme": "dark",
+      "width": 768
+    },
+    {
+      "current": [
+        "/theme/dark/about/",
+        "/theme/dark/about/",
+        "/theme/dark/about/"
+      ],
+      "dates": [
+        "2014",
+        "2018"
+      ],
+      "h1": "About Kanjay\nConsulting.",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "About Kanjay\nConsulting."
+        },
+        {
+          "level": "H2",
+          "text": "OUR BEGINNINGS"
+        },
+        {
+          "level": "H2",
+          "text": "People, processes\nand the GeM portal."
+        },
+        {
+          "level": "H3",
+          "text": "For your organisation\nand its people."
+        },
+        {
+          "level": "H3",
+          "text": "For businesses selling\nthrough GeM."
+        },
+        {
+          "level": "H2",
+          "text": "A mutually agreed\napproach to your needs."
+        },
+        {
+          "level": "H2",
+          "text": "Trust. Quality. Support."
+        },
+        {
+          "level": "H3",
+          "text": "Trust"
+        },
+        {
+          "level": "H3",
+          "text": "Quality"
+        },
+        {
+          "level": "H3",
+          "text": "Support"
+        },
+        {
+          "level": "H2",
+          "text": "Let’s discuss what\nyour business needs."
+        }
+      ],
+      "overflow": false,
+      "theme": "dark",
+      "width": 1440
+    }
+  ],
+  "noScriptPaths": [
+    {
+      "width": 320,
+      "name": "Explore HR support",
+      "result": {
+        "hash": "#hr-support",
+        "heading": "HR support",
+        "path": "/theme/light/services/"
+      }
+    },
+    {
+      "width": 320,
+      "name": "Explore GeM seller support",
+      "result": {
+        "hash": "#gem-seller-support",
+        "heading": "GeM seller support",
+        "path": "/theme/light/services/"
+      }
+    },
+    {
+      "width": 768,
+      "name": "Explore HR support",
+      "result": {
+        "hash": "#hr-support",
+        "heading": "HR support",
+        "path": "/theme/light/services/"
+      }
+    },
+    {
+      "width": 768,
+      "name": "Explore GeM seller support",
+      "result": {
+        "hash": "#gem-seller-support",
+        "heading": "GeM seller support",
+        "path": "/theme/light/services/"
+      }
+    },
+    {
+      "width": 1440,
+      "name": "Explore HR support",
+      "result": {
+        "hash": "#hr-support",
+        "heading": "HR support",
+        "path": "/theme/light/services/"
+      }
+    },
+    {
+      "width": 1440,
+      "name": "Explore GeM seller support",
+      "result": {
+        "hash": "#gem-seller-support",
+        "heading": "GeM seller support",
+        "path": "/theme/light/services/"
+      }
+    }
+  ],
+  "keyboard": [
+    {
+      "width": 320,
+      "contactFocus": {
+        "href": "mailto:info@kanjayconsulting.com",
+        "text": "Talk about your business"
+      },
+      "next": {
+        "focus": true,
+        "href": "/theme/light/services/#hr-support",
+        "outline": "rgb(18, 103, 120) solid 2.66667px"
+      }
+    },
+    {
+      "width": 768,
+      "contactFocus": {
+        "href": "mailto:info@kanjayconsulting.com",
+        "text": "Talk about your business"
+      },
+      "next": {
+        "focus": true,
+        "href": "/theme/light/services/#hr-support",
+        "outline": "rgb(18, 103, 120) solid 2.66667px"
+      }
+    },
+    {
+      "width": 1440,
+      "contactFocus": {
+        "href": "mailto:info@kanjayconsulting.com",
+        "text": "Talk about your business"
+      },
+      "next": {
+        "focus": true,
+        "href": "/theme/light/services/#hr-support",
+        "outline": "rgb(18, 103, 120) solid 2.66667px"
+      }
+    }
+  ],
+  "noScriptContent": {
+    "contacts": [
+      "mailto:info@kanjayconsulting.com",
+      "mailto:hr@kanjayconsulting.com",
+      "tel:+918939715152",
+      "mailto:info@kanjayconsulting.com"
+    ],
+    "hidden": 0,
+    "text": "OUR COMPANY\n\nAbout Kanjay\nConsulting.\n\nHR and GeM portal consulting for small and medium organisations.\n\nKanjay Consulting works with businesses on their people, HR processes and GeM seller requirements. Our HR support is available globally; our GeM consulting supports sellers across India.\n\nTalk about your business\nOUR BEGINNINGS\n2014\nKanjay Consulting established\n2018\nGeM consulting began\n\nOUR AREAS OF WORK\n\nPeople, processes\nand the GeM portal.\n\nHR / GLOBAL SUPPORT\n\nFor your organisation\nand its people.\n\nHR support for employers, with recruitment support also available to candidates.\n\nHR audit, process setup, policies and documentation\nRecruitment, payroll and applicable statutory compliance support\nPerformance management, engagement, onboarding and exit support\nExplore HR support\n↗\n\nGEM / SELLERS ACROSS INDIA\n\nFor businesses selling\nthrough GeM.\n\nGuidance on seller activities within the Government e-Marketplace portal.\n\nSeller registration, profile setup and catalogue support\nBid reviews, tender participation and documentation support\nOEM authorization, vendor assessment, order and contract support\nExplore GeM seller support\n↗\n\nCandidate enquiries: hr@kanjayconsulting.com.\n\nHOW WE WORK\n\nA mutually agreed\napproach to your needs.\n\nWe work with clients through approaches agreed around their business needs.\n\nFor HR work, that can include reviewing records and processes, coordinating recruitment, and working with payroll inputs and documentation. For GeM sellers, our work includes document coordination, reviewing bid requirements, portal submissions and follow-ups.\n\nThese are the practical activities behind our consulting services.\n\nOUR CORE VALUES\n\nTrust. Quality. Support.\nTrust\n\nWe see trust as the foundation of effective communication and client relationships.\n\nQuality\n\nWe believe in a commitment to quality in the work we do.\n\nSupport\n\nOur focus is on back-office support and long-term relationships with our clients.\n\nWORK WITH KANJAY\n\nLet’s discuss what\nyour business needs.\n\nSpeak with us about HR support or GeM seller consulting.\n\nCALL US\n+91 89397 15152\nEMAIL US\ninfo@kanjayconsulting.com"
+  },
+  "sameText": true
+}

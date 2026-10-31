@@ -1,0 +1,250 @@
+{
+  "checkedPages": 34,
+  "changedCopies": [
+    "about/index.html",
+    "theme/light/about/index.html",
+    "theme/dark/about/index.html"
+  ],
+  "remainingCombinedClaimInMetadata": [],
+  "nonDescriptionHtmlUnchangedOnAllPages": true,
+  "pages": [
+    {
+      "path": "404.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Kanjay Consulting supports small and medium businesses with HR services globally and GeM seller consulting across India.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "about/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Learn about Kanjay Consulting, established in 2014: HR support globally. GeM consulting since 2018. Current GeM seller support across India.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "clients/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "contact/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "cookie-policy/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "disclaimer/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "privacy-policy/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "prototype/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "services/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "terms-of-use/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/dark/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Kanjay Consulting supports small and medium businesses with HR services globally and GeM seller consulting across India.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/light/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Kanjay Consulting supports small and medium businesses with HR services globally and GeM seller consulting across India.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/light/about/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Learn about Kanjay Consulting, established in 2014: HR support globally. GeM consulting since 2018. Current GeM seller support across India.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/light/clients/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/light/contact/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/light/cookie-policy/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/light/disclaimer/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/light/privacy-policy/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/light/prototype/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/light/services/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/light/terms-of-use/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/light/prototype/static/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/dark/about/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Learn about Kanjay Consulting, established in 2014: HR support globally. GeM consulting since 2018. Current GeM seller support across India.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/dark/clients/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/dark/contact/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/dark/cookie-policy/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/dark/disclaimer/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/dark/privacy-policy/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/dark/prototype/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/dark/services/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/dark/terms-of-use/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "theme/dark/prototype/static/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    },
+    {
+      "path": "prototype/static/index.html",
+      "descriptions": [
+        "<meta name=\"description\" content=\"Unpublished development foundation for the Kanjay Consulting redesign.\">"
+      ],
+      "nonDescriptionHtmlUnchanged": true
+    }
+  ]
+}
