@@ -1,0 +1,24 @@
+{
+  "source": "Owner updated archive content reference extracts",
+  "archiveSha256": "eb37b9860f5a43b0fd86e1496775f12cf1a6e7024ae33faf9d00e7051341ab8c",
+  "files": [
+    {
+      "file": "content/services.md",
+      "sha256": "cfde8e161d3eb3ea3bbb385714ce5b9f49ccf4a70cc5fbc971f4c303f4a69b23"
+    },
+    {
+      "file": "content/service-confirmations.md",
+      "sha256": "67cacc4cacf2b66cab7f2c06bec12b87c0f74eb114ba018c42c2d7a5286456ba"
+    },
+    {
+      "file": "content/Phase-1.md",
+      "sha256": "308f1599e155769da218fdf956134d92f5f40e15a311db141c3a8b7dffcde96a"
+    },
+    {
+      "file": "content/contact-details.md",
+      "sha256": "995147405ef81390936a9731fbeebc20674618efae18fb98c40888baf3e5b391"
+    }
+  ],
+  "workingApprovedCopySha256": "cfde8e161d3eb3ea3bbb385714ce5b9f49ccf4a70cc5fbc971f4c303f4a69b23",
+  "newCopy": "Editorial audience/output/FAQ summaries use approved activities; exclusions/responsibilities/open questions are explicitly unapproved draft fields; no-guarantee guard follows the Phase 6 request."
+}

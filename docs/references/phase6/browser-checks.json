@@ -1,0 +1,916 @@
+{
+  "layout": [
+    {
+      "width": 320,
+      "theme": "light",
+      "services": 14,
+      "faqs": 14,
+      "pendingFields": 42,
+      "overflow": false,
+      "sameCoreText": true,
+      "hiddenFields": 0
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "services": 14,
+      "faqs": 14,
+      "pendingFields": 42,
+      "overflow": false,
+      "sameCoreText": true,
+      "hiddenFields": 0
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "services": 14,
+      "faqs": 14,
+      "pendingFields": 42,
+      "overflow": false,
+      "sameCoreText": true,
+      "hiddenFields": 0
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "services": 14,
+      "faqs": 14,
+      "pendingFields": 42,
+      "overflow": false,
+      "sameCoreText": true,
+      "hiddenFields": 0
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "services": 14,
+      "faqs": 14,
+      "pendingFields": 42,
+      "overflow": false,
+      "sameCoreText": true,
+      "hiddenFields": 0
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "services": 14,
+      "faqs": 14,
+      "pendingFields": 42,
+      "overflow": false,
+      "sameCoreText": true,
+      "hiddenFields": 0
+    }
+  ],
+  "paths": [
+    {
+      "width": 320,
+      "href": "#hr-support",
+      "result": {
+        "hash": "#hr-support",
+        "target": "HR support"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#hr-audit-process-setup",
+      "result": {
+        "hash": "#hr-audit-process-setup",
+        "target": "HR Audit & HR Process Setup"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#recruitment-talent-acquisition",
+      "result": {
+        "hash": "#recruitment-talent-acquisition",
+        "target": "Recruitment & Talent Acquisition"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#payroll-statutory-compliance",
+      "result": {
+        "hash": "#payroll-statutory-compliance",
+        "target": "Payroll & Statutory Compliance"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#hr-policies-documentation",
+      "result": {
+        "hash": "#hr-policies-documentation",
+        "target": "HR Policies & Documentation"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#pms-kra-kpi",
+      "result": {
+        "hash": "#pms-kra-kpi",
+        "target": "PMS / KRA-KPI"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#employee-engagement-retention",
+      "result": {
+        "hash": "#employee-engagement-retention",
+        "target": "Employee Engagement & Retention"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#onboarding-exit-settlement",
+      "result": {
+        "hash": "#onboarding-exit-settlement",
+        "target": "Onboarding, Exit & Full & Final Settlement"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#gem-seller-support",
+      "result": {
+        "hash": "#gem-seller-support",
+        "target": "GeM seller support"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#seller-registration-profile-setup",
+      "result": {
+        "hash": "#seller-registration-profile-setup",
+        "target": "Seller Registration & Profile Setup"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#product-service-catalogue-upload",
+      "result": {
+        "hash": "#product-service-catalogue-upload",
+        "target": "Product / Service Catalogue Upload"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#bid-search-analysis",
+      "result": {
+        "hash": "#bid-search-analysis",
+        "target": "Bid Search & Analysis"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#tender-participation-support",
+      "result": {
+        "hash": "#tender-participation-support",
+        "target": "Tender Participation & Support"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#oem-authorization-vendor-assessment",
+      "result": {
+        "hash": "#oem-authorization-vendor-assessment",
+        "target": "OEM Authorization & Vendor Assessment"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#catalogue-approval-rejection-support",
+      "result": {
+        "hash": "#catalogue-approval-rejection-support",
+        "target": "Catalogue Approval / Rejection Support"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#order-contract-support",
+      "result": {
+        "hash": "#order-contract-support",
+        "target": "Order & Contract Support"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#hr-support",
+      "result": {
+        "hash": "#hr-support",
+        "target": "HR support"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#hr-audit-process-setup",
+      "result": {
+        "hash": "#hr-audit-process-setup",
+        "target": "HR Audit & HR Process Setup"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#recruitment-talent-acquisition",
+      "result": {
+        "hash": "#recruitment-talent-acquisition",
+        "target": "Recruitment & Talent Acquisition"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#payroll-statutory-compliance",
+      "result": {
+        "hash": "#payroll-statutory-compliance",
+        "target": "Payroll & Statutory Compliance"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#hr-policies-documentation",
+      "result": {
+        "hash": "#hr-policies-documentation",
+        "target": "HR Policies & Documentation"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#pms-kra-kpi",
+      "result": {
+        "hash": "#pms-kra-kpi",
+        "target": "PMS / KRA-KPI"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#employee-engagement-retention",
+      "result": {
+        "hash": "#employee-engagement-retention",
+        "target": "Employee Engagement & Retention"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#onboarding-exit-settlement",
+      "result": {
+        "hash": "#onboarding-exit-settlement",
+        "target": "Onboarding, Exit & Full & Final Settlement"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#gem-seller-support",
+      "result": {
+        "hash": "#gem-seller-support",
+        "target": "GeM seller support"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#seller-registration-profile-setup",
+      "result": {
+        "hash": "#seller-registration-profile-setup",
+        "target": "Seller Registration & Profile Setup"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#product-service-catalogue-upload",
+      "result": {
+        "hash": "#product-service-catalogue-upload",
+        "target": "Product / Service Catalogue Upload"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#bid-search-analysis",
+      "result": {
+        "hash": "#bid-search-analysis",
+        "target": "Bid Search & Analysis"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#tender-participation-support",
+      "result": {
+        "hash": "#tender-participation-support",
+        "target": "Tender Participation & Support"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#oem-authorization-vendor-assessment",
+      "result": {
+        "hash": "#oem-authorization-vendor-assessment",
+        "target": "OEM Authorization & Vendor Assessment"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#catalogue-approval-rejection-support",
+      "result": {
+        "hash": "#catalogue-approval-rejection-support",
+        "target": "Catalogue Approval / Rejection Support"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#order-contract-support",
+      "result": {
+        "hash": "#order-contract-support",
+        "target": "Order & Contract Support"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#hr-support",
+      "result": {
+        "hash": "#hr-support",
+        "target": "HR support"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#hr-audit-process-setup",
+      "result": {
+        "hash": "#hr-audit-process-setup",
+        "target": "HR Audit & HR Process Setup"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#recruitment-talent-acquisition",
+      "result": {
+        "hash": "#recruitment-talent-acquisition",
+        "target": "Recruitment & Talent Acquisition"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#payroll-statutory-compliance",
+      "result": {
+        "hash": "#payroll-statutory-compliance",
+        "target": "Payroll & Statutory Compliance"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#hr-policies-documentation",
+      "result": {
+        "hash": "#hr-policies-documentation",
+        "target": "HR Policies & Documentation"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#pms-kra-kpi",
+      "result": {
+        "hash": "#pms-kra-kpi",
+        "target": "PMS / KRA-KPI"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#employee-engagement-retention",
+      "result": {
+        "hash": "#employee-engagement-retention",
+        "target": "Employee Engagement & Retention"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#onboarding-exit-settlement",
+      "result": {
+        "hash": "#onboarding-exit-settlement",
+        "target": "Onboarding, Exit & Full & Final Settlement"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#gem-seller-support",
+      "result": {
+        "hash": "#gem-seller-support",
+        "target": "GeM seller support"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#seller-registration-profile-setup",
+      "result": {
+        "hash": "#seller-registration-profile-setup",
+        "target": "Seller Registration & Profile Setup"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#product-service-catalogue-upload",
+      "result": {
+        "hash": "#product-service-catalogue-upload",
+        "target": "Product / Service Catalogue Upload"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#bid-search-analysis",
+      "result": {
+        "hash": "#bid-search-analysis",
+        "target": "Bid Search & Analysis"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#tender-participation-support",
+      "result": {
+        "hash": "#tender-participation-support",
+        "target": "Tender Participation & Support"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#oem-authorization-vendor-assessment",
+      "result": {
+        "hash": "#oem-authorization-vendor-assessment",
+        "target": "OEM Authorization & Vendor Assessment"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#catalogue-approval-rejection-support",
+      "result": {
+        "hash": "#catalogue-approval-rejection-support",
+        "target": "Catalogue Approval / Rejection Support"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#order-contract-support",
+      "result": {
+        "hash": "#order-contract-support",
+        "target": "Order & Contract Support"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "width": 320,
+      "answer": "We review existing processes, records and documentation, identify gaps and establish practical HR systems that support your business as it grows.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Does the review cover existing HR records?"
+    },
+    {
+      "width": 320,
+      "answer": "Yes. Recruitment serves employers and candidates. Candidate enquiries go to hr@kanjayconsulting.com; employer enquiries go to info@kanjayconsulting.com.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Do you support employers and candidates?"
+    },
+    {
+      "width": 320,
+      "answer": "We also support applicable statutory compliance activities and coordinate with your finance team or compliance specialists.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Do you coordinate with our finance team?"
+    },
+    {
+      "width": 320,
+      "answer": "We develop practical HR policies, employee handbooks, appointment letters and other essential documents tailored to your organisation’s needs.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Which HR documents can this cover?"
+    },
+    {
+      "width": 320,
+      "answer": "We help define Key Result Areas and Key Performance Indicators, establish appraisal processes and support performance reviews that bring clarity to expectations and accountability.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "What do KRA and KPI mean here?"
+    },
+    {
+      "width": 320,
+      "answer": "We support feedback initiatives, recognition programmes and engagement activities, helping you identify employee concerns and strengthen retention efforts.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "What engagement activities are described?"
+    },
+    {
+      "width": 320,
+      "answer": "We support joining formalities, induction coordination, exit procedures, clearance tracking and full and final settlement calculations for a smoother employee experience.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Does the service include exit support?"
+    },
+    {
+      "width": 320,
+      "answer": "No. GeM consulting is for sellers, not government buyers.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Do you provide GeM consulting for government buyers?"
+    },
+    {
+      "width": 320,
+      "answer": "We support category selection, specification entry, document uploads and catalogue creation to reflect your offerings accurately.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Can this cover products and services?"
+    },
+    {
+      "width": 320,
+      "answer": "We review relevant bids, eligibility criteria, technical requirements and submission timelines to help you make informed participation decisions.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Do you review eligibility and submission timelines?"
+    },
+    {
+      "width": 320,
+      "answer": "We assist with bid preparation, document uploads, submission and clarification responses, helping reduce avoidable errors.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Does support include clarification responses?"
+    },
+    {
+      "width": 320,
+      "answer": "We assist with document preparation, application coordination and follow-ups based on the requirements applicable to your business.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "What application support is described?"
+    },
+    {
+      "width": 320,
+      "answer": "We review rejection remarks, identify gaps and assist with updates and resubmission to support the approval process.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Can you help after a catalogue rejection?"
+    },
+    {
+      "width": 320,
+      "answer": "We assist with order acceptance, contract requirement tracking, delivery coordination and portal invoicing, helping you manage commitments and follow-ups.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Does this cover work after receiving an order?"
+    },
+    {
+      "width": 768,
+      "answer": "We review existing processes, records and documentation, identify gaps and establish practical HR systems that support your business as it grows.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Does the review cover existing HR records?"
+    },
+    {
+      "width": 768,
+      "answer": "Yes. Recruitment serves employers and candidates. Candidate enquiries go to hr@kanjayconsulting.com; employer enquiries go to info@kanjayconsulting.com.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Do you support employers and candidates?"
+    },
+    {
+      "width": 768,
+      "answer": "We also support applicable statutory compliance activities and coordinate with your finance team or compliance specialists.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Do you coordinate with our finance team?"
+    },
+    {
+      "width": 768,
+      "answer": "We develop practical HR policies, employee handbooks, appointment letters and other essential documents tailored to your organisation’s needs.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Which HR documents can this cover?"
+    },
+    {
+      "width": 768,
+      "answer": "We help define Key Result Areas and Key Performance Indicators, establish appraisal processes and support performance reviews that bring clarity to expectations and accountability.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "What do KRA and KPI mean here?"
+    },
+    {
+      "width": 768,
+      "answer": "We support feedback initiatives, recognition programmes and engagement activities, helping you identify employee concerns and strengthen retention efforts.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "What engagement activities are described?"
+    },
+    {
+      "width": 768,
+      "answer": "We support joining formalities, induction coordination, exit procedures, clearance tracking and full and final settlement calculations for a smoother employee experience.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Does the service include exit support?"
+    },
+    {
+      "width": 768,
+      "answer": "No. GeM consulting is for sellers, not government buyers.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Do you provide GeM consulting for government buyers?"
+    },
+    {
+      "width": 768,
+      "answer": "We support category selection, specification entry, document uploads and catalogue creation to reflect your offerings accurately.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Can this cover products and services?"
+    },
+    {
+      "width": 768,
+      "answer": "We review relevant bids, eligibility criteria, technical requirements and submission timelines to help you make informed participation decisions.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Do you review eligibility and submission timelines?"
+    },
+    {
+      "width": 768,
+      "answer": "We assist with bid preparation, document uploads, submission and clarification responses, helping reduce avoidable errors.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Does support include clarification responses?"
+    },
+    {
+      "width": 768,
+      "answer": "We assist with document preparation, application coordination and follow-ups based on the requirements applicable to your business.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "What application support is described?"
+    },
+    {
+      "width": 768,
+      "answer": "We review rejection remarks, identify gaps and assist with updates and resubmission to support the approval process.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Can you help after a catalogue rejection?"
+    },
+    {
+      "width": 768,
+      "answer": "We assist with order acceptance, contract requirement tracking, delivery coordination and portal invoicing, helping you manage commitments and follow-ups.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Does this cover work after receiving an order?"
+    },
+    {
+      "width": 1440,
+      "answer": "We review existing processes, records and documentation, identify gaps and establish practical HR systems that support your business as it grows.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Does the review cover existing HR records?"
+    },
+    {
+      "width": 1440,
+      "answer": "Yes. Recruitment serves employers and candidates. Candidate enquiries go to hr@kanjayconsulting.com; employer enquiries go to info@kanjayconsulting.com.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Do you support employers and candidates?"
+    },
+    {
+      "width": 1440,
+      "answer": "We also support applicable statutory compliance activities and coordinate with your finance team or compliance specialists.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Do you coordinate with our finance team?"
+    },
+    {
+      "width": 1440,
+      "answer": "We develop practical HR policies, employee handbooks, appointment letters and other essential documents tailored to your organisation’s needs.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Which HR documents can this cover?"
+    },
+    {
+      "width": 1440,
+      "answer": "We help define Key Result Areas and Key Performance Indicators, establish appraisal processes and support performance reviews that bring clarity to expectations and accountability.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "What do KRA and KPI mean here?"
+    },
+    {
+      "width": 1440,
+      "answer": "We support feedback initiatives, recognition programmes and engagement activities, helping you identify employee concerns and strengthen retention efforts.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "What engagement activities are described?"
+    },
+    {
+      "width": 1440,
+      "answer": "We support joining formalities, induction coordination, exit procedures, clearance tracking and full and final settlement calculations for a smoother employee experience.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Does the service include exit support?"
+    },
+    {
+      "width": 1440,
+      "answer": "No. GeM consulting is for sellers, not government buyers.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Do you provide GeM consulting for government buyers?"
+    },
+    {
+      "width": 1440,
+      "answer": "We support category selection, specification entry, document uploads and catalogue creation to reflect your offerings accurately.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Can this cover products and services?"
+    },
+    {
+      "width": 1440,
+      "answer": "We review relevant bids, eligibility criteria, technical requirements and submission timelines to help you make informed participation decisions.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Do you review eligibility and submission timelines?"
+    },
+    {
+      "width": 1440,
+      "answer": "We assist with bid preparation, document uploads, submission and clarification responses, helping reduce avoidable errors.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Does support include clarification responses?"
+    },
+    {
+      "width": 1440,
+      "answer": "We assist with document preparation, application coordination and follow-ups based on the requirements applicable to your business.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "What application support is described?"
+    },
+    {
+      "width": 1440,
+      "answer": "We review rejection remarks, identify gaps and assist with updates and resubmission to support the approval process.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Can you help after a catalogue rejection?"
+    },
+    {
+      "width": 1440,
+      "answer": "We assist with order acceptance, contract requirement tracking, delivery coordination and portal invoicing, helping you manage commitments and follow-ups.",
+      "answerDisplay": "block",
+      "focus": true,
+      "open": true,
+      "question": "Does this cover work after receiving an order?"
+    }
+  ],
+  "routing": [
+    {
+      "width": 320,
+      "candidate": {
+        "focus": true,
+        "href": "mailto:hr@kanjayconsulting.com",
+        "name": "Candidate enquiry by email ↗"
+      },
+      "back": {
+        "hash": "#service-index",
+        "target": "Service index"
+      }
+    },
+    {
+      "width": 768,
+      "candidate": {
+        "focus": true,
+        "href": "mailto:hr@kanjayconsulting.com",
+        "name": "Candidate enquiry by email ↗"
+      },
+      "back": {
+        "hash": "#service-index",
+        "target": "Service index"
+      }
+    },
+    {
+      "width": 1440,
+      "candidate": {
+        "focus": true,
+        "href": "mailto:hr@kanjayconsulting.com",
+        "name": "Candidate enquiry by email ↗"
+      },
+      "back": {
+        "hash": "#service-index",
+        "target": "Service index"
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "href": "tel:+918939715152",
+      "name": "Call +91 89397 15152 ↗"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com",
+      "name": "Email Kanjay ↗"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com",
+      "name": "info@kanjayconsulting.com"
+    },
+    {
+      "href": "mailto:hr@kanjayconsulting.com",
+      "name": "hr@kanjayconsulting.com"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry",
+      "name": "Email Kanjay about HR Audit & HR Process Setup"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry",
+      "name": "Email Kanjay about Recruitment & Talent Acquisition"
+    },
+    {
+      "href": "mailto:hr@kanjayconsulting.com",
+      "name": "Candidate enquiry by email ↗"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compliance%20enquiry",
+      "name": "Email Kanjay about Payroll & Statutory Compliance"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentation%20enquiry",
+      "name": "Email Kanjay about HR Policies & Documentation"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry",
+      "name": "Email Kanjay about PMS / KRA-KPI"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Retention%20enquiry",
+      "name": "Email Kanjay about Employee Engagement & Retention"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry",
+      "name": "Email Kanjay about Onboarding, Exit & Full & Final Settlement"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry",
+      "name": "Email Kanjay about Seller Registration & Profile Setup"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry",
+      "name": "Email Kanjay about Product / Service Catalogue Upload"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20enquiry",
+      "name": "Email Kanjay about Bid Search & Analysis"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Support%20enquiry",
+      "name": "Email Kanjay about Tender Participation & Support"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry",
+      "name": "Email Kanjay about OEM Authorization & Vendor Assessment"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry",
+      "name": "Email Kanjay about Catalogue Approval / Rejection Support"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%20enquiry",
+      "name": "Email Kanjay about Order & Contract Support"
+    },
+    {
+      "href": "tel:+918939715152",
+      "name": "+91 89397 15152"
+    },
+    {
+      "href": "mailto:info@kanjayconsulting.com",
+      "name": "info@kanjayconsulting.com"
+    },
+    {
+      "href": "mailto:hr@kanjayconsulting.com",
+      "name": "hr@kanjayconsulting.com"
+    }
+  ]
+}
