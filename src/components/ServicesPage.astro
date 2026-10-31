@@ -1,0 +1,27 @@
+---
+import { business } from '../data/site';
+import { serviceGroups } from '../data/services';
+import './react-bits/prototype/UiverseButton.css';
+import '../styles/services.css';
+const emailFor = (name: string) => `mailto:${business.email}?subject=${encodeURIComponent(name + ' enquiry')}`;
+---
+<div class="services-page">
+  <section class="services-intro" aria-labelledby="services-title"><div><p class="eyebrow">Kanjay Consulting / Our services</p><h1 id="services-title">HR support.<br /><span>GeM seller services.</span></h1><p class="lede">Support for employers and their people globally, and for GeM sellers across India.</p><p>Explore the work described for each service, then speak with us about your business needs.</p><div class="services-actions"><a class="proto-button services-primary" href={`tel:${business.phone}`}>Call {business.phoneDisplay} <span aria-hidden="true">↗</span></a><a class="services-text-link" href={`mailto:${business.email}`}>Email Kanjay <span aria-hidden="true">↗</span></a></div></div><aside class="services-routing" aria-labelledby="routing-title"><h2 id="routing-title">Find the right contact</h2><p><strong>Employers &amp; GeM sellers</strong><br /><a href={`mailto:${business.email}`}>{business.email}</a></p><p><strong>Candidates</strong><br />Recruitment enquiries: <a href={`mailto:${business.candidateEmail}`}>{business.candidateEmail}</a></p><p class="small">GeM consulting is for sellers. Buyer-side GeM services are not offered.</p></aside></section>
+
+  <div class="services-review"><strong>Internal service draft.</strong> Specific handover items, exclusions, client responsibilities and open FAQ answers still need approval. Items marked “Awaiting approval” are review questions, not agreed terms.</div>
+
+  <nav class="services-index" id="service-index" aria-label="Service index"><h2>Find a service</h2><div class="services-index-groups">{serviceGroups.map(group => <div><a class="services-group-jump" href={`#${group.id}`}>{group.name} <span aria-hidden="true">↓</span></a><ul>{group.services.map(service => <li><a href={`#${service.id}`}>{service.name}</a></li>)}</ul></div>)}</div></nav>
+
+  {serviceGroups.map(group => <section class="services-group" id={group.id} aria-labelledby={`${group.id}-title`}><div class="services-group-heading"><p class="eyebrow">{group.market}</p><h2 id={`${group.id}-title`}>{group.name}</h2><p class="lede">{group.intro}</p></div>
+    {group.id === 'gem-seller-support' && <div class="services-outcomes"><strong>Process assistance, not guaranteed outcomes.</strong><p>Consulting assistance does not guarantee registration, catalogue approval, compliance outcomes or tender awards.</p></div>}
+    <div class="services-list">{group.services.map((service, index) => <article id={service.id} class="service-detail" aria-labelledby={`${service.id}-title`}><header><p class="eyebrow">{group.name} / {String(index + 1).padStart(2, '0')}</p><h3 id={`${service.id}-title`}>{service.name}</h3></header>
+      <dl class="service-facts"><dt>Who it serves</dt><dd>{service.who}</dd><dt>Need addressed</dt><dd>{service.problem}</dd><dt>Scope described</dt><dd>{service.scope}</dd><dt>Deliverables</dt><dd><p>{service.outputs}</p><p class="service-pending"><span>Awaiting approval</span> Exact deliverables, formats and acceptance criteria need confirmation.</p></dd><dt>Exclusions</dt><dd class="service-pending"><span>Awaiting approval</span> {service.exclusionsToConfirm}</dd><dt>Client responsibilities</dt><dd class="service-pending"><span>Awaiting approval</span> {service.responsibilitiesToConfirm}</dd></dl>
+      <details class="service-faq"><summary>{service.faq.question}</summary><p>{service.faq.answer}</p></details><p class="service-open-question"><strong>FAQ awaiting approval:</strong> {service.faq.toConfirm}</p>
+      <a class="services-text-link service-email" href={emailFor(service.name)} aria-label={`Email Kanjay about ${service.name}`}>{service.id === 'recruitment-talent-acquisition' ? 'Employer enquiry by email' : 'Discuss this service by email'} <span aria-hidden="true">↗</span></a>
+      {service.id === 'recruitment-talent-acquisition' && <a class="services-text-link service-email" href={`mailto:${business.candidateEmail}`}>Candidate enquiry by email <span aria-hidden="true">↗</span></a>}
+      <a class="service-back" href="#service-index">Back to service index <span aria-hidden="true">↑</span></a>
+    </article>)}</div>
+  </section>)}
+
+  <section class="services-contact" aria-labelledby="service-contact-title"><div><p class="eyebrow">Next conversation</p><h2 id="service-contact-title">Tell us which support<br />you are looking for.</h2><p>Start with a brief description of your business need. Prices are not published on this website.</p></div><div><a href={`tel:${business.phone}`}>{business.phoneDisplay}</a><a href={`mailto:${business.email}`}>{business.email}</a><p>Candidate enquiries: <a href={`mailto:${business.candidateEmail}`}>{business.candidateEmail}</a></p></div></section>
+</div>
