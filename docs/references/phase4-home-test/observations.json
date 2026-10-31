@@ -1,0 +1,2156 @@
+{
+  "layout": [
+    {
+      "cream": "rgb(250, 248, 243)",
+      "cssAnimations": 0,
+      "h1": "HR support.\nGeM seller guidance.",
+      "lede": "For small and medium businesses: HR support globally and GeM portal consulting for sellers across India.",
+      "overflow": false,
+      "prefersReducedMotion": false,
+      "sections": 6,
+      "serviceLinkHeights": [
+        74.14583587646484,
+        74.14583587646484,
+        74.14583587646484,
+        74.14583587646484,
+        64,
+        64
+      ],
+      "theme": "light",
+      "width": 320
+    },
+    {
+      "cream": "rgb(250, 248, 243)",
+      "cssAnimations": 0,
+      "h1": "HR support.\nGeM seller guidance.",
+      "lede": "For small and medium businesses: HR support globally and GeM portal consulting for sellers across India.",
+      "overflow": false,
+      "prefersReducedMotion": false,
+      "sections": 6,
+      "serviceLinkHeights": [
+        74.14583587646484,
+        74.14583587646484,
+        74.14583587646484,
+        74.14583587646484,
+        64,
+        64
+      ],
+      "theme": "dark",
+      "width": 320
+    },
+    {
+      "cream": "rgb(250, 248, 243)",
+      "cssAnimations": 0,
+      "h1": "HR support.\nGeM seller guidance.",
+      "lede": "For small and medium businesses: HR support globally and GeM portal consulting for sellers across India.",
+      "overflow": false,
+      "prefersReducedMotion": false,
+      "sections": 6,
+      "serviceLinkHeights": [
+        64,
+        64,
+        64,
+        64,
+        64,
+        64
+      ],
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "cream": "rgb(250, 248, 243)",
+      "cssAnimations": 0,
+      "h1": "HR support.\nGeM seller guidance.",
+      "lede": "For small and medium businesses: HR support globally and GeM portal consulting for sellers across India.",
+      "overflow": false,
+      "prefersReducedMotion": false,
+      "sections": 6,
+      "serviceLinkHeights": [
+        64,
+        64,
+        64,
+        64,
+        64,
+        64
+      ],
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "cream": "rgb(250, 248, 243)",
+      "cssAnimations": 0,
+      "h1": "HR support.\nGeM seller guidance.",
+      "lede": "For small and medium businesses: HR support globally and GeM portal consulting for sellers across India.",
+      "overflow": false,
+      "prefersReducedMotion": false,
+      "sections": 6,
+      "serviceLinkHeights": [
+        64,
+        64,
+        64,
+        64,
+        64,
+        64
+      ],
+      "theme": "light",
+      "width": 768
+    },
+    {
+      "cream": "rgb(250, 248, 243)",
+      "cssAnimations": 0,
+      "h1": "HR support.\nGeM seller guidance.",
+      "lede": "For small and medium businesses: HR support globally and GeM portal consulting for sellers across India.",
+      "overflow": false,
+      "prefersReducedMotion": false,
+      "sections": 6,
+      "serviceLinkHeights": [
+        64,
+        64,
+        64,
+        64,
+        64,
+        64
+      ],
+      "theme": "dark",
+      "width": 768
+    },
+    {
+      "cream": "rgb(250, 248, 243)",
+      "cssAnimations": 0,
+      "h1": "HR support.\nGeM seller guidance.",
+      "lede": "For small and medium businesses: HR support globally and GeM portal consulting for sellers across India.",
+      "overflow": false,
+      "prefersReducedMotion": false,
+      "sections": 6,
+      "serviceLinkHeights": [
+        64,
+        64,
+        64,
+        64,
+        64,
+        64
+      ],
+      "theme": "light",
+      "width": 1440
+    },
+    {
+      "cream": "rgb(250, 248, 243)",
+      "cssAnimations": 0,
+      "h1": "HR support.\nGeM seller guidance.",
+      "lede": "For small and medium businesses: HR support globally and GeM portal consulting for sellers across India.",
+      "overflow": false,
+      "prefersReducedMotion": false,
+      "sections": 6,
+      "serviceLinkHeights": [
+        64,
+        64,
+        64,
+        64,
+        64,
+        64
+      ],
+      "theme": "dark",
+      "width": 1440
+    }
+  ],
+  "links": [
+    {
+      "width": 320,
+      "href": "#main",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "#main",
+        "path": "/theme/light/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "",
+        "path": "/theme/light/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/about/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Final page content is outside this phase. Unsupported business claims are omitted.",
+        "hash": "",
+        "path": "/theme/light/about/",
+        "targetExists": true,
+        "title": "About Us | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/services/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/clients/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Final page content is outside this phase. Unsupported business claims are omitted.",
+        "hash": "",
+        "path": "/theme/light/clients/",
+        "targetExists": true,
+        "title": "Clients | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/contact/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Final page content is outside this phase. Unsupported business claims are omitted.",
+        "hash": "",
+        "path": "/theme/light/contact/",
+        "targetExists": true,
+        "title": "Contact Us | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/dark/",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "",
+        "path": "/theme/dark/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#home-services",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "#home-services",
+        "path": "/theme/light/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#hr-support-home",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "#hr-support-home",
+        "path": "/theme/light/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "#gem-seller-support-home",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "#gem-seller-support-home",
+        "path": "/theme/light/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/services/#hr-audit-process-setup",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#hr-audit-process-setup",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/services/#recruitment-talent-acquisition",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#recruitment-talent-acquisition",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/services/#payroll-statutory-compliance",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#payroll-statutory-compliance",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/services/#hr-support",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#hr-support",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/services/#seller-registration-profile-setup",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#seller-registration-profile-setup",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/services/#bid-search-analysis",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#bid-search-analysis",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/services/#order-contract-support",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#order-contract-support",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/services/#gem-seller-support",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#gem-seller-support",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/terms-of-use/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Policy content and review are deferred.",
+        "hash": "",
+        "path": "/theme/light/terms-of-use/",
+        "targetExists": true,
+        "title": "Terms of Use | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/privacy-policy/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Policy content and review are deferred.",
+        "hash": "",
+        "path": "/theme/light/privacy-policy/",
+        "targetExists": true,
+        "title": "Privacy Policy | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/cookie-policy/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Policy content and review are deferred.",
+        "hash": "",
+        "path": "/theme/light/cookie-policy/",
+        "targetExists": true,
+        "title": "Cookie Policy | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 320,
+      "href": "/theme/light/disclaimer/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Policy content and review are deferred.",
+        "hash": "",
+        "path": "/theme/light/disclaimer/",
+        "targetExists": true,
+        "title": "Disclaimer | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#main",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "#main",
+        "path": "/theme/light/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "",
+        "path": "/theme/light/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/about/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Final page content is outside this phase. Unsupported business claims are omitted.",
+        "hash": "",
+        "path": "/theme/light/about/",
+        "targetExists": true,
+        "title": "About Us | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/services/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/clients/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Final page content is outside this phase. Unsupported business claims are omitted.",
+        "hash": "",
+        "path": "/theme/light/clients/",
+        "targetExists": true,
+        "title": "Clients | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/contact/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Final page content is outside this phase. Unsupported business claims are omitted.",
+        "hash": "",
+        "path": "/theme/light/contact/",
+        "targetExists": true,
+        "title": "Contact Us | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/dark/",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "",
+        "path": "/theme/dark/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#home-services",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "#home-services",
+        "path": "/theme/light/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#hr-support-home",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "#hr-support-home",
+        "path": "/theme/light/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "#gem-seller-support-home",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "#gem-seller-support-home",
+        "path": "/theme/light/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/services/#hr-audit-process-setup",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#hr-audit-process-setup",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/services/#recruitment-talent-acquisition",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#recruitment-talent-acquisition",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/services/#payroll-statutory-compliance",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#payroll-statutory-compliance",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/services/#hr-support",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#hr-support",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/services/#seller-registration-profile-setup",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#seller-registration-profile-setup",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/services/#bid-search-analysis",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#bid-search-analysis",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/services/#order-contract-support",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#order-contract-support",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/services/#gem-seller-support",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#gem-seller-support",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/terms-of-use/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Policy content and review are deferred.",
+        "hash": "",
+        "path": "/theme/light/terms-of-use/",
+        "targetExists": true,
+        "title": "Terms of Use | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/privacy-policy/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Policy content and review are deferred.",
+        "hash": "",
+        "path": "/theme/light/privacy-policy/",
+        "targetExists": true,
+        "title": "Privacy Policy | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/cookie-policy/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Policy content and review are deferred.",
+        "hash": "",
+        "path": "/theme/light/cookie-policy/",
+        "targetExists": true,
+        "title": "Cookie Policy | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 768,
+      "href": "/theme/light/disclaimer/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Policy content and review are deferred.",
+        "hash": "",
+        "path": "/theme/light/disclaimer/",
+        "targetExists": true,
+        "title": "Disclaimer | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#main",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "#main",
+        "path": "/theme/light/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "",
+        "path": "/theme/light/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/about/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Final page content is outside this phase. Unsupported business claims are omitted.",
+        "hash": "",
+        "path": "/theme/light/about/",
+        "targetExists": true,
+        "title": "About Us | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/services/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/clients/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Final page content is outside this phase. Unsupported business claims are omitted.",
+        "hash": "",
+        "path": "/theme/light/clients/",
+        "targetExists": true,
+        "title": "Clients | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/contact/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Final page content is outside this phase. Unsupported business claims are omitted.",
+        "hash": "",
+        "path": "/theme/light/contact/",
+        "targetExists": true,
+        "title": "Contact Us | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/dark/",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "",
+        "path": "/theme/dark/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#home-services",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "#home-services",
+        "path": "/theme/light/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#hr-support-home",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "#hr-support-home",
+        "path": "/theme/light/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "#gem-seller-support-home",
+      "pass": true,
+      "result": {
+        "draft": null,
+        "hash": "#gem-seller-support-home",
+        "path": "/theme/light/",
+        "targetExists": true,
+        "title": "HR support & GeM seller guidance | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/services/#hr-audit-process-setup",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#hr-audit-process-setup",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/services/#recruitment-talent-acquisition",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#recruitment-talent-acquisition",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/services/#payroll-statutory-compliance",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#payroll-statutory-compliance",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/services/#hr-support",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#hr-support",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/services/#seller-registration-profile-setup",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#seller-registration-profile-setup",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/services/#bid-search-analysis",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#bid-search-analysis",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/services/#order-contract-support",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#order-contract-support",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/services/#gem-seller-support",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Services section index. These approved summaries are the destinations for Home links. The full Services page, detailed scope and exclusions remain for a later phase.",
+        "hash": "#gem-seller-support",
+        "path": "/theme/light/services/",
+        "targetExists": true,
+        "title": "Services | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/terms-of-use/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Policy content and review are deferred.",
+        "hash": "",
+        "path": "/theme/light/terms-of-use/",
+        "targetExists": true,
+        "title": "Terms of Use | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/privacy-policy/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Policy content and review are deferred.",
+        "hash": "",
+        "path": "/theme/light/privacy-policy/",
+        "targetExists": true,
+        "title": "Privacy Policy | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/cookie-policy/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Policy content and review are deferred.",
+        "hash": "",
+        "path": "/theme/light/cookie-policy/",
+        "targetExists": true,
+        "title": "Cookie Policy | Kanjay Consulting development"
+      }
+    },
+    {
+      "width": 1440,
+      "href": "/theme/light/disclaimer/",
+      "pass": true,
+      "result": {
+        "draft": "Internal draft · Page content pending. This route previews the shared layout. Policy content and review are deferred.",
+        "hash": "",
+        "path": "/theme/light/disclaimer/",
+        "targetExists": true,
+        "title": "Disclaimer | Kanjay Consulting development"
+      }
+    }
+  ],
+  "keyboard": [
+    {
+      "width": 320,
+      "skip": {
+        "id": "main",
+        "tag": "MAIN"
+      },
+      "walk": [
+        {
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "Light",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "Dark",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": null,
+          "name": "Menu ☰",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "SUMMARY",
+          "visibleFocus": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "Let’s talk ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "#home-services",
+          "name": "Explore our services",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "#hr-support-home",
+          "name": "01 / For employers · Global supportHR support↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "#gem-seller-support-home",
+          "name": "02 / For sellers · Across IndiaGeM seller support↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#hr-audit-process-setup",
+          "name": "HR Audit & HR Process Setup↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#recruitment-talent-acquisition",
+          "name": "Recruitment & Talent Acquisition↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#payroll-statutory-compliance",
+          "name": "Payroll & Statutory Compliance↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#hr-support",
+          "name": "View HR support summaries ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#seller-registration-profile-setup",
+          "name": "Seller Registration & Profile Setup↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#bid-search-analysis",
+          "name": "Bid Search & Analysis↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#order-contract-support",
+          "name": "Order & Contract Support↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#gem-seller-support",
+          "name": "View GeM seller support summaries ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Discuss your needs by email ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "Call us+91 89397 15152",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Email usinfo@kanjayconsulting.com",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "skip": {
+        "id": "main",
+        "tag": "MAIN"
+      },
+      "walk": [
+        {
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "Light",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "Dark",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": null,
+          "name": "Menu ☰",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "SUMMARY",
+          "visibleFocus": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "Let’s talk ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "#home-services",
+          "name": "Explore our services",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "#hr-support-home",
+          "name": "01 / For employers · Global supportHR support↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "#gem-seller-support-home",
+          "name": "02 / For sellers · Across IndiaGeM seller support↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#hr-audit-process-setup",
+          "name": "HR Audit & HR Process Setup↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#recruitment-talent-acquisition",
+          "name": "Recruitment & Talent Acquisition↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#payroll-statutory-compliance",
+          "name": "Payroll & Statutory Compliance↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#hr-support",
+          "name": "View HR support summaries ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#seller-registration-profile-setup",
+          "name": "Seller Registration & Profile Setup↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#bid-search-analysis",
+          "name": "Bid Search & Analysis↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#order-contract-support",
+          "name": "Order & Contract Support↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#gem-seller-support",
+          "name": "View GeM seller support summaries ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Discuss your needs by email ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "Call us+91 89397 15152",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Email usinfo@kanjayconsulting.com",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "skip": {
+        "id": "main",
+        "tag": "MAIN"
+      },
+      "walk": [
+        {
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "Light",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/dark/",
+          "name": "Dark",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "Let’s talk ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "#home-services",
+          "name": "Explore our services",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "#hr-support-home",
+          "name": "01 / For employers · Global supportHR support↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "#gem-seller-support-home",
+          "name": "02 / For sellers · Across IndiaGeM seller support↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#hr-audit-process-setup",
+          "name": "HR Audit & HR Process Setup↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#recruitment-talent-acquisition",
+          "name": "Recruitment & Talent Acquisition↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#payroll-statutory-compliance",
+          "name": "Payroll & Statutory Compliance↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#hr-support",
+          "name": "View HR support summaries ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#seller-registration-profile-setup",
+          "name": "Seller Registration & Profile Setup↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#bid-search-analysis",
+          "name": "Bid Search & Analysis↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#order-contract-support",
+          "name": "Order & Contract Support↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/#gem-seller-support",
+          "name": "View GeM seller support summaries ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Discuss your needs by email ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "Call us+91 89397 15152",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Email usinfo@kanjayconsulting.com",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        },
+        {
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "rgb(18, 103, 120) solid 2.66667px",
+          "tag": "A",
+          "visibleFocus": true
+        }
+      ]
+    }
+  ],
+  "noJavaScript": [
+    {
+      "hiddenContent": 0,
+      "overflow": false,
+      "text": "KANJAY CONSULTING / ESTABLISHED 2014\n\nHR support.\nGeM seller guidance.\n\nFor small and medium businesses: HR support globally and GeM portal consulting for sellers across India.\n\nLet’s talk\n↗\nExplore our services\n01 / FOR EMPLOYERS · GLOBAL SUPPORT\nHR support\n↗\n02 / FOR SELLERS · ACROSS INDIA\nGeM seller support\n↗\n\nGeM consulting since 2018.\n\nOUR SERVICES\n\nTwo paths.\nSupport around your needs.\n\n01 / FOR EMPLOYERS · GLOBAL SUPPORT\n\nHR support\n\nSupport for the people and processes behind your business.\n\nHR Audit & HR Process Setup\n↗\n\nWe review existing processes, records and documentation, identify gaps and establish practical HR systems that support your business as it grows.\n\nRecruitment & Talent Acquisition\n↗\n\nWe support job descriptions, candidate sourcing, screening, interview coordination and selection follow-ups to make hiring more structured and efficient.\n\nPayroll & Statutory Compliance\n↗\n\nSimplify monthly payroll with coordinated attendance inputs, salary calculations and payslip preparation. We also support applicable statutory compliance activities and coordinate with your finance team or compliance specialists.\n\nView HR support summaries\n↗\n\n02 / FOR SELLERS · ACROSS INDIA\n\nGeM seller support\n\nGuidance for businesses working through the Government e-Marketplace portal.\n\nSeller Registration & Profile Setup\n↗\n\nWe assist with registration, document coordination and profile setup to showcase your business on the portal.\n\nBid Search & Analysis\n↗\n\nWe review relevant bids, eligibility criteria, technical requirements and submission timelines to help you make informed participation decisions.\n\nOrder & Contract Support\n↗\n\nWe assist with order acceptance, contract requirement tracking, delivery coordination and portal invoicing, helping you manage commitments and follow-ups.\n\nView GeM seller support summaries\n↗\n\nLooking for a role? Recruitment also supports candidates. Email hr@kanjayconsulting.com.\n\nOUR WORKING APPROACH\n\nAgreed around\nyour business.\n\nWe work with clients through mutually agreed approaches to their business needs.\n\nOur HR work includes reviewing processes and records, coordinating recruitment and supporting payroll inputs. For GeM sellers, our work includes document coordination, bid reviews and portal follow-ups.\n\nDiscuss your needs by email\n↗\n\nWHAT GUIDES US\n\nTrust. Quality. Support.\nTrust\n\nTrust as the foundation of communication and client relationships.\n\nQuality\n\nA commitment to quality in the work we do.\n\nSupport\n\nBack-office support and long-term client relationships.\n\nEXPERIENCE & RELATIONSHIPS\n\nWorking with businesses.\nSince 2014.\n\nHR support globally. GeM seller consulting across India since 2018.\n\nA selection of our clients\n\nSTART A CONVERSATION\n\nTell us what\nyour business needs.\n\nContact Kanjay Consulting about HR support or GeM seller services.\n\nCALL US\n+91 89397 15152\nEMAIL US\ninfo@kanjayconsulting.com",
+      "theme": "dark",
+      "width": 320
+    },
+    {
+      "hiddenContent": 0,
+      "overflow": false,
+      "text": "KANJAY CONSULTING / ESTABLISHED 2014\n\nHR support.\nGeM seller guidance.\n\nFor small and medium businesses: HR support globally and GeM portal consulting for sellers across India.\n\nLet’s talk\n↗\nExplore our services\n01 / FOR EMPLOYERS · GLOBAL SUPPORT\nHR support\n↗\n02 / FOR SELLERS · ACROSS INDIA\nGeM seller support\n↗\n\nGeM consulting since 2018.\n\nOUR SERVICES\n\nTwo paths.\nSupport around your needs.\n\n01 / FOR EMPLOYERS · GLOBAL SUPPORT\n\nHR support\n\nSupport for the people and processes behind your business.\n\nHR Audit & HR Process Setup\n↗\n\nWe review existing processes, records and documentation, identify gaps and establish practical HR systems that support your business as it grows.\n\nRecruitment & Talent Acquisition\n↗\n\nWe support job descriptions, candidate sourcing, screening, interview coordination and selection follow-ups to make hiring more structured and efficient.\n\nPayroll & Statutory Compliance\n↗\n\nSimplify monthly payroll with coordinated attendance inputs, salary calculations and payslip preparation. We also support applicable statutory compliance activities and coordinate with your finance team or compliance specialists.\n\nView HR support summaries\n↗\n\n02 / FOR SELLERS · ACROSS INDIA\n\nGeM seller support\n\nGuidance for businesses working through the Government e-Marketplace portal.\n\nSeller Registration & Profile Setup\n↗\n\nWe assist with registration, document coordination and profile setup to showcase your business on the portal.\n\nBid Search & Analysis\n↗\n\nWe review relevant bids, eligibility criteria, technical requirements and submission timelines to help you make informed participation decisions.\n\nOrder & Contract Support\n↗\n\nWe assist with order acceptance, contract requirement tracking, delivery coordination and portal invoicing, helping you manage commitments and follow-ups.\n\nView GeM seller support summaries\n↗\n\nLooking for a role? Recruitment also supports candidates. Email hr@kanjayconsulting.com.\n\nOUR WORKING APPROACH\n\nAgreed around\nyour business.\n\nWe work with clients through mutually agreed approaches to their business needs.\n\nOur HR work includes reviewing processes and records, coordinating recruitment and supporting payroll inputs. For GeM sellers, our work includes document coordination, bid reviews and portal follow-ups.\n\nDiscuss your needs by email\n↗\n\nWHAT GUIDES US\n\nTrust. Quality. Support.\nTrust\n\nTrust as the foundation of communication and client relationships.\n\nQuality\n\nA commitment to quality in the work we do.\n\nSupport\n\nBack-office support and long-term client relationships.\n\nEXPERIENCE & RELATIONSHIPS\n\nWorking with businesses.\nSince 2014.\n\nHR support globally. GeM seller consulting across India since 2018.\n\nA selection of our clients\n\nSTART A CONVERSATION\n\nTell us what\nyour business needs.\n\nContact Kanjay Consulting about HR support or GeM seller services.\n\nCALL US\n+91 89397 15152\nEMAIL US\ninfo@kanjayconsulting.com",
+      "theme": "dark",
+      "width": 768
+    },
+    {
+      "hiddenContent": 0,
+      "overflow": false,
+      "text": "KANJAY CONSULTING / ESTABLISHED 2014\n\nHR support.\nGeM seller guidance.\n\nFor small and medium businesses: HR support globally and GeM portal consulting for sellers across India.\n\nLet’s talk\n↗\nExplore our services\n01 / FOR EMPLOYERS · GLOBAL SUPPORT\nHR support\n↗\n02 / FOR SELLERS · ACROSS INDIA\nGeM seller support\n↗\n\nGeM consulting since 2018.\n\nOUR SERVICES\n\nTwo paths.\nSupport around your needs.\n\n01 / FOR EMPLOYERS · GLOBAL SUPPORT\n\nHR support\n\nSupport for the people and processes behind your business.\n\nHR Audit & HR Process Setup\n↗\n\nWe review existing processes, records and documentation, identify gaps and establish practical HR systems that support your business as it grows.\n\nRecruitment & Talent Acquisition\n↗\n\nWe support job descriptions, candidate sourcing, screening, interview coordination and selection follow-ups to make hiring more structured and efficient.\n\nPayroll & Statutory Compliance\n↗\n\nSimplify monthly payroll with coordinated attendance inputs, salary calculations and payslip preparation. We also support applicable statutory compliance activities and coordinate with your finance team or compliance specialists.\n\nView HR support summaries\n↗\n\n02 / FOR SELLERS · ACROSS INDIA\n\nGeM seller support\n\nGuidance for businesses working through the Government e-Marketplace portal.\n\nSeller Registration & Profile Setup\n↗\n\nWe assist with registration, document coordination and profile setup to showcase your business on the portal.\n\nBid Search & Analysis\n↗\n\nWe review relevant bids, eligibility criteria, technical requirements and submission timelines to help you make informed participation decisions.\n\nOrder & Contract Support\n↗\n\nWe assist with order acceptance, contract requirement tracking, delivery coordination and portal invoicing, helping you manage commitments and follow-ups.\n\nView GeM seller support summaries\n↗\n\nLooking for a role? Recruitment also supports candidates. Email hr@kanjayconsulting.com.\n\nOUR WORKING APPROACH\n\nAgreed around\nyour business.\n\nWe work with clients through mutually agreed approaches to their business needs.\n\nOur HR work includes reviewing processes and records, coordinating recruitment and supporting payroll inputs. For GeM sellers, our work includes document coordination, bid reviews and portal follow-ups.\n\nDiscuss your needs by email\n↗\n\nWHAT GUIDES US\n\nTrust. Quality. Support.\nTrust\n\nTrust as the foundation of communication and client relationships.\n\nQuality\n\nA commitment to quality in the work we do.\n\nSupport\n\nBack-office support and long-term client relationships.\n\nEXPERIENCE & RELATIONSHIPS\n\nWorking with businesses.\nSince 2014.\n\nHR support globally. GeM seller consulting across India since 2018.\n\nA selection of our clients\n\nSTART A CONVERSATION\n\nTell us what\nyour business needs.\n\nContact Kanjay Consulting about HR support or GeM seller services.\n\nCALL US\n+91 89397 15152\nEMAIL US\ninfo@kanjayconsulting.com",
+      "theme": "dark",
+      "width": 1440
+    }
+  ],
+  "menus": [
+    {
+      "width": 320,
+      "opened": {
+        "focus": true,
+        "focusedHref": "/theme/light/about/",
+        "open": true
+      },
+      "escaped": {
+        "focus": true,
+        "open": false,
+        "tag": "SUMMARY"
+      },
+      "noJsDestination": "http://127.0.0.1:4338/theme/light/about/"
+    },
+    {
+      "width": 768,
+      "opened": {
+        "focus": true,
+        "focusedHref": "/theme/light/about/",
+        "open": true
+      },
+      "escaped": {
+        "focus": true,
+        "open": false,
+        "tag": "SUMMARY"
+      },
+      "noJsDestination": "http://127.0.0.1:4338/theme/light/about/"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Kanjay Consulting",
+      "loaded": true,
+      "src": "/images/brand/kanjay-logo-light-transparent.svg"
+    },
+    {
+      "alt": "Eaton",
+      "loaded": true,
+      "src": "/images/prototype-clients/EATON.webp"
+    },
+    {
+      "alt": "Aaviza Technologies",
+      "loaded": true,
+      "src": "/images/prototype-clients/AAVIZA.webp"
+    },
+    {
+      "alt": "Deforay",
+      "loaded": true,
+      "src": "/images/prototype-clients/DEFORAY.webp"
+    },
+    {
+      "alt": "Zuppa",
+      "loaded": true,
+      "src": "/images/prototype-clients/ZUPPA.webp"
+    },
+    {
+      "alt": "Woyc::OD",
+      "loaded": true,
+      "src": "/images/prototype-clients/WOYC.webp"
+    },
+    {
+      "alt": "Kanjay Consulting",
+      "loaded": true,
+      "src": "/images/brand/kanjay-logo-light-transparent.svg"
+    }
+  ],
+  "normalLinks": [
+    {
+      "href": "#main",
+      "pass": true,
+      "result": {
+        "hash": "#main",
+        "path": "/theme/light/"
+      }
+    },
+    {
+      "href": "/theme/light/",
+      "pass": true,
+      "result": {
+        "hash": "",
+        "path": "/theme/light/"
+      }
+    },
+    {
+      "href": "/theme/light/about/",
+      "pass": true,
+      "result": {
+        "hash": "",
+        "path": "/theme/light/about/"
+      }
+    },
+    {
+      "href": "/theme/light/services/",
+      "pass": true,
+      "result": {
+        "hash": "",
+        "path": "/theme/light/services/"
+      }
+    },
+    {
+      "href": "/theme/light/clients/",
+      "pass": true,
+      "result": {
+        "hash": "",
+        "path": "/theme/light/clients/"
+      }
+    },
+    {
+      "href": "/theme/light/contact/",
+      "pass": true,
+      "result": {
+        "hash": "",
+        "path": "/theme/light/contact/"
+      }
+    },
+    {
+      "href": "/theme/dark/",
+      "pass": true,
+      "result": {
+        "hash": "",
+        "path": "/theme/dark/"
+      }
+    },
+    {
+      "href": "#home-services",
+      "pass": true,
+      "result": {
+        "hash": "#home-services",
+        "path": "/theme/light/"
+      }
+    },
+    {
+      "href": "#hr-support-home",
+      "pass": true,
+      "result": {
+        "hash": "#hr-support-home",
+        "path": "/theme/light/"
+      }
+    },
+    {
+      "href": "#gem-seller-support-home",
+      "pass": true,
+      "result": {
+        "hash": "#gem-seller-support-home",
+        "path": "/theme/light/"
+      }
+    },
+    {
+      "href": "/theme/light/services/#hr-audit-process-setup",
+      "pass": true,
+      "result": {
+        "hash": "#hr-audit-process-setup",
+        "path": "/theme/light/services/"
+      }
+    },
+    {
+      "href": "/theme/light/services/#recruitment-talent-acquisition",
+      "pass": true,
+      "result": {
+        "hash": "#recruitment-talent-acquisition",
+        "path": "/theme/light/services/"
+      }
+    },
+    {
+      "href": "/theme/light/services/#payroll-statutory-compliance",
+      "pass": true,
+      "result": {
+        "hash": "#payroll-statutory-compliance",
+        "path": "/theme/light/services/"
+      }
+    },
+    {
+      "href": "/theme/light/services/#hr-support",
+      "pass": true,
+      "result": {
+        "hash": "#hr-support",
+        "path": "/theme/light/services/"
+      }
+    },
+    {
+      "href": "/theme/light/services/#seller-registration-profile-setup",
+      "pass": true,
+      "result": {
+        "hash": "#seller-registration-profile-setup",
+        "path": "/theme/light/services/"
+      }
+    },
+    {
+      "href": "/theme/light/services/#bid-search-analysis",
+      "pass": true,
+      "result": {
+        "hash": "#bid-search-analysis",
+        "path": "/theme/light/services/"
+      }
+    },
+    {
+      "href": "/theme/light/services/#order-contract-support",
+      "pass": true,
+      "result": {
+        "hash": "#order-contract-support",
+        "path": "/theme/light/services/"
+      }
+    },
+    {
+      "href": "/theme/light/services/#gem-seller-support",
+      "pass": true,
+      "result": {
+        "hash": "#gem-seller-support",
+        "path": "/theme/light/services/"
+      }
+    },
+    {
+      "href": "/theme/light/terms-of-use/",
+      "pass": true,
+      "result": {
+        "hash": "",
+        "path": "/theme/light/terms-of-use/"
+      }
+    },
+    {
+      "href": "/theme/light/privacy-policy/",
+      "pass": true,
+      "result": {
+        "hash": "",
+        "path": "/theme/light/privacy-policy/"
+      }
+    },
+    {
+      "href": "/theme/light/cookie-policy/",
+      "pass": true,
+      "result": {
+        "hash": "",
+        "path": "/theme/light/cookie-policy/"
+      }
+    },
+    {
+      "href": "/theme/light/disclaimer/",
+      "pass": true,
+      "result": {
+        "hash": "",
+        "path": "/theme/light/disclaimer/"
+      }
+    }
+  ],
+  "sameTextWithoutScripts": true,
+  "inventory": {
+    "contacts": [
+      {
+        "href": "tel:+918939715152",
+        "label": "Let’s talk ↗"
+      },
+      {
+        "href": "mailto:hr@kanjayconsulting.com",
+        "label": "hr@kanjayconsulting.com"
+      },
+      {
+        "href": "mailto:info@kanjayconsulting.com",
+        "label": "Discuss your needs by email ↗"
+      },
+      {
+        "href": "tel:+918939715152",
+        "label": "Call us+91 89397 15152"
+      },
+      {
+        "href": "mailto:info@kanjayconsulting.com",
+        "label": "Email usinfo@kanjayconsulting.com"
+      },
+      {
+        "href": "tel:+918939715152",
+        "label": "+91 89397 15152"
+      },
+      {
+        "href": "mailto:info@kanjayconsulting.com",
+        "label": "info@kanjayconsulting.com"
+      },
+      {
+        "href": "mailto:hr@kanjayconsulting.com",
+        "label": "hr@kanjayconsulting.com"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "HR support.GeM seller guidance."
+      },
+      {
+        "level": 2,
+        "text": "Two paths.Support around your needs."
+      },
+      {
+        "level": 3,
+        "text": "HR support"
+      },
+      {
+        "level": 3,
+        "text": "GeM seller support"
+      },
+      {
+        "level": 2,
+        "text": "Agreed aroundyour business."
+      },
+      {
+        "level": 2,
+        "text": "Trust. Quality. Support."
+      },
+      {
+        "level": 3,
+        "text": "Trust"
+      },
+      {
+        "level": 3,
+        "text": "Quality"
+      },
+      {
+        "level": 3,
+        "text": "Support"
+      },
+      {
+        "level": 2,
+        "text": "Working with businesses.Since 2014."
+      },
+      {
+        "level": 3,
+        "text": "A selection of our clients"
+      },
+      {
+        "level": 2,
+        "text": "Tell us whatyour business needs."
+      },
+      {
+        "level": 2,
+        "text": "Explore"
+      },
+      {
+        "level": 2,
+        "text": "Talk to our team"
+      },
+      {
+        "level": 2,
+        "text": "Policy drafts"
+      }
+    ],
+    "images": [
+      {
+        "alt": "Kanjay Consulting",
+        "src": "/images/brand/kanjay-logo-light-transparent.svg"
+      },
+      {
+        "alt": "Eaton",
+        "src": "/images/prototype-clients/EATON.webp"
+      },
+      {
+        "alt": "Aaviza Technologies",
+        "src": "/images/prototype-clients/AAVIZA.webp"
+      },
+      {
+        "alt": "Deforay",
+        "src": "/images/prototype-clients/DEFORAY.webp"
+      },
+      {
+        "alt": "Zuppa",
+        "src": "/images/prototype-clients/ZUPPA.webp"
+      },
+      {
+        "alt": "Woyc::OD",
+        "src": "/images/prototype-clients/WOYC.webp"
+      },
+      {
+        "alt": "Kanjay Consulting",
+        "src": "/images/brand/kanjay-logo-light-transparent.svg"
+      }
+    ],
+    "internal": [
+      "#main",
+      "/theme/light/",
+      "/theme/light/about/",
+      "/theme/light/services/",
+      "/theme/light/clients/",
+      "/theme/light/contact/",
+      "/theme/dark/",
+      "#home-services",
+      "#hr-support-home",
+      "#gem-seller-support-home",
+      "/theme/light/services/#hr-audit-process-setup",
+      "/theme/light/services/#recruitment-talent-acquisition",
+      "/theme/light/services/#payroll-statutory-compliance",
+      "/theme/light/services/#hr-support",
+      "/theme/light/services/#seller-registration-profile-setup",
+      "/theme/light/services/#bid-search-analysis",
+      "/theme/light/services/#order-contract-support",
+      "/theme/light/services/#gem-seller-support",
+      "/theme/light/terms-of-use/",
+      "/theme/light/privacy-policy/",
+      "/theme/light/cookie-policy/",
+      "/theme/light/disclaimer/"
+    ]
+  }
+}
