@@ -3,6 +3,7 @@ import '../styles/global.css';
 import { business } from '../data/site';
 import Header from '../components/layout/Header.astro';
 import Footer from '../components/layout/Footer.astro';
+import FadeContent from '../components/FadeContent.astro';
 import { routeContext } from '../lib/routes';
 import { seoFor, organization } from '../lib/seo';
 interface Props { title: string; phaseLabel?: string; description?: string; suppressThemeRedirect?: boolean }
@@ -43,5 +44,6 @@ const isHome = routeContext(Astro.url.pathname).page === '/';
     <Header />
     <main id="main" tabindex="-1"><slot /></main>
     <Footer />
+    <FadeContent />
   </body>
 </html>

@@ -5,8 +5,8 @@ const baseRoutes = ['index.html', '404.html', ...['about', 'services', 'clients'
 const routes = [...baseRoutes, ...['light','dark'].flatMap(t => baseRoutes.filter(r => r !== '404.html').map(r => `theme/${t}/${r}`))];
 for (const route of routes) {
   const html = readFileSync(`dist/${route}`, 'utf8');
-  if (!route.endsWith('404.html')) { const expected = '/' + route.replace(/index\.html$/, ''); assert.ok(html.includes(`href="${expected}" aria-current="page"`), `${route}: matching footer link current`); }
-  else assert.doesNotMatch(html, /aria-current="page"/, '404 must not mark Home current');
+  if (/^(?:theme\/(?:light|dark)\/)?(?:about|services|clients|contact)\//.test(route)) { const expected = '/' + route.replace(/index\.html$/, ''); assert.ok(html.includes(`href="${expected}" aria-current="page"`), `${route}: matching pill navigation current`); }
+  else assert.doesNotMatch(html, /aria-current="page"/, 'Home, policies and 404 have no non-pill current-page indication');
   const themeMatch = route.match(/^theme\/(light|dark)\//);
   if (themeMatch) {
     assert.ok(html.includes(`data-theme="${themeMatch[1]}"`), `${route}: static theme set before JS`);

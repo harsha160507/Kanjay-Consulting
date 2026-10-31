@@ -1,0 +1,146 @@
+[
+  {
+    "route": "home",
+    "theme": "light",
+    "h1": "HR support.GeM seller guidance.",
+    "hidden": 0,
+    "links": 16,
+    "overflow": false
+  },
+  {
+    "route": "about/",
+    "theme": "light",
+    "h1": "About KanjayConsulting.",
+    "hidden": 0,
+    "links": 6,
+    "overflow": false
+  },
+  {
+    "route": "services/",
+    "theme": "light",
+    "h1": "HR support.GeM seller services.",
+    "hidden": 0,
+    "links": 52,
+    "overflow": false
+  },
+  {
+    "route": "clients/",
+    "theme": "light",
+    "h1": "Our clientrelationships.",
+    "hidden": 0,
+    "links": 4,
+    "overflow": false
+  },
+  {
+    "route": "contact/",
+    "theme": "light",
+    "h1": "Let’s talk aboutyour business.",
+    "hidden": 0,
+    "links": 7,
+    "overflow": false
+  },
+  {
+    "route": "terms-of-use/",
+    "theme": "light",
+    "h1": "Terms of Use",
+    "hidden": 0,
+    "links": 11,
+    "overflow": false
+  },
+  {
+    "route": "privacy-policy/",
+    "theme": "light",
+    "h1": "Privacy Policy",
+    "hidden": 0,
+    "links": 11,
+    "overflow": false
+  },
+  {
+    "route": "cookie-policy/",
+    "theme": "light",
+    "h1": "Cookie Policy",
+    "hidden": 0,
+    "links": 10,
+    "overflow": false
+  },
+  {
+    "route": "disclaimer/",
+    "theme": "light",
+    "h1": "Disclaimer",
+    "hidden": 0,
+    "links": 10,
+    "overflow": false
+  },
+  {
+    "route": "home",
+    "theme": "dark",
+    "h1": "HR support.GeM seller guidance.",
+    "hidden": 0,
+    "links": 16,
+    "overflow": false
+  },
+  {
+    "route": "about/",
+    "theme": "dark",
+    "h1": "About KanjayConsulting.",
+    "hidden": 0,
+    "links": 6,
+    "overflow": false
+  },
+  {
+    "route": "services/",
+    "theme": "dark",
+    "h1": "HR support.GeM seller services.",
+    "hidden": 0,
+    "links": 52,
+    "overflow": false
+  },
+  {
+    "route": "clients/",
+    "theme": "dark",
+    "h1": "Our clientrelationships.",
+    "hidden": 0,
+    "links": 4,
+    "overflow": false
+  },
+  {
+    "route": "contact/",
+    "theme": "dark",
+    "h1": "Let’s talk aboutyour business.",
+    "hidden": 0,
+    "links": 7,
+    "overflow": false
+  },
+  {
+    "route": "terms-of-use/",
+    "theme": "dark",
+    "h1": "Terms of Use",
+    "hidden": 0,
+    "links": 11,
+    "overflow": false
+  },
+  {
+    "route": "privacy-policy/",
+    "theme": "dark",
+    "h1": "Privacy Policy",
+    "hidden": 0,
+    "links": 11,
+    "overflow": false
+  },
+  {
+    "route": "cookie-policy/",
+    "theme": "dark",
+    "h1": "Cookie Policy",
+    "hidden": 0,
+    "links": 10,
+    "overflow": false
+  },
+  {
+    "route": "disclaimer/",
+    "theme": "dark",
+    "h1": "Disclaimer",
+    "hidden": 0,
+    "links": 10,
+    "overflow": false
+  }
+]

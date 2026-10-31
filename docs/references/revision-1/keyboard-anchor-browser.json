@@ -1,0 +1,52 @@
+[
+  {
+    "check": "script-blocked native menu keyboard",
+    "background": "rgb(245, 244, 239)",
+    "focus": "Menu ☰",
+    "open": true,
+    "outline": "2.66667px"
+  },
+  {
+    "check": "script-blocked themed navigation",
+    "current": [
+      "Services"
+    ],
+    "path": "/theme/dark/services/"
+  },
+  {
+    "check": "script-blocked FAQ keyboard",
+    "focus": "SUMMARY",
+    "open": true,
+    "outline": "2.66667px"
+  },
+  {
+    "check": "security-policy page",
+    "fadeModule": true,
+    "h1": "About KanjayConsulting.",
+    "hidden": "",
+    "title": "About Kanjay Consulting"
+  },
+  {
+    "check": "focused link and arrow",
+    "arrow": "matrix(1, 0, 0, 1, 2, 0)",
+    "focusVisible": true,
+    "outline": "2.66667px",
+    "outlineColor": "rgb(18, 103, 120)",
+    "tag": "A",
+    "text": "Explore our services "
+  },
+  {
+    "check": "mouse anchor navigation",
+    "hash": "#home-services",
+    "margin": "112px",
+    "scroll": "smooth",
+    "top": 111.83333587646484
+  },
+  {
+    "check": "pointer card highlight remains flat",
+    "background": "rgb(238, 236, 229)",
+    "hover": true,
+    "shadow": "none",
+    "transform": "none"
+  }
+]
