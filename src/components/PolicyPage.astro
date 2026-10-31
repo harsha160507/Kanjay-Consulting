@@ -1,0 +1,18 @@
+---
+import { business, pages } from '../data/site';
+import { policies } from '../data/policies';
+import { routeContext } from '../lib/routes';
+import '../styles/policies.css';
+interface Props { title: string }
+const { title } = Astro.props;
+const policy = policies[title];
+const route = routeContext(Astro.url.pathname);
+---
+<article class="policy-page">
+  <p class="eyebrow">Kanjay Consulting / Website policies</p><h1>{title}</h1><p class="lede">{policy.intro}</p>
+  <div class="draft-note"><strong>Internal draft — owner and legal review required.</strong><p>Draft revised <time datetime="2026-10-31">31 October 2026</time>. Not yet effective or approved for publication. Technical descriptions concern the current redesign; review notes identify unresolved business or legal wording.</p></div>
+  <nav class="policy-index" aria-label={`${title} contents`}><h2>On this page</h2><ul>{policy.sections.map(section => <li><a href={`#${section.id}`}>{section.title}</a></li>)}</ul></nav>
+  {policy.sections.map(section => <section class="policy-section" aria-labelledby={section.id}><h2 id={section.id}>{section.title}</h2>{section.paragraphs.map(text => <p>{text}</p>)}{section.review && <aside class="policy-review"><strong>Owner / legal review</strong><p>{section.review}</p></aside>}</section>)}
+  <section class="policy-section" aria-labelledby="policy-contact"><h2 id="policy-contact">Contact Kanjay</h2><p><a href={`mailto:${business.email}`}>{business.email}</a><br /><a href={`tel:${business.phone}`}>{business.phoneDisplay}</a></p><a href={route.to('/contact/')}>Contact our team</a></section>
+  <nav class="policy-related" aria-label="Other policy drafts"><h2>Related policies</h2><ul>{pages.slice(4).filter(page=>page.title!==title).map(page=><li><a href={route.to(`/${page.slug}/`)}>{page.title}</a></li>)}</ul></nav>
+</article>

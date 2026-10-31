@@ -1,0 +1,401 @@
+{
+  "scope": "Observed local requests and two missing routes; not production verification",
+  "responses": [
+    {
+      "url": "http://127.0.0.1:4337/theme/light/",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "text/html",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/_astro/BaseLayout.D9a47pA0.css",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "text/css",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/_astro/_...CyeIHibk.css",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "text/css",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/_astro/pages.Caju8-M1.css",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "text/css",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/_astro/_page_.CSNPfDdi.css",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "text/css",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/brand/kanjay-logo-light-transparent.svg",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/svg+xml",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/_astro/inter-latin-500-normal.Cerq10X2.woff2",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "font/woff2",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/_astro/manrope-latin-600-normal.4f0koTD-.woff2",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "font/woff2",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/_astro/inter-latin-400-normal.C38fXH4l.woff2",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "font/woff2",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/_astro/manrope-latin-700-normal.BZp_XxE4.woff2",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "font/woff2",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/prototype-clients/EATON.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/prototype-clients/AAVIZA.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/prototype-clients/DEFORAY.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/prototype-clients/ZUPPA.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/prototype-clients/WOYC.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/theme/dark/contact/",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "text/html",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/theme/light/services/",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "text/html",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/theme/light/clients/",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "text/html",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/l-and-t.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/eaton.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/balmer-lawrie.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/benco-group.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/casol.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/techno-products.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/hadron-infra.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/safe-tech-fire-solutions.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/sree-raghavendra-electric-services-pvt-ltd.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/madhavaa-crafts-pvt-ltd.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/aaviza-technologies.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/zuppa.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/shopup.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/vitamed.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/welona.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/ttj.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/sana-s-thinai-organics.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/sabari-musicals.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/srm-institute-of-science-and-technology.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/deforay.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/kaavian-services.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/limpar.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/images/clients/woyc-od.webp",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "image/webp",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/theme/light/prototype/",
+      "status": 200,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "text/html",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/a-missing-page/",
+      "status": 404,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "text/html",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    },
+    {
+      "url": "http://127.0.0.1:4337/theme/dark/a-missing-page/",
+      "status": 404,
+      "setCookie": [],
+      "cacheControl": "no-store",
+      "contentType": "text/html",
+      "xRobotsTag": null,
+      "referrerPolicy": null
+    }
+  ]
+}

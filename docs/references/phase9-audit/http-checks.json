@@ -1,0 +1,149 @@
+[
+  {
+    "path": "/terms-of-use/",
+    "status": 200,
+    "result": "PASS",
+    "checks": [
+      "Draft revision date, no effective date",
+      "Approved business identity",
+      "Approved phone/email and Contact route"
+    ],
+    "setCookie": []
+  },
+  {
+    "path": "/privacy-policy/",
+    "status": 200,
+    "result": "PASS",
+    "checks": [
+      "Draft revision date, no effective date",
+      "Approved business identity",
+      "Approved phone/email and Contact route"
+    ],
+    "setCookie": []
+  },
+  {
+    "path": "/cookie-policy/",
+    "status": 200,
+    "result": "PASS",
+    "checks": [
+      "Draft revision date, no effective date",
+      "Approved business identity",
+      "Approved phone/email and Contact route"
+    ],
+    "setCookie": []
+  },
+  {
+    "path": "/disclaimer/",
+    "status": 200,
+    "result": "PASS",
+    "checks": [
+      "Draft revision date, no effective date",
+      "Approved business identity",
+      "Approved phone/email and Contact route"
+    ],
+    "setCookie": []
+  },
+  {
+    "path": "/theme/light/terms-of-use/",
+    "status": 200,
+    "result": "PASS",
+    "checks": [
+      "Draft revision date, no effective date",
+      "Approved business identity",
+      "Approved phone/email and Contact route"
+    ],
+    "setCookie": []
+  },
+  {
+    "path": "/theme/light/privacy-policy/",
+    "status": 200,
+    "result": "PASS",
+    "checks": [
+      "Draft revision date, no effective date",
+      "Approved business identity",
+      "Approved phone/email and Contact route"
+    ],
+    "setCookie": []
+  },
+  {
+    "path": "/theme/light/cookie-policy/",
+    "status": 200,
+    "result": "PASS",
+    "checks": [
+      "Draft revision date, no effective date",
+      "Approved business identity",
+      "Approved phone/email and Contact route"
+    ],
+    "setCookie": []
+  },
+  {
+    "path": "/theme/light/disclaimer/",
+    "status": 200,
+    "result": "PASS",
+    "checks": [
+      "Draft revision date, no effective date",
+      "Approved business identity",
+      "Approved phone/email and Contact route"
+    ],
+    "setCookie": []
+  },
+  {
+    "path": "/theme/dark/terms-of-use/",
+    "status": 200,
+    "result": "PASS",
+    "checks": [
+      "Draft revision date, no effective date",
+      "Approved business identity",
+      "Approved phone/email and Contact route"
+    ],
+    "setCookie": []
+  },
+  {
+    "path": "/theme/dark/privacy-policy/",
+    "status": 200,
+    "result": "PASS",
+    "checks": [
+      "Draft revision date, no effective date",
+      "Approved business identity",
+      "Approved phone/email and Contact route"
+    ],
+    "setCookie": []
+  },
+  {
+    "path": "/theme/dark/cookie-policy/",
+    "status": 200,
+    "result": "PASS",
+    "checks": [
+      "Draft revision date, no effective date",
+      "Approved business identity",
+      "Approved phone/email and Contact route"
+    ],
+    "setCookie": []
+  },
+  {
+    "path": "/theme/dark/disclaimer/",
+    "status": 200,
+    "result": "PASS",
+    "checks": [
+      "Draft revision date, no effective date",
+      "Approved business identity",
+      "Approved phone/email and Contact route"
+    ],
+    "setCookie": []
+  },
+  {
+    "path": "/phase9-audit-missing/",
+    "status": 404,
+    "result": "PASS"
+  },
+  {
+    "path": "/theme/dark/phase9-audit-missing/",
+    "status": 404,
+    "result": "PASS"
+  },
+  {
+    "path": "/404.html",
+    "status": 200,
+    "result": "PASS"
+  }
+]

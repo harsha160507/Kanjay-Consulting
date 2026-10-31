@@ -1,0 +1,2087 @@
+{
+  "layouts": [
+    {
+      "width": 320,
+      "theme": "light",
+      "slug": "terms-of-use",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Terms of Use",
+      "reviewNotes": 5
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "slug": "privacy-policy",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Privacy Policy",
+      "reviewNotes": 3
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "slug": "cookie-policy",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Cookie Policy",
+      "reviewNotes": 1
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "slug": "disclaimer",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Disclaimer",
+      "reviewNotes": 4
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "slug": "terms-of-use",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Terms of Use",
+      "reviewNotes": 5
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "slug": "privacy-policy",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Privacy Policy",
+      "reviewNotes": 3
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "slug": "cookie-policy",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Cookie Policy",
+      "reviewNotes": 1
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "slug": "disclaimer",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Disclaimer",
+      "reviewNotes": 4
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "slug": "terms-of-use",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Terms of Use",
+      "reviewNotes": 5
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "slug": "privacy-policy",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Privacy Policy",
+      "reviewNotes": 3
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "slug": "cookie-policy",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Cookie Policy",
+      "reviewNotes": 1
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "slug": "disclaimer",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Disclaimer",
+      "reviewNotes": 4
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "slug": "terms-of-use",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Terms of Use",
+      "reviewNotes": 5
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "slug": "privacy-policy",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Privacy Policy",
+      "reviewNotes": 3
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "slug": "cookie-policy",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Cookie Policy",
+      "reviewNotes": 1
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "slug": "disclaimer",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Disclaimer",
+      "reviewNotes": 4
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "slug": "terms-of-use",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Terms of Use",
+      "reviewNotes": 5
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "slug": "privacy-policy",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Privacy Policy",
+      "reviewNotes": 3
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "slug": "cookie-policy",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Cookie Policy",
+      "reviewNotes": 1
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "slug": "disclaimer",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Disclaimer",
+      "reviewNotes": 4
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "slug": "terms-of-use",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Terms of Use",
+      "reviewNotes": 5
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "slug": "privacy-policy",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Privacy Policy",
+      "reviewNotes": 3
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "slug": "cookie-policy",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Cookie Policy",
+      "reviewNotes": 1
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "slug": "disclaimer",
+      "overflow": false,
+      "noJsMatches": true,
+      "h1": "Disclaimer",
+      "reviewNotes": 4
+    }
+  ],
+  "keyboard": [
+    {
+      "width": 320,
+      "path": "/theme/light/terms-of-use/",
+      "skipTarget": "main",
+      "browserFocusBoundaries": 1,
+      "ended": true,
+      "expectedCount": 26,
+      "stops": [
+        {
+          "focus": true,
+          "href": "#purpose",
+          "name": "Using this website",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#enquiries",
+          "name": "Enquiries and service arrangements",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#responsible-use",
+          "name": "Responsible use and website material",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#third-parties",
+          "name": "External destinations",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#legal-review",
+          "name": "Terms awaiting formal approval",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 320,
+      "path": "/theme/light/privacy-policy/",
+      "skipTarget": "main",
+      "browserFocusBoundaries": 1,
+      "ended": true,
+      "expectedCount": 26,
+      "stops": [
+        {
+          "focus": true,
+          "href": "#website",
+          "name": "Information on the website",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#contact",
+          "name": "When you contact the team",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#hosting",
+          "name": "Hosting and technical request information",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#storage",
+          "name": "Theme preference and external services",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#questions",
+          "name": "Privacy questions and requests",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 320,
+      "path": "/theme/light/cookie-policy/",
+      "skipTarget": "main",
+      "browserFocusBoundaries": 1,
+      "ended": true,
+      "expectedCount": 25,
+      "stops": [
+        {
+          "focus": true,
+          "href": "#observed",
+          "name": "What the current build uses",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#theme",
+          "name": "Light and dark preference",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#controls",
+          "name": "Your browser controls",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#third-parties",
+          "name": "Third parties and launch review",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 320,
+      "path": "/theme/light/disclaimer/",
+      "skipTarget": "main",
+      "browserFocusBoundaries": 1,
+      "ended": true,
+      "expectedCount": 25,
+      "stops": [
+        {
+          "focus": true,
+          "href": "#information",
+          "name": "General website information",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#outcomes",
+          "name": "GeM process assistance",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#relationships",
+          "name": "Client and external material",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#review",
+          "name": "Review and corrections",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/light/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 320,
+      "path": "/missing-phase9-check/",
+      "skipTarget": "main",
+      "browserFocusBoundaries": 1,
+      "ended": true,
+      "expectedCount": 20,
+      "stops": [
+        {
+          "focus": true,
+          "href": "/",
+          "name": "Return to Home",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/services/",
+          "name": "Explore our services",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "Call our team: +91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Email our team: info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "path": "/theme/dark/terms-of-use/",
+      "skipTarget": "main",
+      "browserFocusBoundaries": 1,
+      "ended": true,
+      "expectedCount": 26,
+      "stops": [
+        {
+          "focus": true,
+          "href": "#purpose",
+          "name": "Using this website",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#enquiries",
+          "name": "Enquiries and service arrangements",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#responsible-use",
+          "name": "Responsible use and website material",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#third-parties",
+          "name": "External destinations",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#legal-review",
+          "name": "Terms awaiting formal approval",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "path": "/theme/dark/privacy-policy/",
+      "skipTarget": "main",
+      "browserFocusBoundaries": 1,
+      "ended": true,
+      "expectedCount": 26,
+      "stops": [
+        {
+          "focus": true,
+          "href": "#website",
+          "name": "Information on the website",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#contact",
+          "name": "When you contact the team",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#hosting",
+          "name": "Hosting and technical request information",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#storage",
+          "name": "Theme preference and external services",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#questions",
+          "name": "Privacy questions and requests",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "path": "/theme/dark/cookie-policy/",
+      "skipTarget": "main",
+      "browserFocusBoundaries": 1,
+      "ended": true,
+      "expectedCount": 25,
+      "stops": [
+        {
+          "focus": true,
+          "href": "#observed",
+          "name": "What the current build uses",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#theme",
+          "name": "Light and dark preference",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#controls",
+          "name": "Your browser controls",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#third-parties",
+          "name": "Third parties and launch review",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "path": "/theme/dark/disclaimer/",
+      "skipTarget": "main",
+      "browserFocusBoundaries": 1,
+      "ended": true,
+      "expectedCount": 25,
+      "stops": [
+        {
+          "focus": true,
+          "href": "#information",
+          "name": "General website information",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#outcomes",
+          "name": "GeM process assistance",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#relationships",
+          "name": "Client and external material",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "#review",
+          "name": "Review and corrections",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/theme/dark/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "path": "/missing-phase9-check/",
+      "skipTarget": "main",
+      "browserFocusBoundaries": 1,
+      "ended": true,
+      "expectedCount": 20,
+      "stops": [
+        {
+          "focus": true,
+          "href": "/",
+          "name": "Return to Home",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/services/",
+          "name": "Explore our services",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/contact/",
+          "name": "Contact our team",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "Call our team: +91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "Email our team: info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/",
+          "name": "KANJAY CONSULTING",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/",
+          "name": "Home",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/about/",
+          "name": "About Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/services/",
+          "name": "Services",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/clients/",
+          "name": "Clients",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/contact/",
+          "name": "Contact Us",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "tel:+918939715152",
+          "name": "+91 89397 15152",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:info@kanjayconsulting.com",
+          "name": "info@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "mailto:hr@kanjayconsulting.com",
+          "name": "hr@kanjayconsulting.com",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "name": "LinkedIn ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "name": "Facebook ↗",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/terms-of-use/",
+          "name": "Terms of Use",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/privacy-policy/",
+          "name": "Privacy Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/cookie-policy/",
+          "name": "Cookie Policy",
+          "outline": "2.66667px",
+          "tag": "A"
+        },
+        {
+          "focus": true,
+          "href": "/disclaimer/",
+          "name": "Disclaimer",
+          "outline": "2.66667px",
+          "tag": "A"
+        }
+      ],
+      "pass": true
+    }
+  ],
+  "missing": [
+    {
+      "requested": "/a-missing-page/",
+      "url": "http://127.0.0.1:4337/a-missing-page/",
+      "h1": "Let’s find\nyour next step.",
+      "links": [
+        "/",
+        "/services/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com"
+      ]
+    },
+    {
+      "requested": "/theme/dark/a-missing-page/",
+      "url": "http://127.0.0.1:4337/theme/dark/a-missing-page/",
+      "h1": "Let’s find\nyour next step.",
+      "links": [
+        "/",
+        "/services/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com"
+      ]
+    },
+    {
+      "requested": "/404.html",
+      "url": "http://127.0.0.1:4337/404.html",
+      "h1": "Let’s find\nyour next step.",
+      "links": [
+        "/",
+        "/services/",
+        "/contact/",
+        "tel:+918939715152",
+        "mailto:info@kanjayconsulting.com"
+      ]
+    }
+  ],
+  "toc": {
+    "url": "http://127.0.0.1:4338/theme/light/cookie-policy/#theme",
+    "heading": "Light and dark preference"
+  },
+  "footerNavigation": {
+    "url": "http://127.0.0.1:4338/theme/light/privacy-policy/",
+    "heading": "Privacy Policy"
+  },
+  "keyboardInitialObservation": "Initial loop incorrectly treated browser-chrome traversal (document body active) as an application control. Repeated below with page-control filtering and explicit expected-link coverage; no application change."
+}

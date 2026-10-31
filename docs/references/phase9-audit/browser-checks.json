@@ -1,0 +1,248 @@
+{
+  "footer": [
+    {
+      "from": "terms-of-use",
+      "theme": "light",
+      "label": "Terms of Use",
+      "url": "http://127.0.0.1:4338/theme/light/terms-of-use/",
+      "heading": "Terms of Use"
+    },
+    {
+      "from": "terms-of-use",
+      "theme": "light",
+      "label": "Privacy Policy",
+      "url": "http://127.0.0.1:4338/theme/light/privacy-policy/",
+      "heading": "Privacy Policy"
+    },
+    {
+      "from": "terms-of-use",
+      "theme": "light",
+      "label": "Cookie Policy",
+      "url": "http://127.0.0.1:4338/theme/light/cookie-policy/",
+      "heading": "Cookie Policy"
+    },
+    {
+      "from": "terms-of-use",
+      "theme": "light",
+      "label": "Disclaimer",
+      "url": "http://127.0.0.1:4338/theme/light/disclaimer/",
+      "heading": "Disclaimer"
+    },
+    {
+      "from": "privacy-policy",
+      "theme": "light",
+      "label": "Terms of Use",
+      "url": "http://127.0.0.1:4338/theme/light/terms-of-use/",
+      "heading": "Terms of Use"
+    },
+    {
+      "from": "privacy-policy",
+      "theme": "light",
+      "label": "Privacy Policy",
+      "url": "http://127.0.0.1:4338/theme/light/privacy-policy/",
+      "heading": "Privacy Policy"
+    },
+    {
+      "from": "privacy-policy",
+      "theme": "light",
+      "label": "Cookie Policy",
+      "url": "http://127.0.0.1:4338/theme/light/cookie-policy/",
+      "heading": "Cookie Policy"
+    },
+    {
+      "from": "privacy-policy",
+      "theme": "light",
+      "label": "Disclaimer",
+      "url": "http://127.0.0.1:4338/theme/light/disclaimer/",
+      "heading": "Disclaimer"
+    },
+    {
+      "from": "cookie-policy",
+      "theme": "light",
+      "label": "Terms of Use",
+      "url": "http://127.0.0.1:4338/theme/light/terms-of-use/",
+      "heading": "Terms of Use"
+    },
+    {
+      "from": "cookie-policy",
+      "theme": "light",
+      "label": "Privacy Policy",
+      "url": "http://127.0.0.1:4338/theme/light/privacy-policy/",
+      "heading": "Privacy Policy"
+    },
+    {
+      "from": "cookie-policy",
+      "theme": "light",
+      "label": "Cookie Policy",
+      "url": "http://127.0.0.1:4338/theme/light/cookie-policy/",
+      "heading": "Cookie Policy"
+    },
+    {
+      "from": "cookie-policy",
+      "theme": "light",
+      "label": "Disclaimer",
+      "url": "http://127.0.0.1:4338/theme/light/disclaimer/",
+      "heading": "Disclaimer"
+    },
+    {
+      "from": "disclaimer",
+      "theme": "light",
+      "label": "Terms of Use",
+      "url": "http://127.0.0.1:4338/theme/light/terms-of-use/",
+      "heading": "Terms of Use"
+    },
+    {
+      "from": "disclaimer",
+      "theme": "light",
+      "label": "Privacy Policy",
+      "url": "http://127.0.0.1:4338/theme/light/privacy-policy/",
+      "heading": "Privacy Policy"
+    },
+    {
+      "from": "disclaimer",
+      "theme": "light",
+      "label": "Cookie Policy",
+      "url": "http://127.0.0.1:4338/theme/light/cookie-policy/",
+      "heading": "Cookie Policy"
+    },
+    {
+      "from": "disclaimer",
+      "theme": "light",
+      "label": "Disclaimer",
+      "url": "http://127.0.0.1:4338/theme/light/disclaimer/",
+      "heading": "Disclaimer"
+    },
+    {
+      "from": "terms-of-use",
+      "theme": "dark",
+      "label": "Terms of Use",
+      "url": "http://127.0.0.1:4338/theme/dark/terms-of-use/",
+      "heading": "Terms of Use"
+    },
+    {
+      "from": "terms-of-use",
+      "theme": "dark",
+      "label": "Privacy Policy",
+      "url": "http://127.0.0.1:4338/theme/dark/privacy-policy/",
+      "heading": "Privacy Policy"
+    },
+    {
+      "from": "terms-of-use",
+      "theme": "dark",
+      "label": "Cookie Policy",
+      "url": "http://127.0.0.1:4338/theme/dark/cookie-policy/",
+      "heading": "Cookie Policy"
+    },
+    {
+      "from": "terms-of-use",
+      "theme": "dark",
+      "label": "Disclaimer",
+      "url": "http://127.0.0.1:4338/theme/dark/disclaimer/",
+      "heading": "Disclaimer"
+    },
+    {
+      "from": "privacy-policy",
+      "theme": "dark",
+      "label": "Terms of Use",
+      "url": "http://127.0.0.1:4338/theme/dark/terms-of-use/",
+      "heading": "Terms of Use"
+    },
+    {
+      "from": "privacy-policy",
+      "theme": "dark",
+      "label": "Privacy Policy",
+      "url": "http://127.0.0.1:4338/theme/dark/privacy-policy/",
+      "heading": "Privacy Policy"
+    },
+    {
+      "from": "privacy-policy",
+      "theme": "dark",
+      "label": "Cookie Policy",
+      "url": "http://127.0.0.1:4338/theme/dark/cookie-policy/",
+      "heading": "Cookie Policy"
+    },
+    {
+      "from": "privacy-policy",
+      "theme": "dark",
+      "label": "Disclaimer",
+      "url": "http://127.0.0.1:4338/theme/dark/disclaimer/",
+      "heading": "Disclaimer"
+    },
+    {
+      "from": "cookie-policy",
+      "theme": "dark",
+      "label": "Terms of Use",
+      "url": "http://127.0.0.1:4338/theme/dark/terms-of-use/",
+      "heading": "Terms of Use"
+    },
+    {
+      "from": "cookie-policy",
+      "theme": "dark",
+      "label": "Privacy Policy",
+      "url": "http://127.0.0.1:4338/theme/dark/privacy-policy/",
+      "heading": "Privacy Policy"
+    },
+    {
+      "from": "cookie-policy",
+      "theme": "dark",
+      "label": "Cookie Policy",
+      "url": "http://127.0.0.1:4338/theme/dark/cookie-policy/",
+      "heading": "Cookie Policy"
+    },
+    {
+      "from": "cookie-policy",
+      "theme": "dark",
+      "label": "Disclaimer",
+      "url": "http://127.0.0.1:4338/theme/dark/disclaimer/",
+      "heading": "Disclaimer"
+    },
+    {
+      "from": "disclaimer",
+      "theme": "dark",
+      "label": "Terms of Use",
+      "url": "http://127.0.0.1:4338/theme/dark/terms-of-use/",
+      "heading": "Terms of Use"
+    },
+    {
+      "from": "disclaimer",
+      "theme": "dark",
+      "label": "Privacy Policy",
+      "url": "http://127.0.0.1:4338/theme/dark/privacy-policy/",
+      "heading": "Privacy Policy"
+    },
+    {
+      "from": "disclaimer",
+      "theme": "dark",
+      "label": "Cookie Policy",
+      "url": "http://127.0.0.1:4338/theme/dark/cookie-policy/",
+      "heading": "Cookie Policy"
+    },
+    {
+      "from": "disclaimer",
+      "theme": "dark",
+      "label": "Disclaimer",
+      "url": "http://127.0.0.1:4338/theme/dark/disclaimer/",
+      "heading": "Disclaimer"
+    }
+  ],
+  "missing": [
+    {
+      "action": "Return to Home",
+      "missingUrl": "http://127.0.0.1:4337/phase9-audit-missing/",
+      "destination": "http://127.0.0.1:4337/",
+      "expectedPath": "/"
+    },
+    {
+      "action": "Explore our services",
+      "missingUrl": "http://127.0.0.1:4337/phase9-audit-missing/",
+      "destination": "http://127.0.0.1:4337/services/",
+      "expectedPath": "/services/"
+    },
+    {
+      "action": "Contact our team",
+      "missingUrl": "http://127.0.0.1:4337/phase9-audit-missing/",
+      "destination": "http://127.0.0.1:4337/contact/",
+      "expectedPath": "/contact/"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "sourceEdit": "PASS: exact requested sentence only; all other policy source content unchanged",
+  "variants": [
+    {
+      "url": "http://127.0.0.1:4337/privacy-policy/",
+      "status": 200,
+      "wording": "PASS",
+      "preservedOtherContent": "PASS",
+      "emailLinks": [
+        "mailto:info@kanjayconsulting.com",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:4337/theme/light/privacy-policy/",
+      "status": 200,
+      "wording": "PASS",
+      "preservedOtherContent": "PASS",
+      "emailLinks": [
+        "mailto:info@kanjayconsulting.com",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:4337/theme/dark/privacy-policy/",
+      "status": 200,
+      "wording": "PASS",
+      "preservedOtherContent": "PASS",
+      "emailLinks": [
+        "mailto:info@kanjayconsulting.com",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:4338/privacy-policy/",
+      "status": 200,
+      "wording": "PASS",
+      "preservedOtherContent": "PASS",
+      "emailLinks": [
+        "mailto:info@kanjayconsulting.com",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:4338/theme/light/privacy-policy/",
+      "status": 200,
+      "wording": "PASS",
+      "preservedOtherContent": "PASS",
+      "emailLinks": [
+        "mailto:info@kanjayconsulting.com",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:4338/theme/dark/privacy-policy/",
+      "status": 200,
+      "wording": "PASS",
+      "preservedOtherContent": "PASS",
+      "emailLinks": [
+        "mailto:info@kanjayconsulting.com",
+        "mailto:info@kanjayconsulting.com",
+        "mailto:hr@kanjayconsulting.com"
+      ]
+    }
+  ],
+  "sitewide": {
+    "routes": 34,
+    "emailLinks": 168,
+    "targets": "PASS"
+  },
+  "implementation": "Native mailto anchors; no email-sending or delivery-checking endpoint/handler introduced",
+  "notTested": [
+    "Actual email-app launch",
+    "Email sending or delivery",
+    "Full rebuild/type checks",
+    "Production hosting/logging/storage/network",
+    "Formal legal suitability",
+    "Screen-reader speech and physical touch"
+  ]
+}
