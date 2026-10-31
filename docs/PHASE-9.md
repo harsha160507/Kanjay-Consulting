@@ -1,5 +1,7 @@
 # Phase 9 — Policy drafts and 404
 
+Later test-only follow-up: [Phase 9 acceptance audit](PHASE-9-ACCEPTANCE.md). Original implementation results below are preserved.
+
 31 October 2026. Branch `phase-9-policies`, based on Phase 8 audit commit `764c2a2`. These pages are internal drafts, not effective legal terms. No merge, publication, production hosting or DNS change authorised/performed.
 
 ## Complete in the working site
