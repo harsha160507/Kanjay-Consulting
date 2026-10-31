@@ -1,0 +1,13 @@
+import{readFileSync}from'node:fs';import{createHmac}from'node:crypto';import assert from'node:assert/strict';
+const{default:worker}=await import('data:text/javascript;base64,'+readFileSync('worker/preview.js').toString('base64'));
+const secret='unit-test-only-not-a-deployment-key',env={PREVIEW_SIGNING_KEY:secret};const sign=n=>createHmac('sha256',secret).update(`kanjay-preview:${n}`).digest('hex');const future=Date.now()+1800000,expired=Date.now()-1000;
+const request=(path,cookie)=>new Request('https://preview.example'+path,{headers:cookie?{Cookie:'kanjay_preview='+cookie}:{}});
+assert.equal((await worker.fetch(request('/'),env)).status,410);
+assert.equal((await worker.fetch(request('/?preview_until='+future+'&preview_sig='+sign(future)),env)).status,303);
+assert.equal((await worker.fetch(request('/'),{})).status,503);
+for(const path of ['/','/services/','/clients/','/theme/dark/contact/','/icons/favicon.svg','/images/brand/kanjay-share.png'])assert.equal((await worker.fetch(request(path,`${future}.${sign(future)}`),env)).status,200,path);
+assert.equal((await worker.fetch(request('/missing/',`${future}.${sign(future)}`),env)).status,404);
+for(const path of ['/','/services/','/icons/favicon.svg'])assert.equal((await worker.fetch(request(path,`${expired}.${sign(expired)}`),env)).status,410,path);
+assert.equal((await worker.fetch(request('/',`${future}.`+'0'.repeat(64)),env)).status,410);
+assert.equal((await worker.fetch(request('/?preview_until='+expired+'&preview_sig='+sign(expired)),env)).status,410);
+console.log('PASS: signed landing, cookie navigation/assets, invalid/expired access, missing key and 404.');
