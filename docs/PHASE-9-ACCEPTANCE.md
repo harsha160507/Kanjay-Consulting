@@ -1,5 +1,7 @@
 # Phase 9 acceptance audit
 
+Follow-up: [approved privacy clarification and separated blockers](PHASE-9-CLARIFICATION.md). The email-prose finding below is historical; the follow-up records its narrow fix and rerun results.
+
 31 October 2026. Application tested: `6b4af66ed78dc77eab9ebc8da8af60c8806b02e7`, draft PR #9. Test/report only; application and policy wording unchanged. Earlier implementation checks remain in `PHASE-9.md`.
 
 ## Acceptance criteria
