@@ -1,5 +1,7 @@
 # About Us — factual and accessibility audit
 
+Follow-up: the metadata source-precision flag recorded below has been corrected. See [metadata correction](#metadata-correction). The original audit results are retained as history; untested checks remain untested.
+
 31 October 2026. Tested application commit `7ce853e0fa24ad534851b156411f9b5ab7dd8e14` in draft PR #5. Test-only follow-up: no application changes, merge or deployment.
 
 ## Criteria and evidence
@@ -92,3 +94,21 @@ Actual screen-reader speech, physical touch, native phone/mail-handler launch an
 4. Complete actual reduced-motion and manual reader/device checks before release acceptance. Nothing here automatically approves release.
 
 Only this report and evidence/source hashes changed. The original synced archive remains SHA-256 `c2601273dc9bfeca079c7f21e596d2fb7b7e06e9fbf8d0139b7e4135a1ae0606`. Evidence was checked for secret patterns and personal/local filesystem paths before upload; relevant loopback test URLs remain.
+
+## Metadata correction
+
+31 October 2026. Corrected the shared About description in `src/pages/[page].astro` to:
+
+> Learn about Kanjay Consulting, established in 2014: HR support globally. GeM consulting since 2018. Current GeM seller support across India.
+
+This preserves the approved identity, establishment year and global HR description while separating the GeM start year from current seller geography using the owner's requested wording. The prior metadata source-precision failure is now resolved; the historical failure above is not a remaining open copy issue.
+
+[Rendered metadata and before/after evidence](references/phase5-audit/metadata-fix.json):
+
+- PASS: all 34 built pages scanned; no remaining combined historical-geography claim in metadata.
+- PASS: exactly three rendered description copies changed: `/about/`, `/theme/light/about/`, `/theme/dark/about/`; each contains the corrected description.
+- PASS: all rendered HTML outside the description tags is byte-equivalent after normalization through the same text read used for the comparison (SHA-256 equality). Other descriptions are unchanged. No visible copy, layout, asset or navigation change was made.
+- PASS: Astro/type check, 36 files, zero errors/warnings/hints; build, 34 routes.
+- PASS: About verification, all three variants; shared foundation verification, 28 routes; Home verification, three variants; isolated prototype verification, six variants.
+
+NOT TESTED in this correction: actual reduced-motion preference, screen-reader speech, physical touch, native phone/mail-handler launch/delivery and cross-browser behaviour. Their earlier NOT TESTED results remain open. No new performance or visual-browser test was run for this metadata-only correction; unchanged non-description HTML supports the narrow content/layout scope, not a claim about manual accessibility coverage. Nothing was merged or deployed.
