@@ -1,5 +1,7 @@
 # Phase 8 — Contact Us
 
+Later test-only follow-up: [Contact and sitewide acceptance audit](PHASE-8-ACCEPTANCE.md). The original implementation checks below are preserved as history.
+
 31 October 2026. Draft implementation on `phase-8-contact`, based on Phase 7 commit `cddeb80`. No merge or deployment. The existing local preview at port 4337 remains running at the owner's request.
 
 ## Available page and visitor routes

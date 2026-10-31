@@ -1,0 +1,1772 @@
+{
+  "testedCommit": "cee117c0ebd8c3d71f76e2a49dcac0cbf336dbc8",
+  "routeCount": 34,
+  "contactCount": 210,
+  "socialCount": 74,
+  "invalidContacts": [],
+  "invalidSocials": [],
+  "forms": [],
+  "falseConfirmations": [],
+  "routes": [
+    {
+      "url": "/404.html",
+      "sha256": "c5421c55838e997ee62d30236997e807657564d23f5e14de5f11c6c17051942d",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/about/",
+      "sha256": "7a6715f4b7982c17c18277a0e4266fdce086409ea49f2a4d5667adf0887439f0",
+      "contacts": [
+        {
+          "text": "Talk about your business",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Call us +91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "Email us info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/clients/",
+      "sha256": "2e1523100924c423123eedc6db74adc1b8d42a733832c0a176dca1f719e65f56",
+      "contacts": [
+        {
+          "text": "Call +91 89397 15152 ↗",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/contact/",
+      "sha256": "2dc74591cd1505120f1a5fbf5f5934722805c68636f4332d8e7d254aea1507b6",
+      "contacts": [
+        {
+          "text": "Call our team ↗",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "Email our team ↗",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Email about a candidate enquiry ↗",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/cookie-policy/",
+      "sha256": "08cb88c6bb2dbfe17b0caa9a1032ae4d09513ead6d43d43d7281eb34a4eb9388",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/disclaimer/",
+      "sha256": "46896a8e238fd520daa960c713f8913d753af1be2fa295ed0a4f31bac00b6ede",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/",
+      "sha256": "44f41c05f6419b080aa11086eaa51e00cd9683fb087ed70e132c69cbb5729fc1",
+      "contacts": [
+        {
+          "text": "Let’s talk ↗",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Discuss your needs by email ↗",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Call us +91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "Email us info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/privacy-policy/",
+      "sha256": "65f3e29168bbb9202cde85727c63fe04736c247766cf7c9d045f457a882af15b",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/prototype/",
+      "sha256": "70d0973fcd15e68c0c77b9b3fc4fca3a9e38d4f57ccd6c90dcb5e272ba1bc4ca",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/prototype/static/",
+      "sha256": "104365ee9f738f51c3dd2181c2a011c76654c0d258dfa41e88447b80e2f7922e",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/services/",
+      "sha256": "5290699bf7ad9d743a787d5ca78418d759c2b866dbb8526fc7c64e52c089bebd",
+      "contacts": [
+        {
+          "text": "Call +91 89397 15152 ↗",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "Email Kanjay ↗",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Employer enquiry by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Candidate enquiry by email ↗",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compliance%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentation%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Retention%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Support%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/terms-of-use/",
+      "sha256": "7fb92749b07a9292be4cf48789478c71df367e0801303135932aa3fd72606ac3",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/dark/about/",
+      "sha256": "76ebd0c3c9fac5ad77309538e1a68153f6db43a6ffdf9fc75d810080404295ff",
+      "contacts": [
+        {
+          "text": "Talk about your business",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Call us +91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "Email us info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/dark/clients/",
+      "sha256": "b418d27a72fe12bd38c0bd9f4800ba7cb1cbb0bc8329dbd0ee4087f2db5487a8",
+      "contacts": [
+        {
+          "text": "Call +91 89397 15152 ↗",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/dark/contact/",
+      "sha256": "797829383a861c26983b80b67ece92b12bc40682acc65bed87a57b87f8c9851d",
+      "contacts": [
+        {
+          "text": "Call our team ↗",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "Email our team ↗",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Email about a candidate enquiry ↗",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/dark/cookie-policy/",
+      "sha256": "0b7e1870ffa96185b62470200ffe0dce6ec60bc1e9427b6df15a645a08179c5d",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/dark/disclaimer/",
+      "sha256": "92eeec57e9d6fcd061c9b5ff6c7dece546c96fec9fed3e04d7fe989be6556de5",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/dark/",
+      "sha256": "41b4a07c1d48f96b07d828779ee8c50d169eb7dd9804c227ed68fd2a0bc39c9e",
+      "contacts": [
+        {
+          "text": "Let’s talk ↗",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Discuss your needs by email ↗",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Call us +91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "Email us info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/dark/privacy-policy/",
+      "sha256": "7fd43136c09e502b3605d2888feb0f3a72a80ca229550bafba93995f5898b6d9",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/dark/prototype/",
+      "sha256": "6f87b659e55a56e2c31f670515bb64d6ab62d07f0e52bcaa4a43be05c11d1849",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/dark/prototype/static/",
+      "sha256": "4820e194293b0b55cd66101d7c1dc3323652a22f5d53de17d591f8f870a56ad1",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/dark/services/",
+      "sha256": "47b544bc721050b5d0dcb1a6f72c72f0c7932ee9b040d9e529a9aeaa9c48b975",
+      "contacts": [
+        {
+          "text": "Call +91 89397 15152 ↗",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "Email Kanjay ↗",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Employer enquiry by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Candidate enquiry by email ↗",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compliance%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentation%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Retention%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Support%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/dark/terms-of-use/",
+      "sha256": "928c148a881a43429e68160f7e5e7b5f631884dc332a5a18f1bbd6ae9c3730ea",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/light/about/",
+      "sha256": "920e35d864e79c559b43ca3e78f3b7b47adbd2b0eb3905b653b2d07784c9b8ab",
+      "contacts": [
+        {
+          "text": "Talk about your business",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Call us +91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "Email us info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/light/clients/",
+      "sha256": "0363ad186ff6d9daaefc5b84c94b690f58cd62e459c6b20ca13bad848c09509c",
+      "contacts": [
+        {
+          "text": "Call +91 89397 15152 ↗",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/light/contact/",
+      "sha256": "170a19a5ac88232d5782dfe2579d61dd50637647e60bbd8c4378e3a740548ee6",
+      "contacts": [
+        {
+          "text": "Call our team ↗",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "Email our team ↗",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Email about a candidate enquiry ↗",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/light/cookie-policy/",
+      "sha256": "736eb7e0f1f77f1e4afc0d9c844bc95f7ad466c4e9f024483226e4bafe15b235",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/light/disclaimer/",
+      "sha256": "1b364cde8fdf580aa14fc8fccaf6cf297e868061bf66813c20f26d64c689b6d8",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/light/",
+      "sha256": "693d6b18692d6660dbba50be5d9effaa9773e1aebcaea2602d97a283577f3fac",
+      "contacts": [
+        {
+          "text": "Let’s talk ↗",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Discuss your needs by email ↗",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Call us +91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "Email us info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/light/privacy-policy/",
+      "sha256": "05c63dd3892fcf0f34f3688abc18d4d6e7486ec24d438f561d029bb00e362277",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/light/prototype/",
+      "sha256": "c2af49c9c7e89f0487fdf9ee4c8a7842c5e62327e2e30410798138f72022b806",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/light/prototype/static/",
+      "sha256": "64ddba55587ef3d20c8e9f378142850eda8abb487c308d278b5005c0f699badd",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/light/services/",
+      "sha256": "1ee7cdecb1535a777a534e612267a728cdd02e4e56b81a388dc07b6e25509121",
+      "contacts": [
+        {
+          "text": "Call +91 89397 15152 ↗",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "Email Kanjay ↗",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Employer enquiry by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Candidate enquiry by email ↗",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compliance%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentation%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Retention%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Support%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "Discuss this service by email ↗",
+          "href": "mailto:info@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%20enquiry",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    },
+    {
+      "url": "/theme/light/terms-of-use/",
+      "sha256": "218701b872e3303475ba51cce4277ed92fcbf5ae46d0043ac0c558a2c36856e6",
+      "contacts": [
+        {
+          "text": "+91 89397 15152",
+          "href": "tel:+918939715152",
+          "valid": true
+        },
+        {
+          "text": "info@kanjayconsulting.com",
+          "href": "mailto:info@kanjayconsulting.com",
+          "valid": true
+        },
+        {
+          "text": "hr@kanjayconsulting.com",
+          "href": "mailto:hr@kanjayconsulting.com",
+          "valid": true
+        }
+      ],
+      "social": [
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗",
+          "valid": true
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗",
+          "valid": true
+        }
+      ],
+      "hasForm": false,
+      "falseConfirmation": false
+    }
+  ]
+}
