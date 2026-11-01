@@ -1,0 +1,21 @@
+{
+  "testedCommit": "610daf1027e8b73aa1488982cea64c74e8fa8e26",
+  "status": "PASS for asserted checks",
+  "selectorCards": 28,
+  "keyboardTransitions": 28,
+  "coldLinks": 42,
+  "indexLinks": 14,
+  "pagerFAQsKeyboard": 14,
+  "staticCases": 6,
+  "staticCards": 84,
+  "staticFAQLinks": 14,
+  "email": {
+    "filesScanned": 60,
+    "htmlRoutes": 34,
+    "generalLinks": 116,
+    "candidateLinks": 52,
+    "oldMailboxMatches": 0
+  },
+  "reducedMotionRuntime": "NOT TESTED",
+  "browserWideJavaScriptOff": "NOT TESTED; scripts blocked by enforced CSP instead"
+}

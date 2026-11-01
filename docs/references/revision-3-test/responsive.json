@@ -1,0 +1,266 @@
+[
+  {
+    "pagers": [
+      {
+        "border": "0px",
+        "buttonsTop": [
+          414.8541870117187,
+          414.8541870117187
+        ],
+        "dtBorder": "0px",
+        "dtDecoration": "underline",
+        "dtUnderlineColour": "rgb(18, 103, 120)",
+        "dtWeight": "700",
+        "group": "hr-support",
+        "iconColour": "rgb(18, 103, 120)",
+        "iconTitleGap": 13.59375,
+        "id": "onboarding-exit-settlement",
+        "outline": "2.66667px",
+        "selectorBottom": 402.8541870117187,
+        "visibleCards": 1
+      },
+      {
+        "border": "0px",
+        "buttonsTop": [
+          1791.197998046875,
+          1791.197998046875
+        ],
+        "dtBorder": "0px",
+        "dtDecoration": "underline",
+        "dtUnderlineColour": "rgb(18, 103, 120)",
+        "dtWeight": "700",
+        "group": "gem-seller-support",
+        "iconColour": "rgb(18, 103, 120)",
+        "iconTitleGap": 13.59375,
+        "id": "order-contract-support",
+        "outline": "2.66667px",
+        "selectorBottom": 1779.197998046875,
+        "visibleCards": 1
+      }
+    ],
+    "scrollWidth": 360,
+    "theme": "light",
+    "viewport": 375,
+    "width": 375
+  },
+  {
+    "pagers": [
+      {
+        "border": "0px",
+        "buttonsTop": [
+          1119.5208740234375,
+          1119.5208740234375
+        ],
+        "dtBorder": "0px",
+        "dtDecoration": "underline",
+        "dtUnderlineColour": "rgb(131, 214, 221)",
+        "dtWeight": "700",
+        "group": "hr-support",
+        "iconColour": "rgb(131, 214, 221)",
+        "iconTitleGap": 13.59375,
+        "id": "onboarding-exit-settlement",
+        "outline": "2.66667px",
+        "selectorBottom": 1107.5208740234375,
+        "visibleCards": 1
+      },
+      {
+        "border": "0px",
+        "buttonsTop": [
+          2487.86474609375,
+          2487.86474609375
+        ],
+        "dtBorder": "0px",
+        "dtDecoration": "underline",
+        "dtUnderlineColour": "rgb(131, 214, 221)",
+        "dtWeight": "700",
+        "group": "gem-seller-support",
+        "iconColour": "rgb(131, 214, 221)",
+        "iconTitleGap": 13.59375,
+        "id": "seller-registration-profile-setup",
+        "outline": "2.66667px",
+        "selectorBottom": 2475.86474609375,
+        "visibleCards": 1
+      }
+    ],
+    "scrollWidth": 360,
+    "theme": "dark",
+    "viewport": 375,
+    "width": 375
+  },
+  {
+    "pagers": [
+      {
+        "border": "0px",
+        "buttonsTop": [
+          577.0631713867188,
+          577.0631713867188
+        ],
+        "dtBorder": "0px",
+        "dtDecoration": "underline",
+        "dtUnderlineColour": "rgb(18, 103, 120)",
+        "dtWeight": "700",
+        "group": "hr-support",
+        "iconColour": "rgb(18, 103, 120)",
+        "iconTitleGap": 13.59375,
+        "id": "onboarding-exit-settlement",
+        "outline": "2.66667px",
+        "selectorBottom": 625.0631713867188,
+        "visibleCards": 1
+      },
+      {
+        "border": "0px",
+        "buttonsTop": [
+          1592.666748046875,
+          1592.666748046875
+        ],
+        "dtBorder": "0px",
+        "dtDecoration": "underline",
+        "dtUnderlineColour": "rgb(18, 103, 120)",
+        "dtWeight": "700",
+        "group": "gem-seller-support",
+        "iconColour": "rgb(18, 103, 120)",
+        "iconTitleGap": 13.59375,
+        "id": "seller-registration-profile-setup",
+        "outline": "2.66667px",
+        "selectorBottom": 1640.666748046875,
+        "visibleCards": 1
+      }
+    ],
+    "scrollWidth": 753,
+    "theme": "light",
+    "viewport": 768,
+    "width": 768
+  },
+  {
+    "pagers": [
+      {
+        "border": "0px",
+        "buttonsTop": [
+          345.4270935058594,
+          345.4270935058594
+        ],
+        "dtBorder": "0px",
+        "dtDecoration": "underline",
+        "dtUnderlineColour": "rgb(131, 214, 221)",
+        "dtWeight": "700",
+        "group": "hr-support",
+        "iconColour": "rgb(131, 214, 221)",
+        "iconTitleGap": 13.59375,
+        "id": "onboarding-exit-settlement",
+        "outline": "2.66667px",
+        "selectorBottom": 393.4270935058594,
+        "visibleCards": 1
+      },
+      {
+        "border": "0px",
+        "buttonsTop": [
+          1365.3333740234375,
+          1365.3333740234375
+        ],
+        "dtBorder": "0px",
+        "dtDecoration": "underline",
+        "dtUnderlineColour": "rgb(131, 214, 221)",
+        "dtWeight": "700",
+        "group": "gem-seller-support",
+        "iconColour": "rgb(131, 214, 221)",
+        "iconTitleGap": 13.59375,
+        "id": "seller-registration-profile-setup",
+        "outline": "2.66667px",
+        "selectorBottom": 1413.3333740234375,
+        "visibleCards": 1
+      }
+    ],
+    "scrollWidth": 753,
+    "theme": "dark",
+    "viewport": 768,
+    "width": 768
+  },
+  {
+    "pagers": [
+      {
+        "border": "0px",
+        "buttonsTop": [
+          354.9270935058594,
+          354.9270935058594
+        ],
+        "dtBorder": "0px",
+        "dtDecoration": "underline",
+        "dtUnderlineColour": "rgb(18, 103, 120)",
+        "dtWeight": "700",
+        "group": "hr-support",
+        "iconColour": "rgb(18, 103, 120)",
+        "iconTitleGap": 13.59375,
+        "id": "onboarding-exit-settlement",
+        "outline": "2.66667px",
+        "selectorBottom": 402.9270935058594,
+        "visibleCards": 1
+      },
+      {
+        "border": "0px",
+        "buttonsTop": [
+          1470.46875,
+          1470.46875
+        ],
+        "dtBorder": "0px",
+        "dtDecoration": "underline",
+        "dtUnderlineColour": "rgb(18, 103, 120)",
+        "dtWeight": "700",
+        "group": "gem-seller-support",
+        "iconColour": "rgb(18, 103, 120)",
+        "iconTitleGap": 13.59375,
+        "id": "seller-registration-profile-setup",
+        "outline": "2.66667px",
+        "selectorBottom": 1518.46875,
+        "visibleCards": 1
+      }
+    ],
+    "scrollWidth": 1425,
+    "theme": "light",
+    "viewport": 1440,
+    "width": 1440
+  },
+  {
+    "pagers": [
+      {
+        "border": "0px",
+        "buttonsTop": [
+          352.26043701171875,
+          352.26043701171875
+        ],
+        "dtBorder": "0px",
+        "dtDecoration": "underline",
+        "dtUnderlineColour": "rgb(131, 214, 221)",
+        "dtWeight": "700",
+        "group": "hr-support",
+        "iconColour": "rgb(131, 214, 221)",
+        "iconTitleGap": 13.59375,
+        "id": "onboarding-exit-settlement",
+        "outline": "2.66667px",
+        "selectorBottom": 400.2604370117187,
+        "visibleCards": 1
+      },
+      {
+        "border": "0px",
+        "buttonsTop": [
+          1467.8021240234375,
+          1467.8021240234375
+        ],
+        "dtBorder": "0px",
+        "dtDecoration": "underline",
+        "dtUnderlineColour": "rgb(131, 214, 221)",
+        "dtWeight": "700",
+        "group": "gem-seller-support",
+        "iconColour": "rgb(131, 214, 221)",
+        "iconTitleGap": 13.59375,
+        "id": "seller-registration-profile-setup",
+        "outline": "2.66667px",
+        "selectorBottom": 1515.8021240234375,
+        "visibleCards": 1
+      }
+    ],
+    "scrollWidth": 1425,
+    "theme": "dark",
+    "viewport": 1440,
+    "width": 1440
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "lists": [
+      {
+        "active": null,
+        "ariaHidden": null,
+        "clip": "none",
+        "id": "hr-support-static-list",
+        "inertAttribute": null
+      },
+      {
+        "active": null,
+        "ariaHidden": null,
+        "clip": "none",
+        "id": "gem-seller-support-static-list",
+        "inertAttribute": null
+      }
+    ],
+    "theme": "light",
+    "viewport": 375,
+    "width": 375
+  },
+  {
+    "lists": [
+      {
+        "active": null,
+        "ariaHidden": null,
+        "clip": "none",
+        "id": "hr-support-static-list",
+        "inertAttribute": null
+      },
+      {
+        "active": null,
+        "ariaHidden": null,
+        "clip": "none",
+        "id": "gem-seller-support-static-list",
+        "inertAttribute": null
+      }
+    ],
+    "theme": "dark",
+    "viewport": 375,
+    "width": 375
+  },
+  {
+    "lists": [
+      {
+        "active": null,
+        "ariaHidden": null,
+        "clip": "none",
+        "id": "hr-support-static-list",
+        "inertAttribute": null
+      },
+      {
+        "active": null,
+        "ariaHidden": null,
+        "clip": "none",
+        "id": "gem-seller-support-static-list",
+        "inertAttribute": null
+      }
+    ],
+    "theme": "light",
+    "viewport": 768,
+    "width": 768
+  },
+  {
+    "lists": [
+      {
+        "active": null,
+        "ariaHidden": null,
+        "clip": "none",
+        "id": "hr-support-static-list",
+        "inertAttribute": null
+      },
+      {
+        "active": null,
+        "ariaHidden": null,
+        "clip": "none",
+        "id": "gem-seller-support-static-list",
+        "inertAttribute": null
+      }
+    ],
+    "theme": "dark",
+    "viewport": 768,
+    "width": 768
+  },
+  {
+    "lists": [
+      {
+        "active": null,
+        "ariaHidden": null,
+        "clip": "none",
+        "id": "hr-support-static-list",
+        "inertAttribute": null
+      },
+      {
+        "active": null,
+        "ariaHidden": null,
+        "clip": "none",
+        "id": "gem-seller-support-static-list",
+        "inertAttribute": null
+      }
+    ],
+    "theme": "light",
+    "viewport": 1440,
+    "width": 1440
+  },
+  {
+    "lists": [
+      {
+        "active": null,
+        "ariaHidden": null,
+        "clip": "none",
+        "id": "hr-support-static-list",
+        "inertAttribute": null
+      },
+      {
+        "active": null,
+        "ariaHidden": null,
+        "clip": "none",
+        "id": "gem-seller-support-static-list",
+        "inertAttribute": null
+      }
+    ],
+    "theme": "dark",
+    "viewport": 1440,
+    "width": 1440
+  }
+]

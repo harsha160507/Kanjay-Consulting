@@ -1,0 +1,23 @@
+{
+  "cards": [
+    {
+      "animation": "service-card-in",
+      "duration": "0.28s"
+    },
+    {
+      "animation": "service-card-in",
+      "duration": "0.28s"
+    }
+  ],
+  "scrollBehavior": "smooth",
+  "stylesheets": [
+    "http://127.0.0.1:4337/_astro/BaseLayout.DEGVhqpU.css",
+    "http://127.0.0.1:4337/_astro/_...BjfZ0qak.css",
+    "http://127.0.0.1:4337/_astro/SpotlightCard.BOPGnBZ0.css",
+    null,
+    "http://127.0.0.1:4337/_astro/_page_.D6tidJ7K.css",
+    "http://127.0.0.1:4337/_astro/pages.C-JQsIsS.css",
+    null,
+    null
+  ]
+}
