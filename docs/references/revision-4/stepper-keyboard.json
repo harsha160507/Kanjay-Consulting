@@ -1,0 +1,37 @@
+[
+  {
+    "current": "GeM seller work",
+    "focused": "gem-working-activities",
+    "hash": "#gem-working-activities",
+    "outline": "2.66667px",
+    "outlineStyle": "solid",
+    "visible": [
+      "gem-working-activities"
+    ]
+  },
+  {
+    "current": "HR work",
+    "focused": "hr-working-activities",
+    "hash": "#hr-working-activities",
+    "outline": "2.66667px",
+    "outlineStyle": "solid",
+    "visible": [
+      "hr-working-activities"
+    ]
+  },
+  {
+    "current": "GeM seller work",
+    "focused": "gem-working-activities",
+    "hash": "#gem-working-activities",
+    "kind": "native activity link",
+    "outlineStyle": "solid"
+  },
+  {
+    "focused": "hr-working-activities",
+    "hash": "#hr-working-activities",
+    "kind": "Back",
+    "visible": [
+      "hr-working-activities"
+    ]
+  }
+]

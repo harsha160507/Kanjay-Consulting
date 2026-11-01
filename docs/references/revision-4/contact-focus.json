@@ -1,0 +1,32 @@
+[
+  {
+    "href": "tel:+918939715152",
+    "outline": "2.66667px",
+    "outlineStyle": "solid",
+    "text": "Call our team ↗"
+  },
+  {
+    "href": "mailto:enquiry@kanjayconsulting.com",
+    "outline": "2.66667px",
+    "outlineStyle": "solid",
+    "text": "Email our team ↗"
+  },
+  {
+    "href": "mailto:hr@kanjayconsulting.com",
+    "outline": "2.66667px",
+    "outlineStyle": "solid",
+    "text": "Email about a candidate enquiry ↗"
+  },
+  {
+    "href": "https://www.linkedin.com/company/kanjay-consulting/",
+    "outline": "2.66667px",
+    "outlineStyle": "solid",
+    "text": "LinkedIn ↗"
+  },
+  {
+    "href": "https://www.facebook.com/kanjayconsulting",
+    "outline": "2.66667px",
+    "outlineStyle": "solid",
+    "text": "Facebook ↗"
+  }
+]

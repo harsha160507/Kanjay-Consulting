@@ -1,5 +1,6 @@
 import { readFileSync, existsSync, readdirSync } from 'node:fs';
 import assert from 'node:assert/strict';
+import { clients as approvedClients } from './client-test-data.mjs';
 
 const baseRoutes = ['index.html', '404.html', ...['about', 'services', 'clients', 'contact', 'terms-of-use', 'privacy-policy', 'cookie-policy', 'disclaimer'].map(p => `${p}/index.html`)];
 const routes = [...baseRoutes, ...['light','dark'].flatMap(t => baseRoutes.filter(r => r !== '404.html').map(r => `theme/${t}/${r}`))];
@@ -34,6 +35,5 @@ assert.equal(existsSync('dist/robots.txt'), true);
 assert.equal(existsSync('dist/_headers'), true);
 assert.equal(existsSync('next.config.js'), false);
 // Phase 7 replaces the empty-folder guard with an exact approved-asset allowlist.
-const approvedClients=JSON.parse(readFileSync('src/data/clients.ts','utf8').split('export const currentClients = ')[1].split(' as const;')[0]);
 assert.deepEqual(readdirSync('public/images/clients').filter(p => p !== '.gitkeep').sort(),approvedClients.map(p=>p.image.split('/').at(-1)).sort());
 console.log(`Layout verified: ${routes.length} static routes, real navigation/contact links, native mobile disclosure, indexing controls and no forms/embeds/unapproved client assets.`);

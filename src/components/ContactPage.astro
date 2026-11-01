@@ -1,5 +1,6 @@
 ---
 import { business } from '../data/site';
+import HomeSpotlight from './home/HomeSpotlight.astro';
 import { routeContext } from '../lib/routes';
 import './react-bits/prototype/UiverseButton.css';
 import '../styles/contact.css';
@@ -14,18 +15,18 @@ const route = routeContext(Astro.url.pathname);
 
   <section data-fade-content class="contact-methods" aria-labelledby="contact-methods-title">
     <h2 id="contact-methods-title" class="sr-only">Contact our team</h2>
-    <article class="contact-panel" aria-labelledby="call-title">
+    <HomeSpotlight class="contact-panel"><article aria-labelledby="call-title">
       <p class="section-label">By phone</p>
       <h3 id="call-title">Speak with our team.</h3>
       <p class="contact-detail">{business.phoneDisplay}</p>
       <a class="proto-button contact-action" href={`tel:${business.phone}`}>Call our team <span class="link-arrow" aria-hidden="true">↗</span></a>
-    </article>
-    <article class="contact-panel" aria-labelledby="email-title">
+    </article></HomeSpotlight>
+    <HomeSpotlight class="contact-panel"><article aria-labelledby="email-title">
       <p class="section-label">By email</p>
       <h3 id="email-title">Tell us what you need.</h3>
       <p class="contact-detail">{business.email}</p>
       <a class="proto-button contact-action" href={`mailto:${business.email}`}>Email our team <span class="link-arrow" aria-hidden="true">↗</span></a>
-    </article>
+    </article></HomeSpotlight>
   </section>
   <p class="contact-app-note">Call and email links open your device’s calling or email app. You can also select and copy the details above.</p>
 
@@ -36,5 +37,5 @@ const route = routeContext(Astro.url.pathname);
 
   <section data-fade-content class="contact-candidate" aria-labelledby="candidate-title"><div><p class="section-label">Recruitment enquiries</p><h2 id="candidate-title">Looking for a role?</h2><p>Candidate recruitment enquiries go to our HR email. Employers can use the business email above.</p></div><div><p class="contact-detail">{business.candidateEmail}</p><a class="contact-text-link" href={`mailto:${business.candidateEmail}`}>Email about a candidate enquiry <span class="link-arrow" aria-hidden="true">↗</span></a></div></section>
 
-  <section data-fade-content class="contact-location" aria-labelledby="location-title"><div><p class="section-label">Our address</p><h2 id="location-title">Kanjay Consulting</h2><address>{business.address}</address></div><div><h2 id="social-title">Connect with Kanjay.</h2><nav class="social-links" aria-labelledby="social-title">{business.socialLinks.map(profile => <a href={profile.href}>{profile.label}<span class="link-arrow" aria-hidden="true"> ↗</span></a>)}</nav></div></section>
+  <section data-fade-content class="contact-location" aria-labelledby="location-title"><div><p class="section-label">Our address</p><h2 id="location-title">Kanjay Consulting</h2><address>{business.address}</address></div><HomeSpotlight class="contact-panel contact-social"><h2 id="social-title">Connect with Kanjay.</h2><nav class="social-links" aria-labelledby="social-title">{business.socialLinks.map(profile => <a href={profile.href}>{profile.label}<span class="link-arrow" aria-hidden="true"> ↗</span></a>)}</nav></HomeSpotlight></section>
 </div>

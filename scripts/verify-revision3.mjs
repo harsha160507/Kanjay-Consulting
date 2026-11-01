@@ -10,7 +10,11 @@ const mailBaseline=JSON.parse(readFileSync(`${directory}/email-baseline.json`,'u
 for(const [route,emails] of Object.entries(mailBaseline)){
   const html=readFileSync('dist/'+route,'utf8');
   assert.doesNotMatch(html,/info(?:@|%40|&#64;)kanjayconsulting\.com/i,route);
-  assert.deepEqual([...html.matchAll(/href="(mailto:[^"]+)"/g)].map(m=>m[1]),emails.map(e=>{const split=e.indexOf('?');const address=split<0?e:e.slice(0,split);const query=split<0?'':e.slice(split);return address.replaceAll('info@kanjayconsulting.com','enquiry@kanjayconsulting.com')+query;}),`${route}: only mailbox changes; subjects/bodies/candidate targets preserved`);
+  const expected=emails.map(e=>{const split=e.indexOf('?');const address=split<0?e:e.slice(0,split);const query=split<0?'':e.slice(split);return address.replaceAll('info@kanjayconsulting.com','enquiry@kanjayconsulting.com')+query;});
+  // Phase 4's complete approved Cookie body replaces its generic contact block
+  // with the approved Contact-page link; footer/candidate actions are unchanged.
+  if(route.includes('cookie-policy/'))expected.splice(expected.indexOf('mailto:enquiry@kanjayconsulting.com'),1);
+  assert.deepEqual([...html.matchAll(/href="(mailto:[^"]+)"/g)].map(m=>m[1]),expected,`${route}: subjects/bodies/candidate targets preserved; approved Cookie contact-block replacement allowed`);
   for(const [,data]of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)){assert.equal(JSON.parse(data).email,'enquiry@kanjayconsulting.com');organizationsChecked++;}
 }
 assert.equal(organizationsChecked,3,'Organization metadata on all Home variants');
@@ -35,4 +39,4 @@ if(existsSync(runtimePath)){
   }
 }
 const result={status:'PASS',groups:groups.map(g=>({id:g.id,count:g.services.length})),preservation:'Exact data comparison against pre-change snapshot, allowing only business-email replacement',emailRoutes:Object.keys(mailBaseline).length,mailtoQueries:'Exact before/after comparison: subjects, bodies and hr@ mailbox unchanged',fallback:'14 server-rendered cards/FAQs/icons, two unhidden fallback lists and pager islands',runtimeContent:existsSync(runtimePath)?'All recorded runtime fields match source verbatim':'NOT TESTED yet',oldMailbox:'Absent from generated HTML/JS and Organization metadata updated'};
-writeFileSync(`${directory}/revision-checks.json`,JSON.stringify(result,null,2)+'\n');console.log(result);
+writeFileSync('docs/references/revision-4/services-regression.json',JSON.stringify({...result,cookieException:'Phase 4 approved body replaces generic contact block with Contact page link'},null,2)+'\n');console.log(result);

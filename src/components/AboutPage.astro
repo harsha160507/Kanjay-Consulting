@@ -1,5 +1,6 @@
 ---
 import { business } from '../data/site';
+import WorkingStepper from './about/WorkingStepper.astro';
 import { routeContext } from '../lib/routes';
 import './react-bits/prototype/UiverseButton.css';
 import '../styles/about.css';
@@ -21,7 +22,7 @@ const route = routeContext(Astro.url.pathname);
     <p class="about-candidate">Candidate enquiries: <a href={`mailto:${business.candidateEmail}`}>{business.candidateEmail}</a>.</p>
   </section>
 
-  <section data-fade-content class="about-section about-approach" aria-labelledby="working-title"><div><p class="section-label">How we work</p><h2 id="working-title">A mutually agreed<br />approach to your needs.</h2></div><div><p class="lede">We work with clients through approaches agreed around their business needs.</p><p>For HR work, that can include reviewing records and processes, coordinating recruitment, and working with payroll inputs and documentation. For GeM sellers, our work includes document coordination, reviewing bid requirements, portal submissions and follow-ups.</p><p>These are the practical activities behind our consulting services.</p></div></section>
+  <section data-fade-content class="about-section about-approach" aria-labelledby="working-title"><div><p class="section-label">How we work</p><h2 id="working-title">A mutually agreed<br />approach to your needs.</h2></div><div><p class="lede">We work with clients through approaches agreed around their business needs.</p><WorkingStepper /><p>These are the practical activities behind our consulting services.</p></div></section>
 
   <section data-fade-content class="about-section" aria-labelledby="values-title"><p class="section-label">Our core values</p><h2 id="values-title">Trust. Quality. Support.</h2><div class="about-values"><article><h3>Trust</h3><p>We see trust as the foundation of effective communication and client relationships.</p></article><article><h3>Quality</h3><p>We believe in a commitment to quality in the work we do.</p></article><article><h3>Support</h3><p>Our focus is on back-office support and long-term relationships with our clients.</p></article></div></section>
 

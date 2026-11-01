@@ -1,0 +1,169 @@
+{
+  "status": "PASS",
+  "sourceClients": 23,
+  "uniqueSourceClients": 23,
+  "homeLogos": 24,
+  "ids": [
+    "l-and-t",
+    "eaton",
+    "balmer-lawrie",
+    "benco-group",
+    "casol",
+    "techno-products",
+    "hadron-infra",
+    "safe-tech-fire-solutions",
+    "sree-raghavendra-electric-services-pvt-ltd",
+    "madhavaa-crafts-pvt-ltd",
+    "aaviza-technologies",
+    "zuppa",
+    "shopup",
+    "vitamed",
+    "welona",
+    "ttj",
+    "sana-s-thinai-organics",
+    "sabari-musicals",
+    "srm-institute-of-science-and-technology",
+    "deforay",
+    "kaavian-services",
+    "limpar",
+    "woyc-od",
+    "silq"
+  ],
+  "normalisedDimensions": [
+    {
+      "id": "l-and-t",
+      "width": 72,
+      "height": 72
+    },
+    {
+      "id": "eaton",
+      "width": 142,
+      "height": 42
+    },
+    {
+      "id": "balmer-lawrie",
+      "width": 150,
+      "height": 28
+    },
+    {
+      "id": "benco-group",
+      "width": 132,
+      "height": 46
+    },
+    {
+      "id": "casol",
+      "width": 61,
+      "height": 72
+    },
+    {
+      "id": "techno-products",
+      "width": 73,
+      "height": 72
+    },
+    {
+      "id": "hadron-infra",
+      "width": 78,
+      "height": 72
+    },
+    {
+      "id": "safe-tech-fire-solutions",
+      "width": 68,
+      "height": 72
+    },
+    {
+      "id": "sree-raghavendra-electric-services-pvt-ltd",
+      "width": 68,
+      "height": 72
+    },
+    {
+      "id": "madhavaa-crafts-pvt-ltd",
+      "width": 150,
+      "height": 38
+    },
+    {
+      "id": "aaviza-technologies",
+      "width": 150,
+      "height": 35
+    },
+    {
+      "id": "zuppa",
+      "width": 108,
+      "height": 55
+    },
+    {
+      "id": "shopup",
+      "width": 137,
+      "height": 44
+    },
+    {
+      "id": "vitamed",
+      "width": 150,
+      "height": 36
+    },
+    {
+      "id": "welona",
+      "width": 150,
+      "height": 39
+    },
+    {
+      "id": "ttj",
+      "width": 106,
+      "height": 57
+    },
+    {
+      "id": "sana-s-thinai-organics",
+      "width": 124,
+      "height": 48
+    },
+    {
+      "id": "sabari-musicals",
+      "width": 93,
+      "height": 65
+    },
+    {
+      "id": "srm-institute-of-science-and-technology",
+      "width": 71,
+      "height": 72
+    },
+    {
+      "id": "deforay",
+      "width": 86,
+      "height": 70
+    },
+    {
+      "id": "kaavian-services",
+      "width": 150,
+      "height": 27
+    },
+    {
+      "id": "limpar",
+      "width": 121,
+      "height": 50
+    },
+    {
+      "id": "woyc-od",
+      "width": 134,
+      "height": 45
+    },
+    {
+      "id": "silq",
+      "width": 129,
+      "height": 46
+    }
+  ],
+  "silq": "Owner attachment converted losslessly; exact visible colours and alpha verified",
+  "variants": 3,
+  "checks": [
+    "complete deduped static list",
+    "all local images exist",
+    "duplicate assets absent",
+    "one static Gradient Text phrase",
+    "two decorative inline icons",
+    "three nonhydrated Spotlight surfaces",
+    "only Call/Loop islands",
+    "real Clients link",
+    "unchanged approved contact targets",
+    "safe loop configuration"
+  ],
+  "limitations": "Source/HTML/unit checks are separate from browser operation, actual OS preferences, physical touch and screen-reader speech."
+}

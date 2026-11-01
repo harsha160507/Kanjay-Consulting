@@ -1,0 +1,17 @@
+---
+// Native progressive adaptation of the supplied Stepper: same track/pane/footer
+// structure; no fictitious completion state, replacement hydration or icon package.
+import { workingActivities } from '../../data/working-activities';
+import './WorkingStepper.css';
+---
+<div class="stepper stepper--vertical" data-working-stepper>
+  <nav class="stepper__header" aria-label="Working activities"><div class="stepper__track" data-layout="rail">{workingActivities.map(activity => <a class="stepper__segment" href={`#${activity.id}`}><span class="stepper__badge" aria-hidden="true" /><span class="stepper__title">{activity.title}</span></a>)}</div></nav>
+  <div class="stepper__body"><div class="stepper__viewport">{workingActivities.map(activity => <article class="stepper__pane" id={activity.id} aria-labelledby={`${activity.id}-title`} tabindex="-1"><h3 id={`${activity.id}-title`}>{activity.title}</h3><p>{activity.text}</p></article>)}</div>
+    <div class="stepper__footer" data-stepper-controls hidden><button type="button" class="stepper__button" data-stepper-back><span class="link-arrow" aria-hidden="true">←</span> Previous</button><button type="button" class="stepper__button" data-stepper-next>Next <span class="link-arrow" aria-hidden="true">→</span></button></div>
+    <p class="sr-only" data-stepper-status role="status"></p>
+  </div>
+</div>
+<script>
+  import { enhanceWorkingStepper } from '../../lib/working-stepper';
+  document.querySelectorAll<HTMLElement>('[data-working-stepper]').forEach(enhanceWorkingStepper);
+</script>

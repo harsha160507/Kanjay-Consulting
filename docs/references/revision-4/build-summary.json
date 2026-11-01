@@ -1,0 +1,17 @@
+{
+  "typeCheck": {
+    "command": "npm run check",
+    "files": 88,
+    "errors": 0,
+    "warnings": 0,
+    "hints": 0
+  },
+  "build": {
+    "command": "npm run build",
+    "htmlPages": 34,
+    "sitemap": true,
+    "inlineScriptHashes": 10
+  },
+  "scope": "Observed local command results; no performance or production claim",
+  "sourceZipSha256": "c2601273dc9bfeca079c7f21e596d2fb7b7e06e9fbf8d0139b7e4135a1ae0606"
+}

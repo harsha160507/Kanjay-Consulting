@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "routesCompared": 31,
+  "cookieVariants": "Three intentionally replaced bodies checked verbatim by verify-revision4.mjs",
+  "content": "Exact normalized main text match excluding approved contextual/framework changes, new client captions/neutral heading and Stepper browsing labels; baseline aac26c9 with approved email replacement",
+  "anchors": "All generated fragment destinations exist",
+  "fadeUnitChecks": [
+    "once",
+    "320ms/8px/whole section",
+    "no persistent fill",
+    "long-section entry",
+    "focus cancellation",
+    "initial focus skipped",
+    "reduced-motion initial skip",
+    "reduced-motion change cancellation/disconnect",
+    "missing API",
+    "animation failure"
+  ],
+  "limitations": "Controlled unit fixtures do not emulate OS settings or replace actual browser, screen-reader or physical-touch testing."
+}

@@ -16,7 +16,8 @@ for (const prefix of ['', '/theme/light', '/theme/dark']) for (const slug of pol
   assert.match(main, /owner and legal review required/);
   assert.match(main, /Not yet effective or approved for publication/);
   assert.match(main, /datetime="2026-10-31"/);
-  assert.match(main, /Owner \/ legal review/);
+  if(slug==='cookie-policy'){assert.doesNotMatch(main,/class="policy-review"/);assert.match(main,/Cookie &amp; Browser Storage Policy/);}
+  else assert.match(main, /Owner \/ legal review/);
   assert.doesNotMatch(main, /<form\b|<iframe\b|<astro-island\b/i);
   const levels = [...main.matchAll(/<h([1-6])\b/g)].map(m => +m[1]);
   assert.equal(levels.filter(n => n === 1).length, 1);
