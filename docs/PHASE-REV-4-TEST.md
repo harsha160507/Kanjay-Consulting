@@ -1,5 +1,7 @@
 # Design revision Phase 4 — acceptance test
 
+**Resolved on 1 November 2026:** the owner-authorized Cookie-only notice fix closes criterion (c). All seven criteria pass for the executed checks in the [fresh rerun](PHASE-REV-4-COOKIE-FIX.md). The initial failure and evidence below remain historical; unperformed manual/production checks remain NOT TESTED.
+
 1 November 2026. Application tested: **7507ca604996e8560d5c58d83182b6b2472841c7**, existing draft PR #11. Test/report/evidence only; no application changes, merge or deployment. **Overall: not fully accepted — criterion (c) has remaining audit-style wording.**
 
 ## Acceptance criteria and method

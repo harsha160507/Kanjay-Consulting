@@ -1,0 +1,9 @@
+{
+  "control": "Play logo motion",
+  "industryCaptions": 0,
+  "loopImageCount": 96,
+  "loopSilqImages": 4,
+  "loopText": "",
+  "staticCount": 24,
+  "staticSilq": "<li data-client=\"silq\"><span class=\"client-logo-art\"><img src=\"/images/clients/silq.webp\" alt=\"SILQ\" width=\"412\" height=\"148\" loading=\"lazy\" decoding=\"async\" draggable=\"false\" style=\"--logo-width:129px;--logo-height:46px\"></span></li>"
+}
