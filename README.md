@@ -1,32 +1,134 @@
-# Kanjay Consulting
+<p align="center">
+  <img src="public/images/brand/kanjay-logo.png" alt="Kanjay Consulting" width="112" />
+</p>
 
-Phase 10 review build: Home, About, Services, Clients and Contact, with four policy drafts, 404 recovery and an isolated component prototype. Internal review only; no site has been published. See [Phase 10 results and launch blockers](docs/PHASE-10.md).
+<h1 align="center">Kanjay Consulting</h1>
 
-Start with [Phase 2 changes and checks](docs/PHASE-2.md), the [current facts register](docs/PHASE-1.md) and the preserved [blueprint](docs/blueprint/kanjay-redesign-blueprint-2.md). `docs/VALIDATION.md` records the original Phase 1 checks; Phase 2 checks supersede its script-free-foundation assertions.
+<p align="center">A considered business website for HR consulting and GeM seller support.</p>
 
-For the latest prototype, read [Phase 3 measurements and recommendations](docs/PHASE-3.md). Build, run `npm run audit:prototype`, then open `/prototype/` and `/prototype/static/` on port 4337; port 4338 blocks page scripts. `npm run verify:prototype` checks all prototype variants. This isolated experiment remains separate from the business pages.
+<p align="center">
+  <a href="#run-locally">Run locally</a> ·
+  <a href="#pages">Pages</a> ·
+  <a href="#project-structure">Project structure</a> ·
+  <a href="#review-status">Review status</a>
+</p>
 
-## Local use
+> **In review.** Design revision Phases 1–4 are implemented on `design-revision-phase-1` in [draft PR #11](https://github.com/harsha160507/Kanjay-Consulting/pull/11). Publication and production indexing are not approved.
 
-Requires Node >=22.23.4 and npm >=9.6.5.
+## The website
+
+Built with **Astro, React and TypeScript**, the site delivers static HTML with selective enhancements. Its visual system pairs restrained typography, generous spacing and soft surfaces with light and dark themes.
+
+- **Content first:** essential text and links remain available without JavaScript, including the full Services list and About activities.
+- **Focused interactions:** service-card pagers, a client Logo Loop with pause controls, and an activity Stepper.
+- **Direct contact:** selectable phone/email details and real `tel:` / `mailto:` links. No contact form or application database.
+- **Documented decisions:** approved content, component provenance, phase reports and audit evidence live alongside the code.
+
+The supplied Next.js starter informed the references. **The application in this repository runs on Astro.**
+
+## Run locally
+
+Requires **Node.js ≥ 22.23.4** and **npm ≥ 9.6.5**.
 
 ```sh
+git clone --branch design-revision-phase-1 https://github.com/harsha160507/Kanjay-Consulting.git
+cd Kanjay-Consulting
 npm ci
 npm run dev
-npm run check
+```
+
+Open the local address printed in the terminal. Development and preview servers bind to `127.0.0.1`. The current static application needs no API keys or environment variables to run locally.
+
+To preview the built site, stop the development server and run:
+
+```sh
 npm run build
-npm run verify
 npm run preview
 ```
 
-The dev and preview servers bind to the local computer. Build output is `dist/`. Astro generates static HTML; React is available for later progressive-enhancement islands. No server adapter is needed for the planned static release.
+Build output is written to `dist/`. The build also prepares review security headers in `dist/_headers`.
 
-`src/data/site.ts` contains owner-confirmed contact details and the confirmed www domain. Main pages use supplied/approved content; policy review notes and the Services wording proposals remain pending. References and approval registers live under `docs/`; nothing there is automatically shipped in the site.
+## Pages
 
-`npm run build` also generates hash-based review security headers in `dist/_headers`. Run `node scripts/verify-phase10.mjs` after building. `node scripts/serve-phase10-review.mjs` serves local QA on port 4340 with those headers enforced; the original 4337 preview does not enforce them. Both are local tools, not production-host verification.
+| Route | Content |
+| --- | --- |
+| `/` | HR and GeM paths, working approach, values, client logos and contact invitations |
+| `/about/` | Company background, expertise, activities and values |
+| `/services/` | Seven HR and seven GeM services, browsable cards, native FAQs and direct service links |
+| `/clients/` | One grid of 24 approved client names/logos with industry captions, including SILQ |
+| `/contact/` | Business and candidate contact routes, enquiry guidance and approved social links |
+| `/terms-of-use/`, `/privacy-policy/`, `/cookie-policy/`, `/disclaimer/` | Policy drafts retained for review |
+| `/404.html` | Recovery links for missing pages |
 
-Canonical metadata uses the confirmed www domain. Review builds retain noindex and robots Disallow. The sitemap contains only the five candidate business URLs; it is not submitted or advertised in review robots.txt. `_redirects` is a Netlify-compatible proposal, not evidence of live redirects. Production header/redirect behaviour, final policy approval and an explicit launch/indexing decision remain required.
+Business and policy pages also have explicit `/theme/light/` and `/theme/dark/` variants. With JavaScript enabled, the site remembers the theme using the browser's `kanjay-theme` local-storage item.
 
-The supplied Next.js archive is a reference, not the application framework. Raw source screenshots, component snippets and unapproved client assets remain in the sibling local `phase1-reference/` working copy. Never edit synced `sources/`.
+`/prototype/` and `/prototype/static/` are isolated component-review pages, separate from the business-page navigation.
 
-No deployment automation or hosting connection is configured. Keep indexing protection until launch is approved; `noindex` is not privacy protection. The planned Netlify build command is `npm run build`, publish directory `dist`; configure it only during the authorised hosting phase. Do not enable Netlify Forms.
+## Checks and local QA
+
+After installing dependencies:
+
+```sh
+npm run check
+npm run build
+npm run verify
+node scripts/verify-clients.mjs
+node scripts/verify-services.mjs
+node scripts/verify-policies.mjs
+```
+
+For the latest Phase 4 audit assertions:
+
+```sh
+node scripts/verify-revision4-audit.mjs docs/references/revision-4-cookie-fix
+```
+
+The audit validates the build and **saved browser observations**; it does not collect fresh browser evidence automatically. See the [rerun report](docs/PHASE-REV-4-COOKIE-FIX.md) for methods and limits. Automated checks do not replace manual accessibility testing.
+
+Optional QA tools, after building:
+
+| Command | Purpose |
+| --- | --- |
+| `node scripts/serve-phase10-review.mjs` | Local build on **4340**, with generated security headers enforced |
+| `npm run audit:prototype` | Local build on **4337**, plus a script-blocked version on **4338** |
+
+Stop any existing server using those ports first. These tools do not emulate or verify production hosting.
+
+## Project structure
+
+```text
+src/
+  components/   Shared layout and page components
+  data/         Business details, services, clients, industries and policy copy
+  layouts/      Shared document shell and review presentation
+  lib/          Routing, SEO and progressive enhancements
+  pages/        Astro routes and static theme variants
+  styles/       Visual system and page styles
+public/         Logos, icons and static assets
+scripts/        Build helpers, verification and local QA tools
+docs/           Blueprint, phase reports, approvals and evidence
+```
+
+Start with [`src/data/site.ts`](src/data/site.ts) for shared business/contact details, [`services.ts`](src/data/services.ts) for service content, and [`clients.ts`](src/data/clients.ts) / [`client-industries.ts`](src/data/client-industries.ts) for client data. Build-time asset checks keep a missing SILQ logo out of both Home and Clients.
+
+Use owner-approved copy and assets. Where a synced `sources/` folder is present in the local workspace, treat it as read-only reference material and work outside it. Generated builds and local credentials are excluded from Git. Component and font licence notices are retained under [`docs/references/`](docs/references/).
+
+## Review status
+
+The latest Phase 4 rerun passes its executed acceptance checks, including the Cookie-only notice correction. It does **not** establish production readiness or complete accessibility certification.
+
+Still unperformed or pending: actual screen-reader speech, physical touch, runtime OS/browser reduced-motion switching, contact-app launch/delivery, production-host verification and outstanding business/legal decisions. The earlier Phase 3 runtime reduced-motion acceptance item remains open. Historical performance measurements are local samples, not production guarantees.
+
+Review builds retain internal banners, draft policy labels, `noindex, nofollow` and a robots disallow rule. The confirmed `www` domain is used for canonical metadata; it is configuration, not evidence of deployment. Production headers, redirects, storage/network behaviour and a separate launch/indexing decision still need verification. Indexing controls are not access controls.
+
+| Read next | Scope |
+| --- | --- |
+| [Design revision Phase 1](docs/PHASE-REV-1.md) | Layout, section entrances and interaction constraints |
+| [Design revision Phase 2](docs/PHASE-REV-2.md) | Home components and logo treatments |
+| [Design revision Phase 3](docs/PHASE-REV-3.md) | Service-card integration and measurements |
+| [Phase 4 implementation](docs/PHASE-REV-4.md) | About, Contact, Clients and Cookie Policy changes |
+| [SILQ follow-up](docs/PHASE-REV-4-SILQ-UPDATE.md) | Shared grid and approved industry caption |
+| [Latest Phase 4 audit rerun](docs/PHASE-REV-4-COOKIE-FIX.md) | Current acceptance results and remaining untested checks |
+| [Project blueprint](docs/blueprint/kanjay-redesign-blueprint-2.md) | Original project direction |
+
+Earlier phase reports are historical records. Follow the latest revision and follow-up reports where decisions have changed.
