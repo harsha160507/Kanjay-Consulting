@@ -29,7 +29,7 @@ const allowedShortening={
   'Limpar':'Chemicals, commercial cleaning, sanitation and hygiene solutions',
 };
 for(const c of currentClients){const row=industrySource.find(([name])=>name===(aliases[c.name]??c.name));assert.ok(row,c.name);const description=row[1].split(' (tagline:')[0];assert.equal(clientIndustries[c.id].toLowerCase(),(allowedShortening[row[0]]??description).toLowerCase());}
-assert.equal(clientIndustries.silq,undefined);
+assert.equal(clientIndustries.silq,'E-commerce / retail','owner follow-up approval');
 let routes=0;
 for(const [route,old] of Object.entries(before)){
  const html=readFileSync('dist/'+route,'utf8');
@@ -59,5 +59,5 @@ if(existsSync(`${dir}/responsive-browser.json`)){
  const keys=JSON.parse(readFileSync(`${dir}/stepper-keyboard.json`,'utf8'));assert.ok(keys[0].focused==='gem-working-activities'&&keys[1].focused==='hr-working-activities');assert.ok(keys.slice(0,3).every(k=>k.outlineStyle==='solid'));assert.equal(keys[3].visible[0],'hr-working-activities');
  for(const row of JSON.parse(readFileSync(`${dir}/contact-focus.json`,'utf8')))assert.equal(row.outlineStyle,'solid');
 }
-const result={status:'PASS',routesWithUnchangedBannersAndFooters:routes,currentClientCount:currentClients.length,neutralClientCount:neutralClients.length,homeLogoCount:clients.length,industries:'All mappings checked against questionnaire; only declared spelling aliases/caption shortening; no SILQ caption',cookie:'Exact approved heading/section/paragraph text in all three built variants',stepper:'Two unchanged existing activity sentences; both SSR panes visible and controls hidden until enhancement',contact:'Three nonhydrated disabled Spotlight surfaces; exact visible contact copy preserved',oldMailbox:'Absent from built HTML/JS',sources:'Read-only; SHA recorded in report',manual:'Browser interaction is recorded separately; runtime reduced motion, screen-reader speech, touch and delivery not claimed'};
-writeFileSync(`${dir}/implementation-checks.json`,JSON.stringify(result,null,2)+'\n');console.log(result);
+const result={status:'PASS',routesWithUnchangedBannersAndFooters:routes,currentClientCount:currentClients.length,statusUnspecifiedClientCount:neutralClients.length,displayedClients:clients.length,homeLogoCount:clients.length,industries:'Questionnaire mappings unchanged; SILQ E-commerce / retail approved in owner follow-up',cookie:'Exact approved heading/section/paragraph text in all three built variants',stepper:'Two unchanged existing activity sentences; both SSR panes visible and controls hidden until enhancement',contact:'Three nonhydrated disabled Spotlight surfaces; exact visible contact copy preserved',oldMailbox:'Absent from built HTML/JS',sources:'Read-only; SHA recorded in report',manual:'Original Phase 4 browser evidence is historical; unified-grid retest recorded separately. Runtime reduced motion, screen-reader speech, touch and delivery not claimed'};
+writeFileSync(`${dir}/implementation-checks-silq-update.json`,JSON.stringify(result,null,2)+'\n');console.log(result);

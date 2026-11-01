@@ -9,6 +9,8 @@ const clean = html => html.split('<main')[1].split('</main>')[0]
   .replace(/<(p|span) class="section-label"[^>]*>[\s\S]*?<\/\1>/g, '')
   .replace(/<a class="home-text-link" href="[^"]*\/clients\/">[\s\S]*?<\/a>/g, '')
   .replace(/<figcaption>SILQ<\/figcaption>/g, '')
+  .replace(/<figcaption><span class="client-name">SILQ<\/span>[\s\S]*?<\/figcaption>/g, '')
+  .replace(/<h2 id="current-clients-title">Clients<\/h2>/g, '<h2 id="current-clients-title">Current clients</h2>')
   .replace(/<span class="client-industry">[\s\S]*?<\/span>/g, '')
   .replace(/<h2 id="neutral-clients-title">Clients<\/h2>/g, '')
   .replace(/<nav class="stepper__header"[\s\S]*?<\/nav>/g, '')

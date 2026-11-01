@@ -1,5 +1,7 @@
 # Design revision — Phase 4
 
+**Owner follow-up, 1 November 2026:** SILQ now appears with the other 23 clients in one grid headed “Clients”, with the newly approved **E-commerce / retail** industry caption. This supersedes the separate SILQ placement and no-industry treatment recorded in the initial implementation below. No current/past status was inferred. See [the follow-up report](PHASE-REV-4-SILQ-UPDATE.md) for the current layout and retest evidence; earlier screenshots/observations remain historical.
+
 1 November 2026. Continues the existing `design-revision-phase-1` branch / draft PR #11 from `88c7e0b`. Phase 4 only; no merge, deployment or launch approval. Synced reference files are read-only and were not changed.
 
 ## Implemented

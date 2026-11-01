@@ -1,4 +1,4 @@
-// Only the company-to-industry mappings in the owner-supplied questionnaire.
+// Questionnaire mappings plus the owner's SILQ industry confirmation in chat.
 // Display names remain in clients.ts; questionnaire spelling is not a rename.
 export const clientIndustries: Record<string, string> = {
   'l-and-t': 'Engineering, construction and conglomerate',
@@ -24,4 +24,5 @@ export const clientIndustries: Record<string, string> = {
   'kaavian-services': 'Global IT solutions and services',
   'limpar': 'Chemicals, commercial cleaning, sanitation and hygiene solutions',
   'woyc-od': 'End-to-end drop-shipping',
+  'silq': 'E-commerce / retail',
 };
