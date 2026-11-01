@@ -1,0 +1,30 @@
+{
+  "testedCommit": "7507ca604996e8560d5c58d83182b6b2472841c7",
+  "overall": "FAIL — Cookie audit-style notice remains",
+  "criteria": {
+    "a": "PASS — approved industry caption retained; no relationship status or engagement description",
+    "b": "PASS — separate fresh verify-clients run",
+    "c": {
+      "result": "FAIL",
+      "approvedBody": "PASS — exact words and paragraphs",
+      "remainingAuditSentence": "Technical descriptions concern the current redesign; review notes identify unresolved business or legal wording.",
+      "location": "Cookie Policy draft notice, outside approved sections; required banner/draft labels themselves remain unchanged"
+    },
+    "d": "PASS — exact pre-existing activities; six script-blocked cases and native link",
+    "e": "PASS — three static Spotlight panels in both themes at both widths, no glow/shadow",
+    "f": "PASS — exact review-banner/footer comparison on 34 routes",
+    "g": "PASS for measured layout — 68 entry-URL/width cases; not a full accessibility or production certification"
+  },
+  "linksChecked": 1304,
+  "staticHtmlPages": 34,
+  "sourceZipSha256": "c2601273dc9bfeca079c7f21e596d2fb7b7e06e9fbf8d0139b7e4135a1ae0606",
+  "notTested": [
+    "Actual screen-reader speech",
+    "Physical touch",
+    "Runtime OS/browser reduced-motion switching",
+    "Browser-wide JavaScript-off setting (enforced script blocking used)",
+    "Contact-app launch/delivery",
+    "Fresh Lighthouse/performance",
+    "Production hosting"
+  ]
+}
