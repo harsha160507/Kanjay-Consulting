@@ -4,7 +4,7 @@ export const business = {
   legalEntity: 'Kanjay Consulting',
   phone: '+918939715152',
   phoneDisplay: '+91 89397 15152',
-  email: 'info@kanjayconsulting.com',
+  email: 'enquiry@kanjayconsulting.com',
   candidateEmail: 'hr@kanjayconsulting.com',
   address: 'VILLA 12, Chettinadu Enclave, Near SG Swim School, Phase 2, S Kolathur Road, Narayanapuram, Pallikaranai, Chennai-600100, Tamil Nadu',
   canonicalDomain: 'https://www.kanjayconsulting.com',

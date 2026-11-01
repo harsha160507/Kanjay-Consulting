@@ -1,0 +1,14 @@
+[
+  {
+    "file": "service-card-pager.css",
+    "sha256": "7f9a9a6d5f2f2bef7a3c73886cec630e9662f4e8e888c5d3bc9b2393614119ab"
+  },
+  {
+    "file": "ServiceCardPager.tsx.txt",
+    "sha256": "0d9ef472a4a505110b67a9df2bbb7f5465ddc81c65a43d01ce5e226386f48287"
+  },
+  {
+    "file": "services-page-integration.patch.txt",
+    "sha256": "7b4c4bdc4ba433372166b37aeb735253a684c279409cc8ab5ff70ae92657d74e"
+  }
+]

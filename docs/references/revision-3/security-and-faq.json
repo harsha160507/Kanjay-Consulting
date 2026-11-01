@@ -1,0 +1,11 @@
+{
+  "securityHeaderConsole": [],
+  "focusedFaq": {
+    "card": "rgb(238, 236, 229)",
+    "faq": "rgb(255, 255, 255)",
+    "open": true,
+    "outline": "2.66667px"
+  },
+  "screenReaderSpeech": "NOT TESTED",
+  "operatingSystemReducedMotionSwitch": "NOT TESTED"
+}

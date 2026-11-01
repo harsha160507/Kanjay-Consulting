@@ -13,7 +13,7 @@ for(const prefix of ['','/theme/light','/theme/dark']){
  assert.equal([...main.matchAll(/<h1\b/g)].length,1);
  const levels=[...main.matchAll(/<h([1-6])\b/g)].map(m=>+m[1]);assert.ok(levels.every((n,i)=>!i||n<=levels[i-1]+1));
  const ids=[...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);assert.equal(ids.length,new Set(ids).size);
- for(const service of services){assert.ok(ids.includes(service.id));assert.ok(text.includes(service.name));assert.ok(text.includes(service.scope));assert.ok(text.includes(service.problem));}
+ for(const service of services){assert.ok(ids.includes(service.id));assert.ok(text.includes(service.name));assert.ok(text.includes(service.scope));assert.ok(text.includes(service.problem));assert.ok(text.includes(service.who));assert.ok(text.includes(service.faq.question));assert.ok(text.includes(service.faq.answer));}
  assert.equal([...main.matchAll(/class="service-detail"/g)].length,14);assert.equal([...main.matchAll(/class="service-faq"/g)].length,14);
  // These details are OUT OF SCOPE for the public website, not newly approved facts.
  assert.doesNotMatch(main,/<dt>(?:Deliverables|Exclusions|Client responsibilities)<\/dt>|Awaiting approval|FAQ awaiting approval|class="services-review"/);
@@ -21,9 +21,12 @@ for(const prefix of ['','/theme/light','/theme/dark']){
  const historical=JSON.parse(readFileSync('docs/references/phase6-audit/service-results.json','utf8'));
  for(const record of historical)assert.ok(!text.includes(record.missingFAQ),'private-detail FAQ question must not appear publicly');
  assert.ok(text.includes('Consulting assistance does not guarantee registration, catalogue approval, compliance outcomes or tender awards.'));
- assert.ok(main.includes('mailto:hr@kanjayconsulting.com'));assert.ok(main.includes('mailto:info@kanjayconsulting.com?subject='));
- assert.doesNotMatch(main,/<astro-island\b|<form\b|<iframe\b/);
+ assert.ok(main.includes('mailto:hr@kanjayconsulting.com'));assert.ok(main.includes('mailto:enquiry@kanjayconsulting.com?subject='));
+ assert.doesNotMatch(main,/<form\b|<iframe\b/);
+ assert.equal([...main.matchAll(/<astro-island\b/g)].length,2);
+ assert.equal([...main.matchAll(/component-url="[^"]*ServiceCardPager[^"]*"/g)].length,2,'supplied pager wired for each group');
+ for(const group of groups)assert.ok(main.includes(`id="${group.id}-static-list"`),'complete static fallback '+group.id);
  for(const [,href]of html.matchAll(/href="([/#][^"]*)"/g)){const [url,hash]=href.split('#');const target=url?`dist${url.endsWith('/')?url+'index.html':url}`:`dist${path}index.html`;assert.ok(existsSync(target),href);if(hash)assert.ok(readFileSync(target,'utf8').includes(`id="${hash}"`),href);}
  assert.equal(readdirSync(`dist${prefix}/services`).filter(p=>p!=='index.html').length,0,'no individual service pages');
- console.log(`PASS ${path}: 14 approved public scopes, 14 general FAQs, private-detail fields absent, preserved links/routing and no extra service routes`);
+ console.log(`PASS ${path}: 14 approved public scopes, 14 native FAQs, two pagers and full static fallbacks, private-detail fields absent, preserved links/routing and no extra service routes`);
 }

@@ -1,0 +1,114 @@
+[
+  {
+    "expected": "hr-audit-process-setup",
+    "active": "hr-audit-process-setup",
+    "focus": "ARTICLE",
+    "hash": "#hr-audit-process-setup",
+    "overflow": false,
+    "position": "Card 1 of 7"
+  },
+  {
+    "expected": "recruitment-talent-acquisition",
+    "active": "recruitment-talent-acquisition",
+    "focus": "ARTICLE",
+    "hash": "#recruitment-talent-acquisition",
+    "overflow": false,
+    "position": "Card 2 of 7"
+  },
+  {
+    "expected": "payroll-statutory-compliance",
+    "active": "payroll-statutory-compliance",
+    "focus": "ARTICLE",
+    "hash": "#payroll-statutory-compliance",
+    "overflow": false,
+    "position": "Card 3 of 7"
+  },
+  {
+    "expected": "hr-policies-documentation",
+    "active": "hr-policies-documentation",
+    "focus": "ARTICLE",
+    "hash": "#hr-policies-documentation",
+    "overflow": false,
+    "position": "Card 4 of 7"
+  },
+  {
+    "expected": "pms-kra-kpi",
+    "active": "pms-kra-kpi",
+    "focus": "ARTICLE",
+    "hash": "#pms-kra-kpi",
+    "overflow": false,
+    "position": "Card 5 of 7"
+  },
+  {
+    "expected": "employee-engagement-retention",
+    "active": "employee-engagement-retention",
+    "focus": "ARTICLE",
+    "hash": "#employee-engagement-retention",
+    "overflow": false,
+    "position": "Card 6 of 7"
+  },
+  {
+    "expected": "onboarding-exit-settlement",
+    "active": "onboarding-exit-settlement",
+    "focus": "ARTICLE",
+    "hash": "#onboarding-exit-settlement",
+    "overflow": false,
+    "position": "Card 7 of 7"
+  },
+  {
+    "expected": "seller-registration-profile-setup",
+    "active": "seller-registration-profile-setup",
+    "focus": "ARTICLE",
+    "hash": "#seller-registration-profile-setup",
+    "overflow": false,
+    "position": "Card 1 of 7"
+  },
+  {
+    "expected": "product-service-catalogue-upload",
+    "active": "product-service-catalogue-upload",
+    "focus": "ARTICLE",
+    "hash": "#product-service-catalogue-upload",
+    "overflow": false,
+    "position": "Card 2 of 7"
+  },
+  {
+    "expected": "bid-search-analysis",
+    "active": "bid-search-analysis",
+    "focus": "ARTICLE",
+    "hash": "#bid-search-analysis",
+    "overflow": false,
+    "position": "Card 3 of 7"
+  },
+  {
+    "expected": "tender-participation-support",
+    "active": "tender-participation-support",
+    "focus": "ARTICLE",
+    "hash": "#tender-participation-support",
+    "overflow": false,
+    "position": "Card 4 of 7"
+  },
+  {
+    "expected": "oem-authorization-vendor-assessment",
+    "active": "oem-authorization-vendor-assessment",
+    "focus": "ARTICLE",
+    "hash": "#oem-authorization-vendor-assessment",
+    "overflow": false,
+    "position": "Card 5 of 7"
+  },
+  {
+    "expected": "catalogue-approval-rejection-support",
+    "active": "catalogue-approval-rejection-support",
+    "focus": "ARTICLE",
+    "hash": "#catalogue-approval-rejection-support",
+    "overflow": false,
+    "position": "Card 6 of 7"
+  },
+  {
+    "expected": "order-contract-support",
+    "active": "order-contract-support",
+    "focus": "ARTICLE",
+    "hash": "#order-contract-support",
+    "overflow": false,
+    "position": "Card 7 of 7"
+  }
+]

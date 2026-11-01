@@ -19,9 +19,9 @@ for (const route of routes) {
   assert.match(html, /href="#main"/, `${route}: skip link`);
   assert.doesNotMatch(html, /<form\b|<iframe\b/i, `${route}: no forms or embeds`);
   const home = /^(?:theme\/(?:light|dark)\/)?index\.html$/.test(route);
-  assert.equal([...html.matchAll(/<astro-island\b/g)].length, home ? 2 : 0, `${route}: only the two approved Home enhancements hydrate`);
+  assert.equal([...html.matchAll(/<astro-island\b/g)].length, home || /^(?:theme\/(?:light|dark)\/)?services\//.test(route) ? 2 : 0, `${route}: only the two approved Home or Services enhancements hydrate`);
   assert.match(html, /href="tel:\+918939715152"/, `${route}: approved phone link`);
-  assert.match(html, /href="mailto:info@kanjayconsulting.com"/, `${route}: approved business email`);
+  assert.match(html, /href="mailto:enquiry@kanjayconsulting.com"/, `${route}: approved business email`);
   assert.match(html, /href="mailto:hr@kanjayconsulting.com"/, `${route}: candidate email`);
   assert.match(html, /<details class="mobile-nav"/, `${route}: native no-JS navigation`);
   assert.match(html, /aria-label="Policy drafts"/, `${route}: policy draft labels`);

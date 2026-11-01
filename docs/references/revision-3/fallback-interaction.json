@@ -1,0 +1,5 @@
+{
+  "scriptBlocking": "CSP script-src none",
+  "nativeFaqOpenedByEnter": true,
+  "actualBrowserJavaScriptSettingChanged": false
+}

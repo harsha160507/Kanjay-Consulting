@@ -1,8 +1,11 @@
 ---
 import { business } from '../data/site';
 import { serviceGroups } from '../data/services';
+import ServiceCardPager from './services/ServiceCardPager';
+import ServiceLineIcon from './services/ServiceLineIcon';
 import './react-bits/prototype/UiverseButton.css';
 import '../styles/services.css';
+import './services/service-card-pager.css';
 const emailFor = (name: string) => `mailto:${business.email}?subject=${encodeURIComponent(name + ' enquiry')}`;
 ---
 <div class="services-page">
@@ -12,7 +15,8 @@ const emailFor = (name: string) => `mailto:${business.email}?subject=${encodeURI
 
   {serviceGroups.map(group => <section data-fade-content class="services-group" id={group.id} aria-labelledby={`${group.id}-title`}><div class="services-group-heading"><h2 id={`${group.id}-title`}>{group.name}</h2><p class="lede">{group.intro}</p></div>
     {group.id === 'gem-seller-support' && <div class="services-outcomes"><strong>Process assistance, not guaranteed outcomes.</strong><p>Consulting assistance does not guarantee registration, catalogue approval, compliance outcomes or tender awards.</p></div>}
-    <div class="services-list">{group.services.map((service) => <article id={service.id} class="service-detail" aria-labelledby={`${service.id}-title`}><header><h3 id={`${service.id}-title`}>{service.name}</h3></header>
+    <ServiceCardPager group={group} businessEmail={business.email} candidateEmail={business.candidateEmail} staticListId={`${group.id}-static-list`} client:load />
+    <div class="services-list" id={`${group.id}-static-list`}>{group.services.map((service) => <article id={service.id} class="service-detail" aria-labelledby={`${service.id}-title`}><header class="service-card-title"><ServiceLineIcon serviceId={service.id} /><h3 id={`${service.id}-title`}>{service.name}</h3></header>
       <dl class="service-facts"><dt>Who it serves</dt><dd>{service.who}</dd><dt>Need addressed</dt><dd>{service.problem}</dd><dt>Scope described</dt><dd>{service.scope}</dd></dl>
       <details class="service-faq"><summary>{service.faq.question}</summary><p>{service.faq.answer}</p></details>
       <a class="services-text-link service-email" href={emailFor(service.name)} aria-label={`${service.id === 'recruitment-talent-acquisition' ? 'Employer enquiry by email' : 'Discuss this service by email'}: ${service.name}`}>{service.id === 'recruitment-talent-acquisition' ? 'Employer enquiry by email' : 'Discuss this service by email'} <span class="link-arrow" aria-hidden="true">↗</span></a>

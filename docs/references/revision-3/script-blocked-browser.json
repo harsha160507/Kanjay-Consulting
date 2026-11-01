@@ -1,0 +1,170 @@
+[
+  {
+    "theme": "light",
+    "factsDisplay": "block",
+    "hash": "#bid-search-analysis",
+    "labelUnderline": "underline",
+    "labelWeight": "700",
+    "lists": [
+      {
+        "clip": "none",
+        "inert": null,
+        "marker": null
+      },
+      {
+        "clip": "none",
+        "inert": null,
+        "marker": null
+      }
+    ],
+    "mailboxes": [
+      "mailto:enquiry@kanjayconsulting.com",
+      "mailto:hr@kanjayconsulting.com"
+    ],
+    "overflow": false,
+    "pagers": 0,
+    "staticCards": 14,
+    "targetTop": 2779.96875,
+    "width": 375
+  },
+  {
+    "theme": "dark",
+    "factsDisplay": "block",
+    "hash": "#bid-search-analysis",
+    "labelUnderline": "underline",
+    "labelWeight": "700",
+    "lists": [
+      {
+        "clip": "none",
+        "inert": null,
+        "marker": null
+      },
+      {
+        "clip": "none",
+        "inert": null,
+        "marker": null
+      }
+    ],
+    "mailboxes": [
+      "mailto:enquiry@kanjayconsulting.com",
+      "mailto:hr@kanjayconsulting.com"
+    ],
+    "overflow": false,
+    "pagers": 0,
+    "staticCards": 14,
+    "targetTop": 3340.635498046875,
+    "width": 375
+  },
+  {
+    "theme": "light",
+    "factsDisplay": "block",
+    "hash": "#bid-search-analysis",
+    "labelUnderline": "underline",
+    "labelWeight": "700",
+    "lists": [
+      {
+        "clip": "none",
+        "inert": null,
+        "marker": null
+      },
+      {
+        "clip": "none",
+        "inert": null,
+        "marker": null
+      }
+    ],
+    "mailboxes": [
+      "mailto:enquiry@kanjayconsulting.com",
+      "mailto:hr@kanjayconsulting.com"
+    ],
+    "overflow": false,
+    "pagers": 0,
+    "staticCards": 14,
+    "targetTop": 1430.104248046875,
+    "width": 768
+  },
+  {
+    "theme": "dark",
+    "factsDisplay": "block",
+    "hash": "#bid-search-analysis",
+    "labelUnderline": "underline",
+    "labelWeight": "700",
+    "lists": [
+      {
+        "clip": "none",
+        "inert": null,
+        "marker": null
+      },
+      {
+        "clip": "none",
+        "inert": null,
+        "marker": null
+      }
+    ],
+    "mailboxes": [
+      "mailto:enquiry@kanjayconsulting.com",
+      "mailto:hr@kanjayconsulting.com"
+    ],
+    "overflow": false,
+    "pagers": 0,
+    "staticCards": 14,
+    "targetTop": 1032.7708740234375,
+    "width": 768
+  },
+  {
+    "theme": "light",
+    "factsDisplay": "block",
+    "hash": "#bid-search-analysis",
+    "labelUnderline": "underline",
+    "labelWeight": "700",
+    "lists": [
+      {
+        "clip": "none",
+        "inert": null,
+        "marker": null
+      },
+      {
+        "clip": "none",
+        "inert": null,
+        "marker": null
+      }
+    ],
+    "mailboxes": [
+      "mailto:enquiry@kanjayconsulting.com",
+      "mailto:hr@kanjayconsulting.com"
+    ],
+    "overflow": false,
+    "pagers": 0,
+    "staticCards": 14,
+    "targetTop": 210.77084350585935,
+    "width": 1440
+  },
+  {
+    "theme": "dark",
+    "factsDisplay": "block",
+    "hash": "#bid-search-analysis",
+    "labelUnderline": "underline",
+    "labelWeight": "700",
+    "lists": [
+      {
+        "clip": "none",
+        "inert": null,
+        "marker": null
+      },
+      {
+        "clip": "none",
+        "inert": null,
+        "marker": null
+      }
+    ],
+    "mailboxes": [
+      "mailto:enquiry@kanjayconsulting.com",
+      "mailto:hr@kanjayconsulting.com"
+    ],
+    "overflow": false,
+    "pagers": 0,
+    "staticCards": 14,
+    "targetTop": 554.7708740234375,
+    "width": 1440
+  }
+]

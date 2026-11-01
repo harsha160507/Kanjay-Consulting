@@ -1,0 +1,270 @@
+[
+  {
+    "answer": "We review existing processes, records and documentation, identify gaps and establish practical HR systems that support your business as it grows.",
+    "facts": [
+      "Employers reviewing or establishing HR processes.",
+      "Understand where your HR practices need improvement.",
+      "We review existing processes, records and documentation, identify gaps and establish practical HR systems that support your business as it grows."
+    ],
+    "iconHidden": "true",
+    "iconStroke": "1.5",
+    "id": "hr-audit-process-setup",
+    "labels": [
+      "Discuss this service by email ↗"
+    ],
+    "mailtos": [
+      "mailto:enquiry@kanjayconsulting.com?subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry"
+    ],
+    "name": "HR Audit & HR Process Setup",
+    "question": "Does the review cover existing HR records?"
+  },
+  {
+    "answer": "Yes. Recruitment serves employers and candidates. Candidate enquiries go to hr@kanjayconsulting.com; employer enquiries go to enquiry@kanjayconsulting.com.",
+    "facts": [
+      "Employers recruiting for roles, and candidates with recruitment enquiries.",
+      "Find people who fit your roles and business needs.",
+      "We support job descriptions, candidate sourcing, screening, interview coordination and selection follow-ups to make hiring more structured and efficient."
+    ],
+    "iconHidden": "true",
+    "iconStroke": "1.5",
+    "id": "recruitment-talent-acquisition",
+    "labels": [
+      "Employer enquiry by email ↗",
+      "Candidate enquiry by email ↗"
+    ],
+    "mailtos": [
+      "mailto:enquiry@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry",
+      "mailto:hr@kanjayconsulting.com"
+    ],
+    "name": "Recruitment & Talent Acquisition",
+    "question": "Do you support employers and candidates?"
+  },
+  {
+    "answer": "We also support applicable statutory compliance activities and coordinate with your finance team or compliance specialists.",
+    "facts": [
+      "Employers needing payroll and applicable statutory compliance support.",
+      "Simplify monthly payroll with coordinated attendance inputs, salary calculations and payslip preparation.",
+      "We also support applicable statutory compliance activities and coordinate with your finance team or compliance specialists."
+    ],
+    "iconHidden": "true",
+    "iconStroke": "1.5",
+    "id": "payroll-statutory-compliance",
+    "labels": [
+      "Discuss this service by email ↗"
+    ],
+    "mailtos": [
+      "mailto:enquiry@kanjayconsulting.com?subject=Payroll%20%26%20Statutory%20Compliance%20enquiry"
+    ],
+    "name": "Payroll & Statutory Compliance",
+    "question": "Do you coordinate with our finance team?"
+  },
+  {
+    "answer": "We develop practical HR policies, employee handbooks, appointment letters and other essential documents tailored to your organisation’s needs.",
+    "facts": [
+      "Employers needing HR policies and employee documentation.",
+      "Give employees and managers clear guidelines for working together.",
+      "We develop practical HR policies, employee handbooks, appointment letters and other essential documents tailored to your organisation’s needs."
+    ],
+    "iconHidden": "true",
+    "iconStroke": "1.5",
+    "id": "hr-policies-documentation",
+    "labels": [
+      "Discuss this service by email ↗"
+    ],
+    "mailtos": [
+      "mailto:enquiry@kanjayconsulting.com?subject=HR%20Policies%20%26%20Documentation%20enquiry"
+    ],
+    "name": "HR Policies & Documentation",
+    "question": "Which HR documents can this cover?"
+  },
+  {
+    "answer": "We help define Key Result Areas and Key Performance Indicators, establish appraisal processes and support performance reviews that bring clarity to expectations and accountability.",
+    "facts": [
+      "Employers defining performance expectations and appraisal processes.",
+      "Connect individual performance with business goals.",
+      "We help define Key Result Areas and Key Performance Indicators, establish appraisal processes and support performance reviews that bring clarity to expectations and accountability."
+    ],
+    "iconHidden": "true",
+    "iconStroke": "1.5",
+    "id": "pms-kra-kpi",
+    "labels": [
+      "Discuss this service by email ↗"
+    ],
+    "mailtos": [
+      "mailto:enquiry@kanjayconsulting.com?subject=PMS%20%2F%20KRA-KPI%20enquiry"
+    ],
+    "name": "PMS / KRA-KPI",
+    "question": "What do KRA and KPI mean here?"
+  },
+  {
+    "answer": "We support feedback initiatives, recognition programmes and engagement activities, helping you identify employee concerns and strengthen retention efforts.",
+    "facts": [
+      "Employers planning employee feedback and engagement initiatives.",
+      "Build a workplace where employees feel heard, valued and connected.",
+      "We support feedback initiatives, recognition programmes and engagement activities, helping you identify employee concerns and strengthen retention efforts."
+    ],
+    "iconHidden": "true",
+    "iconStroke": "1.5",
+    "id": "employee-engagement-retention",
+    "labels": [
+      "Discuss this service by email ↗"
+    ],
+    "mailtos": [
+      "mailto:enquiry@kanjayconsulting.com?subject=Employee%20Engagement%20%26%20Retention%20enquiry"
+    ],
+    "name": "Employee Engagement & Retention",
+    "question": "What engagement activities are described?"
+  },
+  {
+    "answer": "We support joining formalities, induction coordination, exit procedures, clearance tracking and full and final settlement calculations for a smoother employee experience.",
+    "facts": [
+      "Employers managing joining, exit and settlement processes.",
+      "Manage employee transitions with clear processes and complete documentation.",
+      "We support joining formalities, induction coordination, exit procedures, clearance tracking and full and final settlement calculations for a smoother employee experience."
+    ],
+    "iconHidden": "true",
+    "iconStroke": "1.5",
+    "id": "onboarding-exit-settlement",
+    "labels": [
+      "Discuss this service by email ↗"
+    ],
+    "mailtos": [
+      "mailto:enquiry@kanjayconsulting.com?subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry"
+    ],
+    "name": "Onboarding, Exit & Full & Final Settlement",
+    "question": "Does the service include exit support?"
+  },
+  {
+    "answer": "No. GeM consulting is for sellers, not government buyers.",
+    "facts": [
+      "Businesses seeking GeM seller registration and profile support in India.",
+      "Start your government business journey with a well-prepared GeM seller account.",
+      "We assist with registration, document coordination and profile setup to showcase your business on the portal."
+    ],
+    "iconHidden": "true",
+    "iconStroke": "1.5",
+    "id": "seller-registration-profile-setup",
+    "labels": [
+      "Discuss this service by email ↗"
+    ],
+    "mailtos": [
+      "mailto:enquiry@kanjayconsulting.com?subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry"
+    ],
+    "name": "Seller Registration & Profile Setup",
+    "question": "Do you provide GeM consulting for government buyers?"
+  },
+  {
+    "answer": "We support category selection, specification entry, document uploads and catalogue creation to reflect your offerings accurately.",
+    "facts": [
+      "GeM sellers preparing product or service catalogues.",
+      "Present your products and services clearly to government buyers.",
+      "We support category selection, specification entry, document uploads and catalogue creation to reflect your offerings accurately."
+    ],
+    "iconHidden": "true",
+    "iconStroke": "1.5",
+    "id": "product-service-catalogue-upload",
+    "labels": [
+      "Discuss this service by email ↗"
+    ],
+    "mailtos": [
+      "mailto:enquiry@kanjayconsulting.com?subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry"
+    ],
+    "name": "Product / Service Catalogue Upload",
+    "question": "Can this cover products and services?"
+  },
+  {
+    "answer": "We review relevant bids, eligibility criteria, technical requirements and submission timelines to help you make informed participation decisions.",
+    "facts": [
+      "GeM sellers reviewing opportunities and participation requirements.",
+      "Identify opportunities that match your business capabilities.",
+      "We review relevant bids, eligibility criteria, technical requirements and submission timelines to help you make informed participation decisions."
+    ],
+    "iconHidden": "true",
+    "iconStroke": "1.5",
+    "id": "bid-search-analysis",
+    "labels": [
+      "Discuss this service by email ↗"
+    ],
+    "mailtos": [
+      "mailto:enquiry@kanjayconsulting.com?subject=Bid%20Search%20%26%20Analysis%20enquiry"
+    ],
+    "name": "Bid Search & Analysis",
+    "question": "Do you review eligibility and submission timelines?"
+  },
+  {
+    "answer": "We assist with bid preparation, document uploads, submission and clarification responses, helping reduce avoidable errors.",
+    "facts": [
+      "GeM sellers preparing tender submissions and clarifications.",
+      "Manage tender submissions with organised documentation and timely coordination.",
+      "We assist with bid preparation, document uploads, submission and clarification responses, helping reduce avoidable errors."
+    ],
+    "iconHidden": "true",
+    "iconStroke": "1.5",
+    "id": "tender-participation-support",
+    "labels": [
+      "Discuss this service by email ↗"
+    ],
+    "mailtos": [
+      "mailto:enquiry@kanjayconsulting.com?subject=Tender%20Participation%20%26%20Support%20enquiry"
+    ],
+    "name": "Tender Participation & Support",
+    "question": "Does support include clarification responses?"
+  },
+  {
+    "answer": "We assist with document preparation, application coordination and follow-ups based on the requirements applicable to your business.",
+    "facts": [
+      "GeM sellers needing OEM authorization or vendor-assessment guidance.",
+      "Navigate OEM authorization requirements and vendor assessment with structured guidance.",
+      "We assist with document preparation, application coordination and follow-ups based on the requirements applicable to your business."
+    ],
+    "iconHidden": "true",
+    "iconStroke": "1.5",
+    "id": "oem-authorization-vendor-assessment",
+    "labels": [
+      "Discuss this service by email ↗"
+    ],
+    "mailtos": [
+      "mailto:enquiry@kanjayconsulting.com?subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry"
+    ],
+    "name": "OEM Authorization & Vendor Assessment",
+    "question": "What application support is described?"
+  },
+  {
+    "answer": "We review rejection remarks, identify gaps and assist with updates and resubmission to support the approval process.",
+    "facts": [
+      "GeM sellers addressing catalogue rejection remarks or correction requirements.",
+      "Resolve catalogue issues with a clear understanding of the required corrections.",
+      "We review rejection remarks, identify gaps and assist with updates and resubmission to support the approval process."
+    ],
+    "iconHidden": "true",
+    "iconStroke": "1.5",
+    "id": "catalogue-approval-rejection-support",
+    "labels": [
+      "Discuss this service by email ↗"
+    ],
+    "mailtos": [
+      "mailto:enquiry@kanjayconsulting.com?subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry"
+    ],
+    "name": "Catalogue Approval / Rejection Support",
+    "question": "Can you help after a catalogue rejection?"
+  },
+  {
+    "answer": "We assist with order acceptance, contract requirement tracking, delivery coordination and portal invoicing, helping you manage commitments and follow-ups.",
+    "facts": [
+      "GeM sellers managing an order and its contract requirements.",
+      "Stay organised after receiving a GeM order.",
+      "We assist with order acceptance, contract requirement tracking, delivery coordination and portal invoicing, helping you manage commitments and follow-ups."
+    ],
+    "iconHidden": "true",
+    "iconStroke": "1.5",
+    "id": "order-contract-support",
+    "labels": [
+      "Discuss this service by email ↗"
+    ],
+    "mailtos": [
+      "mailto:enquiry@kanjayconsulting.com?subject=Order%20%26%20Contract%20Support%20enquiry"
+    ],
+    "name": "Order & Contract Support",
+    "question": "Does this cover work after receiving an order?"
+  }
+]

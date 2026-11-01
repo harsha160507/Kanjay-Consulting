@@ -1,0 +1,108 @@
+import { useCallback, useEffect, useId, useRef, useState } from 'react';
+
+type ServiceFaq = { question: string; answer: string };
+type Service = { id: string; name: string; who: string; problem: string; scope: string; faq: ServiceFaq };
+type Group = { id: string; name: string; market: string; intro: string; services: Service[] };
+
+type Props = {
+  group: Group;
+  businessEmail: string;
+  candidateEmail: string;
+  /** id of the static fallback list; hidden once this island is active */
+  staticListId: string;
+};
+
+/**
+ * Card pager for one service group (HR or GeM).
+ * Progressive enhancement: the full static list is server-rendered beneath
+ * and stays for no-JS / screen readers / search; once hydrated we hide the
+ * static list and offer one-card-at-a-time browsing.
+ */
+export default function ServiceCardPager({ group, businessEmail, candidateEmail, staticListId }: Props) {
+  const [active, setActive] = useState(0);
+  const [ready, setReady] = useState(false);
+  const cardRef = useRef<HTMLElement>(null);
+  const uid = useId();
+  const reduced = typeof window !== 'undefined'
+    && typeof window.matchMedia === 'function'
+    && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  const count = group.services.length;
+  const service = group.services[active];
+
+  const go = useCallback((index: number, moveFocus = true) => {
+    const next = (index + count) % count;
+    setActive(next);
+    if (moveFocus) {
+      // Let React paint the new card, then move focus for keyboard/AT users.
+      requestAnimationFrame(() => cardRef.current?.focus({ preventScroll: true }));
+    }
+  }, [count]);
+
+  // Take over from the static list + honour deep links (#service-id).
+  useEffect(() => {
+    const applyHash = () => {
+      const hash = decodeURIComponent(window.location.hash.replace(/^#/, ''));
+      if (!hash) return;
+      const idx = group.services.findIndex(s => s.id === hash);
+      if (idx >= 0) {
+        setActive(idx);
+        document.getElementById(group.id)?.scrollIntoView(
+          reduced ? undefined : { behavior: 'smooth', block: 'start' }
+        );
+      }
+    };
+    document.getElementById(staticListId)?.setAttribute('data-pager-active', 'true');
+    setReady(true);
+    applyHash();
+    window.addEventListener('hashchange', applyHash);
+    return () => {
+      window.removeEventListener('hashchange', applyHash);
+      document.getElementById(staticListId)?.removeAttribute('data-pager-active');
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  if (!ready) return null; // static list carries the content until hydration
+
+  const emailFor = (name: string) => `mailto:${businessEmail}?subject=${encodeURIComponent(name + ' enquiry')}`;
+
+  return (
+    <div className="service-pager" data-group={group.id} aria-label={`${group.name} service cards`}>
+      <div className="service-pager-controls">
+        <button type="button" className="service-pager-nav" onClick={() => go(active - 1)} aria-label={`Previous ${group.name} service`}>
+          <span aria-hidden="true">←</span> Previous
+        </button>
+        <label className="service-pager-picker">
+          <span className="sr-only">Choose a {group.name} service</span>
+          <select value={service.id} onChange={e => go(group.services.findIndex(s => s.id === e.target.value), false)}>
+            {group.services.map((s, i) => <option key={s.id} value={s.id}>{i + 1}. {s.name}</option>)}
+          </select>
+        </label>
+        <button type="button" className="service-pager-nav" onClick={() => go(active + 1)} aria-label={`Next ${group.name} service`}>
+          Next <span aria-hidden="true">→</span>
+        </button>
+      </div>
+      <p className="service-pager-position" aria-hidden="true">Card {active + 1} of {count}</p>
+      <p className="sr-only" role="status">Showing {service.name}, card {active + 1} of {count}.</p>
+      <article
+        key={service.id}
+        ref={cardRef as never}
+        tabIndex={-1}
+        className={'service-detail service-pager-card' + (reduced ? '' : ' service-pager-card--motion')}
+        aria-labelledby={`${uid}-title`}
+      >
+        <header><h3 id={`${uid}-title`}>{service.name}</h3></header>
+        <dl className="service-facts">
+          <dt>Who it serves</dt><dd>{service.who}</dd>
+          <dt>Need addressed</dt><dd>{service.problem}</dd>
+          <dt>Scope described</dt><dd>{service.scope}</dd>
+        </dl>
+        <details className="service-faq"><summary>{service.faq.question}</summary><p>{service.faq.answer}</p></details>
+        <a className="services-text-link service-email" href={emailFor(service.name)}>Discuss this service by email <span aria-hidden="true">↗</span></a>
+        {service.id === 'recruitment-talent-acquisition' &&
+          <a className="services-text-link service-email" href={`mailto:${candidateEmail}`}>Candidate enquiry by email <span aria-hidden="true">↗</span></a>}
+      </article>
+    </div>
+  );
+}

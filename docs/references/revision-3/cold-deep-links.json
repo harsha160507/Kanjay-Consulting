@@ -1,0 +1,282 @@
+[
+  {
+    "expected": "hr-audit-process-setup",
+    "theme": "dark",
+    "width": 375,
+    "active": "hr-audit-process-setup",
+    "groupTop": 103.83333587646484,
+    "hash": "#hr-audit-process-setup",
+    "overflow": false,
+    "position": "Card 1 of 7"
+  },
+  {
+    "expected": "recruitment-talent-acquisition",
+    "theme": "dark",
+    "width": 375,
+    "active": "recruitment-talent-acquisition",
+    "groupTop": 111.83333587646484,
+    "hash": "#recruitment-talent-acquisition",
+    "overflow": false,
+    "position": "Card 2 of 7"
+  },
+  {
+    "expected": "payroll-statutory-compliance",
+    "theme": "dark",
+    "width": 375,
+    "active": "payroll-statutory-compliance",
+    "groupTop": 103.83333587646484,
+    "hash": "#payroll-statutory-compliance",
+    "overflow": false,
+    "position": "Card 3 of 7"
+  },
+  {
+    "expected": "hr-policies-documentation",
+    "theme": "dark",
+    "width": 375,
+    "active": "hr-policies-documentation",
+    "groupTop": 106.5,
+    "hash": "#hr-policies-documentation",
+    "overflow": false,
+    "position": "Card 4 of 7"
+  },
+  {
+    "expected": "pms-kra-kpi",
+    "theme": "dark",
+    "width": 375,
+    "active": "pms-kra-kpi",
+    "groupTop": 105.83333587646484,
+    "hash": "#pms-kra-kpi",
+    "overflow": false,
+    "position": "Card 5 of 7"
+  },
+  {
+    "expected": "employee-engagement-retention",
+    "theme": "dark",
+    "width": 375,
+    "active": "employee-engagement-retention",
+    "groupTop": 107.83333587646484,
+    "hash": "#employee-engagement-retention",
+    "overflow": false,
+    "position": "Card 6 of 7"
+  },
+  {
+    "expected": "onboarding-exit-settlement",
+    "theme": "dark",
+    "width": 375,
+    "active": "onboarding-exit-settlement",
+    "groupTop": 109.83333587646484,
+    "hash": "#onboarding-exit-settlement",
+    "overflow": false,
+    "position": "Card 7 of 7"
+  },
+  {
+    "expected": "seller-registration-profile-setup",
+    "theme": "dark",
+    "width": 375,
+    "active": "seller-registration-profile-setup",
+    "groupTop": 144.59506225585938,
+    "hash": "#seller-registration-profile-setup",
+    "overflow": false,
+    "position": "Card 1 of 7"
+  },
+  {
+    "expected": "product-service-catalogue-upload",
+    "theme": "dark",
+    "width": 375,
+    "active": "product-service-catalogue-upload",
+    "groupTop": 1397.9271240234375,
+    "hash": "#product-service-catalogue-upload",
+    "overflow": false,
+    "position": "Card 2 of 7"
+  },
+  {
+    "expected": "bid-search-analysis",
+    "theme": "dark",
+    "width": 375,
+    "active": "bid-search-analysis",
+    "groupTop": 117.92708587646484,
+    "hash": "#bid-search-analysis",
+    "overflow": false,
+    "position": "Card 3 of 7"
+  },
+  {
+    "expected": "tender-participation-support",
+    "theme": "dark",
+    "width": 375,
+    "active": "tender-participation-support",
+    "groupTop": 447.0338745117187,
+    "hash": "#tender-participation-support",
+    "overflow": false,
+    "position": "Card 4 of 7"
+  },
+  {
+    "expected": "oem-authorization-vendor-assessment",
+    "theme": "dark",
+    "width": 375,
+    "active": "oem-authorization-vendor-assessment",
+    "groupTop": 409.6005859375,
+    "hash": "#oem-authorization-vendor-assessment",
+    "overflow": false,
+    "position": "Card 5 of 7"
+  },
+  {
+    "expected": "catalogue-approval-rejection-support",
+    "theme": "dark",
+    "width": 375,
+    "active": "catalogue-approval-rejection-support",
+    "groupTop": 300.5091247558594,
+    "hash": "#catalogue-approval-rejection-support",
+    "overflow": false,
+    "position": "Card 6 of 7"
+  },
+  {
+    "expected": "order-contract-support",
+    "theme": "dark",
+    "width": 375,
+    "active": "order-contract-support",
+    "groupTop": 338.1233825683594,
+    "hash": "#order-contract-support",
+    "overflow": false,
+    "position": "Card 7 of 7"
+  },
+  {
+    "expected": "hr-audit-process-setup",
+    "theme": "light",
+    "width": 1440,
+    "active": "hr-audit-process-setup",
+    "groupTop": 128.25,
+    "hash": "#hr-audit-process-setup",
+    "overflow": false,
+    "position": "Card 1 of 7"
+  },
+  {
+    "expected": "recruitment-talent-acquisition",
+    "theme": "light",
+    "width": 1440,
+    "active": "recruitment-talent-acquisition",
+    "groupTop": 123.58333587646484,
+    "hash": "#recruitment-talent-acquisition",
+    "overflow": false,
+    "position": "Card 2 of 7"
+  },
+  {
+    "expected": "payroll-statutory-compliance",
+    "theme": "light",
+    "width": 1440,
+    "active": "payroll-statutory-compliance",
+    "groupTop": 126.25,
+    "hash": "#payroll-statutory-compliance",
+    "overflow": false,
+    "position": "Card 3 of 7"
+  },
+  {
+    "expected": "hr-policies-documentation",
+    "theme": "light",
+    "width": 1440,
+    "active": "hr-policies-documentation",
+    "groupTop": 128.25,
+    "hash": "#hr-policies-documentation",
+    "overflow": false,
+    "position": "Card 4 of 7"
+  },
+  {
+    "expected": "pms-kra-kpi",
+    "theme": "light",
+    "width": 1440,
+    "active": "pms-kra-kpi",
+    "groupTop": 128.25,
+    "hash": "#pms-kra-kpi",
+    "overflow": false,
+    "position": "Card 5 of 7"
+  },
+  {
+    "expected": "employee-engagement-retention",
+    "theme": "light",
+    "width": 1440,
+    "active": "employee-engagement-retention",
+    "groupTop": 124.25,
+    "hash": "#employee-engagement-retention",
+    "overflow": false,
+    "position": "Card 6 of 7"
+  },
+  {
+    "expected": "onboarding-exit-settlement",
+    "theme": "light",
+    "width": 1440,
+    "active": "onboarding-exit-settlement",
+    "groupTop": 126.25,
+    "hash": "#onboarding-exit-settlement",
+    "overflow": false,
+    "position": "Card 7 of 7"
+  },
+  {
+    "expected": "seller-registration-profile-setup",
+    "theme": "light",
+    "width": 1440,
+    "active": "seller-registration-profile-setup",
+    "groupTop": 127.71875,
+    "hash": "#seller-registration-profile-setup",
+    "overflow": false,
+    "position": "Card 1 of 7"
+  },
+  {
+    "expected": "product-service-catalogue-upload",
+    "theme": "light",
+    "width": 1440,
+    "active": "product-service-catalogue-upload",
+    "groupTop": 127.71875,
+    "hash": "#product-service-catalogue-upload",
+    "overflow": false,
+    "position": "Card 2 of 7"
+  },
+  {
+    "expected": "bid-search-analysis",
+    "theme": "light",
+    "width": 1440,
+    "active": "bid-search-analysis",
+    "groupTop": 127.71875,
+    "hash": "#bid-search-analysis",
+    "overflow": false,
+    "position": "Card 3 of 7"
+  },
+  {
+    "expected": "tender-participation-support",
+    "theme": "light",
+    "width": 1440,
+    "active": "tender-participation-support",
+    "groupTop": 127.71875,
+    "hash": "#tender-participation-support",
+    "overflow": false,
+    "position": "Card 4 of 7"
+  },
+  {
+    "expected": "oem-authorization-vendor-assessment",
+    "theme": "light",
+    "width": 1440,
+    "active": "oem-authorization-vendor-assessment",
+    "groupTop": 127.71875,
+    "hash": "#oem-authorization-vendor-assessment",
+    "overflow": false,
+    "position": "Card 5 of 7"
+  },
+  {
+    "expected": "catalogue-approval-rejection-support",
+    "theme": "light",
+    "width": 1440,
+    "active": "catalogue-approval-rejection-support",
+    "groupTop": 119.71875,
+    "hash": "#catalogue-approval-rejection-support",
+    "overflow": false,
+    "position": "Card 6 of 7"
+  },
+  {
+    "expected": "order-contract-support",
+    "theme": "light",
+    "width": 1440,
+    "active": "order-contract-support",
+    "groupTop": 127.71875,
+    "hash": "#order-contract-support",
+    "overflow": false,
+    "position": "Card 7 of 7"
+  }
+]

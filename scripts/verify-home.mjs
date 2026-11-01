@@ -12,7 +12,7 @@ for(const prefix of ['','/theme/light','/theme/dark']){
  assert.equal(count,8,'six service sections and two path sections');
  assert.doesNotMatch(html,/<form\b|<iframe\b/);
  assert.equal([...html.matchAll(/<astro-island\b/g)].length,2);
- for(const fact of ['2014','2018','Trust','Quality','Support','tel:+918939715152','mailto:info@kanjayconsulting.com','mailto:hr@kanjayconsulting.com'])assert.ok(html.includes(fact),fact);
+ for(const fact of ['2014','2018','Trust','Quality','Support','tel:+918939715152','mailto:enquiry@kanjayconsulting.com','mailto:hr@kanjayconsulting.com'])assert.ok(html.includes(fact),fact);
  const clients=JSON.parse(readFileSync('src/data/clients.ts','utf8').split('export const currentClients = ')[1].split(' as const;')[0]);
  for(const client of clients)assert.ok(html.includes(client.image));
  assert.ok(html.includes('/images/clients/silq.webp'));

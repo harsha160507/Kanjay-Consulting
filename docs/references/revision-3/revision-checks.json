@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "groups": [
+    {
+      "id": "hr-support",
+      "count": 7
+    },
+    {
+      "id": "gem-seller-support",
+      "count": 7
+    }
+  ],
+  "preservation": "Exact data comparison against pre-change snapshot, allowing only business-email replacement",
+  "emailRoutes": 34,
+  "mailtoQueries": "Exact before/after comparison: subjects, bodies and hr@ mailbox unchanged",
+  "fallback": "14 server-rendered cards/FAQs/icons, two unhidden fallback lists and pager islands",
+  "runtimeContent": "All recorded runtime fields match source verbatim",
+  "oldMailbox": "Absent from generated HTML/JS and Organization metadata updated"
+}

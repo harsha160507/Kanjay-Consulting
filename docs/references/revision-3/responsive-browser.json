@@ -1,0 +1,308 @@
+[
+  {
+    "theme": "light",
+    "fallbacks": [
+      {
+        "ariaHidden": "true",
+        "clip": "inset(50%)",
+        "inert": ""
+      },
+      {
+        "ariaHidden": "true",
+        "clip": "inset(50%)",
+        "inert": ""
+      }
+    ],
+    "overflow": false,
+    "pagers": [
+      {
+        "active": "onboarding-exit-settlement",
+        "border": "0px",
+        "cards": 1,
+        "decoration": "underline",
+        "factsDisplay": "block",
+        "group": "hr-support",
+        "iconColour": "rgb(18, 103, 120)",
+        "iconTop": 498.625,
+        "iconWidth": 32,
+        "labelBorder": "0px",
+        "selectWidth": 328,
+        "titleGap": 13.59375,
+        "titleTop": 496.2291870117187,
+        "weight": "700"
+      },
+      {
+        "active": "oem-authorization-vendor-assessment",
+        "border": "0px",
+        "cards": 1,
+        "decoration": "underline",
+        "factsDisplay": "block",
+        "group": "gem-seller-support",
+        "iconColour": "rgb(18, 103, 120)",
+        "iconTop": 1874.96875,
+        "iconWidth": 32,
+        "labelBorder": "0px",
+        "selectWidth": 328,
+        "titleGap": 13.59375,
+        "titleTop": 1872.572998046875,
+        "weight": "700"
+      }
+    ],
+    "width": 375
+  },
+  {
+    "theme": "dark",
+    "fallbacks": [
+      {
+        "ariaHidden": "true",
+        "clip": "inset(50%)",
+        "inert": ""
+      },
+      {
+        "ariaHidden": "true",
+        "clip": "inset(50%)",
+        "inert": ""
+      }
+    ],
+    "overflow": false,
+    "pagers": [
+      {
+        "active": "onboarding-exit-settlement",
+        "border": "0px",
+        "cards": 1,
+        "decoration": "underline",
+        "factsDisplay": "block",
+        "group": "hr-support",
+        "iconColour": "rgb(131, 214, 221)",
+        "iconTop": 498.625,
+        "iconWidth": 32,
+        "labelBorder": "0px",
+        "selectWidth": 328,
+        "titleGap": 13.59375,
+        "titleTop": 496.2291870117187,
+        "weight": "700"
+      },
+      {
+        "active": "oem-authorization-vendor-assessment",
+        "border": "0px",
+        "cards": 1,
+        "decoration": "underline",
+        "factsDisplay": "block",
+        "group": "gem-seller-support",
+        "iconColour": "rgb(131, 214, 221)",
+        "iconTop": 1874.96875,
+        "iconWidth": 32,
+        "labelBorder": "0px",
+        "selectWidth": 328,
+        "titleGap": 13.59375,
+        "titleTop": 1872.572998046875,
+        "weight": "700"
+      }
+    ],
+    "width": 375
+  },
+  {
+    "theme": "light",
+    "fallbacks": [
+      {
+        "ariaHidden": "true",
+        "clip": "inset(50%)",
+        "inert": ""
+      },
+      {
+        "ariaHidden": "true",
+        "clip": "inset(50%)",
+        "inert": ""
+      }
+    ],
+    "overflow": false,
+    "pagers": [
+      {
+        "active": "onboarding-exit-settlement",
+        "border": "0px",
+        "cards": 1,
+        "decoration": "underline",
+        "factsDisplay": "block",
+        "group": "hr-support",
+        "iconColour": "rgb(18, 103, 120)",
+        "iconTop": 437.8333435058594,
+        "iconWidth": 32,
+        "labelBorder": "0px",
+        "selectWidth": 416,
+        "titleGap": 13.59375,
+        "titleTop": 435.4375,
+        "weight": "700"
+      },
+      {
+        "active": "oem-authorization-vendor-assessment",
+        "border": "0px",
+        "cards": 1,
+        "decoration": "underline",
+        "factsDisplay": "block",
+        "group": "gem-seller-support",
+        "iconColour": "rgb(18, 103, 120)",
+        "iconTop": 1457.7396240234375,
+        "iconWidth": 32,
+        "labelBorder": "0px",
+        "selectWidth": 416,
+        "titleGap": 13.59375,
+        "titleTop": 1455.34375,
+        "weight": "700"
+      }
+    ],
+    "width": 768
+  },
+  {
+    "theme": "dark",
+    "fallbacks": [
+      {
+        "ariaHidden": "true",
+        "clip": "inset(50%)",
+        "inert": ""
+      },
+      {
+        "ariaHidden": "true",
+        "clip": "inset(50%)",
+        "inert": ""
+      }
+    ],
+    "overflow": false,
+    "pagers": [
+      {
+        "active": "onboarding-exit-settlement",
+        "border": "0px",
+        "cards": 1,
+        "decoration": "underline",
+        "factsDisplay": "block",
+        "group": "hr-support",
+        "iconColour": "rgb(131, 214, 221)",
+        "iconTop": 442.5,
+        "iconWidth": 32,
+        "labelBorder": "0px",
+        "selectWidth": 416,
+        "titleGap": 13.59375,
+        "titleTop": 440.1041870117187,
+        "weight": "700"
+      },
+      {
+        "active": "oem-authorization-vendor-assessment",
+        "border": "0px",
+        "cards": 1,
+        "decoration": "underline",
+        "factsDisplay": "block",
+        "group": "gem-seller-support",
+        "iconColour": "rgb(131, 214, 221)",
+        "iconTop": 1462.40625,
+        "iconWidth": 32,
+        "labelBorder": "0px",
+        "selectWidth": 416,
+        "titleGap": 13.59375,
+        "titleTop": 1460.010498046875,
+        "weight": "700"
+      }
+    ],
+    "width": 768
+  },
+  {
+    "theme": "light",
+    "fallbacks": [
+      {
+        "ariaHidden": "true",
+        "clip": "inset(50%)",
+        "inert": ""
+      },
+      {
+        "ariaHidden": "true",
+        "clip": "inset(50%)",
+        "inert": ""
+      }
+    ],
+    "overflow": false,
+    "pagers": [
+      {
+        "active": "onboarding-exit-settlement",
+        "border": "0px",
+        "cards": 1,
+        "decoration": "underline",
+        "factsDisplay": "block",
+        "group": "hr-support",
+        "iconColour": "rgb(18, 103, 120)",
+        "iconTop": 488.5625,
+        "iconWidth": 32,
+        "labelBorder": "0px",
+        "selectWidth": 416,
+        "titleGap": 13.59375,
+        "titleTop": 486.1666870117187,
+        "weight": "700"
+      },
+      {
+        "active": "oem-authorization-vendor-assessment",
+        "border": "0px",
+        "cards": 1,
+        "decoration": "underline",
+        "factsDisplay": "block",
+        "group": "gem-seller-support",
+        "iconColour": "rgb(18, 103, 120)",
+        "iconTop": 1604.104248046875,
+        "iconWidth": 32,
+        "labelBorder": "0px",
+        "selectWidth": 416,
+        "titleGap": 13.59375,
+        "titleTop": 1601.7083740234375,
+        "weight": "700"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "theme": "dark",
+    "fallbacks": [
+      {
+        "ariaHidden": "true",
+        "clip": "inset(50%)",
+        "inert": ""
+      },
+      {
+        "ariaHidden": "true",
+        "clip": "inset(50%)",
+        "inert": ""
+      }
+    ],
+    "overflow": false,
+    "pagers": [
+      {
+        "active": "onboarding-exit-settlement",
+        "border": "0px",
+        "cards": 1,
+        "decoration": "underline",
+        "factsDisplay": "block",
+        "group": "hr-support",
+        "iconColour": "rgb(131, 214, 221)",
+        "iconTop": 480.5625,
+        "iconWidth": 32,
+        "labelBorder": "0px",
+        "selectWidth": 416,
+        "titleGap": 13.59375,
+        "titleTop": 478.1666870117187,
+        "weight": "700"
+      },
+      {
+        "active": "oem-authorization-vendor-assessment",
+        "border": "0px",
+        "cards": 1,
+        "decoration": "underline",
+        "factsDisplay": "block",
+        "group": "gem-seller-support",
+        "iconColour": "rgb(131, 214, 221)",
+        "iconTop": 1596.104248046875,
+        "iconWidth": 32,
+        "labelBorder": "0px",
+        "selectWidth": 416,
+        "titleGap": 13.59375,
+        "titleTop": 1593.7083740234375,
+        "weight": "700"
+      }
+    ],
+    "width": 1440
+  }
+]

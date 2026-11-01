@@ -1,0 +1,71 @@
+[
+  {
+    "check": "Previous HR support service",
+    "expected": "onboarding-exit-settlement",
+    "active": "onboarding-exit-settlement",
+    "focus": "ARTICLE",
+    "outline": "2px",
+    "position": "Card 7 of 7",
+    "visibleFocus": true
+  },
+  {
+    "check": "Next HR support service",
+    "expected": "hr-audit-process-setup",
+    "active": "hr-audit-process-setup",
+    "focus": "ARTICLE",
+    "outline": "2px",
+    "position": "Card 1 of 7",
+    "visibleFocus": true
+  },
+  {
+    "check": "Next GeM seller support service",
+    "expected": "seller-registration-profile-setup",
+    "active": "seller-registration-profile-setup",
+    "focus": "ARTICLE",
+    "outline": "2px",
+    "position": "Card 1 of 7",
+    "visibleFocus": true
+  },
+  {
+    "check": "Previous GeM seller support service",
+    "expected": "order-contract-support",
+    "active": "order-contract-support",
+    "focus": "ARTICLE",
+    "outline": "2px",
+    "position": "Card 7 of 7",
+    "visibleFocus": true
+  },
+  {
+    "check": "native FAQ keyboard",
+    "open": true,
+    "outline": "2.66667px"
+  },
+  {
+    "check": "tab from recruitment FAQ 1",
+    "href": "mailto:enquiry@kanjayconsulting.com?subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry",
+    "inFallback": false,
+    "tag": "A",
+    "text": "Employer enquiry by email ↗"
+  },
+  {
+    "check": "tab from recruitment FAQ 2",
+    "href": "mailto:hr@kanjayconsulting.com",
+    "inFallback": false,
+    "tag": "A",
+    "text": "Candidate enquiry by email ↗"
+  },
+  {
+    "check": "tab from recruitment FAQ 3",
+    "href": "#service-index",
+    "inFallback": false,
+    "tag": "A",
+    "text": "Back to service index ↑"
+  },
+  {
+    "check": "tab from recruitment FAQ 4",
+    "href": null,
+    "inFallback": false,
+    "tag": "BUTTON",
+    "text": "← Previous"
+  }
+]
