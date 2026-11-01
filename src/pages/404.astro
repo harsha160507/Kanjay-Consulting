@@ -6,8 +6,9 @@ import '../styles/policies.css';
 const route = routeContext(Astro.url.pathname);
 ---
 <BaseLayout title="Page not found" phaseLabel="Phase 9 · 404 draft" description="Find your way back to Kanjay Consulting’s pages or contact the team." suppressThemeRedirect>
-  <p class="eyebrow">404 / Page not found</p><h1>Let’s find<br />your next step.</h1>
+  <div data-fade-content><p class="section-label">Page not found</p><h1>Let’s find<br />your next step.</h1>
   <p class="lede">We couldn’t find a page at this address. Check the address or use one of the links below.</p>
   <ul class="not-found-links"><li><a href={route.to('/')}>Return to Home</a></li><li><a href={route.to('/services/')}>Explore our services</a></li><li><a href={route.to('/contact/')}>Contact our team</a></li></ul>
-  <section class="not-found-contact" aria-labelledby="help-title"><h2 id="help-title">Need help?</h2><p><a href={`tel:${business.phone}`}>Call our team: {business.phoneDisplay}</a><br /><a href={`mailto:${business.email}`}>Email our team: {business.email}</a></p></section>
+  </div>
+  <section data-fade-content class="not-found-contact" aria-labelledby="help-title"><h2 id="help-title">Need help?</h2><p><a href={`tel:${business.phone}`}>Call our team: {business.phoneDisplay}</a><br /><a href={`mailto:${business.email}`}>Email our team: {business.email}</a></p></section>
 </BaseLayout>

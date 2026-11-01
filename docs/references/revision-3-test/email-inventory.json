@@ -1,0 +1,852 @@
+{
+  "status": "PASS",
+  "filesScanned": 60,
+  "htmlRoutes": 34,
+  "generalLinks": 116,
+  "candidateLinks": 52,
+  "oldMailboxMatches": 0,
+  "routes": [
+    {
+      "file": "404.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "index.html",
+      "links": [
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "about\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "clients\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "contact\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "cookie-policy\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "disclaimer\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "privacy-policy\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "prototype\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "services\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry"
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Payroll%20%26%20Statutory%20Compliance%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=HR%20Policies%20%26%20Documentation%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=PMS%20%2F%20KRA-KPI%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Employee%20Engagement%20%26%20Retention%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Bid%20Search%20%26%20Analysis%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Tender%20Participation%20%26%20Support%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Order%20%26%20Contract%20Support%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "terms-of-use\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "prototype\\static\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\dark\\index.html",
+      "links": [
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\light\\index.html",
+      "links": [
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\dark\\about\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\dark\\clients\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\dark\\contact\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\dark\\cookie-policy\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\dark\\disclaimer\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\dark\\privacy-policy\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\dark\\prototype\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\dark\\services\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry"
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Payroll%20%26%20Statutory%20Compliance%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=HR%20Policies%20%26%20Documentation%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=PMS%20%2F%20KRA-KPI%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Employee%20Engagement%20%26%20Retention%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Bid%20Search%20%26%20Analysis%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Tender%20Participation%20%26%20Support%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Order%20%26%20Contract%20Support%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\dark\\terms-of-use\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\light\\about\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\light\\clients\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\light\\contact\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\light\\cookie-policy\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\light\\disclaimer\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\light\\privacy-policy\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\light\\prototype\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\light\\services\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=HR%20Audit%20%26%20HR%20Process%20Setup%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Recruitment%20%26%20Talent%20Acquisition%20enquiry"
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Payroll%20%26%20Statutory%20Compliance%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=HR%20Policies%20%26%20Documentation%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=PMS%20%2F%20KRA-KPI%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Employee%20Engagement%20%26%20Retention%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Onboarding%2C%20Exit%20%26%20Full%20%26%20Final%20Settlement%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Seller%20Registration%20%26%20Profile%20Setup%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Product%20%2F%20Service%20Catalogue%20Upload%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Bid%20Search%20%26%20Analysis%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Tender%20Participation%20%26%20Support%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=OEM%20Authorization%20%26%20Vendor%20Assessment%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Catalogue%20Approval%20%2F%20Rejection%20Support%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": "subject=Order%20%26%20Contract%20Support%20enquiry"
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\light\\terms-of-use\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\dark\\prototype\\static\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    },
+    {
+      "file": "theme\\light\\prototype\\static\\index.html",
+      "links": [
+        {
+          "address": "enquiry@kanjayconsulting.com",
+          "query": ""
+        },
+        {
+          "address": "hr@kanjayconsulting.com",
+          "query": ""
+        }
+      ]
+    }
+  ]
+}

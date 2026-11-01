@@ -1,0 +1,37 @@
+PASS /services/: 14 approved public scopes, 14 native FAQs, two pagers and full static fallbacks, private-detail fields absent, preserved links/routing and no extra service routes
+PASS /theme/light/services/: 14 approved public scopes, 14 native FAQs, two pagers and full static fallbacks, private-detail fields absent, preserved links/routing and no extra service routes
+PASS /theme/dark/services/: 14 approved public scopes, 14 native FAQs, two pagers and full static fallbacks, private-detail fields absent, preserved links/routing and no extra service routes
+{
+  status: 'PASS',
+  groups: [
+    { id: 'hr-support', count: 7 },
+    { id: 'gem-seller-support', count: 7 }
+  ],
+  preservation: 'Exact data comparison against pre-change snapshot, allowing only business-email replacement',
+  emailRoutes: 34,
+  mailtoQueries: 'Exact before/after comparison: subjects, bodies and hr@ mailbox unchanged',
+  fallback: '14 server-rendered cards/FAQs/icons, two unhidden fallback lists and pager islands',
+  runtimeContent: 'All recorded runtime fields match source verbatim',
+  oldMailbox: 'Absent from generated HTML/JS and Organization metadata updated'
+}
+{
+  testedCommit: '610daf1027e8b73aa1488982cea64c74e8fa8e26',
+  status: 'PASS for asserted checks',
+  selectorCards: 28,
+  keyboardTransitions: 28,
+  coldLinks: 42,
+  indexLinks: 14,
+  pagerFAQsKeyboard: 14,
+  staticCases: 6,
+  staticCards: 84,
+  staticFAQLinks: 14,
+  email: {
+    filesScanned: 60,
+    htmlRoutes: 34,
+    generalLinks: 116,
+    candidateLinks: 52,
+    oldMailboxMatches: 0
+  },
+  reducedMotionRuntime: 'NOT TESTED',
+  browserWideJavaScriptOff: 'NOT TESTED; scripts blocked by enforced CSP instead'
+}

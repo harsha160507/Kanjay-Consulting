@@ -1,0 +1,90 @@
+[
+  {
+    "hash": "#hr-working-activities",
+    "id": "hr-working-activities",
+    "overflow": false,
+    "theme": "light",
+    "viewport": 1440,
+    "visible": [
+      "hr-working-activities"
+    ],
+    "width": 375
+  },
+  {
+    "hash": "#gem-working-activities",
+    "id": "gem-working-activities",
+    "overflow": false,
+    "theme": "light",
+    "viewport": 1440,
+    "visible": [
+      "gem-working-activities"
+    ],
+    "width": 375
+  },
+  {
+    "hash": "#hr-working-activities",
+    "id": "hr-working-activities",
+    "overflow": false,
+    "theme": "dark",
+    "viewport": 1440,
+    "visible": [
+      "hr-working-activities"
+    ],
+    "width": 375
+  },
+  {
+    "hash": "#gem-working-activities",
+    "id": "gem-working-activities",
+    "overflow": false,
+    "theme": "dark",
+    "viewport": 1440,
+    "visible": [
+      "gem-working-activities"
+    ],
+    "width": 375
+  },
+  {
+    "hash": "#hr-working-activities",
+    "id": "hr-working-activities",
+    "overflow": false,
+    "theme": "light",
+    "viewport": 1440,
+    "visible": [
+      "hr-working-activities"
+    ],
+    "width": 1440
+  },
+  {
+    "hash": "#gem-working-activities",
+    "id": "gem-working-activities",
+    "overflow": false,
+    "theme": "light",
+    "viewport": 1440,
+    "visible": [
+      "gem-working-activities"
+    ],
+    "width": 1440
+  },
+  {
+    "hash": "#hr-working-activities",
+    "id": "hr-working-activities",
+    "overflow": false,
+    "theme": "dark",
+    "viewport": 1440,
+    "visible": [
+      "hr-working-activities"
+    ],
+    "width": 1440
+  },
+  {
+    "hash": "#gem-working-activities",
+    "id": "gem-working-activities",
+    "overflow": false,
+    "theme": "dark",
+    "viewport": 1440,
+    "visible": [
+      "gem-working-activities"
+    ],
+    "width": 1440
+  }
+]

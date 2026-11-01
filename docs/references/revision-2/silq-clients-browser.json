@@ -1,0 +1,62 @@
+[
+  {
+    "theme": "light",
+    "caption": "SILQ",
+    "count": 1,
+    "loaded": true,
+    "overflow": false,
+    "source": "/images/clients/silq.webp",
+    "total": 24,
+    "width": 1440
+  },
+  {
+    "theme": "dark",
+    "caption": "SILQ",
+    "count": 1,
+    "loaded": true,
+    "overflow": false,
+    "source": "/images/clients/silq.webp",
+    "total": 24,
+    "width": 1440
+  },
+  {
+    "theme": "light",
+    "caption": "SILQ",
+    "count": 1,
+    "loaded": true,
+    "overflow": false,
+    "source": "/images/clients/silq.webp",
+    "total": 24,
+    "width": 768
+  },
+  {
+    "theme": "dark",
+    "caption": "SILQ",
+    "count": 1,
+    "loaded": true,
+    "overflow": false,
+    "source": "/images/clients/silq.webp",
+    "total": 24,
+    "width": 768
+  },
+  {
+    "theme": "light",
+    "caption": "SILQ",
+    "count": 1,
+    "loaded": true,
+    "overflow": false,
+    "source": "/images/clients/silq.webp",
+    "total": 24,
+    "width": 375
+  },
+  {
+    "theme": "dark",
+    "caption": "SILQ",
+    "count": 1,
+    "loaded": true,
+    "overflow": false,
+    "source": "/images/clients/silq.webp",
+    "total": 24,
+    "width": 375
+  }
+]

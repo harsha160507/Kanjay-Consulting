@@ -1,0 +1,40 @@
+{
+  "banner": "INTERNAL DESIGN REVIEW Phase 9 · Policy draft",
+  "draftNotice": "Internal draft — owner and legal review required.Draft revised 31 October 2026. Not yet effective or approved for publication.",
+  "footerLabel": "Policy drafts",
+  "heading": "Cookie & Browser Storage Policy",
+  "sections": [
+    {
+      "paragraphs": [
+        "The website's own code does not set cookies or include advertising or analytics trackers. It uses browser storage to remember your light or dark theme preference."
+      ],
+      "title": "How this website uses storage"
+    },
+    {
+      "paragraphs": [
+        "When you open a light or dark version of this website with JavaScript enabled, your browser saves the theme preference on your device. This can happen when you use the theme links or open a themed page directly.",
+        "The saved item, called kanjay-theme, contains only the value \"light\" or \"dark\". The website uses it to apply your preferred appearance on later visits. The website's code does not send this value to an analytics service.",
+        "This preference uses local storage, not a cookie. The website sets no automatic expiry for it. It can remain until you change the theme, clear the site's stored data or your browser removes it."
+      ],
+      "title": "Your theme preference"
+    },
+    {
+      "paragraphs": [
+        "You can clear this preference through your browser's settings for this site's stored data. Opening a light or dark page again with JavaScript enabled will save the preference again. You can also block browser storage through your browser settings."
+      ],
+      "title": "Your controls"
+    },
+    {
+      "paragraphs": [
+        "Our website includes links to external websites, including social media platforms. If you follow a link, that website's own privacy and cookie policies apply."
+      ],
+      "title": "External links"
+    },
+    {
+      "paragraphs": [
+        "For questions about cookies or browser storage on this website, please use the contact details on our Contact page."
+      ],
+      "title": "Contact"
+    }
+  ]
+}

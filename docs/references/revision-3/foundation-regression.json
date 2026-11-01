@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "routesCompared": 34,
+  "content": "Exact normalized main text match excluding contextual labels, framework styles, approved SILQ caption, new Clients link and owner-requested email replacement; baseline aac26c9",
+  "anchors": "All generated fragment destinations exist",
+  "fadeUnitChecks": [
+    "once",
+    "320ms/8px/whole section",
+    "no persistent fill",
+    "long-section entry",
+    "focus cancellation",
+    "initial focus skipped",
+    "reduced-motion initial skip",
+    "reduced-motion change cancellation/disconnect",
+    "missing API",
+    "animation failure"
+  ],
+  "limitations": "Controlled unit fixtures do not emulate OS settings or replace actual browser, screen-reader or physical-touch testing."
+}

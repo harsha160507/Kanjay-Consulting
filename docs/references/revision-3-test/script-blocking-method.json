@@ -1,0 +1,5 @@
+{
+  "status": 200,
+  "contentSecurityPolicy": "default-src 'self'; script-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; object-src 'none'",
+  "method": "Enforced HTTP CSP script-src none; browser-wide JavaScript preference not changed"
+}

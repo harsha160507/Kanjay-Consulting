@@ -1,0 +1,28 @@
+// Questionnaire mappings plus the owner's SILQ industry confirmation in chat.
+// Display names remain in clients.ts; questionnaire spelling is not a rename.
+export const clientIndustries: Record<string, string> = {
+  'l-and-t': 'Engineering, construction and conglomerate',
+  'eaton': 'Power management and electrical equipment',
+  'balmer-lawrie': 'Travels and Vacations',
+  'benco-group': 'Heat control and cooling',
+  'casol': 'Industrial automation',
+  'techno-products': 'Engineering and manufacturing',
+  'hadron-infra': 'Infrastructure',
+  'safe-tech-fire-solutions': 'Fire safety',
+  'sree-raghavendra-electric-services-pvt-ltd': 'Electrical services',
+  'madhavaa-crafts-pvt-ltd': 'Crafts and manufacturing',
+  'aaviza-technologies': 'Sheet metal design & manufacturing',
+  'zuppa': 'Drones and security technology',
+  'shopup': 'E-commerce / retail technology',
+  'vitamed': 'Medical and surgical supplies',
+  'welona': 'Skin, hair, body and laser clinic',
+  'ttj': 'Jewellery (gold, silver, diamond)',
+  'sana-s-thinai-organics': 'Organic and healthy foods',
+  'sabari-musicals': 'Musical instruments',
+  'srm-institute-of-science-and-technology': 'Education',
+  'deforay': 'Software for businesses',
+  'kaavian-services': 'Global IT solutions and services',
+  'limpar': 'Chemicals, commercial cleaning, sanitation and hygiene solutions',
+  'woyc-od': 'End-to-end drop-shipping',
+  'silq': 'E-commerce / retail',
+};

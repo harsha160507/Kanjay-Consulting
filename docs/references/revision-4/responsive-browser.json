@@ -1,0 +1,2288 @@
+[
+  {
+    "clients": null,
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "About KanjayConsulting."
+      },
+      {
+        "level": "H2",
+        "text": "Our beginnings"
+      },
+      {
+        "level": "H2",
+        "text": "People, processesand the GeM portal."
+      },
+      {
+        "level": "H3",
+        "text": "For your organisationand its people."
+      },
+      {
+        "level": "H3",
+        "text": "For businesses sellingthrough GeM."
+      },
+      {
+        "level": "H2",
+        "text": "A mutually agreedapproach to your needs."
+      },
+      {
+        "level": "H3",
+        "text": "HR work"
+      },
+      {
+        "level": "H3",
+        "text": "GeM seller work"
+      },
+      {
+        "level": "H2",
+        "text": "Trust. Quality. Support."
+      },
+      {
+        "level": "H3",
+        "text": "Trust"
+      },
+      {
+        "level": "H3",
+        "text": "Quality"
+      },
+      {
+        "level": "H3",
+        "text": "Support"
+      },
+      {
+        "level": "H2",
+        "text": "Let’s discuss whatyour business needs."
+      }
+    ],
+    "page": "about",
+    "scrollWidth": 360,
+    "stepper": {
+      "enhanced": "true",
+      "links": [
+        {
+          "height": 48,
+          "href": "#hr-working-activities",
+          "text": "HR work"
+        },
+        {
+          "height": 48,
+          "href": "#gem-working-activities",
+          "text": "GeM seller work"
+        }
+      ],
+      "visible": [
+        "hr-working-activities"
+      ]
+    },
+    "theme": "light",
+    "viewport": 375,
+    "width": 375
+  },
+  {
+    "clients": {
+      "current": [
+        {
+          "font": "12.8px",
+          "id": "l-and-t",
+          "industry": "Engineering, construction and conglomerate",
+          "name": "L&T"
+        },
+        {
+          "font": "12.8px",
+          "id": "eaton",
+          "industry": "Power management and electrical equipment",
+          "name": "Eaton"
+        },
+        {
+          "font": "12.8px",
+          "id": "balmer-lawrie",
+          "industry": "Travels and Vacations",
+          "name": "Balmer Lawrie"
+        },
+        {
+          "font": "12.8px",
+          "id": "benco-group",
+          "industry": "Heat control and cooling",
+          "name": "Benco Group"
+        },
+        {
+          "font": "12.8px",
+          "id": "casol",
+          "industry": "Industrial automation",
+          "name": "CASOL"
+        },
+        {
+          "font": "12.8px",
+          "id": "techno-products",
+          "industry": "Engineering and manufacturing",
+          "name": "Techno Products"
+        },
+        {
+          "font": "12.8px",
+          "id": "hadron-infra",
+          "industry": "Infrastructure",
+          "name": "Hadron Infra"
+        },
+        {
+          "font": "12.8px",
+          "id": "safe-tech-fire-solutions",
+          "industry": "Fire safety",
+          "name": "Safe Tech Fire Solutions"
+        },
+        {
+          "font": "12.8px",
+          "id": "sree-raghavendra-electric-services-pvt-ltd",
+          "industry": "Electrical services",
+          "name": "Sree Raghavendra Electric Services Pvt Ltd"
+        },
+        {
+          "font": "12.8px",
+          "id": "madhavaa-crafts-pvt-ltd",
+          "industry": "Crafts and manufacturing",
+          "name": "Madhavaa Crafts Pvt Ltd"
+        },
+        {
+          "font": "12.8px",
+          "id": "aaviza-technologies",
+          "industry": "Sheet metal design & manufacturing",
+          "name": "Aaviza Technologies"
+        },
+        {
+          "font": "12.8px",
+          "id": "zuppa",
+          "industry": "Drones and security technology",
+          "name": "Zuppa"
+        },
+        {
+          "font": "12.8px",
+          "id": "shopup",
+          "industry": "E-commerce / retail technology",
+          "name": "Shopup"
+        },
+        {
+          "font": "12.8px",
+          "id": "vitamed",
+          "industry": "Medical and surgical supplies",
+          "name": "Vitamed"
+        },
+        {
+          "font": "12.8px",
+          "id": "welona",
+          "industry": "Skin, hair, body and laser clinic",
+          "name": "Welona"
+        },
+        {
+          "font": "12.8px",
+          "id": "ttj",
+          "industry": "Jewellery (gold, silver, diamond)",
+          "name": "TTJ"
+        },
+        {
+          "font": "12.8px",
+          "id": "sana-s-thinai-organics",
+          "industry": "Organic and healthy foods",
+          "name": "Sana’s Thinai Organics"
+        },
+        {
+          "font": "12.8px",
+          "id": "sabari-musicals",
+          "industry": "Musical instruments",
+          "name": "Sabari Musicals"
+        },
+        {
+          "font": "12.8px",
+          "id": "srm-institute-of-science-and-technology",
+          "industry": "Education",
+          "name": "SRM Institute of Science and Technology"
+        },
+        {
+          "font": "12.8px",
+          "id": "deforay",
+          "industry": "Software for businesses",
+          "name": "Deforay"
+        },
+        {
+          "font": "12.8px",
+          "id": "kaavian-services",
+          "industry": "Global IT solutions and services",
+          "name": "Kaavian services"
+        },
+        {
+          "font": "12.8px",
+          "id": "limpar",
+          "industry": "Chemicals, commercial cleaning, sanitation and hygiene solutions",
+          "name": "Limpar"
+        },
+        {
+          "font": "12.8px",
+          "id": "woyc-od",
+          "industry": "End-to-end drop-shipping",
+          "name": "Woyc::OD"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "silq",
+          "industry": null,
+          "text": "SILQ"
+        }
+      ]
+    },
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Our clientrelationships."
+      },
+      {
+        "level": "H2",
+        "text": "Explore our expertise"
+      },
+      {
+        "level": "H2",
+        "text": "Current clients"
+      },
+      {
+        "level": "H2",
+        "text": "Clients"
+      },
+      {
+        "level": "H2",
+        "text": "Discuss yourbusiness needs."
+      }
+    ],
+    "page": "clients",
+    "scrollWidth": 360,
+    "stepper": null,
+    "theme": "light",
+    "viewport": 375,
+    "width": 375
+  },
+  {
+    "clients": null,
+    "contact": {
+      "actions": [
+        {
+          "href": "tel:+918939715152",
+          "text": "Call our team ↗"
+        },
+        {
+          "href": "mailto:enquiry@kanjayconsulting.com",
+          "text": "Email our team ↗"
+        },
+        {
+          "href": "/theme/light/services/#hr-support",
+          "text": "Explore HR support ↗"
+        },
+        {
+          "href": "/theme/light/services/#gem-seller-support",
+          "text": "Explore GeM seller support ↗"
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "text": "Email about a candidate enquiry ↗"
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗"
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗"
+        }
+      ],
+      "spotlights": 3
+    },
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Let’s talk aboutyour business."
+      },
+      {
+        "level": "H2",
+        "text": "Contact our team"
+      },
+      {
+        "level": "H3",
+        "text": "Speak with our team."
+      },
+      {
+        "level": "H3",
+        "text": "Tell us what you need."
+      },
+      {
+        "level": "H2",
+        "text": "Start witha brief overview."
+      },
+      {
+        "level": "H2",
+        "text": "Looking for a role?"
+      },
+      {
+        "level": "H2",
+        "text": "Kanjay Consulting"
+      },
+      {
+        "level": "H2",
+        "text": "Connect with Kanjay."
+      }
+    ],
+    "page": "contact",
+    "scrollWidth": 360,
+    "stepper": null,
+    "theme": "light",
+    "viewport": 375,
+    "width": 375
+  },
+  {
+    "clients": null,
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Cookie & Browser Storage Policy"
+      },
+      {
+        "level": "H2",
+        "text": "On this page"
+      },
+      {
+        "level": "H2",
+        "text": "How this website uses storage"
+      },
+      {
+        "level": "H2",
+        "text": "Your theme preference"
+      },
+      {
+        "level": "H2",
+        "text": "Your controls"
+      },
+      {
+        "level": "H2",
+        "text": "External links"
+      },
+      {
+        "level": "H2",
+        "text": "Contact"
+      },
+      {
+        "level": "H2",
+        "text": "Related policies"
+      }
+    ],
+    "page": "cookie-policy",
+    "scrollWidth": 360,
+    "stepper": null,
+    "theme": "light",
+    "viewport": 375,
+    "width": 375
+  },
+  {
+    "clients": null,
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "About KanjayConsulting."
+      },
+      {
+        "level": "H2",
+        "text": "Our beginnings"
+      },
+      {
+        "level": "H2",
+        "text": "People, processesand the GeM portal."
+      },
+      {
+        "level": "H3",
+        "text": "For your organisationand its people."
+      },
+      {
+        "level": "H3",
+        "text": "For businesses sellingthrough GeM."
+      },
+      {
+        "level": "H2",
+        "text": "A mutually agreedapproach to your needs."
+      },
+      {
+        "level": "H3",
+        "text": "HR work"
+      },
+      {
+        "level": "H3",
+        "text": "GeM seller work"
+      },
+      {
+        "level": "H2",
+        "text": "Trust. Quality. Support."
+      },
+      {
+        "level": "H3",
+        "text": "Trust"
+      },
+      {
+        "level": "H3",
+        "text": "Quality"
+      },
+      {
+        "level": "H3",
+        "text": "Support"
+      },
+      {
+        "level": "H2",
+        "text": "Let’s discuss whatyour business needs."
+      }
+    ],
+    "page": "about",
+    "scrollWidth": 360,
+    "stepper": {
+      "enhanced": "true",
+      "links": [
+        {
+          "height": 48,
+          "href": "#hr-working-activities",
+          "text": "HR work"
+        },
+        {
+          "height": 48,
+          "href": "#gem-working-activities",
+          "text": "GeM seller work"
+        }
+      ],
+      "visible": [
+        "hr-working-activities"
+      ]
+    },
+    "theme": "dark",
+    "viewport": 375,
+    "width": 375
+  },
+  {
+    "clients": {
+      "current": [
+        {
+          "font": "12.8px",
+          "id": "l-and-t",
+          "industry": "Engineering, construction and conglomerate",
+          "name": "L&T"
+        },
+        {
+          "font": "12.8px",
+          "id": "eaton",
+          "industry": "Power management and electrical equipment",
+          "name": "Eaton"
+        },
+        {
+          "font": "12.8px",
+          "id": "balmer-lawrie",
+          "industry": "Travels and Vacations",
+          "name": "Balmer Lawrie"
+        },
+        {
+          "font": "12.8px",
+          "id": "benco-group",
+          "industry": "Heat control and cooling",
+          "name": "Benco Group"
+        },
+        {
+          "font": "12.8px",
+          "id": "casol",
+          "industry": "Industrial automation",
+          "name": "CASOL"
+        },
+        {
+          "font": "12.8px",
+          "id": "techno-products",
+          "industry": "Engineering and manufacturing",
+          "name": "Techno Products"
+        },
+        {
+          "font": "12.8px",
+          "id": "hadron-infra",
+          "industry": "Infrastructure",
+          "name": "Hadron Infra"
+        },
+        {
+          "font": "12.8px",
+          "id": "safe-tech-fire-solutions",
+          "industry": "Fire safety",
+          "name": "Safe Tech Fire Solutions"
+        },
+        {
+          "font": "12.8px",
+          "id": "sree-raghavendra-electric-services-pvt-ltd",
+          "industry": "Electrical services",
+          "name": "Sree Raghavendra Electric Services Pvt Ltd"
+        },
+        {
+          "font": "12.8px",
+          "id": "madhavaa-crafts-pvt-ltd",
+          "industry": "Crafts and manufacturing",
+          "name": "Madhavaa Crafts Pvt Ltd"
+        },
+        {
+          "font": "12.8px",
+          "id": "aaviza-technologies",
+          "industry": "Sheet metal design & manufacturing",
+          "name": "Aaviza Technologies"
+        },
+        {
+          "font": "12.8px",
+          "id": "zuppa",
+          "industry": "Drones and security technology",
+          "name": "Zuppa"
+        },
+        {
+          "font": "12.8px",
+          "id": "shopup",
+          "industry": "E-commerce / retail technology",
+          "name": "Shopup"
+        },
+        {
+          "font": "12.8px",
+          "id": "vitamed",
+          "industry": "Medical and surgical supplies",
+          "name": "Vitamed"
+        },
+        {
+          "font": "12.8px",
+          "id": "welona",
+          "industry": "Skin, hair, body and laser clinic",
+          "name": "Welona"
+        },
+        {
+          "font": "12.8px",
+          "id": "ttj",
+          "industry": "Jewellery (gold, silver, diamond)",
+          "name": "TTJ"
+        },
+        {
+          "font": "12.8px",
+          "id": "sana-s-thinai-organics",
+          "industry": "Organic and healthy foods",
+          "name": "Sana’s Thinai Organics"
+        },
+        {
+          "font": "12.8px",
+          "id": "sabari-musicals",
+          "industry": "Musical instruments",
+          "name": "Sabari Musicals"
+        },
+        {
+          "font": "12.8px",
+          "id": "srm-institute-of-science-and-technology",
+          "industry": "Education",
+          "name": "SRM Institute of Science and Technology"
+        },
+        {
+          "font": "12.8px",
+          "id": "deforay",
+          "industry": "Software for businesses",
+          "name": "Deforay"
+        },
+        {
+          "font": "12.8px",
+          "id": "kaavian-services",
+          "industry": "Global IT solutions and services",
+          "name": "Kaavian services"
+        },
+        {
+          "font": "12.8px",
+          "id": "limpar",
+          "industry": "Chemicals, commercial cleaning, sanitation and hygiene solutions",
+          "name": "Limpar"
+        },
+        {
+          "font": "12.8px",
+          "id": "woyc-od",
+          "industry": "End-to-end drop-shipping",
+          "name": "Woyc::OD"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "silq",
+          "industry": null,
+          "text": "SILQ"
+        }
+      ]
+    },
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Our clientrelationships."
+      },
+      {
+        "level": "H2",
+        "text": "Explore our expertise"
+      },
+      {
+        "level": "H2",
+        "text": "Current clients"
+      },
+      {
+        "level": "H2",
+        "text": "Clients"
+      },
+      {
+        "level": "H2",
+        "text": "Discuss yourbusiness needs."
+      }
+    ],
+    "page": "clients",
+    "scrollWidth": 360,
+    "stepper": null,
+    "theme": "dark",
+    "viewport": 375,
+    "width": 375
+  },
+  {
+    "clients": null,
+    "contact": {
+      "actions": [
+        {
+          "href": "tel:+918939715152",
+          "text": "Call our team ↗"
+        },
+        {
+          "href": "mailto:enquiry@kanjayconsulting.com",
+          "text": "Email our team ↗"
+        },
+        {
+          "href": "/theme/dark/services/#hr-support",
+          "text": "Explore HR support ↗"
+        },
+        {
+          "href": "/theme/dark/services/#gem-seller-support",
+          "text": "Explore GeM seller support ↗"
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "text": "Email about a candidate enquiry ↗"
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗"
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗"
+        }
+      ],
+      "spotlights": 3
+    },
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Let’s talk aboutyour business."
+      },
+      {
+        "level": "H2",
+        "text": "Contact our team"
+      },
+      {
+        "level": "H3",
+        "text": "Speak with our team."
+      },
+      {
+        "level": "H3",
+        "text": "Tell us what you need."
+      },
+      {
+        "level": "H2",
+        "text": "Start witha brief overview."
+      },
+      {
+        "level": "H2",
+        "text": "Looking for a role?"
+      },
+      {
+        "level": "H2",
+        "text": "Kanjay Consulting"
+      },
+      {
+        "level": "H2",
+        "text": "Connect with Kanjay."
+      }
+    ],
+    "page": "contact",
+    "scrollWidth": 360,
+    "stepper": null,
+    "theme": "dark",
+    "viewport": 375,
+    "width": 375
+  },
+  {
+    "clients": null,
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Cookie & Browser Storage Policy"
+      },
+      {
+        "level": "H2",
+        "text": "On this page"
+      },
+      {
+        "level": "H2",
+        "text": "How this website uses storage"
+      },
+      {
+        "level": "H2",
+        "text": "Your theme preference"
+      },
+      {
+        "level": "H2",
+        "text": "Your controls"
+      },
+      {
+        "level": "H2",
+        "text": "External links"
+      },
+      {
+        "level": "H2",
+        "text": "Contact"
+      },
+      {
+        "level": "H2",
+        "text": "Related policies"
+      }
+    ],
+    "page": "cookie-policy",
+    "scrollWidth": 360,
+    "stepper": null,
+    "theme": "dark",
+    "viewport": 375,
+    "width": 375
+  },
+  {
+    "clients": null,
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "About KanjayConsulting."
+      },
+      {
+        "level": "H2",
+        "text": "Our beginnings"
+      },
+      {
+        "level": "H2",
+        "text": "People, processesand the GeM portal."
+      },
+      {
+        "level": "H3",
+        "text": "For your organisationand its people."
+      },
+      {
+        "level": "H3",
+        "text": "For businesses sellingthrough GeM."
+      },
+      {
+        "level": "H2",
+        "text": "A mutually agreedapproach to your needs."
+      },
+      {
+        "level": "H3",
+        "text": "HR work"
+      },
+      {
+        "level": "H3",
+        "text": "GeM seller work"
+      },
+      {
+        "level": "H2",
+        "text": "Trust. Quality. Support."
+      },
+      {
+        "level": "H3",
+        "text": "Trust"
+      },
+      {
+        "level": "H3",
+        "text": "Quality"
+      },
+      {
+        "level": "H3",
+        "text": "Support"
+      },
+      {
+        "level": "H2",
+        "text": "Let’s discuss whatyour business needs."
+      }
+    ],
+    "page": "about",
+    "scrollWidth": 753,
+    "stepper": {
+      "enhanced": "true",
+      "links": [
+        {
+          "height": 48,
+          "href": "#hr-working-activities",
+          "text": "HR work"
+        },
+        {
+          "height": 48,
+          "href": "#gem-working-activities",
+          "text": "GeM seller work"
+        }
+      ],
+      "visible": [
+        "hr-working-activities"
+      ]
+    },
+    "theme": "light",
+    "viewport": 768,
+    "width": 768
+  },
+  {
+    "clients": {
+      "current": [
+        {
+          "font": "12.8px",
+          "id": "l-and-t",
+          "industry": "Engineering, construction and conglomerate",
+          "name": "L&T"
+        },
+        {
+          "font": "12.8px",
+          "id": "eaton",
+          "industry": "Power management and electrical equipment",
+          "name": "Eaton"
+        },
+        {
+          "font": "12.8px",
+          "id": "balmer-lawrie",
+          "industry": "Travels and Vacations",
+          "name": "Balmer Lawrie"
+        },
+        {
+          "font": "12.8px",
+          "id": "benco-group",
+          "industry": "Heat control and cooling",
+          "name": "Benco Group"
+        },
+        {
+          "font": "12.8px",
+          "id": "casol",
+          "industry": "Industrial automation",
+          "name": "CASOL"
+        },
+        {
+          "font": "12.8px",
+          "id": "techno-products",
+          "industry": "Engineering and manufacturing",
+          "name": "Techno Products"
+        },
+        {
+          "font": "12.8px",
+          "id": "hadron-infra",
+          "industry": "Infrastructure",
+          "name": "Hadron Infra"
+        },
+        {
+          "font": "12.8px",
+          "id": "safe-tech-fire-solutions",
+          "industry": "Fire safety",
+          "name": "Safe Tech Fire Solutions"
+        },
+        {
+          "font": "12.8px",
+          "id": "sree-raghavendra-electric-services-pvt-ltd",
+          "industry": "Electrical services",
+          "name": "Sree Raghavendra Electric Services Pvt Ltd"
+        },
+        {
+          "font": "12.8px",
+          "id": "madhavaa-crafts-pvt-ltd",
+          "industry": "Crafts and manufacturing",
+          "name": "Madhavaa Crafts Pvt Ltd"
+        },
+        {
+          "font": "12.8px",
+          "id": "aaviza-technologies",
+          "industry": "Sheet metal design & manufacturing",
+          "name": "Aaviza Technologies"
+        },
+        {
+          "font": "12.8px",
+          "id": "zuppa",
+          "industry": "Drones and security technology",
+          "name": "Zuppa"
+        },
+        {
+          "font": "12.8px",
+          "id": "shopup",
+          "industry": "E-commerce / retail technology",
+          "name": "Shopup"
+        },
+        {
+          "font": "12.8px",
+          "id": "vitamed",
+          "industry": "Medical and surgical supplies",
+          "name": "Vitamed"
+        },
+        {
+          "font": "12.8px",
+          "id": "welona",
+          "industry": "Skin, hair, body and laser clinic",
+          "name": "Welona"
+        },
+        {
+          "font": "12.8px",
+          "id": "ttj",
+          "industry": "Jewellery (gold, silver, diamond)",
+          "name": "TTJ"
+        },
+        {
+          "font": "12.8px",
+          "id": "sana-s-thinai-organics",
+          "industry": "Organic and healthy foods",
+          "name": "Sana’s Thinai Organics"
+        },
+        {
+          "font": "12.8px",
+          "id": "sabari-musicals",
+          "industry": "Musical instruments",
+          "name": "Sabari Musicals"
+        },
+        {
+          "font": "12.8px",
+          "id": "srm-institute-of-science-and-technology",
+          "industry": "Education",
+          "name": "SRM Institute of Science and Technology"
+        },
+        {
+          "font": "12.8px",
+          "id": "deforay",
+          "industry": "Software for businesses",
+          "name": "Deforay"
+        },
+        {
+          "font": "12.8px",
+          "id": "kaavian-services",
+          "industry": "Global IT solutions and services",
+          "name": "Kaavian services"
+        },
+        {
+          "font": "12.8px",
+          "id": "limpar",
+          "industry": "Chemicals, commercial cleaning, sanitation and hygiene solutions",
+          "name": "Limpar"
+        },
+        {
+          "font": "12.8px",
+          "id": "woyc-od",
+          "industry": "End-to-end drop-shipping",
+          "name": "Woyc::OD"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "silq",
+          "industry": null,
+          "text": "SILQ"
+        }
+      ]
+    },
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Our clientrelationships."
+      },
+      {
+        "level": "H2",
+        "text": "Explore our expertise"
+      },
+      {
+        "level": "H2",
+        "text": "Current clients"
+      },
+      {
+        "level": "H2",
+        "text": "Clients"
+      },
+      {
+        "level": "H2",
+        "text": "Discuss yourbusiness needs."
+      }
+    ],
+    "page": "clients",
+    "scrollWidth": 753,
+    "stepper": null,
+    "theme": "light",
+    "viewport": 768,
+    "width": 768
+  },
+  {
+    "clients": null,
+    "contact": {
+      "actions": [
+        {
+          "href": "tel:+918939715152",
+          "text": "Call our team ↗"
+        },
+        {
+          "href": "mailto:enquiry@kanjayconsulting.com",
+          "text": "Email our team ↗"
+        },
+        {
+          "href": "/theme/light/services/#hr-support",
+          "text": "Explore HR support ↗"
+        },
+        {
+          "href": "/theme/light/services/#gem-seller-support",
+          "text": "Explore GeM seller support ↗"
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "text": "Email about a candidate enquiry ↗"
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗"
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗"
+        }
+      ],
+      "spotlights": 3
+    },
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Let’s talk aboutyour business."
+      },
+      {
+        "level": "H2",
+        "text": "Contact our team"
+      },
+      {
+        "level": "H3",
+        "text": "Speak with our team."
+      },
+      {
+        "level": "H3",
+        "text": "Tell us what you need."
+      },
+      {
+        "level": "H2",
+        "text": "Start witha brief overview."
+      },
+      {
+        "level": "H2",
+        "text": "Looking for a role?"
+      },
+      {
+        "level": "H2",
+        "text": "Kanjay Consulting"
+      },
+      {
+        "level": "H2",
+        "text": "Connect with Kanjay."
+      }
+    ],
+    "page": "contact",
+    "scrollWidth": 753,
+    "stepper": null,
+    "theme": "light",
+    "viewport": 768,
+    "width": 768
+  },
+  {
+    "clients": null,
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Cookie & Browser Storage Policy"
+      },
+      {
+        "level": "H2",
+        "text": "On this page"
+      },
+      {
+        "level": "H2",
+        "text": "How this website uses storage"
+      },
+      {
+        "level": "H2",
+        "text": "Your theme preference"
+      },
+      {
+        "level": "H2",
+        "text": "Your controls"
+      },
+      {
+        "level": "H2",
+        "text": "External links"
+      },
+      {
+        "level": "H2",
+        "text": "Contact"
+      },
+      {
+        "level": "H2",
+        "text": "Related policies"
+      }
+    ],
+    "page": "cookie-policy",
+    "scrollWidth": 753,
+    "stepper": null,
+    "theme": "light",
+    "viewport": 768,
+    "width": 768
+  },
+  {
+    "clients": null,
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "About KanjayConsulting."
+      },
+      {
+        "level": "H2",
+        "text": "Our beginnings"
+      },
+      {
+        "level": "H2",
+        "text": "People, processesand the GeM portal."
+      },
+      {
+        "level": "H3",
+        "text": "For your organisationand its people."
+      },
+      {
+        "level": "H3",
+        "text": "For businesses sellingthrough GeM."
+      },
+      {
+        "level": "H2",
+        "text": "A mutually agreedapproach to your needs."
+      },
+      {
+        "level": "H3",
+        "text": "HR work"
+      },
+      {
+        "level": "H3",
+        "text": "GeM seller work"
+      },
+      {
+        "level": "H2",
+        "text": "Trust. Quality. Support."
+      },
+      {
+        "level": "H3",
+        "text": "Trust"
+      },
+      {
+        "level": "H3",
+        "text": "Quality"
+      },
+      {
+        "level": "H3",
+        "text": "Support"
+      },
+      {
+        "level": "H2",
+        "text": "Let’s discuss whatyour business needs."
+      }
+    ],
+    "page": "about",
+    "scrollWidth": 753,
+    "stepper": {
+      "enhanced": "true",
+      "links": [
+        {
+          "height": 48,
+          "href": "#hr-working-activities",
+          "text": "HR work"
+        },
+        {
+          "height": 48,
+          "href": "#gem-working-activities",
+          "text": "GeM seller work"
+        }
+      ],
+      "visible": [
+        "hr-working-activities"
+      ]
+    },
+    "theme": "dark",
+    "viewport": 768,
+    "width": 768
+  },
+  {
+    "clients": {
+      "current": [
+        {
+          "font": "12.8px",
+          "id": "l-and-t",
+          "industry": "Engineering, construction and conglomerate",
+          "name": "L&T"
+        },
+        {
+          "font": "12.8px",
+          "id": "eaton",
+          "industry": "Power management and electrical equipment",
+          "name": "Eaton"
+        },
+        {
+          "font": "12.8px",
+          "id": "balmer-lawrie",
+          "industry": "Travels and Vacations",
+          "name": "Balmer Lawrie"
+        },
+        {
+          "font": "12.8px",
+          "id": "benco-group",
+          "industry": "Heat control and cooling",
+          "name": "Benco Group"
+        },
+        {
+          "font": "12.8px",
+          "id": "casol",
+          "industry": "Industrial automation",
+          "name": "CASOL"
+        },
+        {
+          "font": "12.8px",
+          "id": "techno-products",
+          "industry": "Engineering and manufacturing",
+          "name": "Techno Products"
+        },
+        {
+          "font": "12.8px",
+          "id": "hadron-infra",
+          "industry": "Infrastructure",
+          "name": "Hadron Infra"
+        },
+        {
+          "font": "12.8px",
+          "id": "safe-tech-fire-solutions",
+          "industry": "Fire safety",
+          "name": "Safe Tech Fire Solutions"
+        },
+        {
+          "font": "12.8px",
+          "id": "sree-raghavendra-electric-services-pvt-ltd",
+          "industry": "Electrical services",
+          "name": "Sree Raghavendra Electric Services Pvt Ltd"
+        },
+        {
+          "font": "12.8px",
+          "id": "madhavaa-crafts-pvt-ltd",
+          "industry": "Crafts and manufacturing",
+          "name": "Madhavaa Crafts Pvt Ltd"
+        },
+        {
+          "font": "12.8px",
+          "id": "aaviza-technologies",
+          "industry": "Sheet metal design & manufacturing",
+          "name": "Aaviza Technologies"
+        },
+        {
+          "font": "12.8px",
+          "id": "zuppa",
+          "industry": "Drones and security technology",
+          "name": "Zuppa"
+        },
+        {
+          "font": "12.8px",
+          "id": "shopup",
+          "industry": "E-commerce / retail technology",
+          "name": "Shopup"
+        },
+        {
+          "font": "12.8px",
+          "id": "vitamed",
+          "industry": "Medical and surgical supplies",
+          "name": "Vitamed"
+        },
+        {
+          "font": "12.8px",
+          "id": "welona",
+          "industry": "Skin, hair, body and laser clinic",
+          "name": "Welona"
+        },
+        {
+          "font": "12.8px",
+          "id": "ttj",
+          "industry": "Jewellery (gold, silver, diamond)",
+          "name": "TTJ"
+        },
+        {
+          "font": "12.8px",
+          "id": "sana-s-thinai-organics",
+          "industry": "Organic and healthy foods",
+          "name": "Sana’s Thinai Organics"
+        },
+        {
+          "font": "12.8px",
+          "id": "sabari-musicals",
+          "industry": "Musical instruments",
+          "name": "Sabari Musicals"
+        },
+        {
+          "font": "12.8px",
+          "id": "srm-institute-of-science-and-technology",
+          "industry": "Education",
+          "name": "SRM Institute of Science and Technology"
+        },
+        {
+          "font": "12.8px",
+          "id": "deforay",
+          "industry": "Software for businesses",
+          "name": "Deforay"
+        },
+        {
+          "font": "12.8px",
+          "id": "kaavian-services",
+          "industry": "Global IT solutions and services",
+          "name": "Kaavian services"
+        },
+        {
+          "font": "12.8px",
+          "id": "limpar",
+          "industry": "Chemicals, commercial cleaning, sanitation and hygiene solutions",
+          "name": "Limpar"
+        },
+        {
+          "font": "12.8px",
+          "id": "woyc-od",
+          "industry": "End-to-end drop-shipping",
+          "name": "Woyc::OD"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "silq",
+          "industry": null,
+          "text": "SILQ"
+        }
+      ]
+    },
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Our clientrelationships."
+      },
+      {
+        "level": "H2",
+        "text": "Explore our expertise"
+      },
+      {
+        "level": "H2",
+        "text": "Current clients"
+      },
+      {
+        "level": "H2",
+        "text": "Clients"
+      },
+      {
+        "level": "H2",
+        "text": "Discuss yourbusiness needs."
+      }
+    ],
+    "page": "clients",
+    "scrollWidth": 753,
+    "stepper": null,
+    "theme": "dark",
+    "viewport": 768,
+    "width": 768
+  },
+  {
+    "clients": null,
+    "contact": {
+      "actions": [
+        {
+          "href": "tel:+918939715152",
+          "text": "Call our team ↗"
+        },
+        {
+          "href": "mailto:enquiry@kanjayconsulting.com",
+          "text": "Email our team ↗"
+        },
+        {
+          "href": "/theme/dark/services/#hr-support",
+          "text": "Explore HR support ↗"
+        },
+        {
+          "href": "/theme/dark/services/#gem-seller-support",
+          "text": "Explore GeM seller support ↗"
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "text": "Email about a candidate enquiry ↗"
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗"
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗"
+        }
+      ],
+      "spotlights": 3
+    },
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Let’s talk aboutyour business."
+      },
+      {
+        "level": "H2",
+        "text": "Contact our team"
+      },
+      {
+        "level": "H3",
+        "text": "Speak with our team."
+      },
+      {
+        "level": "H3",
+        "text": "Tell us what you need."
+      },
+      {
+        "level": "H2",
+        "text": "Start witha brief overview."
+      },
+      {
+        "level": "H2",
+        "text": "Looking for a role?"
+      },
+      {
+        "level": "H2",
+        "text": "Kanjay Consulting"
+      },
+      {
+        "level": "H2",
+        "text": "Connect with Kanjay."
+      }
+    ],
+    "page": "contact",
+    "scrollWidth": 753,
+    "stepper": null,
+    "theme": "dark",
+    "viewport": 768,
+    "width": 768
+  },
+  {
+    "clients": null,
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Cookie & Browser Storage Policy"
+      },
+      {
+        "level": "H2",
+        "text": "On this page"
+      },
+      {
+        "level": "H2",
+        "text": "How this website uses storage"
+      },
+      {
+        "level": "H2",
+        "text": "Your theme preference"
+      },
+      {
+        "level": "H2",
+        "text": "Your controls"
+      },
+      {
+        "level": "H2",
+        "text": "External links"
+      },
+      {
+        "level": "H2",
+        "text": "Contact"
+      },
+      {
+        "level": "H2",
+        "text": "Related policies"
+      }
+    ],
+    "page": "cookie-policy",
+    "scrollWidth": 753,
+    "stepper": null,
+    "theme": "dark",
+    "viewport": 768,
+    "width": 768
+  },
+  {
+    "clients": null,
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "About KanjayConsulting."
+      },
+      {
+        "level": "H2",
+        "text": "Our beginnings"
+      },
+      {
+        "level": "H2",
+        "text": "People, processesand the GeM portal."
+      },
+      {
+        "level": "H3",
+        "text": "For your organisationand its people."
+      },
+      {
+        "level": "H3",
+        "text": "For businesses sellingthrough GeM."
+      },
+      {
+        "level": "H2",
+        "text": "A mutually agreedapproach to your needs."
+      },
+      {
+        "level": "H3",
+        "text": "HR work"
+      },
+      {
+        "level": "H3",
+        "text": "GeM seller work"
+      },
+      {
+        "level": "H2",
+        "text": "Trust. Quality. Support."
+      },
+      {
+        "level": "H3",
+        "text": "Trust"
+      },
+      {
+        "level": "H3",
+        "text": "Quality"
+      },
+      {
+        "level": "H3",
+        "text": "Support"
+      },
+      {
+        "level": "H2",
+        "text": "Let’s discuss whatyour business needs."
+      }
+    ],
+    "page": "about",
+    "scrollWidth": 1425,
+    "stepper": {
+      "enhanced": "true",
+      "links": [
+        {
+          "height": 48,
+          "href": "#hr-working-activities",
+          "text": "HR work"
+        },
+        {
+          "height": 59.3125,
+          "href": "#gem-working-activities",
+          "text": "GeM seller work"
+        }
+      ],
+      "visible": [
+        "hr-working-activities"
+      ]
+    },
+    "theme": "light",
+    "viewport": 1440,
+    "width": 1440
+  },
+  {
+    "clients": {
+      "current": [
+        {
+          "font": "12.8px",
+          "id": "l-and-t",
+          "industry": "Engineering, construction and conglomerate",
+          "name": "L&T"
+        },
+        {
+          "font": "12.8px",
+          "id": "eaton",
+          "industry": "Power management and electrical equipment",
+          "name": "Eaton"
+        },
+        {
+          "font": "12.8px",
+          "id": "balmer-lawrie",
+          "industry": "Travels and Vacations",
+          "name": "Balmer Lawrie"
+        },
+        {
+          "font": "12.8px",
+          "id": "benco-group",
+          "industry": "Heat control and cooling",
+          "name": "Benco Group"
+        },
+        {
+          "font": "12.8px",
+          "id": "casol",
+          "industry": "Industrial automation",
+          "name": "CASOL"
+        },
+        {
+          "font": "12.8px",
+          "id": "techno-products",
+          "industry": "Engineering and manufacturing",
+          "name": "Techno Products"
+        },
+        {
+          "font": "12.8px",
+          "id": "hadron-infra",
+          "industry": "Infrastructure",
+          "name": "Hadron Infra"
+        },
+        {
+          "font": "12.8px",
+          "id": "safe-tech-fire-solutions",
+          "industry": "Fire safety",
+          "name": "Safe Tech Fire Solutions"
+        },
+        {
+          "font": "12.8px",
+          "id": "sree-raghavendra-electric-services-pvt-ltd",
+          "industry": "Electrical services",
+          "name": "Sree Raghavendra Electric Services Pvt Ltd"
+        },
+        {
+          "font": "12.8px",
+          "id": "madhavaa-crafts-pvt-ltd",
+          "industry": "Crafts and manufacturing",
+          "name": "Madhavaa Crafts Pvt Ltd"
+        },
+        {
+          "font": "12.8px",
+          "id": "aaviza-technologies",
+          "industry": "Sheet metal design & manufacturing",
+          "name": "Aaviza Technologies"
+        },
+        {
+          "font": "12.8px",
+          "id": "zuppa",
+          "industry": "Drones and security technology",
+          "name": "Zuppa"
+        },
+        {
+          "font": "12.8px",
+          "id": "shopup",
+          "industry": "E-commerce / retail technology",
+          "name": "Shopup"
+        },
+        {
+          "font": "12.8px",
+          "id": "vitamed",
+          "industry": "Medical and surgical supplies",
+          "name": "Vitamed"
+        },
+        {
+          "font": "12.8px",
+          "id": "welona",
+          "industry": "Skin, hair, body and laser clinic",
+          "name": "Welona"
+        },
+        {
+          "font": "12.8px",
+          "id": "ttj",
+          "industry": "Jewellery (gold, silver, diamond)",
+          "name": "TTJ"
+        },
+        {
+          "font": "12.8px",
+          "id": "sana-s-thinai-organics",
+          "industry": "Organic and healthy foods",
+          "name": "Sana’s Thinai Organics"
+        },
+        {
+          "font": "12.8px",
+          "id": "sabari-musicals",
+          "industry": "Musical instruments",
+          "name": "Sabari Musicals"
+        },
+        {
+          "font": "12.8px",
+          "id": "srm-institute-of-science-and-technology",
+          "industry": "Education",
+          "name": "SRM Institute of Science and Technology"
+        },
+        {
+          "font": "12.8px",
+          "id": "deforay",
+          "industry": "Software for businesses",
+          "name": "Deforay"
+        },
+        {
+          "font": "12.8px",
+          "id": "kaavian-services",
+          "industry": "Global IT solutions and services",
+          "name": "Kaavian services"
+        },
+        {
+          "font": "12.8px",
+          "id": "limpar",
+          "industry": "Chemicals, commercial cleaning, sanitation and hygiene solutions",
+          "name": "Limpar"
+        },
+        {
+          "font": "12.8px",
+          "id": "woyc-od",
+          "industry": "End-to-end drop-shipping",
+          "name": "Woyc::OD"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "silq",
+          "industry": null,
+          "text": "SILQ"
+        }
+      ]
+    },
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Our clientrelationships."
+      },
+      {
+        "level": "H2",
+        "text": "Explore our expertise"
+      },
+      {
+        "level": "H2",
+        "text": "Current clients"
+      },
+      {
+        "level": "H2",
+        "text": "Clients"
+      },
+      {
+        "level": "H2",
+        "text": "Discuss yourbusiness needs."
+      }
+    ],
+    "page": "clients",
+    "scrollWidth": 1425,
+    "stepper": null,
+    "theme": "light",
+    "viewport": 1440,
+    "width": 1440
+  },
+  {
+    "clients": null,
+    "contact": {
+      "actions": [
+        {
+          "href": "tel:+918939715152",
+          "text": "Call our team ↗"
+        },
+        {
+          "href": "mailto:enquiry@kanjayconsulting.com",
+          "text": "Email our team ↗"
+        },
+        {
+          "href": "/theme/light/services/#hr-support",
+          "text": "Explore HR support ↗"
+        },
+        {
+          "href": "/theme/light/services/#gem-seller-support",
+          "text": "Explore GeM seller support ↗"
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "text": "Email about a candidate enquiry ↗"
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗"
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗"
+        }
+      ],
+      "spotlights": 3
+    },
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Let’s talk aboutyour business."
+      },
+      {
+        "level": "H2",
+        "text": "Contact our team"
+      },
+      {
+        "level": "H3",
+        "text": "Speak with our team."
+      },
+      {
+        "level": "H3",
+        "text": "Tell us what you need."
+      },
+      {
+        "level": "H2",
+        "text": "Start witha brief overview."
+      },
+      {
+        "level": "H2",
+        "text": "Looking for a role?"
+      },
+      {
+        "level": "H2",
+        "text": "Kanjay Consulting"
+      },
+      {
+        "level": "H2",
+        "text": "Connect with Kanjay."
+      }
+    ],
+    "page": "contact",
+    "scrollWidth": 1425,
+    "stepper": null,
+    "theme": "light",
+    "viewport": 1440,
+    "width": 1440
+  },
+  {
+    "clients": null,
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Cookie & Browser Storage Policy"
+      },
+      {
+        "level": "H2",
+        "text": "On this page"
+      },
+      {
+        "level": "H2",
+        "text": "How this website uses storage"
+      },
+      {
+        "level": "H2",
+        "text": "Your theme preference"
+      },
+      {
+        "level": "H2",
+        "text": "Your controls"
+      },
+      {
+        "level": "H2",
+        "text": "External links"
+      },
+      {
+        "level": "H2",
+        "text": "Contact"
+      },
+      {
+        "level": "H2",
+        "text": "Related policies"
+      }
+    ],
+    "page": "cookie-policy",
+    "scrollWidth": 1425,
+    "stepper": null,
+    "theme": "light",
+    "viewport": 1440,
+    "width": 1440
+  },
+  {
+    "clients": null,
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "About KanjayConsulting."
+      },
+      {
+        "level": "H2",
+        "text": "Our beginnings"
+      },
+      {
+        "level": "H2",
+        "text": "People, processesand the GeM portal."
+      },
+      {
+        "level": "H3",
+        "text": "For your organisationand its people."
+      },
+      {
+        "level": "H3",
+        "text": "For businesses sellingthrough GeM."
+      },
+      {
+        "level": "H2",
+        "text": "A mutually agreedapproach to your needs."
+      },
+      {
+        "level": "H3",
+        "text": "HR work"
+      },
+      {
+        "level": "H3",
+        "text": "GeM seller work"
+      },
+      {
+        "level": "H2",
+        "text": "Trust. Quality. Support."
+      },
+      {
+        "level": "H3",
+        "text": "Trust"
+      },
+      {
+        "level": "H3",
+        "text": "Quality"
+      },
+      {
+        "level": "H3",
+        "text": "Support"
+      },
+      {
+        "level": "H2",
+        "text": "Let’s discuss whatyour business needs."
+      }
+    ],
+    "page": "about",
+    "scrollWidth": 1425,
+    "stepper": {
+      "enhanced": "true",
+      "links": [
+        {
+          "height": 48,
+          "href": "#hr-working-activities",
+          "text": "HR work"
+        },
+        {
+          "height": 59.3125,
+          "href": "#gem-working-activities",
+          "text": "GeM seller work"
+        }
+      ],
+      "visible": [
+        "hr-working-activities"
+      ]
+    },
+    "theme": "dark",
+    "viewport": 1440,
+    "width": 1440
+  },
+  {
+    "clients": {
+      "current": [
+        {
+          "font": "12.8px",
+          "id": "l-and-t",
+          "industry": "Engineering, construction and conglomerate",
+          "name": "L&T"
+        },
+        {
+          "font": "12.8px",
+          "id": "eaton",
+          "industry": "Power management and electrical equipment",
+          "name": "Eaton"
+        },
+        {
+          "font": "12.8px",
+          "id": "balmer-lawrie",
+          "industry": "Travels and Vacations",
+          "name": "Balmer Lawrie"
+        },
+        {
+          "font": "12.8px",
+          "id": "benco-group",
+          "industry": "Heat control and cooling",
+          "name": "Benco Group"
+        },
+        {
+          "font": "12.8px",
+          "id": "casol",
+          "industry": "Industrial automation",
+          "name": "CASOL"
+        },
+        {
+          "font": "12.8px",
+          "id": "techno-products",
+          "industry": "Engineering and manufacturing",
+          "name": "Techno Products"
+        },
+        {
+          "font": "12.8px",
+          "id": "hadron-infra",
+          "industry": "Infrastructure",
+          "name": "Hadron Infra"
+        },
+        {
+          "font": "12.8px",
+          "id": "safe-tech-fire-solutions",
+          "industry": "Fire safety",
+          "name": "Safe Tech Fire Solutions"
+        },
+        {
+          "font": "12.8px",
+          "id": "sree-raghavendra-electric-services-pvt-ltd",
+          "industry": "Electrical services",
+          "name": "Sree Raghavendra Electric Services Pvt Ltd"
+        },
+        {
+          "font": "12.8px",
+          "id": "madhavaa-crafts-pvt-ltd",
+          "industry": "Crafts and manufacturing",
+          "name": "Madhavaa Crafts Pvt Ltd"
+        },
+        {
+          "font": "12.8px",
+          "id": "aaviza-technologies",
+          "industry": "Sheet metal design & manufacturing",
+          "name": "Aaviza Technologies"
+        },
+        {
+          "font": "12.8px",
+          "id": "zuppa",
+          "industry": "Drones and security technology",
+          "name": "Zuppa"
+        },
+        {
+          "font": "12.8px",
+          "id": "shopup",
+          "industry": "E-commerce / retail technology",
+          "name": "Shopup"
+        },
+        {
+          "font": "12.8px",
+          "id": "vitamed",
+          "industry": "Medical and surgical supplies",
+          "name": "Vitamed"
+        },
+        {
+          "font": "12.8px",
+          "id": "welona",
+          "industry": "Skin, hair, body and laser clinic",
+          "name": "Welona"
+        },
+        {
+          "font": "12.8px",
+          "id": "ttj",
+          "industry": "Jewellery (gold, silver, diamond)",
+          "name": "TTJ"
+        },
+        {
+          "font": "12.8px",
+          "id": "sana-s-thinai-organics",
+          "industry": "Organic and healthy foods",
+          "name": "Sana’s Thinai Organics"
+        },
+        {
+          "font": "12.8px",
+          "id": "sabari-musicals",
+          "industry": "Musical instruments",
+          "name": "Sabari Musicals"
+        },
+        {
+          "font": "12.8px",
+          "id": "srm-institute-of-science-and-technology",
+          "industry": "Education",
+          "name": "SRM Institute of Science and Technology"
+        },
+        {
+          "font": "12.8px",
+          "id": "deforay",
+          "industry": "Software for businesses",
+          "name": "Deforay"
+        },
+        {
+          "font": "12.8px",
+          "id": "kaavian-services",
+          "industry": "Global IT solutions and services",
+          "name": "Kaavian services"
+        },
+        {
+          "font": "12.8px",
+          "id": "limpar",
+          "industry": "Chemicals, commercial cleaning, sanitation and hygiene solutions",
+          "name": "Limpar"
+        },
+        {
+          "font": "12.8px",
+          "id": "woyc-od",
+          "industry": "End-to-end drop-shipping",
+          "name": "Woyc::OD"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "silq",
+          "industry": null,
+          "text": "SILQ"
+        }
+      ]
+    },
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Our clientrelationships."
+      },
+      {
+        "level": "H2",
+        "text": "Explore our expertise"
+      },
+      {
+        "level": "H2",
+        "text": "Current clients"
+      },
+      {
+        "level": "H2",
+        "text": "Clients"
+      },
+      {
+        "level": "H2",
+        "text": "Discuss yourbusiness needs."
+      }
+    ],
+    "page": "clients",
+    "scrollWidth": 1425,
+    "stepper": null,
+    "theme": "dark",
+    "viewport": 1440,
+    "width": 1440
+  },
+  {
+    "clients": null,
+    "contact": {
+      "actions": [
+        {
+          "href": "tel:+918939715152",
+          "text": "Call our team ↗"
+        },
+        {
+          "href": "mailto:enquiry@kanjayconsulting.com",
+          "text": "Email our team ↗"
+        },
+        {
+          "href": "/theme/dark/services/#hr-support",
+          "text": "Explore HR support ↗"
+        },
+        {
+          "href": "/theme/dark/services/#gem-seller-support",
+          "text": "Explore GeM seller support ↗"
+        },
+        {
+          "href": "mailto:hr@kanjayconsulting.com",
+          "text": "Email about a candidate enquiry ↗"
+        },
+        {
+          "href": "https://www.linkedin.com/company/kanjay-consulting/",
+          "text": "LinkedIn ↗"
+        },
+        {
+          "href": "https://www.facebook.com/kanjayconsulting",
+          "text": "Facebook ↗"
+        }
+      ],
+      "spotlights": 3
+    },
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Let’s talk aboutyour business."
+      },
+      {
+        "level": "H2",
+        "text": "Contact our team"
+      },
+      {
+        "level": "H3",
+        "text": "Speak with our team."
+      },
+      {
+        "level": "H3",
+        "text": "Tell us what you need."
+      },
+      {
+        "level": "H2",
+        "text": "Start witha brief overview."
+      },
+      {
+        "level": "H2",
+        "text": "Looking for a role?"
+      },
+      {
+        "level": "H2",
+        "text": "Kanjay Consulting"
+      },
+      {
+        "level": "H2",
+        "text": "Connect with Kanjay."
+      }
+    ],
+    "page": "contact",
+    "scrollWidth": 1425,
+    "stepper": null,
+    "theme": "dark",
+    "viewport": 1440,
+    "width": 1440
+  },
+  {
+    "clients": null,
+    "contact": null,
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Cookie & Browser Storage Policy"
+      },
+      {
+        "level": "H2",
+        "text": "On this page"
+      },
+      {
+        "level": "H2",
+        "text": "How this website uses storage"
+      },
+      {
+        "level": "H2",
+        "text": "Your theme preference"
+      },
+      {
+        "level": "H2",
+        "text": "Your controls"
+      },
+      {
+        "level": "H2",
+        "text": "External links"
+      },
+      {
+        "level": "H2",
+        "text": "Contact"
+      },
+      {
+        "level": "H2",
+        "text": "Related policies"
+      }
+    ],
+    "page": "cookie-policy",
+    "scrollWidth": 1425,
+    "stepper": null,
+    "theme": "dark",
+    "viewport": 1440,
+    "width": 1440
+  }
+]

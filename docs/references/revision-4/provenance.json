@@ -1,0 +1,12 @@
+{
+  "source": "Owner-identified updated ZIP: content/company-information.md",
+  "fileSha256": "cbb192cfa33c5e9a9b59c5dc30acb66b9faf279d9baef6ca8c1a854a12aa8ae9",
+  "use": "Company-to-industry mappings only; taglines omitted; display names preserved",
+  "aliases": [
+    "Safe Tech Fire Solution → Safe Tech Fire Solutions",
+    "ShopUp → Shopup",
+    "Kaaviyan services → Kaavian services"
+  ],
+  "stepperSource": "Synced ZIP components/stepper/code.ts and supplied CSS, read-only copies retained",
+  "stepperLicense": "Existing React Bits MIT + Commons Clause notice retained in docs/references/phase3-upstream/react-bits-LICENSE.md"
+}

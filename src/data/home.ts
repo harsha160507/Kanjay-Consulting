@@ -12,10 +12,3 @@ export const homePaths = [
     { id: 'order-contract-support', name: 'Order & Contract Support', summary: 'We assist with order acceptance, contract requirement tracking, delivery coordination and portal invoicing, helping you manage commitments and follow-ups.' },
   ] },
 ] as const;
-
-// Explicit website approvals in the owner's client-approvals.md; existing assets.
-export const homeClients = [
-  { file: 'EATON', name: 'Eaton' }, { file: 'AAVIZA', name: 'Aaviza Technologies' },
-  { file: 'DEFORAY', name: 'Deforay' }, { file: 'ZUPPA', name: 'Zuppa' },
-  { file: 'WOYC', name: 'Woyc::OD' },
-] as const;

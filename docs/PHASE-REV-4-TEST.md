@@ -1,0 +1,41 @@
+# Design revision Phase 4 — acceptance test
+
+**Resolved on 1 November 2026:** the owner-authorized Cookie-only notice fix closes criterion (c). All seven criteria pass for the executed checks in the [fresh rerun](PHASE-REV-4-COOKIE-FIX.md). The initial failure and evidence below remain historical; unperformed manual/production checks remain NOT TESTED.
+
+1 November 2026. Application tested: **7507ca604996e8560d5c58d83182b6b2472841c7**, existing draft PR #11. Test/report/evidence only; no application changes, merge or deployment. **Overall: not fully accepted — criterion (c) has remaining audit-style wording.**
+
+## Acceptance criteria and method
+
+The owner's seven criteria below are the contract. PASS is scoped to observed/asserted behaviour; NOT TESTED is not inferred from source or an automated score. The subsequent approval of SILQ's **E-commerce / retail** industry caption remains in force: criterion (a)'s description restriction is tested as no relationship/engagement/service description or current/past status, with that explicitly approved industry category retained. No claim is made that SILQ has no descriptive text whatsoever.
+
+Fresh build: 34 HTML pages, sitemap, ten inline-script CSP hashes. Fresh `verify-clients.mjs` passes all root/light/dark variants. Browser: ChatGPT in-app browser, 375px phone and 1440px desktop viewports. All 34 generated entry URLs were opened at both widths (**68 cases**), covering explicit light/dark routes including the existing prototype routes and 404. Unthemed entry URLs may redirect to the stored themed equivalent; both requested and actual paths are recorded. Static files and all 1,304 internal link/fragment occurrences were independently checked. This is local layout/navigation evidence, not production or full accessibility certification.
+
+The no-JS check uses the same built HTML under an enforced HTTP **`script-src 'none'`** policy. The browser-wide JavaScript preference itself was not changed. About was checked at 375/768/1440px in both themes (six cases). Source/build assertions are separate from actual browser observations.
+
+## Results
+
+| Criterion | Result | Evidence |
+|---|---|---|
+| **(a)** SILQ in Clients and supplied-asset Home loop, no status/engagement description | **PASS with approved industry caption retained** | Asset exists and responds 200. One Clients grid has 24 names/logos; SILQ shows only its name and owner-approved “E-commerce / retail” caption, under neutral “Clients”. No separate section/current/past/service/testimonial claim. Home's hydrated visual loop contains four decorative SILQ image instances among its repeated sets; the independent static grid contains SILQ and 24 logos, with no industry captions. [clients-silq.json](references/revision-4-test/clients-silq.json), [home-silq.json](references/revision-4-test/home-silq.json), [http-method.json](references/revision-4-test/http-method.json). Repeated visual instances are loop clones, not additional clients. |
+| **(b)** Updated Clients verification | **PASS** | Fresh `node scripts/verify-clients.mjs` exits 0, verifying live counts, single grid, captions, original approvals/assets, IDs/headings and links on all three variants. [verify-clients.txt](references/revision-4-test/verify-clients.txt). |
+| **(c)** Cookie wording verbatim, no remaining internal-audit wording | **FAIL as a complete criterion** | **Approved substantive body PASS:** exact H1, five section headings and every paragraph match the supplied text word for word, including quotes/punctuation. **Remaining audit wording FAIL:** an extra explanatory sentence remains visible in the draft notice outside those sections. See the finding below, [cookie-rendered.json](references/revision-4-test/cookie-rendered.json) and [screenshot](references/revision-4-test/cookie-audit-note.png). Required review banners/draft labels are deliberately not treated as failures. |
+| **(d)** Only real About activities; all text without JS | **PASS — scripts blocked** | Both activity sentences exactly match the pre-revision About text in the Phase 1 baseline, not merely the new data module. Both panels remain visible and readable in all six no-script cases; enhanced controls remain hidden. Main section opacity is 1, visibility visible, no hidden section; the native GeM link reaches/focuses the correct visible panel. [about-script-blocked.json](references/revision-4-test/about-script-blocked.json), [acceptance-results.json](references/revision-4-test/acceptance-results.json). |
+| **(e)** Contact Spotlight panels in both themes | **PASS for observed rendering** | Three disabled/static Spotlight panels on Contact (phone, email, social), in root/light/dark route entry cases at both widths. Positive panel widths, content within panel width, no box shadow and light/grain/border/edge overlays hidden. Original contact copy/actions remain present. [all-route-layouts.json](references/revision-4-test/all-route-layouts.json), [light screenshot](references/revision-4-test/contact-light.png), [dark screenshot](references/revision-4-test/contact-dark.png). These are desktop captures; mobile layout evidence is measured viewport geometry. |
+| **(f)** Review banners and draft labels unchanged | **PASS** | Exact before/after HTML comparison of review banners and entire footers across all 34 pages; “Policy drafts” remains on every browser-rendered entry. The Cookie draft notice's labels were also observed in the browser. [acceptance-results.json](references/revision-4-test/acceptance-results.json), [all-route-layouts.json](references/revision-4-test/all-route-layouts.json); baseline: `references/revision-4/before.json`. |
+| **(g)** All pages on desktop/mobile in both themes | **PASS for measured layout** | 68 entry-URL/width cases: actual width matches requested 375/1440, no horizontal overflow, exactly one visible main H1, main content displayed and required footer label present. All explicit light/dark page variants covered. Raw built route/fragment targets also exist. [route-inventory.json](references/revision-4-test/route-inventory.json), [all-route-layouts.json](references/revision-4-test/all-route-layouts.json), [acceptance-results.json](references/revision-4-test/acceptance-results.json). No claim of physical-device or complete accessibility testing. |
+
+## Finding requiring a fix
+
+The Cookie Policy's `.draft-note` still includes:
+
+> Technical descriptions concern the current redesign; review notes identify unresolved business or legal wording.
+
+This is audit-style explanatory text outside the approved Cookie wording. The policy sections themselves are exact. Recommended narrow fix: remove that sentence **from Cookie Policy only**, preserving the internal-review banner, draft-status labels/date, footer “Policy drafts” and other policies. No fix was applied during this audit. Criterion (c) must be retested after the change; this report is not automatic release approval.
+
+## Limits and evidence
+
+**NOT TESTED:** actual screen-reader speech, physical touch, runtime OS/browser reduced-motion switching, browser-wide JS-off setting, actual contact-app launch/delivery, fresh Lighthouse/performance and production hosting. The earlier Phase 3 runtime reduced-motion acceptance item remains open. No automated score substitutes for these checks. This audit does not claim that every interaction on every page was exhaustively tested; criterion (g) covers layout/readability and recorded link targets.
+
+`scripts/verify-revision4-audit.mjs` compares the saved current browser observations against approved text, historical source and generated pages. It validates the evidence and writes the explicit **FAIL** finding to `acceptance-results.json`; its successful execution is not an overall acceptance pass. To reproduce: `npm run build`, `node scripts/verify-clients.mjs`, then rerun browser observations before `node scripts/verify-revision4-audit.mjs`. Saved observations are tied to the tested commit.
+
+Synced ZIP SHA-256 remains `c2601273dc9bfeca079c7f21e596d2fb7b7e06e9fbf8d0139b7e4135a1ae0606`. Source files, approvals and assets were unchanged. No invented public claims or policy fixes were added. Draft PR only; no merge/deploy. The normal local preview remains running; temporary script-blocked server is stopped after the audit.

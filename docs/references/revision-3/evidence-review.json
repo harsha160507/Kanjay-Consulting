@@ -1,0 +1,118 @@
+{
+  "status": "PASS",
+  "scope": "Text, supplied UI files and decompressed Lighthouse files checked for common credentials/private keys and unnecessary local user paths. Screenshots reviewed as website viewports. Approved business contacts, old mailbox regression snapshots and localhost URLs are intentional.",
+  "files": [
+    {
+      "file": "docs/references/revision-3/cold-deep-links.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/desktop-services-before-faq-contrast.json.gz",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/desktop-services.json.gz",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/email-baseline.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/external-deep-links.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/fallback-interaction.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/foundation-regression.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/history-back.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/index-navigation.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/keyboard.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/lh-desktop.config.cjs",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/lh-mobile.config.cjs",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/mobile-services-before-faq-contrast.json.gz",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/mobile-services.json.gz",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/performance-before-faq-contrast.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/performance-summary.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/responsive-browser.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/revision-checks.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/runtime-content.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/script-blocked-browser.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/security-and-faq.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/service-baseline.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/supplied-provenance.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/verification-log.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/supplied/service-card-pager.css",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/supplied/ServiceCardPager.tsx.txt",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-3/supplied/services-page-integration.patch.txt",
+      "hits": []
+    },
+    {
+      "file": "docs/PHASE-REV-3.md",
+      "hits": []
+    }
+  ]
+}

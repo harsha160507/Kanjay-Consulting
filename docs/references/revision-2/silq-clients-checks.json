@@ -1,0 +1,22 @@
+[
+  {
+    "check": "clients",
+    "status": "PASS"
+  },
+  {
+    "check": "foundation",
+    "status": "PASS"
+  },
+  {
+    "check": "home",
+    "status": "PASS"
+  },
+  {
+    "check": "revision1",
+    "status": "PASS"
+  },
+  {
+    "check": "revision2",
+    "status": "PASS"
+  }
+]

@@ -10,7 +10,7 @@ for(const url of variants){
   assert.doesNotMatch(html,/<form\b|<iframe\b/);
   assert.ok(!html.includes('client:only'));
   if(url.includes('/static/'))assert.ok(!html.includes('<astro-island'),`${url}: static baseline has no hydrated islands`);
-  else assert.equal([...html.matchAll(/<astro-island\b/g)].length,4,`${url}: four isolated experiments`);
+  else assert.equal([...html.matchAll(/<astro-island\b/g)].length,3,`${url}: three hydrated experiments; hero is static`);
   for(const [,href]of html.matchAll(/href="(\/[^"]*)"/g)){
     const path=href.split('#')[0];
     assert.ok(existsSync(`dist${path.endsWith('/')?path+'index.html':path}`),`${url}: target ${href}`);

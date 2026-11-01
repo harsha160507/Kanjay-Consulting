@@ -1,0 +1,263 @@
+{
+  "limitations": "Revision 2: one local Home run per mobile/desktop preset; same Phase 10 configuration. Not a production or controlled regression guarantee. Raw inline bytes inside HTML are not separately transferred.",
+  "runs": [
+    {
+      "preset": "mobile",
+      "page": "home",
+      "url": "http://127.0.0.1:4340/theme/light/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T21:34:55.435Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "mobile",
+        "throttling": {
+          "rttMs": 150,
+          "throughputKbps": 1638.4,
+          "requestLatencyMs": 562.5,
+          "downloadThroughputKbps": 1474.5600000000002,
+          "uploadThroughputKbps": 675,
+          "cpuSlowdownMultiplier": 4
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": true,
+          "width": 412,
+          "height": 823,
+          "deviceScaleFactor": 1.75,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 89,
+      "automatedAccessibility": 100,
+      "lcpMs": 1342.6629,
+      "tbtMs": 419.16854999999987,
+      "cls": 0.002635247697204756,
+      "externalJsTransferBytes": 87834,
+      "inlineExecutableRawBytes": 6847,
+      "inlineJsonLdRawBytes": 424,
+      "failures": [
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/light/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "mobile-home-before-defer.json.gz",
+      "sha256": "e5405cbf6870ed471e04e72e3315e8c93a68c2b54d59c91ff9ea776ccbf274b0",
+      "localPathRedactions": 0
+    },
+    {
+      "preset": "desktop",
+      "page": "home",
+      "url": "http://127.0.0.1:4340/theme/dark/",
+      "lighthouseVersion": "13.6.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "fetchTime": "2026-10-31T21:35:15.227Z",
+      "settings": {
+        "output": [
+          "json"
+        ],
+        "maxWaitForFcp": 30000,
+        "maxWaitForLoad": 45000,
+        "pauseAfterFcpMs": 1000,
+        "pauseAfterLoadMs": 1000,
+        "networkQuietThresholdMs": 1000,
+        "cpuQuietThresholdMs": 1000,
+        "formFactor": "desktop",
+        "throttling": {
+          "rttMs": 40,
+          "throughputKbps": 10240,
+          "requestLatencyMs": 0,
+          "downloadThroughputKbps": 0,
+          "uploadThroughputKbps": 0,
+          "cpuSlowdownMultiplier": 1
+        },
+        "throttlingMethod": "simulate",
+        "screenEmulation": {
+          "mobile": false,
+          "width": 1350,
+          "height": 940,
+          "deviceScaleFactor": 1,
+          "disabled": false
+        },
+        "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "auditMode": false,
+        "gatherMode": false,
+        "clearStorageTypes": [
+          "file_systems",
+          "shader_cache",
+          "service_workers",
+          "cache_storage"
+        ],
+        "disableStorageReset": false,
+        "debugNavigation": false,
+        "channel": "cli",
+        "usePassiveGathering": false,
+        "disableFullPageScreenshot": false,
+        "skipAboutBlank": false,
+        "blankPage": "about:blank",
+        "ignoreStatusCode": false,
+        "locale": "en-US",
+        "blockedUrlPatterns": null,
+        "additionalTraceCategories": null,
+        "extraHeaders": null,
+        "precomputedLanternData": null,
+        "onlyAudits": null,
+        "onlyCategories": [
+          "performance",
+          "accessibility"
+        ],
+        "skipAudits": null
+      },
+      "performance": 100,
+      "automatedAccessibility": 100,
+      "lcpMs": 283.3031,
+      "tbtMs": 8.674224999999979,
+      "cls": 0.007938630456251941,
+      "externalJsTransferBytes": 87834,
+      "inlineExecutableRawBytes": 6847,
+      "inlineJsonLdRawBytes": 424,
+      "failures": [
+        {
+          "id": "bf-cache",
+          "title": "Page prevented back/forward cache restoration",
+          "description": "Many navigations are performed by going back to a previous page, or forwards again. The back/forward cache (bfcache) can speed up these return navigations. [Learn more about the bfcache](https://developer.chrome.com/docs/lighthouse/performance/bf-cache/)",
+          "details": {
+            "type": "table",
+            "headings": [
+              {
+                "key": "reason",
+                "valueType": "text",
+                "subItemsHeading": {
+                  "key": "frameUrl",
+                  "valueType": "url"
+                },
+                "label": "Failure reason"
+              },
+              {
+                "key": "failureType",
+                "valueType": "text",
+                "label": "Failure type"
+              }
+            ],
+            "items": [
+              {
+                "reason": "Pages whose main resource has cache-control:no-store can’t enter back/forward cache",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/dark/"
+                    }
+                  ]
+                },
+                "protocolReason": "MainResourceHasCacheControlNoStore"
+              },
+              {
+                "reason": "Back/forward cache is disabled because some JavaScript network request received resource with Cache-Control: no-store header",
+                "failureType": "Not actionable",
+                "subItems": {
+                  "type": "subitems",
+                  "items": [
+                    {
+                      "frameUrl": "http://127.0.0.1:4340/theme/dark/"
+                    }
+                  ]
+                },
+                "protocolReason": "JsNetworkRequestReceivedCacheControlNoStoreResource"
+              }
+            ]
+          }
+        }
+      ],
+      "rawFile": "desktop-home-before-defer.json.gz",
+      "sha256": "cc8be27723446bbad711a725b2a538956067f02269efc21a983f2a5fa66a6aa3",
+      "localPathRedactions": 0
+    }
+  ]
+}

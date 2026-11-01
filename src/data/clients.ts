@@ -1,4 +1,5 @@
 // Owner-approved current relationships and exact display names from content/client-approvals.md.
+// SILQ is approved alongside the other clients, with no current/past status claim.
 // No service mapping, testimonial or result is inferred from logo permission.
 export const currentClients = [
   {
@@ -207,5 +208,17 @@ export const currentClients = [
     "width": 376,
     "height": 126,
     "darkBacking": true
+  }
+] as const;
+
+// Owner-approved name/logo and industry; current/past status remains unspecified.
+export const neutralClients = [
+  {
+    "id": "silq",
+    "name": "SILQ",
+    "image": "/images/clients/silq.webp",
+    "width": 412,
+    "height": 148,
+    "darkBacking": false
   }
 ] as const;

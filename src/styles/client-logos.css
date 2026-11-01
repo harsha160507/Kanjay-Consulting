@@ -1,0 +1,21 @@
+/* Artwork stays unchanged. Equal-area sizing and existing reverse-art metadata
+   work on a light panel in either website theme. */
+.client-logo-art {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 180px;
+  max-width: 100%;
+  height: 100px;
+  padding: 12px;
+  border-radius: 6px;
+  background: #fff;
+}
+.client-logo-art[data-reversed] { background: #25364a; }
+.client-logo-art img {
+  display: block;
+  width: var(--logo-width);
+  height: var(--logo-height);
+  max-width: 100%;
+  object-fit: contain;
+}

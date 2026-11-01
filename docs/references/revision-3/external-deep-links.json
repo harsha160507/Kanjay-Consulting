@@ -1,0 +1,14 @@
+[
+  {
+    "check": "unprefixed direct URL",
+    "active": "bid-search-analysis",
+    "hash": "#bid-search-analysis",
+    "path": "/theme/dark/services/"
+  },
+  {
+    "check": "Home service-summary link",
+    "active": "bid-search-analysis",
+    "hash": "#bid-search-analysis",
+    "path": "/theme/light/services/"
+  }
+]

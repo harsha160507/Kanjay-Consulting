@@ -1,0 +1,15 @@
+{
+  "source": "SILQ.png (owner attachment, 1 November 2026)",
+  "target": "public/images/clients/silq.webp",
+  "encoding": "lossless WebP, effort 6, no resize/recolour/crop/flatten",
+  "width": 412,
+  "height": 148,
+  "sourceHasAlpha": true,
+  "transparentPixels": 37570,
+  "alphaDifferences": 0,
+  "visibleColourDifferences": 0,
+  "sourceBytes": 20858,
+  "webpBytes": 12122,
+  "sourceSHA256": "b9c429b683724344823cc297cefd93020ac480b27a084e91a751170e8aef40e6",
+  "webpSHA256": "3c9b982b88c042b15892b80a32826de1a8c3cee19c677ee52739332e839bf0df"
+}

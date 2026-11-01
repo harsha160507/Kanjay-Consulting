@@ -1,0 +1,704 @@
+[
+  {
+    "route": "home",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "HR support.GeM seller guidance."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "about/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "About KanjayConsulting."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "services/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "HR support.GeM seller services."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "clients/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Our clientrelationships."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "contact/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Let’s talk aboutyour business."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "terms-of-use/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Terms of Use"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "privacy-policy/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Privacy Policy"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "cookie-policy/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Cookie Policy"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "disclaimer/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Disclaimer"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "home",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "HR support.GeM seller guidance."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "about/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "About KanjayConsulting."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "services/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "HR support.GeM seller services."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "clients/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Our clientrelationships."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "contact/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Let’s talk aboutyour business."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "terms-of-use/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Terms of Use"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "privacy-policy/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Privacy Policy"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "cookie-policy/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Cookie Policy"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "disclaimer/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Disclaimer"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "route": "home",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "HR support.GeM seller guidance."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "about/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "About KanjayConsulting."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "services/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "HR support.GeM seller services."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "clients/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Our clientrelationships."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "contact/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Let’s talk aboutyour business."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "terms-of-use/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Terms of Use"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "privacy-policy/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Privacy Policy"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "cookie-policy/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Cookie Policy"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "disclaimer/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Disclaimer"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "home",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "HR support.GeM seller guidance."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "about/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "About KanjayConsulting."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "services/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "HR support.GeM seller services."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "clients/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Our clientrelationships."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "contact/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Let’s talk aboutyour business."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "terms-of-use/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Terms of Use"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "privacy-policy/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Privacy Policy"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "cookie-policy/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Cookie Policy"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "disclaimer/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Disclaimer"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "home",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "HR support.GeM seller guidance."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "about/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "About KanjayConsulting."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "route": "services/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "HR support.GeM seller services."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "clients/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Our clientrelationships."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "contact/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Let’s talk aboutyour business."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "terms-of-use/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Terms of Use"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "privacy-policy/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Privacy Policy"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "cookie-policy/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Cookie Policy"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "disclaimer/",
+    "theme": "light",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Disclaimer"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "home",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "HR support.GeM seller guidance."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "about/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "About KanjayConsulting."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "services/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "HR support.GeM seller services."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "clients/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Our clientrelationships."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "contact/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Let’s talk aboutyour business."
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "terms-of-use/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Terms of Use"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "privacy-policy/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Privacy Policy"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "cookie-policy/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Cookie Policy"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "route": "disclaimer/",
+    "theme": "dark",
+    "decorativeBorders": [],
+    "eyebrows": 0,
+    "h1": [
+      "Disclaimer"
+    ],
+    "hiddenSections": 0,
+    "nonNavCurrent": 0,
+    "overflow": false,
+    "width": 1440
+  }
+]

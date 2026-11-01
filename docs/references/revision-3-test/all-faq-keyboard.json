@@ -1,0 +1,128 @@
+[
+  {
+    "id": "hr-audit-process-setup",
+    "opened": {
+      "open": true,
+      "outline": "2.66667px",
+      "outlineStyle": "solid"
+    },
+    "closedWithSpace": true
+  },
+  {
+    "id": "recruitment-talent-acquisition",
+    "opened": {
+      "open": true,
+      "outline": "2.66667px",
+      "outlineStyle": "solid"
+    },
+    "closedWithSpace": true
+  },
+  {
+    "id": "payroll-statutory-compliance",
+    "opened": {
+      "open": true,
+      "outline": "2.66667px",
+      "outlineStyle": "solid"
+    },
+    "closedWithSpace": true
+  },
+  {
+    "id": "hr-policies-documentation",
+    "opened": {
+      "open": true,
+      "outline": "2.66667px",
+      "outlineStyle": "solid"
+    },
+    "closedWithSpace": true
+  },
+  {
+    "id": "pms-kra-kpi",
+    "opened": {
+      "open": true,
+      "outline": "2.66667px",
+      "outlineStyle": "solid"
+    },
+    "closedWithSpace": true
+  },
+  {
+    "id": "employee-engagement-retention",
+    "opened": {
+      "open": true,
+      "outline": "2.66667px",
+      "outlineStyle": "solid"
+    },
+    "closedWithSpace": true
+  },
+  {
+    "id": "onboarding-exit-settlement",
+    "opened": {
+      "open": true,
+      "outline": "2.66667px",
+      "outlineStyle": "solid"
+    },
+    "closedWithSpace": true
+  },
+  {
+    "id": "seller-registration-profile-setup",
+    "opened": {
+      "open": true,
+      "outline": "2.66667px",
+      "outlineStyle": "solid"
+    },
+    "closedWithSpace": true
+  },
+  {
+    "id": "product-service-catalogue-upload",
+    "opened": {
+      "open": true,
+      "outline": "2.66667px",
+      "outlineStyle": "solid"
+    },
+    "closedWithSpace": true
+  },
+  {
+    "id": "bid-search-analysis",
+    "opened": {
+      "open": true,
+      "outline": "2.66667px",
+      "outlineStyle": "solid"
+    },
+    "closedWithSpace": true
+  },
+  {
+    "id": "tender-participation-support",
+    "opened": {
+      "open": true,
+      "outline": "2.66667px",
+      "outlineStyle": "solid"
+    },
+    "closedWithSpace": true
+  },
+  {
+    "id": "oem-authorization-vendor-assessment",
+    "opened": {
+      "open": true,
+      "outline": "2.66667px",
+      "outlineStyle": "solid"
+    },
+    "closedWithSpace": true
+  },
+  {
+    "id": "catalogue-approval-rejection-support",
+    "opened": {
+      "open": true,
+      "outline": "2.66667px",
+      "outlineStyle": "solid"
+    },
+    "closedWithSpace": true
+  },
+  {
+    "id": "order-contract-support",
+    "opened": {
+      "open": true,
+      "outline": "2.66667px",
+      "outlineStyle": "solid"
+    },
+    "closedWithSpace": true
+  }
+]

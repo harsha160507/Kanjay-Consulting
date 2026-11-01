@@ -1,0 +1,27 @@
+[
+  {
+    "check": "clients",
+    "exitCode": 0,
+    "output": "PASS /clients/: one grid with 24 names/logos and approved industry captions, unchanged original clients, no implied SILQ status or invented engagement material\nPASS /theme/light/clients/: one grid with 24 names/logos and approved industry captions, unchanged original clients, no implied SILQ status or invented engagement material\nPASS /theme/dark/clients/: one grid with 24 names/logos and approved industry captions, unchanged original clients, no implied SILQ status or invented engagement material"
+  },
+  {
+    "check": "home",
+    "exitCode": 0,
+    "output": "PASS /: Home facts, two isolated enhancements, no forms/embeds, full canonical client assets plus SILQ, all local targets and eight Services anchors\nPASS /theme/light: Home facts, two isolated enhancements, no forms/embeds, full canonical client assets plus SILQ, all local targets and eight Services anchors\nPASS /theme/dark: Home facts, two isolated enhancements, no forms/embeds, full canonical client assets plus SILQ, all local targets and eight Services anchors"
+  },
+  {
+    "check": "foundation",
+    "exitCode": 0,
+    "output": "Layout verified: 28 static routes, real navigation/contact links, native mobile disclosure, indexing controls and no forms/embeds/unapproved client assets."
+  },
+  {
+    "check": "revision1",
+    "exitCode": 0,
+    "output": "{\n  \"status\": \"PASS\",\n  \"routesCompared\": 31,\n  \"cookieVariants\": \"Three intentionally replaced bodies checked verbatim by verify-revision4.mjs\",\n  \"content\": \"Exact normalized main text match excluding approved contextual/framework changes, new client captions/neutral heading and Stepper browsing labels; baseline aac26c9 with approved email replacement\",\n  \"anchors\": \"All generated fragment destinations exist\",\n  \"fadeUnitChecks\": [\n    \"once\",\n    \"320ms/8px/whole section\",\n    \"no persistent fill\",\n    \"long-section entry\",\n    \"focus cancellation\",\n    \"initial focus skipped\",\n    \"reduced-motion initial skip\",\n    \"reduced-motion change cancellation/disconnect\",\n    \"missing API\",\n    \"animation failure\"\n  ],\n  \"limitations\": \"Controlled unit fixtures do not emulate OS settings or replace actual browser, screen-reader or physical-touch testing.\"\n}"
+  },
+  {
+    "check": "revision4",
+    "exitCode": 0,
+    "output": "{\n  status: 'PASS',\n  routesWithUnchangedBannersAndFooters: 34,\n  currentClientCount: 23,\n  statusUnspecifiedClientCount: 1,\n  displayedClients: 24,\n  homeLogoCount: 24,\n  industries: 'Questionnaire mappings unchanged; SILQ E-commerce / retail approved in owner follow-up',\n  cookie: 'Exact approved heading/section/paragraph text in all three built variants',\n  stepper: 'Two unchanged existing activity sentences; both SSR panes visible and controls hidden until enhancement',\n  contact: 'Three nonhydrated disabled Spotlight surfaces; exact visible contact copy preserved',\n  oldMailbox: 'Absent from built HTML/JS',\n  sources: 'Read-only; SHA recorded in report',\n  manual: 'Original Phase 4 browser evidence is historical; unified-grid retest recorded separately. Runtime reduced motion, screen-reader speech, touch and delivery not claimed'\n}"
+  }
+]

@@ -1,0 +1,14 @@
+/* Supplied Stepper track/pane/footer treatment, adapted to the approved palette.
+   No completion claim, numbered eyebrow, backdrop, ruled rim or spring movement. */
+.stepper{display:flex;align-items:flex-start;gap:1rem;width:100%;min-width:0;max-width:100%;color:var(--text)}
+.stepper__header{flex:0 0 9rem}.stepper__track{display:flex;flex-direction:column;gap:.4rem;padding:.4rem;border-radius:12px;background:var(--soft)}
+.stepper__segment{display:flex;align-items:center;gap:.6rem;min-height:48px;padding:.65rem .8rem;border-radius:9px;text-decoration:none;color:var(--text);transition:background-color .2s ease,color .2s ease}
+.stepper__segment[aria-current='step']{background:var(--surface);font-weight:600}
+.stepper__segment:is(:hover,:focus-visible){background:var(--surface);color:var(--accent)}
+.stepper__badge{width:7px;height:7px;flex:none;border-radius:50%;background:var(--muted)}.stepper__segment[aria-current='step'] .stepper__badge{background:var(--accent)}
+.stepper__title{font-size:.86rem;line-height:1.4}.stepper__body{flex:1;min-width:0}.stepper__viewport{display:grid;gap:1rem}.stepper__pane{padding:clamp(1.2rem,3vw,1.8rem);border:0;border-radius:12px;background:var(--surface);scroll-margin-top:8rem}.stepper__pane[hidden],.stepper__footer[hidden]{display:none}.stepper__pane h3{margin:0 0 .9rem;font-size:1.2rem}.stepper__pane p{margin:0}
+.stepper__footer{display:flex;justify-content:space-between;gap:1rem;margin-top:1.2rem}.stepper__button{display:inline-flex;align-items:center;gap:.6rem;min-height:48px;padding:.65rem .9rem;background:var(--soft);color:var(--text);border:0;border-radius:100px;font:inherit;cursor:pointer;transition:background-color .2s ease,color .2s ease}.stepper__button:not(:disabled):is(:hover,:focus-visible){background:var(--accent);color:var(--on-accent)}.stepper__button:disabled{color:var(--muted);cursor:default}.stepper__button:not(:disabled):is(:hover,:focus-visible) .link-arrow{transform:translateX(2px)}.stepper__button[data-stepper-back]:not(:disabled):is(:hover,:focus-visible) .link-arrow{transform:translateX(-2px)}
+.stepper__button:focus-visible,.stepper__segment:focus-visible,.stepper__pane:focus-visible{outline:3px solid var(--focus);outline-offset:4px}
+@media(max-width:1100px){.stepper{flex-direction:column}.stepper__header,.stepper__body{width:100%;flex:auto}.stepper__track{flex-direction:row}.stepper__segment{flex:1}}
+@media(max-width:430px){.stepper__track{flex-direction:column}}
+@media(prefers-reduced-motion:reduce){.stepper *{transition:none!important;animation:none!important}.stepper .link-arrow{transform:none!important}}

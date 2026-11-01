@@ -26,7 +26,7 @@ export const serviceGroups = [
         "scope": "We support job descriptions, candidate sourcing, screening, interview coordination and selection follow-ups to make hiring more structured and efficient.",
         "faq": {
           "question": "Do you support employers and candidates?",
-          "answer": "Yes. Recruitment serves employers and candidates. Candidate enquiries go to hr@kanjayconsulting.com; employer enquiries go to info@kanjayconsulting.com."
+          "answer": "Yes. Recruitment serves employers and candidates. Candidate enquiries go to hr@kanjayconsulting.com; employer enquiries go to enquiry@kanjayconsulting.com."
         }
       },
       {

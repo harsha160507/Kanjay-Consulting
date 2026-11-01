@@ -1,0 +1,3 @@
+PASS /clients/: one grid with 24 names/logos and approved industry captions, unchanged original clients, no implied SILQ status or invented engagement material
+PASS /theme/light/clients/: one grid with 24 names/logos and approved industry captions, unchanged original clients, no implied SILQ status or invented engagement material
+PASS /theme/dark/clients/: one grid with 24 names/logos and approved industry captions, unchanged original clients, no implied SILQ status or invented engagement material

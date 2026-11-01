@@ -1,0 +1,450 @@
+[
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#hr-audit-process-setup",
+    "id": "hr-audit-process-setup",
+    "pathname": "/theme/light/services/",
+    "prefix": "/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "recruitment-talent-acquisition"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#recruitment-talent-acquisition",
+    "id": "recruitment-talent-acquisition",
+    "pathname": "/theme/light/services/",
+    "prefix": "/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "payroll-statutory-compliance"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#payroll-statutory-compliance",
+    "id": "payroll-statutory-compliance",
+    "pathname": "/theme/light/services/",
+    "prefix": "/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-policies-documentation"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#hr-policies-documentation",
+    "id": "hr-policies-documentation",
+    "pathname": "/theme/light/services/",
+    "prefix": "/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "pms-kra-kpi"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#pms-kra-kpi",
+    "id": "pms-kra-kpi",
+    "pathname": "/theme/light/services/",
+    "prefix": "/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "employee-engagement-retention"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#employee-engagement-retention",
+    "id": "employee-engagement-retention",
+    "pathname": "/theme/light/services/",
+    "prefix": "/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "onboarding-exit-settlement"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#onboarding-exit-settlement",
+    "id": "onboarding-exit-settlement",
+    "pathname": "/theme/light/services/",
+    "prefix": "/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#seller-registration-profile-setup",
+    "id": "seller-registration-profile-setup",
+    "pathname": "/theme/light/services/",
+    "prefix": "/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "product-service-catalogue-upload"
+      }
+    ],
+    "hash": "#product-service-catalogue-upload",
+    "id": "product-service-catalogue-upload",
+    "pathname": "/theme/light/services/",
+    "prefix": "/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "bid-search-analysis"
+      }
+    ],
+    "hash": "#bid-search-analysis",
+    "id": "bid-search-analysis",
+    "pathname": "/theme/light/services/",
+    "prefix": "/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "tender-participation-support"
+      }
+    ],
+    "hash": "#tender-participation-support",
+    "id": "tender-participation-support",
+    "pathname": "/theme/light/services/",
+    "prefix": "/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "oem-authorization-vendor-assessment"
+      }
+    ],
+    "hash": "#oem-authorization-vendor-assessment",
+    "id": "oem-authorization-vendor-assessment",
+    "pathname": "/theme/light/services/",
+    "prefix": "/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "catalogue-approval-rejection-support"
+      }
+    ],
+    "hash": "#catalogue-approval-rejection-support",
+    "id": "catalogue-approval-rejection-support",
+    "pathname": "/theme/light/services/",
+    "prefix": "/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "order-contract-support"
+      }
+    ],
+    "hash": "#order-contract-support",
+    "id": "order-contract-support",
+    "pathname": "/theme/light/services/",
+    "prefix": "/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#hr-audit-process-setup",
+    "id": "hr-audit-process-setup",
+    "pathname": "/theme/dark/services/",
+    "prefix": "/theme/dark/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "recruitment-talent-acquisition"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#recruitment-talent-acquisition",
+    "id": "recruitment-talent-acquisition",
+    "pathname": "/theme/dark/services/",
+    "prefix": "/theme/dark/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "payroll-statutory-compliance"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#payroll-statutory-compliance",
+    "id": "payroll-statutory-compliance",
+    "pathname": "/theme/dark/services/",
+    "prefix": "/theme/dark/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-policies-documentation"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#hr-policies-documentation",
+    "id": "hr-policies-documentation",
+    "pathname": "/theme/dark/services/",
+    "prefix": "/theme/dark/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "pms-kra-kpi"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#pms-kra-kpi",
+    "id": "pms-kra-kpi",
+    "pathname": "/theme/dark/services/",
+    "prefix": "/theme/dark/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "employee-engagement-retention"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#employee-engagement-retention",
+    "id": "employee-engagement-retention",
+    "pathname": "/theme/dark/services/",
+    "prefix": "/theme/dark/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "onboarding-exit-settlement"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#onboarding-exit-settlement",
+    "id": "onboarding-exit-settlement",
+    "pathname": "/theme/dark/services/",
+    "prefix": "/theme/dark/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "seller-registration-profile-setup"
+      }
+    ],
+    "hash": "#seller-registration-profile-setup",
+    "id": "seller-registration-profile-setup",
+    "pathname": "/theme/dark/services/",
+    "prefix": "/theme/dark/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "product-service-catalogue-upload"
+      }
+    ],
+    "hash": "#product-service-catalogue-upload",
+    "id": "product-service-catalogue-upload",
+    "pathname": "/theme/dark/services/",
+    "prefix": "/theme/dark/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "bid-search-analysis"
+      }
+    ],
+    "hash": "#bid-search-analysis",
+    "id": "bid-search-analysis",
+    "pathname": "/theme/dark/services/",
+    "prefix": "/theme/dark/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "tender-participation-support"
+      }
+    ],
+    "hash": "#tender-participation-support",
+    "id": "tender-participation-support",
+    "pathname": "/theme/dark/services/",
+    "prefix": "/theme/dark/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "oem-authorization-vendor-assessment"
+      }
+    ],
+    "hash": "#oem-authorization-vendor-assessment",
+    "id": "oem-authorization-vendor-assessment",
+    "pathname": "/theme/dark/services/",
+    "prefix": "/theme/dark/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "catalogue-approval-rejection-support"
+      }
+    ],
+    "hash": "#catalogue-approval-rejection-support",
+    "id": "catalogue-approval-rejection-support",
+    "pathname": "/theme/dark/services/",
+    "prefix": "/theme/dark/services/"
+  },
+  {
+    "active": [
+      {
+        "group": "hr-support",
+        "id": "hr-audit-process-setup"
+      },
+      {
+        "group": "gem-seller-support",
+        "id": "order-contract-support"
+      }
+    ],
+    "hash": "#order-contract-support",
+    "id": "order-contract-support",
+    "pathname": "/theme/dark/services/",
+    "prefix": "/theme/dark/services/"
+  }
+]

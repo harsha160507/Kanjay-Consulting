@@ -1,0 +1,82 @@
+{
+  "status": "PASS",
+  "scope": "Text and decompressed Lighthouse evidence scanned for common credentials/private keys and local user path patterns. Screenshots visually reviewed: website viewport only; approved business contacts and localhost URLs are intentional.",
+  "files": [
+    {
+      "file": "docs/references/revision-2/desktop-home-before-defer.json.gz",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/desktop-home.json.gz",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/focus-assets-browser.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/foundation-regression.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/lh-desktop.config.cjs",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/lh-mobile.config.cjs",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/loop-controls-browser.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/magnet-browser.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/mobile-home-before-defer.json.gz",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/mobile-home.json.gz",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/performance-before-defer.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/performance-summary.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/phone-loop-browser.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/responsive-browser.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/revision-checks.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/script-blocked-browser.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/silq-provenance.json",
+      "hits": []
+    },
+    {
+      "file": "docs/references/revision-2/verification-log.json",
+      "hits": []
+    },
+    {
+      "file": "docs/PHASE-REV-2.md",
+      "hits": []
+    }
+  ]
+}

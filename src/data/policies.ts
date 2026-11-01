@@ -1,5 +1,5 @@
 export interface PolicySection { id: string; title: string; paragraphs: string[]; review?: string }
-export interface Policy { intro: string; sections: PolicySection[] }
+export interface Policy { heading?: string; intro: string; sections: PolicySection[] }
 // Technical observations are scoped to this unpublished build. Review blocks are not approved terms.
 export const policies: Record<string, Policy> = {
   'Terms of Use': {
@@ -23,12 +23,14 @@ export const policies: Record<string, Policy> = {
     ],
   },
   'Cookie Policy': {
-    intro: 'Cookies and similar browser storage in the current unpublished website build. Local-preview observations must be rechecked on the final host.',
+    heading: 'Cookie & Browser Storage Policy',
+    intro: '',
     sections: [
-      { id: 'observed', title: 'What the current build uses', paragraphs: ['No website cookie-setting code, advertising or analytics integration is included. The inspected local preview had no JavaScript-visible cookies, session-storage entries, IndexedDB databases, Cache Storage entries or registered service workers. These are observations of that preview, not a guarantee about future hosting or external platforms.'] },
-      { id: 'theme', title: 'Light and dark preference', paragraphs: ['Storage type: localStorage. Key: kanjay-theme. Values: light or dark. Purpose: remember the colour theme in this browser for this website origin.', 'With JavaScript enabled, loading a /theme/light/ or /theme/dark/ page writes that value, including when a themed URL is opened directly. It is not limited to a click on the theme switch. On ordinary routes, a saved value can redirect you to the matching themed URL.', 'The application sets no expiry for this preference. It can remain across browser sessions until replaced, cleared or removed by browser settings. It is read locally for theming; the application does not send the value to an analytics service. This is not a cookie and is not a consent record.'] },
-      { id: 'controls', title: 'Your browser controls', paragraphs: ['The header’s Light and Dark links change the theme. You can clear this site’s stored data in your browser settings or block storage. Clearing site data can remove the preference; revisiting a themed URL with JavaScript enabled writes it again.', 'Without JavaScript, the theme links still navigate to styled static pages and preserve the theme through their URLs, but do not save a new local-storage preference. On an unthemed page without a saved redirect, the design follows your system colour preference.'] },
-      { id: 'third-parties', title: 'Third parties and launch review', paragraphs: ['Social platforms open only when you follow their links; they are not embedded widgets. Their storage practices are separate. The final host may add behaviour not present in the local preview.'], review: 'Reinspect the final domain, response headers, cookies and storage. Approve the storage classification, any required notice or consent controls, provider information and effective date against applicable law. No legal exemption or compliance finding is asserted here.' },
+      { id: 'observed', title: 'How this website uses storage', paragraphs: ["The website's own code does not set cookies or include advertising or analytics trackers. It uses browser storage to remember your light or dark theme preference."] },
+      { id: 'theme', title: 'Your theme preference', paragraphs: ['When you open a light or dark version of this website with JavaScript enabled, your browser saves the theme preference on your device. This can happen when you use the theme links or open a themed page directly.', 'The saved item, called kanjay-theme, contains only the value "light" or "dark". The website uses it to apply your preferred appearance on later visits. The website\'s code does not send this value to an analytics service.', "This preference uses local storage, not a cookie. The website sets no automatic expiry for it. It can remain until you change the theme, clear the site's stored data or your browser removes it."] },
+      { id: 'controls', title: 'Your controls', paragraphs: ["You can clear this preference through your browser's settings for this site's stored data. Opening a light or dark page again with JavaScript enabled will save the preference again. You can also block browser storage through your browser settings."] },
+      { id: 'third-parties', title: 'External links', paragraphs: ["Our website includes links to external websites, including social media platforms. If you follow a link, that website's own privacy and cookie policies apply."] },
+      { id: 'cookie-contact', title: 'Contact', paragraphs: ['For questions about cookies or browser storage on this website, please use the contact details on our Contact page.'] },
     ],
   },
   'Disclaimer': {

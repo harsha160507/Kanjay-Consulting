@@ -1,0 +1,453 @@
+{
+  "cases": [
+    {
+      "controls": "none",
+      "enhanced": null,
+      "overflow": false,
+      "panes": [
+        {
+          "display": "block",
+          "height": 207.4166717529297,
+          "hidden": false,
+          "id": "hr-working-activities",
+          "text": "For HR work, that can include reviewing records and processes, coordinating recruitment, and working with payroll inputs and documentation.",
+          "title": "HR work"
+        },
+        {
+          "display": "block",
+          "height": 181.02084350585935,
+          "hidden": false,
+          "id": "gem-working-activities",
+          "text": "For GeM sellers, our work includes document coordination, reviewing bid requirements, portal submissions and follow-ups.",
+          "title": "GeM seller work"
+        }
+      ],
+      "paragraphs": [
+        "HR and GeM portal consulting for small and medium organisations.",
+        "Kanjay Consulting works with businesses on their people, HR processes and GeM seller requirements. Our HR support is available globally; our GeM consulting supports sellers across India.",
+        "Our areas of work",
+        "HR · Global support",
+        "HR support for employers, with recruitment support also available to candidates.",
+        "GeM · Sellers across India",
+        "Guidance on seller activities within the Government e-Marketplace portal.",
+        "Candidate enquiries: hr@kanjayconsulting.com.",
+        "How we work",
+        "We work with clients through approaches agreed around their business needs.",
+        "For HR work, that can include reviewing records and processes, coordinating recruitment, and working with payroll inputs and documentation.",
+        "For GeM sellers, our work includes document coordination, reviewing bid requirements, portal submissions and follow-ups.",
+        "",
+        "These are the practical activities behind our consulting services.",
+        "Our core values",
+        "We see trust as the foundation of effective communication and client relationships.",
+        "We believe in a commitment to quality in the work we do.",
+        "Our focus is on back-office support and long-term relationships with our clients.",
+        "Speak with us about HR support or GeM seller consulting."
+      ],
+      "sections": [
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "block",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "block",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        }
+      ],
+      "theme": "light",
+      "viewport": 375,
+      "width": 375
+    },
+    {
+      "controls": "none",
+      "enhanced": null,
+      "overflow": false,
+      "panes": [
+        {
+          "display": "block",
+          "height": 207.4166717529297,
+          "hidden": false,
+          "id": "hr-working-activities",
+          "text": "For HR work, that can include reviewing records and processes, coordinating recruitment, and working with payroll inputs and documentation.",
+          "title": "HR work"
+        },
+        {
+          "display": "block",
+          "height": 181.02084350585935,
+          "hidden": false,
+          "id": "gem-working-activities",
+          "text": "For GeM sellers, our work includes document coordination, reviewing bid requirements, portal submissions and follow-ups.",
+          "title": "GeM seller work"
+        }
+      ],
+      "paragraphs": [
+        "HR and GeM portal consulting for small and medium organisations.",
+        "Kanjay Consulting works with businesses on their people, HR processes and GeM seller requirements. Our HR support is available globally; our GeM consulting supports sellers across India.",
+        "Our areas of work",
+        "HR · Global support",
+        "HR support for employers, with recruitment support also available to candidates.",
+        "GeM · Sellers across India",
+        "Guidance on seller activities within the Government e-Marketplace portal.",
+        "Candidate enquiries: hr@kanjayconsulting.com.",
+        "How we work",
+        "We work with clients through approaches agreed around their business needs.",
+        "For HR work, that can include reviewing records and processes, coordinating recruitment, and working with payroll inputs and documentation.",
+        "For GeM sellers, our work includes document coordination, reviewing bid requirements, portal submissions and follow-ups.",
+        "",
+        "These are the practical activities behind our consulting services.",
+        "Our core values",
+        "We see trust as the foundation of effective communication and client relationships.",
+        "We believe in a commitment to quality in the work we do.",
+        "Our focus is on back-office support and long-term relationships with our clients.",
+        "Speak with us about HR support or GeM seller consulting."
+      ],
+      "sections": [
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "block",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "block",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        }
+      ],
+      "theme": "dark",
+      "viewport": 375,
+      "width": 375
+    },
+    {
+      "controls": "none",
+      "enhanced": null,
+      "overflow": false,
+      "panes": [
+        {
+          "display": "block",
+          "height": 135.89584350585938,
+          "hidden": false,
+          "id": "hr-working-activities",
+          "text": "For HR work, that can include reviewing records and processes, coordinating recruitment, and working with payroll inputs and documentation.",
+          "title": "HR work"
+        },
+        {
+          "display": "block",
+          "height": 135.89584350585938,
+          "hidden": false,
+          "id": "gem-working-activities",
+          "text": "For GeM sellers, our work includes document coordination, reviewing bid requirements, portal submissions and follow-ups.",
+          "title": "GeM seller work"
+        }
+      ],
+      "paragraphs": [
+        "HR and GeM portal consulting for small and medium organisations.",
+        "Kanjay Consulting works with businesses on their people, HR processes and GeM seller requirements. Our HR support is available globally; our GeM consulting supports sellers across India.",
+        "Our areas of work",
+        "HR · Global support",
+        "HR support for employers, with recruitment support also available to candidates.",
+        "GeM · Sellers across India",
+        "Guidance on seller activities within the Government e-Marketplace portal.",
+        "Candidate enquiries: hr@kanjayconsulting.com.",
+        "How we work",
+        "We work with clients through approaches agreed around their business needs.",
+        "For HR work, that can include reviewing records and processes, coordinating recruitment, and working with payroll inputs and documentation.",
+        "For GeM sellers, our work includes document coordination, reviewing bid requirements, portal submissions and follow-ups.",
+        "",
+        "These are the practical activities behind our consulting services.",
+        "Our core values",
+        "We see trust as the foundation of effective communication and client relationships.",
+        "We believe in a commitment to quality in the work we do.",
+        "Our focus is on back-office support and long-term relationships with our clients.",
+        "Speak with us about HR support or GeM seller consulting."
+      ],
+      "sections": [
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "block",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "block",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        }
+      ],
+      "theme": "light",
+      "viewport": 768,
+      "width": 768
+    },
+    {
+      "controls": "none",
+      "enhanced": null,
+      "overflow": false,
+      "panes": [
+        {
+          "display": "block",
+          "height": 135.89584350585938,
+          "hidden": false,
+          "id": "hr-working-activities",
+          "text": "For HR work, that can include reviewing records and processes, coordinating recruitment, and working with payroll inputs and documentation.",
+          "title": "HR work"
+        },
+        {
+          "display": "block",
+          "height": 135.89584350585938,
+          "hidden": false,
+          "id": "gem-working-activities",
+          "text": "For GeM sellers, our work includes document coordination, reviewing bid requirements, portal submissions and follow-ups.",
+          "title": "GeM seller work"
+        }
+      ],
+      "paragraphs": [
+        "HR and GeM portal consulting for small and medium organisations.",
+        "Kanjay Consulting works with businesses on their people, HR processes and GeM seller requirements. Our HR support is available globally; our GeM consulting supports sellers across India.",
+        "Our areas of work",
+        "HR · Global support",
+        "HR support for employers, with recruitment support also available to candidates.",
+        "GeM · Sellers across India",
+        "Guidance on seller activities within the Government e-Marketplace portal.",
+        "Candidate enquiries: hr@kanjayconsulting.com.",
+        "How we work",
+        "We work with clients through approaches agreed around their business needs.",
+        "For HR work, that can include reviewing records and processes, coordinating recruitment, and working with payroll inputs and documentation.",
+        "For GeM sellers, our work includes document coordination, reviewing bid requirements, portal submissions and follow-ups.",
+        "",
+        "These are the practical activities behind our consulting services.",
+        "Our core values",
+        "We see trust as the foundation of effective communication and client relationships.",
+        "We believe in a commitment to quality in the work we do.",
+        "Our focus is on back-office support and long-term relationships with our clients.",
+        "Speak with us about HR support or GeM seller consulting."
+      ],
+      "sections": [
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "block",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "block",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        }
+      ],
+      "theme": "dark",
+      "viewport": 768,
+      "width": 768
+    },
+    {
+      "controls": "none",
+      "enhanced": null,
+      "overflow": false,
+      "panes": [
+        {
+          "display": "block",
+          "height": 173.8125,
+          "hidden": false,
+          "id": "hr-working-activities",
+          "text": "For HR work, that can include reviewing records and processes, coordinating recruitment, and working with payroll inputs and documentation.",
+          "title": "HR work"
+        },
+        {
+          "display": "block",
+          "height": 173.8125,
+          "hidden": false,
+          "id": "gem-working-activities",
+          "text": "For GeM sellers, our work includes document coordination, reviewing bid requirements, portal submissions and follow-ups.",
+          "title": "GeM seller work"
+        }
+      ],
+      "paragraphs": [
+        "HR and GeM portal consulting for small and medium organisations.",
+        "Kanjay Consulting works with businesses on their people, HR processes and GeM seller requirements. Our HR support is available globally; our GeM consulting supports sellers across India.",
+        "Our areas of work",
+        "HR · Global support",
+        "HR support for employers, with recruitment support also available to candidates.",
+        "GeM · Sellers across India",
+        "Guidance on seller activities within the Government e-Marketplace portal.",
+        "Candidate enquiries: hr@kanjayconsulting.com.",
+        "How we work",
+        "We work with clients through approaches agreed around their business needs.",
+        "For HR work, that can include reviewing records and processes, coordinating recruitment, and working with payroll inputs and documentation.",
+        "For GeM sellers, our work includes document coordination, reviewing bid requirements, portal submissions and follow-ups.",
+        "",
+        "These are the practical activities behind our consulting services.",
+        "Our core values",
+        "We see trust as the foundation of effective communication and client relationships.",
+        "We believe in a commitment to quality in the work we do.",
+        "Our focus is on back-office support and long-term relationships with our clients.",
+        "Speak with us about HR support or GeM seller consulting."
+      ],
+      "sections": [
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "block",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "block",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        }
+      ],
+      "theme": "light",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "controls": "none",
+      "enhanced": null,
+      "overflow": false,
+      "panes": [
+        {
+          "display": "block",
+          "height": 173.8125,
+          "hidden": false,
+          "id": "hr-working-activities",
+          "text": "For HR work, that can include reviewing records and processes, coordinating recruitment, and working with payroll inputs and documentation.",
+          "title": "HR work"
+        },
+        {
+          "display": "block",
+          "height": 173.8125,
+          "hidden": false,
+          "id": "gem-working-activities",
+          "text": "For GeM sellers, our work includes document coordination, reviewing bid requirements, portal submissions and follow-ups.",
+          "title": "GeM seller work"
+        }
+      ],
+      "paragraphs": [
+        "HR and GeM portal consulting for small and medium organisations.",
+        "Kanjay Consulting works with businesses on their people, HR processes and GeM seller requirements. Our HR support is available globally; our GeM consulting supports sellers across India.",
+        "Our areas of work",
+        "HR · Global support",
+        "HR support for employers, with recruitment support also available to candidates.",
+        "GeM · Sellers across India",
+        "Guidance on seller activities within the Government e-Marketplace portal.",
+        "Candidate enquiries: hr@kanjayconsulting.com.",
+        "How we work",
+        "We work with clients through approaches agreed around their business needs.",
+        "For HR work, that can include reviewing records and processes, coordinating recruitment, and working with payroll inputs and documentation.",
+        "For GeM sellers, our work includes document coordination, reviewing bid requirements, portal submissions and follow-ups.",
+        "",
+        "These are the practical activities behind our consulting services.",
+        "Our core values",
+        "We see trust as the foundation of effective communication and client relationships.",
+        "We believe in a commitment to quality in the work we do.",
+        "Our focus is on back-office support and long-term relationships with our clients.",
+        "Speak with us about HR support or GeM seller consulting."
+      ],
+      "sections": [
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "block",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "block",
+          "opacity": "1",
+          "visibility": "visible"
+        },
+        {
+          "display": "grid",
+          "opacity": "1",
+          "visibility": "visible"
+        }
+      ],
+      "theme": "dark",
+      "viewport": 1440,
+      "width": 1440
+    }
+  ],
+  "nativeLink": {
+    "focused": "gem-working-activities",
+    "hash": "#gem-working-activities",
+    "targetDisplay": "block"
+  }
+}

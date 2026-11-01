@@ -1,0 +1,278 @@
+{
+  "pages": [
+    {
+      "path": "/404.html",
+      "title": "Page not found | Kanjay Consulting",
+      "description": "Find your way back to Kanjay Consulting’s pages or contact the team.",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/about/",
+      "title": "About Kanjay Consulting",
+      "description": "Learn about Kanjay Consulting, established in 2014: HR support globally. GeM consulting since 2018. Current GeM seller support across India.",
+      "canonical": "https://www.kanjayconsulting.com/about/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/clients/",
+      "title": "Clients of Kanjay Consulting",
+      "description": "View Kanjay Consulting’s approved client names and logos.",
+      "canonical": "https://www.kanjayconsulting.com/clients/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/contact/",
+      "title": "Contact Kanjay Consulting",
+      "description": "Contact Kanjay Consulting by phone or email for HR support and GeM seller consulting. Separate candidate recruitment email available.",
+      "canonical": "https://www.kanjayconsulting.com/contact/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/cookie-policy/",
+      "title": "Cookie Policy | Kanjay Consulting",
+      "description": "Draft cookie policy for Kanjay Consulting. Owner and legal review required.",
+      "canonical": "https://www.kanjayconsulting.com/cookie-policy/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/disclaimer/",
+      "title": "Disclaimer | Kanjay Consulting",
+      "description": "Draft disclaimer for Kanjay Consulting. Owner and legal review required.",
+      "canonical": "https://www.kanjayconsulting.com/disclaimer/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/",
+      "title": "HR support &amp; GeM seller guidance | Kanjay Consulting",
+      "description": "Kanjay Consulting supports small and medium businesses with HR services globally and GeM seller consulting across India.",
+      "canonical": "https://www.kanjayconsulting.com/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/privacy-policy/",
+      "title": "Privacy Policy | Kanjay Consulting",
+      "description": "Draft privacy policy for Kanjay Consulting. Owner and legal review required.",
+      "canonical": "https://www.kanjayconsulting.com/privacy-policy/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/prototype/",
+      "title": "Enhanced component prototype | Kanjay Consulting",
+      "description": "Internal enhanced component experiment for Kanjay Consulting; excluded from launch indexing.",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/prototype/static/",
+      "title": "Static component prototype | Kanjay Consulting",
+      "description": "Internal static component comparison for Kanjay Consulting; excluded from launch indexing.",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/services/",
+      "title": "HR &amp; GeM seller services | Kanjay Consulting",
+      "description": "Explore Kanjay Consulting’s HR support and GeM seller services, with business and candidate contact routes.",
+      "canonical": "https://www.kanjayconsulting.com/services/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/terms-of-use/",
+      "title": "Terms of Use | Kanjay Consulting",
+      "description": "Draft terms of use for Kanjay Consulting. Owner and legal review required.",
+      "canonical": "https://www.kanjayconsulting.com/terms-of-use/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/dark/about/",
+      "title": "About Kanjay Consulting",
+      "description": "Learn about Kanjay Consulting, established in 2014: HR support globally. GeM consulting since 2018. Current GeM seller support across India.",
+      "canonical": "https://www.kanjayconsulting.com/about/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/dark/clients/",
+      "title": "Clients of Kanjay Consulting",
+      "description": "View Kanjay Consulting’s approved client names and logos.",
+      "canonical": "https://www.kanjayconsulting.com/clients/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/dark/contact/",
+      "title": "Contact Kanjay Consulting",
+      "description": "Contact Kanjay Consulting by phone or email for HR support and GeM seller consulting. Separate candidate recruitment email available.",
+      "canonical": "https://www.kanjayconsulting.com/contact/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/dark/cookie-policy/",
+      "title": "Cookie Policy | Kanjay Consulting",
+      "description": "Draft cookie policy for Kanjay Consulting. Owner and legal review required.",
+      "canonical": "https://www.kanjayconsulting.com/cookie-policy/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/dark/disclaimer/",
+      "title": "Disclaimer | Kanjay Consulting",
+      "description": "Draft disclaimer for Kanjay Consulting. Owner and legal review required.",
+      "canonical": "https://www.kanjayconsulting.com/disclaimer/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/dark/",
+      "title": "HR support &amp; GeM seller guidance | Kanjay Consulting",
+      "description": "Kanjay Consulting supports small and medium businesses with HR services globally and GeM seller consulting across India.",
+      "canonical": "https://www.kanjayconsulting.com/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/dark/privacy-policy/",
+      "title": "Privacy Policy | Kanjay Consulting",
+      "description": "Draft privacy policy for Kanjay Consulting. Owner and legal review required.",
+      "canonical": "https://www.kanjayconsulting.com/privacy-policy/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/dark/prototype/",
+      "title": "Enhanced component prototype | Kanjay Consulting",
+      "description": "Internal enhanced component experiment for Kanjay Consulting; excluded from launch indexing.",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/dark/prototype/static/",
+      "title": "Static component prototype | Kanjay Consulting",
+      "description": "Internal static component comparison for Kanjay Consulting; excluded from launch indexing.",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/dark/services/",
+      "title": "HR &amp; GeM seller services | Kanjay Consulting",
+      "description": "Explore Kanjay Consulting’s HR support and GeM seller services, with business and candidate contact routes.",
+      "canonical": "https://www.kanjayconsulting.com/services/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/dark/terms-of-use/",
+      "title": "Terms of Use | Kanjay Consulting",
+      "description": "Draft terms of use for Kanjay Consulting. Owner and legal review required.",
+      "canonical": "https://www.kanjayconsulting.com/terms-of-use/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/light/about/",
+      "title": "About Kanjay Consulting",
+      "description": "Learn about Kanjay Consulting, established in 2014: HR support globally. GeM consulting since 2018. Current GeM seller support across India.",
+      "canonical": "https://www.kanjayconsulting.com/about/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/light/clients/",
+      "title": "Clients of Kanjay Consulting",
+      "description": "View Kanjay Consulting’s approved client names and logos.",
+      "canonical": "https://www.kanjayconsulting.com/clients/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/light/contact/",
+      "title": "Contact Kanjay Consulting",
+      "description": "Contact Kanjay Consulting by phone or email for HR support and GeM seller consulting. Separate candidate recruitment email available.",
+      "canonical": "https://www.kanjayconsulting.com/contact/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/light/cookie-policy/",
+      "title": "Cookie Policy | Kanjay Consulting",
+      "description": "Draft cookie policy for Kanjay Consulting. Owner and legal review required.",
+      "canonical": "https://www.kanjayconsulting.com/cookie-policy/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/light/disclaimer/",
+      "title": "Disclaimer | Kanjay Consulting",
+      "description": "Draft disclaimer for Kanjay Consulting. Owner and legal review required.",
+      "canonical": "https://www.kanjayconsulting.com/disclaimer/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/light/",
+      "title": "HR support &amp; GeM seller guidance | Kanjay Consulting",
+      "description": "Kanjay Consulting supports small and medium businesses with HR services globally and GeM seller consulting across India.",
+      "canonical": "https://www.kanjayconsulting.com/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/light/privacy-policy/",
+      "title": "Privacy Policy | Kanjay Consulting",
+      "description": "Draft privacy policy for Kanjay Consulting. Owner and legal review required.",
+      "canonical": "https://www.kanjayconsulting.com/privacy-policy/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/light/prototype/",
+      "title": "Enhanced component prototype | Kanjay Consulting",
+      "description": "Internal enhanced component experiment for Kanjay Consulting; excluded from launch indexing.",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/light/prototype/static/",
+      "title": "Static component prototype | Kanjay Consulting",
+      "description": "Internal static component comparison for Kanjay Consulting; excluded from launch indexing.",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/light/services/",
+      "title": "HR &amp; GeM seller services | Kanjay Consulting",
+      "description": "Explore Kanjay Consulting’s HR support and GeM seller services, with business and candidate contact routes.",
+      "canonical": "https://www.kanjayconsulting.com/services/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    },
+    {
+      "path": "/theme/light/terms-of-use/",
+      "title": "Terms of Use | Kanjay Consulting",
+      "description": "Draft terms of use for Kanjay Consulting. Owner and legal review required.",
+      "canonical": "https://www.kanjayconsulting.com/terms-of-use/",
+      "robots": "noindex, nofollow",
+      "result": "PASS"
+    }
+  ],
+  "sitemap": [
+    "https://www.kanjayconsulting.com/",
+    "https://www.kanjayconsulting.com/about/",
+    "https://www.kanjayconsulting.com/services/",
+    "https://www.kanjayconsulting.com/clients/",
+    "https://www.kanjayconsulting.com/contact/"
+  ],
+  "security": "All executable inline script hashes covered; no inline/eval script allowance; safe review noindex; link/asset checks pass",
+  "redirects": "Static proposal checked, actual production redirects NOT TESTED"
+}

@@ -16,7 +16,8 @@ for (const prefix of ['', '/theme/light', '/theme/dark']) for (const slug of pol
   assert.match(main, /owner and legal review required/);
   assert.match(main, /Not yet effective or approved for publication/);
   assert.match(main, /datetime="2026-10-31"/);
-  assert.match(main, /Owner \/ legal review/);
+  if(slug==='cookie-policy'){assert.doesNotMatch(main,/class="policy-review"/);assert.match(main,/Cookie &amp; Browser Storage Policy/);}
+  else assert.match(main, /Owner \/ legal review/);
   assert.doesNotMatch(main, /<form\b|<iframe\b|<astro-island\b/i);
   const levels = [...main.matchAll(/<h([1-6])\b/g)].map(m => +m[1]);
   assert.equal(levels.filter(n => n === 1).length, 1);
@@ -32,6 +33,6 @@ for (const prefix of ['', '/theme/light', '/theme/dark']) for (const slug of pol
 }
 const missing = readFileSync('dist/404.html', 'utf8');
 assert.doesNotMatch(missing, /location\.replace/, '404 must not redirect missing URLs using saved theme');
-for (const href of ['/', '/services/', '/contact/', 'tel:+918939715152', 'mailto:info@kanjayconsulting.com']) assert.ok(missing.includes(`href="${href}"`));
+for (const href of ['/', '/services/', '/contact/', 'tel:+918939715152', 'mailto:enquiry@kanjayconsulting.com']) assert.ok(missing.includes(`href="${href}"`));
 assert.equal(existsSync('dist/_phase9-inspect.html'), false, 'temporary inspection harness must not ship');
 console.log('PASS: 34 footers, 12 policy variants, draft/review status, headings/targets and 404 redirect regression guard.');

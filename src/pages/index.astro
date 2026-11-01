@@ -2,45 +2,57 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { routeContext } from '../lib/routes';
 import { business } from '../data/site';
-import { homePaths, homeClients } from '../data/home';
+import { homePaths } from '../data/home';
+import { homeClients } from '../data/home-clients';
+import ClientLogoTile from '../components/home/ClientLogoTile';
+import HomeClientLoop from '../components/home/HomeClientLoop';
+import HomeCallAction from '../components/home/HomeCallAction';
+import HomeSpotlight from '../components/home/HomeSpotlight.astro';
+import ServiceIcon from '../components/home/ServiceIcon.astro';
+import GradientText from '../components/react-bits/prototype/GradientText';
 import '../components/react-bits/prototype/UiverseButton.css';
 import '../styles/home.css';
 const route = routeContext(Astro.url.pathname);
+const clients = homeClients;
 ---
 <BaseLayout title="HR support & GeM seller guidance" phaseLabel="Phase 4 · Home draft" description="Kanjay Consulting supports small and medium businesses with HR services globally and GeM seller consulting across India.">
   <div class="home-page">
-    <section class="home-hero" aria-labelledby="home-title">
-      <div><p class="eyebrow">Kanjay Consulting / Established {business.established}</p>
-        <h1 id="home-title">HR support.<br /><span>GeM seller guidance.</span></h1>
+    <section data-fade-content class="home-hero" aria-labelledby="home-title">
+      <div>
+        <h1 id="home-title">HR support.<br /><GradientText colors={['var(--accent)', 'var(--text)']} glow={0} showBorder={false} followPointer={false} className="home-gradient">GeM seller guidance.</GradientText></h1>
         <p class="lede">For small and medium businesses: HR support globally and GeM portal consulting for sellers across India.</p>
-        <div class="home-actions"><a class="proto-button home-primary" href={`tel:${business.phone}`}>Call our team <span aria-hidden="true">↗</span></a><a class="proto-button home-secondary" href="#home-services">Explore our services <span class="arrow-wrapper" aria-hidden="true"><span class="arrow" /></span></a></div>
+        <div class="home-actions"><HomeCallAction phone={business.phone} client:idle /><a class="proto-button home-secondary" href="#home-services">Explore our services <span class="arrow-wrapper" aria-hidden="true"><span class="arrow" /></span></a></div>
       </div>
       <aside class="home-directions" aria-label="Find your area of support">
-        {homePaths.map(path => <a href={`#${path.id}-home`}><span class="eyebrow">{path.number} / {path.market}</span><span class="direction-title">{path.title}<span aria-hidden="true">↗</span></span></a>)}
+        {homePaths.map(path => <a href={`#${path.id}-home`}><span class="section-label">{path.market}</span><span class="direction-title">{path.title}<span class="link-arrow" aria-hidden="true">↗</span></span></a>)}
         <p>GeM consulting since {business.gemSince}.</p>
       </aside>
     </section>
-    <section id="home-services" class="home-section" aria-labelledby="services-title">
-      <div class="home-section-heading"><p class="eyebrow">Our services</p><h2 id="services-title">Two paths.<br />Support around your needs.</h2></div>
-      <div class="home-paths">{homePaths.map(path => <article id={`${path.id}-home`} class="home-service-card">
-        <p class="eyebrow">{path.number} / {path.market}</p><h3>{path.title}</h3><p class="path-intro">{path.intro}</p>
-        <ul>{path.services.map(service => <li><a href={route.to(`/services/#${service.id}`)}>{service.name}<span aria-hidden="true">↗</span></a><p class="service-summary">{service.summary}</p></li>)}</ul>
-        <a class="home-text-link" href={route.to(`/services/#${path.id}`)}>View {path.title} summaries <span aria-hidden="true">↗</span></a>
-      </article>)}</div>
+    <section data-fade-content id="home-services" class="home-section" aria-labelledby="services-title">
+      <div class="home-section-heading"><p class="section-label">Our services</p><h2 id="services-title">Two paths.<br />Support around your needs.</h2></div>
+      <div class="home-paths">{homePaths.map(path => <HomeSpotlight><article id={`${path.id}-home`} class="home-service-card">
+        <ServiceIcon service={path.id} /><p class="section-label">{path.market}</p><h3>{path.title}</h3><p class="path-intro">{path.intro}</p>
+        <ul>{path.services.map(service => <li><a href={route.to(`/services/#${service.id}`)}>{service.name}<span class="link-arrow" aria-hidden="true">↗</span></a><p class="service-summary">{service.summary}</p></li>)}</ul>
+        <a class="home-text-link" href={route.to(`/services/#${path.id}`)}>View {path.title} summaries <span class="link-arrow" aria-hidden="true">↗</span></a>
+      </article></HomeSpotlight>)}</div>
       <p class="home-candidate">Looking for a role? Recruitment also supports candidates. Email <a href={`mailto:${business.candidateEmail}`}>{business.candidateEmail}</a>.</p>
     </section>
-    <section class="home-approach home-section" aria-labelledby="approach-title">
-      <div><p class="eyebrow">Our working approach</p><h2 id="approach-title">Agreed around<br />your business.</h2></div>
-      <div><p class="lede">We work with clients through mutually agreed approaches to their business needs.</p><p>Our HR work includes reviewing processes and records, coordinating recruitment and supporting payroll inputs. For GeM sellers, our work includes document coordination, bid reviews and portal follow-ups.</p><a class="home-text-link" href={`mailto:${business.email}`}>Discuss your needs by email <span aria-hidden="true">↗</span></a></div>
+    <section data-fade-content class="home-approach home-section" aria-labelledby="approach-title">
+      <div><p class="section-label">Our working approach</p><h2 id="approach-title">Agreed around<br />your business.</h2></div>
+      <div><p class="lede">We work with clients through mutually agreed approaches to their business needs.</p><p>Our HR work includes reviewing processes and records, coordinating recruitment and supporting payroll inputs. For GeM sellers, our work includes document coordination, bid reviews and portal follow-ups.</p><a class="home-text-link" href={`mailto:${business.email}`}>Discuss your needs by email <span class="link-arrow" aria-hidden="true">↗</span></a></div>
     </section>
-    <section class="home-section" aria-labelledby="values-title"><div class="home-section-heading"><p class="eyebrow">What guides us</p><h2 id="values-title">Trust. Quality. Support.</h2></div>
+    <section data-fade-content class="home-section" aria-labelledby="values-title"><div class="home-section-heading"><p class="section-label">What guides us</p><h2 id="values-title">Trust. Quality. Support.</h2></div>
       <div class="home-values"><article><h3>Trust</h3><p>Trust as the foundation of communication and client relationships.</p></article><article><h3>Quality</h3><p>A commitment to quality in the work we do.</p></article><article><h3>Support</h3><p>Back-office support and long-term client relationships.</p></article></div>
     </section>
-    <section class="home-credibility home-section" aria-labelledby="clients-title">
-      <div class="home-section-heading"><p class="eyebrow">Experience & relationships</p><h2 id="clients-title">Working with businesses.<br />Since {business.established}.</h2><p>HR support globally. GeM consulting since {business.gemSince}. Current GeM seller support across India.</p></div>
+    <section data-fade-content class="home-credibility home-section" aria-labelledby="clients-title">
+      <div class="home-section-heading"><p class="section-label">Experience & relationships</p><h2 id="clients-title">Working with businesses.<br />Since {business.established}.</h2><p>HR support globally. GeM consulting since {business.gemSince}. Current GeM seller support across India.</p></div>
       <h3 class="home-client-label">A selection of our clients</h3>
-      <ul class="home-client-grid">{homeClients.map(client => <li class:list={{ 'home-woyc': client.file === 'WOYC' }}><img src={`/images/prototype-clients/${client.file}.webp`} alt={client.name} width="160" height="64" loading="lazy" /></li>)}</ul>
+      <div class="home-client-presentation">
+        <HomeClientLoop clients={clients} client:idle />
+        <ul class="home-client-grid" aria-label="Approved client names and logos">{clients.map(client => <li data-client={client.id}><ClientLogoTile client={client} /></li>)}</ul>
+      </div>
+      <a class="home-text-link" href={route.to('/clients/')}>View all clients <span class="link-arrow" aria-hidden="true">↗</span></a>
     </section>
-    <section class="home-contact home-section" aria-labelledby="contact-title"><div><p class="eyebrow">Start a conversation</p><h2 id="contact-title">Tell us what<br />your business needs.</h2><p>Contact Kanjay Consulting about HR support or GeM seller services.</p></div><div class="home-contact-links"><a href={`tel:${business.phone}`}><span>Call us</span>{business.phoneDisplay}</a><a href={`mailto:${business.email}`}><span>Email us</span>{business.email}</a></div></section>
+    <HomeSpotlight class="home-contact-panel"><section data-fade-content class="home-contact home-section" aria-labelledby="contact-title"><div><h2 id="contact-title">Tell us what<br />your business needs.</h2><p>Contact Kanjay Consulting about HR support or GeM seller services.</p></div><div class="home-contact-links"><a href={`tel:${business.phone}`}><span>Call us</span>{business.phoneDisplay}</a><a href={`mailto:${business.email}`}><span>Email us</span>{business.email}</a></div></section></HomeSpotlight>
   </div>
 </BaseLayout>

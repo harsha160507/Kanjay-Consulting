@@ -1,0 +1,44 @@
+{
+  "callFocus": {
+    "focus": "Call our team ↗",
+    "href": "tel:+918939715152",
+    "magnet": "none",
+    "outline": "2.66667px",
+    "visible": true
+  },
+  "cardFocus": {
+    "cards": [
+      {
+        "background": "rgb(40, 60, 80)",
+        "hiddenLight": "none",
+        "shadow": "none",
+        "transform": "none"
+      },
+      {
+        "background": "rgb(30, 48, 66)",
+        "hiddenLight": "none",
+        "shadow": "none",
+        "transform": "none"
+      },
+      {
+        "background": "rgb(30, 48, 66)",
+        "hiddenLight": "none",
+        "shadow": "none",
+        "transform": "none"
+      }
+    ],
+    "focus": "HR Audit & HR Process Setup↗",
+    "outline": "2.66667px"
+  },
+  "silq": {
+    "background": "rgb(255, 255, 255)",
+    "naturalHeight": 148,
+    "naturalWidth": 412,
+    "panel": "rgb(250, 248, 243)"
+  },
+  "scriptBlockedClientsNavigation": {
+    "current": "Clients",
+    "h1": "Our clientrelationships.",
+    "path": "/theme/dark/clients/"
+  }
+}

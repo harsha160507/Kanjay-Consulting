@@ -1,0 +1,172 @@
+[
+  {
+    "route": "404.html",
+    "sha256": "55c8444f27a360b4d9114c7f9d4bb9d1e455788601a36225bc682beaece82ea6",
+    "changed": false
+  },
+  {
+    "route": "index.html",
+    "sha256": "f607088547114dc0b3fa7bf3f5fc6e02f546d7a6b494fe614459f738f459c775",
+    "changed": false
+  },
+  {
+    "route": "about/index.html",
+    "sha256": "1c6395d13c7aaeefb44f2a73c14ee72af857daf4d2137ecd986738293fb85112",
+    "changed": false
+  },
+  {
+    "route": "clients/index.html",
+    "sha256": "d726d8d4cba69682f47645f8571262ae763a424bed82a1b338bfbdc080f68440",
+    "changed": false
+  },
+  {
+    "route": "contact/index.html",
+    "sha256": "c81be7953933244fc94e03bf26a92df7c2e0e377230df9a7f6b28e1e1d3fffd6",
+    "changed": false
+  },
+  {
+    "route": "cookie-policy/index.html",
+    "sha256": "0e966e864c80618632affa767c4496e9385c11687ab21b05fa21affb1915383c",
+    "changed": true
+  },
+  {
+    "route": "disclaimer/index.html",
+    "sha256": "1df53d8bda13f40c36ec8052544e6b5392374d823be8fe62698e93ae7938c9d0",
+    "changed": false
+  },
+  {
+    "route": "privacy-policy/index.html",
+    "sha256": "a0f23ee7a3112a57422c3bd181efeed27ea9d3621cf4783ee1593f7cf1424081",
+    "changed": false
+  },
+  {
+    "route": "prototype/index.html",
+    "sha256": "1f7761e076033fa824702eb75e8ee3adf6ba7125a184b0ce1be5b942f867a535",
+    "changed": false
+  },
+  {
+    "route": "prototype/static/index.html",
+    "sha256": "c5daad0a7694b157f3352b1022c13e1a7fb093a982b1475288e0fccc2f5cba0b",
+    "changed": false
+  },
+  {
+    "route": "services/index.html",
+    "sha256": "8ee9013c49e7183c90547ab8af382022305d9dfcefdc2beea894cb275c01471c",
+    "changed": false
+  },
+  {
+    "route": "terms-of-use/index.html",
+    "sha256": "38aa14c126eee030a9a9ef0bee263de699a6d3be5676fb9dfc0b355d94cf817e",
+    "changed": false
+  },
+  {
+    "route": "theme/dark/index.html",
+    "sha256": "b2480f8564b90f3b29ad58d0392999ef87ab280621ecb506332a1ba01a800927",
+    "changed": false
+  },
+  {
+    "route": "theme/dark/about/index.html",
+    "sha256": "0c5a7a080172e40dfad386023cae954a8de3ff005eae358815513427ae4a6dcb",
+    "changed": false
+  },
+  {
+    "route": "theme/dark/clients/index.html",
+    "sha256": "a41225b0d37fc2848c2f2751df7b6d9e262a160c79c60ae4c7eba3f3d2ee5489",
+    "changed": false
+  },
+  {
+    "route": "theme/dark/contact/index.html",
+    "sha256": "02bc351d2ff7e9b36e0771defb192d93f30576f5e23e6d9d7329f01e09a2b5cb",
+    "changed": false
+  },
+  {
+    "route": "theme/dark/cookie-policy/index.html",
+    "sha256": "da972cdb75d66797d707060efbee39844e90971825f8e60c1cc4f53ee57e3715",
+    "changed": true
+  },
+  {
+    "route": "theme/dark/disclaimer/index.html",
+    "sha256": "6948617cc02f506c796995b7bf45a6c065cf50cf0a8ce6fb154053a7c48f6596",
+    "changed": false
+  },
+  {
+    "route": "theme/dark/privacy-policy/index.html",
+    "sha256": "9eecbf1b7f23cd4a357fa4c36c8000a6cb2474d829b3376295c493507b22136c",
+    "changed": false
+  },
+  {
+    "route": "theme/dark/prototype/index.html",
+    "sha256": "f37820d1210e0d559b3befd784b053276b74d766ac77bf867b14b382334d7685",
+    "changed": false
+  },
+  {
+    "route": "theme/dark/prototype/static/index.html",
+    "sha256": "d13dfe7a26b60c28166c2ed587adfea87218e60f3648cc31052d02c596ca94d8",
+    "changed": false
+  },
+  {
+    "route": "theme/dark/services/index.html",
+    "sha256": "39af78c96156acc9b524e58d5091a000858ca486329533fb59fe6569cdcd2131",
+    "changed": false
+  },
+  {
+    "route": "theme/dark/terms-of-use/index.html",
+    "sha256": "2b8872d7f196a396a527e837758d246a13f3c20da7b55df810f3fffeb7a14331",
+    "changed": false
+  },
+  {
+    "route": "theme/light/index.html",
+    "sha256": "ab59b3dac3556bf8d8c5a2ce98ac0730b27fe38ab4f651455453765182a3a328",
+    "changed": false
+  },
+  {
+    "route": "theme/light/about/index.html",
+    "sha256": "602f3fa0408c1c5fbf6bb35ab2c6a72e7c851af306b1dc27cb1cfba4754d3bbb",
+    "changed": false
+  },
+  {
+    "route": "theme/light/clients/index.html",
+    "sha256": "2eaf4dfebed579069328165fe7eb8be0d93a30966d2277f0edc00fd23a207ae9",
+    "changed": false
+  },
+  {
+    "route": "theme/light/contact/index.html",
+    "sha256": "833be43b7b2bdbd1148b48b72c0a443a3423c1a2cb9038153f8904b9ad97047f",
+    "changed": false
+  },
+  {
+    "route": "theme/light/cookie-policy/index.html",
+    "sha256": "db0610aa5402cc5b909082199a14e65fd5906759ba3c00cafb9040269e581cbf",
+    "changed": true
+  },
+  {
+    "route": "theme/light/disclaimer/index.html",
+    "sha256": "1b514fef9ed74bebf9765bcc3ac0717dae181f8c7b482f3454b8971937c09c29",
+    "changed": false
+  },
+  {
+    "route": "theme/light/privacy-policy/index.html",
+    "sha256": "94846b22cba2c94e6b1e46d3b29545e44d0f899ba79e721594751b12a791fa06",
+    "changed": false
+  },
+  {
+    "route": "theme/light/prototype/index.html",
+    "sha256": "adee0034a7f456d7e87a7e7e7c652143f43d92bf05e612c9f84ff975dd9fc62a",
+    "changed": false
+  },
+  {
+    "route": "theme/light/prototype/static/index.html",
+    "sha256": "a891514efcaea9ad49ee99113d9fe9392adce98333e99e1e24fb5a4bea9853ed",
+    "changed": false
+  },
+  {
+    "route": "theme/light/services/index.html",
+    "sha256": "c64dbdb7f9a64b65d22dbcd1f8b776b64d92c3c7c000b36d90855fe82ebd15b1",
+    "changed": false
+  },
+  {
+    "route": "theme/light/terms-of-use/index.html",
+    "sha256": "95509d4115bf07a3913e9eb97956fba3cc2ce208ce8c325743600989713e7ba9",
+    "changed": false
+  }
+]

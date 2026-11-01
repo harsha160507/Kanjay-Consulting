@@ -1,0 +1,6 @@
+{
+  "status": 200,
+  "contentSecurityPolicy": "default-src 'self'; script-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; object-src 'none'",
+  "method": "HTTP script-src none blocks all application scripts; browser-wide JavaScript preference not changed",
+  "silqAssetStatus": 200
+}

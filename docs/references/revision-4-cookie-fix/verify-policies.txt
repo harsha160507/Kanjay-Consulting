@@ -1,0 +1,1 @@
+PASS: 34 footers, 12 policy variants, draft/review status, headings/targets and 404 redirect regression guard.

@@ -1,0 +1,548 @@
+[
+  {
+    "fields": [
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      }
+    ],
+    "focusWithin": false,
+    "focused": false,
+    "id": "hr-audit-process-setup",
+    "style": "none",
+    "width": "2.66667px"
+  },
+  {
+    "fields": [
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      }
+    ],
+    "focusWithin": false,
+    "focused": false,
+    "id": "recruitment-talent-acquisition",
+    "style": "none",
+    "width": "2.66667px"
+  },
+  {
+    "fields": [
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      }
+    ],
+    "focusWithin": false,
+    "focused": false,
+    "id": "payroll-statutory-compliance",
+    "style": "none",
+    "width": "2.66667px"
+  },
+  {
+    "fields": [
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      }
+    ],
+    "focusWithin": false,
+    "focused": false,
+    "id": "hr-policies-documentation",
+    "style": "none",
+    "width": "2.66667px"
+  },
+  {
+    "fields": [
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      }
+    ],
+    "focusWithin": false,
+    "focused": false,
+    "id": "pms-kra-kpi",
+    "style": "none",
+    "width": "2.66667px"
+  },
+  {
+    "fields": [
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      }
+    ],
+    "focusWithin": false,
+    "focused": false,
+    "id": "employee-engagement-retention",
+    "style": "none",
+    "width": "2.66667px"
+  },
+  {
+    "fields": [
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      }
+    ],
+    "focusWithin": false,
+    "focused": false,
+    "id": "onboarding-exit-settlement",
+    "style": "none",
+    "width": "2.66667px"
+  },
+  {
+    "fields": [
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      }
+    ],
+    "focusWithin": false,
+    "focused": false,
+    "id": "seller-registration-profile-setup",
+    "style": "none",
+    "width": "2.66667px"
+  },
+  {
+    "fields": [
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      }
+    ],
+    "focusWithin": false,
+    "focused": false,
+    "id": "product-service-catalogue-upload",
+    "style": "none",
+    "width": "2.66667px"
+  },
+  {
+    "fields": [
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      }
+    ],
+    "focusWithin": false,
+    "focused": false,
+    "id": "bid-search-analysis",
+    "style": "none",
+    "width": "2.66667px"
+  },
+  {
+    "fields": [
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      }
+    ],
+    "focusWithin": false,
+    "focused": false,
+    "id": "tender-participation-support",
+    "style": "none",
+    "width": "2.66667px"
+  },
+  {
+    "fields": [
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      }
+    ],
+    "focusWithin": false,
+    "focused": false,
+    "id": "oem-authorization-vendor-assessment",
+    "style": "none",
+    "width": "2.66667px"
+  },
+  {
+    "fields": [
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      }
+    ],
+    "focusWithin": false,
+    "focused": false,
+    "id": "catalogue-approval-rejection-support",
+    "style": "none",
+    "width": "2.66667px"
+  },
+  {
+    "fields": [
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DT"
+      },
+      {
+        "borderStyle": "none",
+        "borderWidth": "0px",
+        "tag": "DD"
+      }
+    ],
+    "focusWithin": false,
+    "focused": false,
+    "id": "order-contract-support",
+    "style": "none",
+    "width": "2.66667px"
+  }
+]

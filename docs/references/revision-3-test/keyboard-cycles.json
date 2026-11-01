@@ -1,0 +1,290 @@
+{
+  "cycles": [
+    {
+      "direction": "next",
+      "focus": "ARTICLE",
+      "group": "hr-support",
+      "id": "recruitment-talent-acquisition",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 2 of 7"
+    },
+    {
+      "direction": "next",
+      "focus": "ARTICLE",
+      "group": "hr-support",
+      "id": "payroll-statutory-compliance",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 3 of 7"
+    },
+    {
+      "direction": "next",
+      "focus": "ARTICLE",
+      "group": "hr-support",
+      "id": "hr-policies-documentation",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 4 of 7"
+    },
+    {
+      "direction": "next",
+      "focus": "ARTICLE",
+      "group": "hr-support",
+      "id": "pms-kra-kpi",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 5 of 7"
+    },
+    {
+      "direction": "next",
+      "focus": "ARTICLE",
+      "group": "hr-support",
+      "id": "employee-engagement-retention",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 6 of 7"
+    },
+    {
+      "direction": "next",
+      "focus": "ARTICLE",
+      "group": "hr-support",
+      "id": "onboarding-exit-settlement",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 7 of 7"
+    },
+    {
+      "direction": "next",
+      "focus": "ARTICLE",
+      "group": "hr-support",
+      "id": "hr-audit-process-setup",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 1 of 7"
+    },
+    {
+      "direction": "previous",
+      "focus": "ARTICLE",
+      "group": "hr-support",
+      "id": "onboarding-exit-settlement",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 7 of 7"
+    },
+    {
+      "direction": "previous",
+      "focus": "ARTICLE",
+      "group": "hr-support",
+      "id": "employee-engagement-retention",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 6 of 7"
+    },
+    {
+      "direction": "previous",
+      "focus": "ARTICLE",
+      "group": "hr-support",
+      "id": "pms-kra-kpi",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 5 of 7"
+    },
+    {
+      "direction": "previous",
+      "focus": "ARTICLE",
+      "group": "hr-support",
+      "id": "hr-policies-documentation",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 4 of 7"
+    },
+    {
+      "direction": "previous",
+      "focus": "ARTICLE",
+      "group": "hr-support",
+      "id": "payroll-statutory-compliance",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 3 of 7"
+    },
+    {
+      "direction": "previous",
+      "focus": "ARTICLE",
+      "group": "hr-support",
+      "id": "recruitment-talent-acquisition",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 2 of 7"
+    },
+    {
+      "direction": "previous",
+      "focus": "ARTICLE",
+      "group": "hr-support",
+      "id": "hr-audit-process-setup",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 1 of 7"
+    },
+    {
+      "direction": "next",
+      "focus": "ARTICLE",
+      "group": "gem-seller-support",
+      "id": "product-service-catalogue-upload",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 2 of 7"
+    },
+    {
+      "direction": "next",
+      "focus": "ARTICLE",
+      "group": "gem-seller-support",
+      "id": "bid-search-analysis",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 3 of 7"
+    },
+    {
+      "direction": "next",
+      "focus": "ARTICLE",
+      "group": "gem-seller-support",
+      "id": "tender-participation-support",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 4 of 7"
+    },
+    {
+      "direction": "next",
+      "focus": "ARTICLE",
+      "group": "gem-seller-support",
+      "id": "oem-authorization-vendor-assessment",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 5 of 7"
+    },
+    {
+      "direction": "next",
+      "focus": "ARTICLE",
+      "group": "gem-seller-support",
+      "id": "catalogue-approval-rejection-support",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 6 of 7"
+    },
+    {
+      "direction": "next",
+      "focus": "ARTICLE",
+      "group": "gem-seller-support",
+      "id": "order-contract-support",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 7 of 7"
+    },
+    {
+      "direction": "next",
+      "focus": "ARTICLE",
+      "group": "gem-seller-support",
+      "id": "seller-registration-profile-setup",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 1 of 7"
+    },
+    {
+      "direction": "previous",
+      "focus": "ARTICLE",
+      "group": "gem-seller-support",
+      "id": "order-contract-support",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 7 of 7"
+    },
+    {
+      "direction": "previous",
+      "focus": "ARTICLE",
+      "group": "gem-seller-support",
+      "id": "catalogue-approval-rejection-support",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 6 of 7"
+    },
+    {
+      "direction": "previous",
+      "focus": "ARTICLE",
+      "group": "gem-seller-support",
+      "id": "oem-authorization-vendor-assessment",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 5 of 7"
+    },
+    {
+      "direction": "previous",
+      "focus": "ARTICLE",
+      "group": "gem-seller-support",
+      "id": "tender-participation-support",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 4 of 7"
+    },
+    {
+      "direction": "previous",
+      "focus": "ARTICLE",
+      "group": "gem-seller-support",
+      "id": "bid-search-analysis",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 3 of 7"
+    },
+    {
+      "direction": "previous",
+      "focus": "ARTICLE",
+      "group": "gem-seller-support",
+      "id": "product-service-catalogue-upload",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 2 of 7"
+    },
+    {
+      "direction": "previous",
+      "focus": "ARTICLE",
+      "group": "gem-seller-support",
+      "id": "seller-registration-profile-setup",
+      "outline": "2px",
+      "outlineStyle": "solid",
+      "position": "Card 1 of 7"
+    }
+  ],
+  "keyboard": [
+    {
+      "focus": "SELECT",
+      "group": "hr-support",
+      "id": "recruitment-talent-acquisition",
+      "kind": "selector ArrowDown",
+      "outline": "2.66667px",
+      "style": "solid"
+    },
+    {
+      "focus": "SUMMARY",
+      "group": "hr-support",
+      "kind": "FAQ Enter",
+      "open": true,
+      "outline": "2.66667px",
+      "style": "solid"
+    },
+    {
+      "focus": "SELECT",
+      "group": "gem-seller-support",
+      "id": "product-service-catalogue-upload",
+      "kind": "selector ArrowDown",
+      "outline": "2.66667px",
+      "style": "solid"
+    },
+    {
+      "focus": "SUMMARY",
+      "group": "gem-seller-support",
+      "kind": "FAQ Enter",
+      "open": true,
+      "outline": "2.66667px",
+      "style": "solid"
+    }
+  ]
+}

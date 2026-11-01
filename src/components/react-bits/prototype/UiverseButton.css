@@ -30,7 +30,7 @@
   background: var(--primary-color);
   height: var(--arrow-stroke);
   position: relative;
-  transition: 0.2s;
+  transition: background-color .18s ease;
 }
 
 .proto-button .arrow::before {
@@ -41,20 +41,20 @@
   border-width: 0 var(--arrow-stroke) var(--arrow-stroke) 0;
   display: inline-block;
   top: -3px;
-  right: 3px;
-  transition: 0.2s;
+  right: 0;
+  transition: background-color .18s ease;
   padding: 3px;
   transform: rotate(-45deg);
 }
 
-.proto-button:hover {
+.proto-button:is(:hover,:focus-visible) {
   background-color: var(--hover-color);
 }
 
-.proto-button:hover .arrow {
+.proto-button:is(:hover,:focus-visible) .arrow {
   background: var(--secondary-color);
 }
 
-.proto-button:hover .arrow:before {
+.proto-button:is(:hover,:focus-visible) .arrow:before {
   right: 0;
 }
